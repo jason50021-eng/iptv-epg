@@ -2,6 +2,8 @@ No free guide source carries these channels (Spectrum News, News 12, Music Choic
 public-access stations, some streaming-only channels, numbered
 Starzplay / ViX / Conmebol slots). They will stay blank.
 
+24/7 OVERHAULING
+24/7 The Secret Lives Of Big Cats
 AL | Dothan | FOX Net
 FL | City | FOX Net Panama
 IA | Ottumwa | FOX Net
@@ -9,9 +11,11 @@ IA | Sioux City | Telemundo KBWF
 ID | Twin Falls | FOX Net
 IN | Lafayette | NBC WSPB
 LA | Charles | FOX Net Lake
+MC Video | Rap 2K - DIRECT
 MD | Minot | FOX Net
 ME | Presque Isle | FOX Net
 MI | Marquette | FOX Net
+MLB Seattle Mariners
 MO | St. Joseph | CBS KCJO-LD
 NC | Wilmington | FOX Net
 NY | Binghampton | FOX Net
@@ -23,6 +27,11 @@ TX | Abilene | FOX Net
 TX | Lubbock | FOX Net
 TX | San Angelo | FOX Net
 TX | Sherman | FOX Net
+US CW 4 (KRON) San Francisco
+US Karaoke (ST)
+US MC Radio | Blues
+US MC Video | Country Hits
+US Root Sports Northwest
 USA (Faith) Hillsong
 USA (Latin) ViX Deportes 1
 USA (Latin) ViX Deportes 10

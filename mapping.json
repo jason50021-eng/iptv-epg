@@ -21,8 +21,8 @@
   "name": "AL | Dothan | CBS WTVY",
   "shift": 0,
   "src": [
-   "S2045",
-   "S2046"
+   "S2047",
+   "S2048"
   ]
  },
  {
@@ -38,8 +38,8 @@
   "name": "AL | Fairbanks | ABC KATN",
   "shift": 0,
   "src": [
-   "S2522",
-   "S2523"
+   "S2534",
+   "S2535"
   ]
  },
  {
@@ -47,7 +47,7 @@
   "name": "AL | Fairbanks | CBS KXDF",
   "shift": 0,
   "src": [
-   "S2535"
+   "S2547"
   ]
  },
  {
@@ -55,8 +55,8 @@
   "name": "AL | Huntsville | CBS WHNT",
   "shift": 0,
   "src": [
-   "S1480",
-   "S1481"
+   "S1481",
+   "S1482"
   ]
  },
  {
@@ -64,8 +64,8 @@
   "name": "AL | Montgomery | ABC 32 WNCF",
   "shift": 0,
   "src": [
-   "S1445",
-   "S1446"
+   "S1446",
+   "S1447"
   ]
  },
  {
@@ -95,6 +95,16 @@
   ]
  },
  {
+  "id": "are-we-there-yet.jm",
+  "name": "Are We There Yet?",
+  "shift": 0,
+  "src": [
+   "S2591",
+   "S2592",
+   "S2593"
+  ]
+ },
+ {
   "id": "ca-bakersfield-nbc-kget.jm",
   "name": "CA | Bakersfield | NBC KGET",
   "shift": 0,
@@ -117,7 +127,7 @@
   "name": "CA | Eureka | CBS KVIQ",
   "shift": 0,
   "src": [
-   "S2547"
+   "S2559"
   ]
  },
  {
@@ -177,7 +187,7 @@
   "name": "CA | Redding | CBS KHSL",
   "shift": 0,
   "src": [
-   "S2533"
+   "S2545"
   ]
  },
  {
@@ -202,7 +212,7 @@
   "name": "CA | Salinas | ABC KSBW-D2",
   "shift": 0,
   "src": [
-   "S2527"
+   "S2539"
   ]
  },
  {
@@ -248,6 +258,14 @@
   ]
  },
  {
+  "id": "cbs-kolr-springfield.jm",
+  "name": "CBS KOLR Springfield",
+  "shift": 0,
+  "src": [
+   "S0993"
+  ]
+ },
+ {
   "id": "co-colorado-springs-cbs-kktv.jm",
   "name": "CO | Colorado Springs | CBS KKTV",
   "shift": 0,
@@ -279,7 +297,7 @@
   "name": "CO | Grand Junction | CBS 5 KREX",
   "shift": 0,
   "src": [
-   "S2534"
+   "S2546"
   ]
  },
  {
@@ -300,11 +318,20 @@
   ]
  },
  {
+  "id": "curiosity-stream.jm",
+  "name": "Curiosity Stream",
+  "shift": 0,
+  "src": [
+   "S1725",
+   "S1726"
+  ]
+ },
+ {
   "id": "telemundowzdc.us",
   "name": "DC | Washington | Telemundo WZDC",
   "shift": 0,
   "src": [
-   "S1739"
+   "S1742"
   ]
  },
  {
@@ -454,8 +481,8 @@
   "name": "GA | Savannah | FOX WTGS",
   "shift": 0,
   "src": [
-   "S1583",
-   "S1584"
+   "S1584",
+   "S1585"
   ]
  },
  {
@@ -483,6 +510,15 @@
   "src": [
    "S1236",
    "S1237"
+  ]
+ },
+ {
+  "id": "hell-s-kitchen.jm",
+  "name": "Hell's Kitchen",
+  "shift": 0,
+  "src": [
+   "S1834",
+   "S1835"
   ]
  },
  {
@@ -543,7 +579,7 @@
   "name": "IA | Sioux City | CBS KPTH-D2",
   "shift": 0,
   "src": [
-   "S2546"
+   "S2558"
   ]
  },
  {
@@ -586,7 +622,7 @@
   "name": "ID | Idaho Falls | Telemundo KIFI",
   "shift": 0,
   "src": [
-   "S1585"
+   "S1586"
   ]
  },
  {
@@ -602,7 +638,7 @@
   "name": "ID | Twin Falls | CBS KMVT",
   "shift": 0,
   "src": [
-   "S2545"
+   "S2557"
   ]
  },
  {
@@ -618,8 +654,8 @@
   "name": "IL |  CBS Champaign | | WCIA",
   "shift": 0,
   "src": [
-   "S1974",
-   "S1975"
+   "S1976",
+   "S1977"
   ]
  },
  {
@@ -755,7 +791,7 @@
   "name": "KS | Pittsburg | CBS KOAM",
   "shift": 0,
   "src": [
-   "S2253"
+   "S2257"
   ]
  },
  {
@@ -849,7 +885,7 @@
   "name": "LA | Lake Charles | CBS KSWL",
   "shift": 0,
   "src": [
-   "S2544"
+   "S2556"
   ]
  },
  {
@@ -874,7 +910,7 @@
   "name": "LO | Monroe | ABC 8 KNOE",
   "shift": 0,
   "src": [
-   "S1793"
+   "S1795"
   ]
  },
  {
@@ -899,6 +935,14 @@
   "shift": 0,
   "src": [
    "S1277"
+  ]
+ },
+ {
+  "id": "maryland-salisbury-fox-wboc.jm",
+  "name": "MARYLAND | Salisbury | Fox WBOC",
+  "shift": 0,
+  "src": [
+   "S2208"
   ]
  },
  {
@@ -930,7 +974,7 @@
   "name": "ME | Presque Isle | NBC WWPI",
   "shift": 0,
   "src": [
-   "S1589"
+   "S1590"
   ]
  },
  {
@@ -938,8 +982,8 @@
   "name": "MI | Lansing | ABC 53 WLAJ",
   "shift": 0,
   "src": [
-   "S1447",
-   "S1448"
+   "S1448",
+   "S1449"
   ]
  },
  {
@@ -1017,7 +1061,7 @@
   "name": "MS | Greenwood | CBS WXVT",
   "shift": 0,
   "src": [
-   "S2550"
+   "S2562"
   ]
  },
  {
@@ -1025,7 +1069,7 @@
   "name": "MS | Laurel | ABC WDAM-D2",
   "shift": 0,
   "src": [
-   "S2526"
+   "S2538"
   ]
  },
  {
@@ -1033,7 +1077,7 @@
   "name": "MS | Laurel | CBS WHLT",
   "shift": 0,
   "src": [
-   "S2543"
+   "S2555"
   ]
  },
  {
@@ -1041,7 +1085,7 @@
   "name": "MS | Laurel | NBC WDAM",
   "shift": 0,
   "src": [
-   "S2278"
+   "S2282"
   ]
  },
  {
@@ -1089,7 +1133,7 @@
   "name": "MT | Missoula | CBS KPAX-D2",
   "shift": 0,
   "src": [
-   "S2542"
+   "S2554"
   ]
  },
  {
@@ -1101,12 +1145,20 @@
   ]
  },
  {
+  "id": "nbc-kytv-springfield.jm",
+  "name": "NBC KYTV Springfield",
+  "shift": 0,
+  "src": [
+   "S1399"
+  ]
+ },
+ {
   "id": "fox46wjzy.us",
   "name": "NC | Belmont | FOX WJZY",
   "shift": 0,
   "src": [
-   "S1399",
-   "S1400"
+   "S1400",
+   "S1401"
   ]
  },
  {
@@ -1114,8 +1166,8 @@
   "name": "NC | Goldsboro | CBS WNCN",
   "shift": 0,
   "src": [
-   "S1401",
-   "S1402"
+   "S1402",
+   "S1403"
   ]
  },
  {
@@ -1132,8 +1184,8 @@
   "name": "NC | Raleigh | CW WLFL",
   "shift": 0,
   "src": [
-   "S1403",
-   "S1404"
+   "S1404",
+   "S1405"
   ]
  },
  {
@@ -1141,8 +1193,8 @@
   "name": "NC | Raleigh | FOX WRAZ",
   "shift": 0,
   "src": [
-   "S1405",
-   "S1406"
+   "S1406",
+   "S1407"
   ]
  },
  {
@@ -1150,7 +1202,7 @@
   "name": "NC | Washington | ABC WCTI",
   "shift": 0,
   "src": [
-   "S2056"
+   "S2058"
   ]
  },
  {
@@ -1225,8 +1277,8 @@
   "name": "NE | Superior | NBC KSNB",
   "shift": 0,
   "src": [
-   "S1407",
-   "S1408"
+   "S1408",
+   "S1409"
   ]
  },
  {
@@ -1277,7 +1329,7 @@
   "name": "NY | Elmira | NBC WETM",
   "shift": 0,
   "src": [
-   "S1409"
+   "S1410"
   ]
  },
  {
@@ -1285,7 +1337,7 @@
   "name": "NY | Plattsburgh | NBC WPTZ",
   "shift": 0,
   "src": [
-   "S1410"
+   "S1411"
   ]
  },
  {
@@ -1293,7 +1345,7 @@
   "name": "NY | Schenectady | CBS WRGB",
   "shift": 0,
   "src": [
-   "S1411"
+   "S1412"
   ]
  },
  {
@@ -1301,7 +1353,7 @@
   "name": "NY | Syracuse | CBS WTVH",
   "shift": 0,
   "src": [
-   "S1412"
+   "S1413"
   ]
  },
  {
@@ -1309,8 +1361,8 @@
   "name": "NY | Utica | NBC WKTV",
   "shift": 0,
   "src": [
-   "S1413",
-   "S1414"
+   "S1414",
+   "S1415"
   ]
  },
  {
@@ -1318,7 +1370,7 @@
   "name": "OH | Lima | CBS WOHL-C2",
   "shift": 0,
   "src": [
-   "S1925"
+   "S1927"
   ]
  },
  {
@@ -1326,7 +1378,7 @@
   "name": "OH | Steubenville | NBC WTOV",
   "shift": 0,
   "src": [
-   "S1415"
+   "S1416"
   ]
  },
  {
@@ -1409,8 +1461,8 @@
   "name": "OR | Fort Klamath | CBS KTVL",
   "shift": 0,
   "src": [
-   "S2548",
-   "S2549"
+   "S2560",
+   "S2561"
   ]
  },
  {
@@ -1418,8 +1470,8 @@
   "name": "OR | Medford | NBC KOBI",
   "shift": 0,
   "src": [
-   "S1416",
-   "S1417"
+   "S1417",
+   "S1418"
   ]
  },
  {
@@ -1427,7 +1479,7 @@
   "name": "OR | Medford | Telemundo KFBI",
   "shift": 0,
   "src": [
-   "S1418"
+   "S1419"
   ]
  },
  {
@@ -1444,7 +1496,7 @@
   "name": "PA | Altoona | CBS WTAJ",
   "shift": 0,
   "src": [
-   "S1857"
+   "S1859"
   ]
  },
  {
@@ -1469,7 +1521,7 @@
   "name": "PA | Johnstown | FOX WWCP",
   "shift": 0,
   "src": [
-   "S1824"
+   "S1826"
   ]
  },
  {
@@ -1477,7 +1529,7 @@
   "name": "PA | Johnstown | NBC WJAC",
   "shift": 0,
   "src": [
-   "S1797"
+   "S1799"
   ]
  },
  {
@@ -1501,7 +1553,7 @@
   "name": "PA | Pittsburgh | CBS WPKD",
   "shift": 0,
   "src": [
-   "S2541"
+   "S2553"
   ]
  },
  {
@@ -1562,7 +1614,7 @@
   "name": "SD | Rapid City | CBS KCLO",
   "shift": 0,
   "src": [
-   "S2536"
+   "S2548"
   ]
  },
  {
@@ -1578,7 +1630,7 @@
   "name": "SD | Sioux Falls | FOX KTTW",
   "shift": 0,
   "src": [
-   "S1419"
+   "S1420"
   ]
  },
  {
@@ -1588,6 +1640,15 @@
   "src": [
    "S1318",
    "S1319"
+  ]
+ },
+ {
+  "id": "tn-va-tri-cities-nbc-wcyb.jm",
+  "name": "TN-VA | Tri-Cities | NBC WCYB",
+  "shift": 0,
+  "src": [
+   "S1137",
+   "S1138"
   ]
  },
  {
@@ -1604,7 +1665,7 @@
   "name": "TX | Austin | UniMas KTFO",
   "shift": 0,
   "src": [
-   "S1420"
+   "S1421"
   ]
  },
  {
@@ -1612,8 +1673,8 @@
   "name": "TX | Beaumont | NBC KBMT",
   "shift": 0,
   "src": [
-   "S1421",
-   "S1422"
+   "S1422",
+   "S1423"
   ]
  },
  {
@@ -1621,7 +1682,7 @@
   "name": "TX | Blanco | UNIMAS KNIC",
   "shift": 0,
   "src": [
-   "S1423"
+   "S1424"
   ]
  },
  {
@@ -1647,8 +1708,8 @@
   "name": "TX | Corpus Christi | NBC KRIS",
   "shift": 0,
   "src": [
-   "S1424",
-   "S1425"
+   "S1425",
+   "S1426"
   ]
  },
  {
@@ -1692,7 +1753,7 @@
   "name": "TX | Harlingen | CBS KGBT",
   "shift": 0,
   "src": [
-   "S1426"
+   "S1427"
   ]
  },
  {
@@ -1709,7 +1770,7 @@
   "name": "TX | Jacksonville | NBC KETK",
   "shift": 0,
   "src": [
-   "S1427"
+   "S1428"
   ]
  },
  {
@@ -1717,7 +1778,7 @@
   "name": "TX | Laredo | ABC KGNS-D2",
   "shift": 0,
   "src": [
-   "S2525"
+   "S2537"
   ]
  },
  {
@@ -1725,7 +1786,7 @@
   "name": "TX | Laredo | CBS KYLX-LD",
   "shift": 0,
   "src": [
-   "S2135"
+   "S2137"
   ]
  },
  {
@@ -1742,7 +1803,7 @@
   "name": "TX | Longview | FOX KFXK",
   "shift": 0,
   "src": [
-   "S1428"
+   "S1429"
   ]
  },
  {
@@ -1766,7 +1827,7 @@
   "name": "TX | San Angelo | CBS KLST",
   "shift": 0,
   "src": [
-   "S2531"
+   "S2543"
   ]
  },
  {
@@ -1774,7 +1835,7 @@
   "name": "TX | San Angelo | NBC KSAN",
   "shift": 0,
   "src": [
-   "S1429"
+   "S1430"
   ]
  },
  {
@@ -1782,8 +1843,8 @@
   "name": "TX | San Antonio | NBC WOAI",
   "shift": 0,
   "src": [
-   "S1430",
-   "S1431"
+   "S1431",
+   "S1432"
   ]
  },
  {
@@ -1791,8 +1852,8 @@
   "name": "TX | Temple | NBC KCEN",
   "shift": 0,
   "src": [
-   "S1432",
-   "S1433"
+   "S1433",
+   "S1434"
   ]
  },
  {
@@ -1800,7 +1861,7 @@
   "name": "TX | Victoria | NBC KMOL",
   "shift": 0,
   "src": [
-   "S1434"
+   "S1435"
   ]
  },
  {
@@ -1813,13 +1874,99 @@
   ]
  },
  {
+  "id": "the-martha-stewart-channel.jm",
+  "name": "The Martha Stewart Channel",
+  "shift": 0,
+  "src": [
+   "S2701",
+   "S2702",
+   "S2703"
+  ]
+ },
+ {
+  "id": "us-abc-3-kota-rapid-city.jm",
+  "name": "US ABC 3 (KOTA) Rapid City",
+  "shift": 0,
+  "src": [
+   "S2399"
+  ]
+ },
+ {
+  "id": "us-cbs-18-wlfi-dt-lafayette.jm",
+  "name": "US CBS 18 WLFI-DT Lafayette",
+  "shift": 0,
+  "src": [
+   "S2142"
+  ]
+ },
+ {
+  "id": "us-cbs-7-wtrf-wheeling.jm",
+  "name": "US CBS 7 (WTRF) Wheeling",
+  "shift": 0,
+  "src": [
+   "S2462"
+  ]
+ },
+ {
+  "id": "us-cw-13-wham-rochester-h.jm",
+  "name": "US CW 13 (WHAM) Rochester (H)",
+  "shift": 0,
+  "src": [
+   "S1814",
+   "S1815"
+  ]
+ },
+ {
+  "id": "us-cw-25-wcww-south-bend-elkhart-area.jm",
+  "name": "US CW 25 (WCWW) South Bend/Elkhart Area",
+  "shift": 0,
+  "src": [
+   "S2418",
+   "S2419"
+  ]
+ },
+ {
+  "id": "us-cw-6-syracuse-wstq-hd-sp.jm",
+  "name": "US CW 6 Syracuse (WSTQ) HD (SP)",
+  "shift": 0,
+  "src": [
+   "S2403",
+   "S2404"
+  ]
+ },
+ {
+  "id": "us-metv-33-wjlp-new-york.jm",
+  "name": "US MeTV 33 (WJLP) New York",
+  "shift": 0,
+  "src": [
+   "S2477"
+  ]
+ },
+ {
+  "id": "us-racer-network.jm",
+  "name": "US Racer Network",
+  "shift": 0,
+  "src": [
+   "S2790",
+   "S2791"
+  ]
+ },
+ {
+  "id": "us-spirit-tv.jm",
+  "name": "US: Spirit TV",
+  "shift": 0,
+  "src": [
+   "S2713"
+  ]
+ },
+ {
   "id": "bet-x-tyler-perry-comedy.jm",
   "name": "USA  BET x Tyler Perry Comedy",
   "shift": 0,
   "src": [
-   "S2506",
-   "S2507",
-   "S2508"
+   "S2518",
+   "S2519",
+   "S2520"
   ]
  },
  {
@@ -1827,9 +1974,9 @@
   "name": "USA  Horror by Alter",
   "shift": 0,
   "src": [
-   "S2705",
-   "S2706",
-   "S2707"
+   "S2723",
+   "S2724",
+   "S2725"
   ]
  },
  {
@@ -1837,7 +1984,7 @@
   "name": "USA (STIRR) Choppertown (D)",
   "shift": 0,
   "src": [
-   "S2057"
+   "S2059"
   ]
  },
  {
@@ -1845,9 +1992,9 @@
   "name": "USA (STIRR) PursuitUp (D)",
   "shift": 0,
   "src": [
-   "S1939",
-   "S1940",
-   "S1941"
+   "S1941",
+   "S1942",
+   "S1943"
   ]
  },
  {
@@ -1855,9 +2002,9 @@
   "name": "USA (STIRR) Revry (D)",
   "shift": 0,
   "src": [
-   "S1942",
-   "S1943",
-   "S1944"
+   "S1944",
+   "S1945",
+   "S1946"
   ]
  },
  {
@@ -1873,7 +2020,7 @@
   "name": "USA 365BLK",
   "shift": 0,
   "src": [
-   "S2643"
+   "S2657"
   ]
  },
  {
@@ -1881,8 +2028,8 @@
   "name": "USA 3abn Dare To Dream",
   "shift": 0,
   "src": [
-   "S2019",
-   "S2020"
+   "S2021",
+   "S2022"
   ]
  },
  {
@@ -1890,8 +2037,8 @@
   "name": "USA 3abn Proclaim",
   "shift": 0,
   "src": [
-   "S2021",
-   "S2022"
+   "S2023",
+   "S2024"
   ]
  },
  {
@@ -1899,9 +2046,9 @@
   "name": "USA 50 Cent Action",
   "shift": 0,
   "src": [
-   "S2583",
-   "S2584",
-   "S2585"
+   "S2597",
+   "S2598",
+   "S2599"
   ]
  },
  {
@@ -1909,7 +2056,7 @@
   "name": "USA 69 News (WFMZ) Philadelphia",
   "shift": 0,
   "src": [
-   "S2332"
+   "S2336"
   ]
  },
  {
@@ -1917,7 +2064,7 @@
   "name": "USA 7 News Boston (WHDH)",
   "shift": 0,
   "src": [
-   "S2382"
+   "S2386"
   ]
  },
  {
@@ -1925,8 +2072,8 @@
   "name": "USA 90s Throwback",
   "shift": 0,
   "src": [
-   "S2778",
-   "S2779"
+   "S2798",
+   "S2799"
   ]
  },
  {
@@ -1934,9 +2081,9 @@
   "name": "USA A&E Crime 360",
   "shift": 0,
   "src": [
-   "S2616",
-   "S2617",
-   "S2618"
+   "S2630",
+   "S2631",
+   "S2632"
   ]
  },
  {
@@ -1962,7 +2109,7 @@
   "name": "USA ABC 10 Albany (WALB-DT2)",
   "shift": 0,
   "src": [
-   "S1435"
+   "S1436"
   ]
  },
  {
@@ -1978,8 +2125,8 @@
   "name": "USA ABC 10 KAKE Wichita",
   "shift": 0,
   "src": [
-   "S1436",
-   "S1437"
+   "S1437",
+   "S1438"
   ]
  },
  {
@@ -2021,7 +2168,7 @@
   "name": "USA ABC 11 WTOK Meridian",
   "shift": 0,
   "src": [
-   "S2147"
+   "S2150"
   ]
  },
  {
@@ -2038,8 +2185,8 @@
   "name": "USA ABC 12 (KTXS) Abilene",
   "shift": 0,
   "src": [
-   "S2117",
-   "S2118"
+   "S2119",
+   "S2120"
   ]
  },
  {
@@ -2047,8 +2194,8 @@
   "name": "USA ABC 12 Beaumont KBMT",
   "shift": 0,
   "src": [
-   "S1421",
-   "S1422"
+   "S1422",
+   "S1423"
   ]
  },
  {
@@ -2056,7 +2203,7 @@
   "name": "USA ABC 12 KODE Joplin",
   "shift": 0,
   "src": [
-   "S2073"
+   "S2075"
   ]
  },
  {
@@ -2073,7 +2220,7 @@
   "name": "USA ABC 12 KTXE SAN ANGELO",
   "shift": 0,
   "src": [
-   "S1709"
+   "S1710"
   ]
  },
  {
@@ -2081,7 +2228,7 @@
   "name": "USA ABC 12 WCTI Greenville",
   "shift": 0,
   "src": [
-   "S2056"
+   "S2058"
   ]
  },
  {
@@ -2107,8 +2254,8 @@
   "name": "USA ABC 13 (WHAM) Rochester",
   "shift": 0,
   "src": [
-   "S1812",
-   "S1813"
+   "S1814",
+   "S1815"
   ]
  },
  {
@@ -2116,7 +2263,7 @@
   "name": "USA ABC 13 (WHSV) Harrisonburg",
   "shift": 0,
   "src": [
-   "S2498"
+   "S2510"
   ]
  },
  {
@@ -2124,8 +2271,8 @@
   "name": "USA ABC 13 (WLOX) Gulfport",
   "shift": 0,
   "src": [
-   "S1654",
-   "S1655"
+   "S1655",
+   "S1656"
   ]
  },
  {
@@ -2133,8 +2280,8 @@
   "name": "USA ABC 13 (WSET) Lynchburg",
   "shift": 0,
   "src": [
-   "S1955",
-   "S1956"
+   "S1957",
+   "S1958"
   ]
  },
  {
@@ -2142,8 +2289,8 @@
   "name": "USA ABC 13 KHGI Kearney",
   "shift": 0,
   "src": [
-   "S2238",
-   "S2239"
+   "S2242",
+   "S2243"
   ]
  },
  {
@@ -2151,8 +2298,8 @@
   "name": "USA ABC 13 KRDO Colorado Springs",
   "shift": 0,
   "src": [
-   "S1877",
-   "S1878"
+   "S1879",
+   "S1880"
   ]
  },
  {
@@ -2160,8 +2307,8 @@
   "name": "USA ABC 13 KSFY Sioux Falls",
   "shift": 0,
   "src": [
-   "S2393",
-   "S2394"
+   "S2397",
+   "S2398"
   ]
  },
  {
@@ -2178,8 +2325,8 @@
   "name": "USA ABC 13 KYUR ANCHORAGE",
   "shift": 0,
   "src": [
-   "S1467",
-   "S1468"
+   "S1468",
+   "S1469"
   ]
  },
  {
@@ -2204,7 +2351,7 @@
   "name": "USA ABC 13 WMBB Panama City",
   "shift": 0,
   "src": [
-   "S1438"
+   "S1439"
   ]
  },
  {
@@ -2212,8 +2359,8 @@
   "name": "USA ABC 13 WTVG TOLEDO",
   "shift": 0,
   "src": [
-   "S1672",
-   "S1673"
+   "S1673",
+   "S1674"
   ]
  },
  {
@@ -2239,8 +2386,8 @@
   "name": "USA ABC 15 (WPDE) Florence",
   "shift": 0,
   "src": [
-   "S1439",
-   "S1440"
+   "S1440",
+   "S1441"
   ]
  },
  {
@@ -2258,8 +2405,8 @@
   "name": "USA ABC 16 (WNEP) Scranton",
   "shift": 0,
   "src": [
-   "S1664",
-   "S1665"
+   "S1665",
+   "S1666"
   ]
  },
  {
@@ -2267,8 +2414,8 @@
   "name": "USA ABC 17 (WTVO) Rockford",
   "shift": 0,
   "src": [
-   "S2002",
-   "S2003"
+   "S2004",
+   "S2005"
   ]
  },
  {
@@ -2302,7 +2449,7 @@
   "name": "USA ABC 2 KTWO CASPER/RIVERTON",
   "shift": 0,
   "src": [
-   "S1950"
+   "S1952"
   ]
  },
  {
@@ -2310,8 +2457,8 @@
   "name": "USA ABC 2 WBAY GREEN BAY",
   "shift": 0,
   "src": [
-   "S1734",
-   "S1735"
+   "S1737",
+   "S1738"
   ]
  },
  {
@@ -2346,8 +2493,8 @@
   "name": "USA ABC 20 (WICS) Springfield",
   "shift": 0,
   "src": [
-   "S1972",
-   "S1973"
+   "S1974",
+   "S1975"
   ]
  },
  {
@@ -2363,8 +2510,8 @@
   "name": "USA ABC 20 WCJB GAINESVILLE",
   "shift": 0,
   "src": [
-   "S1662",
-   "S1663"
+   "S1663",
+   "S1664"
   ]
  },
  {
@@ -2372,7 +2519,7 @@
   "name": "USA ABC 20 WUTR Utica",
   "shift": 0,
   "src": [
-   "S1820"
+   "S1822"
   ]
  },
  {
@@ -2389,7 +2536,7 @@
   "name": "USA ABC 22 WVNY Burlington/Plattsburgh",
   "shift": 0,
   "src": [
-   "S2215"
+   "S2219"
   ]
  },
  {
@@ -2397,7 +2544,7 @@
   "name": "USA ABC 23 (WATM) Johnstown",
   "shift": 0,
   "src": [
-   "S1783"
+   "S1785"
   ]
  },
  {
@@ -2431,8 +2578,8 @@
   "name": "USA ABC 25 Columbia (WOLO)",
   "shift": 0,
   "src": [
-   "S1441",
-   "S1442"
+   "S1442",
+   "S1443"
   ]
  },
  {
@@ -2440,8 +2587,8 @@
   "name": "USA ABC 25 KXXV BRYAN",
   "shift": 0,
   "src": [
-   "S1707",
-   "S1708"
+   "S1708",
+   "S1709"
   ]
  },
  {
@@ -2458,8 +2605,8 @@
   "name": "USA ABC 25 WPBF WEST PALM BEACH/FORT PIERCE",
   "shift": 0,
   "src": [
-   "S1699",
-   "S1700"
+   "S1700",
+   "S1701"
   ]
  },
  {
@@ -2467,8 +2614,8 @@
   "name": "USA ABC 26 (WGNO) New Orleans",
   "shift": 0,
   "src": [
-   "S1762",
-   "S1763"
+   "S1764",
+   "S1765"
   ]
  },
  {
@@ -2476,8 +2623,8 @@
   "name": "USA ABC 27 (WTXL) Tallahassee",
   "shift": 0,
   "src": [
-   "S1443",
-   "S1444"
+   "S1444",
+   "S1445"
   ]
  },
  {
@@ -2502,8 +2649,8 @@
   "name": "USA ABC 28 KAMC LUBBOCK",
   "shift": 0,
   "src": [
-   "S1471",
-   "S1472"
+   "S1472",
+   "S1473"
   ]
  },
  {
@@ -2528,8 +2675,8 @@
   "name": "USA ABC 3 (KATC) Lafayette",
   "shift": 0,
   "src": [
-   "S1781",
-   "S1782"
+   "S1783",
+   "S1784"
   ]
  },
  {
@@ -2537,8 +2684,8 @@
   "name": "USA ABC 3 (KESQ) Palm Springs",
   "shift": 0,
   "src": [
-   "S1771",
-   "S1772"
+   "S1773",
+   "S1774"
   ]
  },
  {
@@ -2546,8 +2693,8 @@
   "name": "USA ABC 3 (KEYT) Santa Barbara",
   "shift": 0,
   "src": [
-   "S1590",
-   "S1591"
+   "S1591",
+   "S1592"
   ]
  },
  {
@@ -2555,8 +2702,8 @@
   "name": "USA ABC 3 KIII Corpus Christi",
   "shift": 0,
   "src": [
-   "S1847",
-   "S1848"
+   "S1849",
+   "S1850"
   ]
  },
  {
@@ -2582,7 +2729,7 @@
   "name": "USA ABC 3 WSIL ILLINOIS",
   "shift": 0,
   "src": [
-   "S1752"
+   "S1755"
   ]
  },
  {
@@ -2615,8 +2762,8 @@
   "name": "USA ABC 31 WAAY HUNTSVILLE",
   "shift": 0,
   "src": [
-   "S1473",
-   "S1474"
+   "S1474",
+   "S1475"
   ]
  },
  {
@@ -2624,8 +2771,8 @@
   "name": "USA ABC 32 WNCF Montgomery",
   "shift": 0,
   "src": [
-   "S1445",
-   "S1446"
+   "S1446",
+   "S1447"
   ]
  },
  {
@@ -2633,7 +2780,7 @@
   "name": "USA ABC 33 (WYTV) Youngstown",
   "shift": 0,
   "src": [
-   "S1879"
+   "S1881"
   ]
  },
  {
@@ -2737,7 +2884,7 @@
   "name": "USA ABC 5 (KECY-DT2) El Centro",
   "shift": 0,
   "src": [
-   "S1595"
+   "S1596"
   ]
  },
  {
@@ -2781,8 +2928,8 @@
   "name": "USA ABC 53 WLAJ Lansing",
   "shift": 0,
   "src": [
-   "S1447",
-   "S1448"
+   "S1448",
+   "S1449"
   ]
  },
  {
@@ -2790,8 +2937,8 @@
   "name": "USA ABC 57 South Bend (WBND)",
   "shift": 0,
   "src": [
-   "S2199",
-   "S2200"
+   "S2202",
+   "S2203"
   ]
  },
  {
@@ -2799,7 +2946,7 @@
   "name": "USA ABC 6 (WLNE) Providence/New Bedford",
   "shift": 0,
   "src": [
-   "S1827"
+   "S1829"
   ]
  },
  {
@@ -2815,8 +2962,8 @@
   "name": "USA ABC 6 WATE KNOXVILLE",
   "shift": 0,
   "src": [
-   "S1669",
-   "S1670"
+   "S1670",
+   "S1671"
   ]
  },
  {
@@ -2824,8 +2971,8 @@
   "name": "USA ABC 6 WJBF AUGUSTA",
   "shift": 0,
   "src": [
-   "S1476",
-   "S1477"
+   "S1477",
+   "S1478"
   ]
  },
  {
@@ -2859,7 +3006,7 @@
   "name": "USA ABC 68 WBMA BIRMINGHAM",
   "shift": 0,
   "src": [
-   "S1976"
+   "S1978"
   ]
  },
  {
@@ -2867,7 +3014,7 @@
   "name": "USA ABC 7 (KHQA) Quincy",
   "shift": 0,
   "src": [
-   "S2497"
+   "S2509"
   ]
  },
  {
@@ -2875,7 +3022,7 @@
   "name": "USA ABC 7 (KLTV) Longview",
   "shift": 0,
   "src": [
-   "S1802"
+   "S1804"
   ]
  },
  {
@@ -2883,7 +3030,7 @@
   "name": "USA ABC 7 (KRCR) Chico/Redding",
   "shift": 0,
   "src": [
-   "S2416"
+   "S2427"
   ]
  },
  {
@@ -2891,7 +3038,7 @@
   "name": "USA ABC 7 (WBBJ) Jackson",
   "shift": 0,
   "src": [
-   "S2331"
+   "S2335"
   ]
  },
  {
@@ -2899,8 +3046,8 @@
   "name": "USA ABC 7 (WWSB) Sarasota",
   "shift": 0,
   "src": [
-   "S1449",
-   "S1450"
+   "S1450",
+   "S1451"
   ]
  },
  {
@@ -2917,8 +3064,8 @@
   "name": "USA ABC 7 KATV Little Rock",
   "shift": 0,
   "src": [
-   "S2025",
-   "S2026"
+   "S2027",
+   "S2028"
   ]
  },
  {
@@ -2953,8 +3100,8 @@
   "name": "USA ABC 7 KVII Amarillo",
   "shift": 0,
   "src": [
-   "S1934",
-   "S1935"
+   "S1936",
+   "S1937"
   ]
  },
  {
@@ -2962,8 +3109,8 @@
   "name": "USA ABC 7 San Francisco (KGO)",
   "shift": 0,
   "src": [
-   "S1463",
-   "S1464"
+   "S1464",
+   "S1465"
   ]
  },
  {
@@ -3025,8 +3172,8 @@
   "name": "USA ABC 8 KOLO Reno",
   "shift": 0,
   "src": [
-   "S2309",
-   "S2310"
+   "S2313",
+   "S2314"
   ]
  },
  {
@@ -3034,8 +3181,8 @@
   "name": "USA ABC 8 KTUL TULSA",
   "shift": 0,
   "src": [
-   "S1747",
-   "S1748"
+   "S1750",
+   "S1751"
   ]
  },
  {
@@ -3061,7 +3208,7 @@
   "name": "USA ABC 8 WMTW Maine",
   "shift": 0,
   "src": [
-   "S1798"
+   "S1800"
   ]
  },
  {
@@ -3069,8 +3216,8 @@
   "name": "USA ABC 8 WQAD DAVENPORT/ROCK ISLAND",
   "shift": 0,
   "src": [
-   "S1710",
-   "S1711"
+   "S1711",
+   "S1712"
   ]
  },
  {
@@ -3086,8 +3233,8 @@
   "name": "USA ABC 8 WTNH NEW HAVEN",
   "shift": 0,
   "src": [
-   "S1674",
-   "S1675"
+   "S1675",
+   "S1676"
   ]
  },
  {
@@ -3104,8 +3251,8 @@
   "name": "USA ABC 9 KGUN Tucson",
   "shift": 0,
   "src": [
-   "S1825",
-   "S1826"
+   "S1827",
+   "S1828"
   ]
  },
  {
@@ -3149,8 +3296,8 @@
   "name": "USA ABC 9 WSOC CHARLOTTE",
   "shift": 0,
   "src": [
-   "S1736",
-   "S1737"
+   "S1739",
+   "S1740"
   ]
  },
  {
@@ -3176,8 +3323,8 @@
   "name": "USA ABC 9 WTVC Chattanooga",
   "shift": 0,
   "src": [
-   "S1526",
-   "S1527"
+   "S1527",
+   "S1528"
   ]
  },
  {
@@ -3185,8 +3332,8 @@
   "name": "USA ABC 9 WTVM Columbus",
   "shift": 0,
   "src": [
-   "S1993",
-   "S1994"
+   "S1995",
+   "S1996"
   ]
  },
  {
@@ -3230,9 +3377,9 @@
   "name": "USA ABC East (Miami)",
   "shift": 0,
   "src": [
-   "S1451",
    "S1452",
-   "S1453"
+   "S1453",
+   "S1454"
   ]
  },
  {
@@ -3249,7 +3396,7 @@
   "name": "USA ABC Juneau KJUD",
   "shift": 0,
   "src": [
-   "S2010"
+   "S2012"
   ]
  },
  {
@@ -3275,8 +3422,8 @@
   "name": "USA ABC Louisville WHAS",
   "shift": 0,
   "src": [
-   "S1454",
-   "S1455"
+   "S1455",
+   "S1456"
   ]
  },
  {
@@ -3284,8 +3431,8 @@
   "name": "USA ABC Nashville WKRN",
   "shift": 0,
   "src": [
-   "S1456",
-   "S1457"
+   "S1457",
+   "S1458"
   ]
  },
  {
@@ -3293,9 +3440,9 @@
   "name": "USA ABC News Live",
   "shift": 0,
   "src": [
-   "S1458",
    "S1459",
-   "S1460"
+   "S1460",
+   "S1461"
   ]
  },
  {
@@ -3303,8 +3450,8 @@
   "name": "USA ABC Sacramento KXTV",
   "shift": 0,
   "src": [
-   "S1461",
-   "S1462"
+   "S1462",
+   "S1463"
   ]
  },
  {
@@ -3330,7 +3477,7 @@
   "name": "USA ABC WOAY Oak Hill",
   "shift": 0,
   "src": [
-   "S2302"
+   "S2306"
   ]
  },
  {
@@ -3338,8 +3485,8 @@
   "name": "USA ABC13 (KTNV) Las Vegas",
   "shift": 0,
   "src": [
-   "S1465",
-   "S1466"
+   "S1466",
+   "S1467"
   ]
  },
  {
@@ -3347,8 +3494,8 @@
   "name": "USA ABC13 (KYUR) Anchorage",
   "shift": 0,
   "src": [
-   "S1467",
-   "S1468"
+   "S1468",
+   "S1469"
   ]
  },
  {
@@ -3356,8 +3503,8 @@
   "name": "USA ABC13 (WLOS) Asheville",
   "shift": 0,
   "src": [
-   "S1469",
-   "S1470"
+   "S1470",
+   "S1471"
   ]
  },
  {
@@ -3392,7 +3539,7 @@
   "name": "USA ABC23 KTMF Missoula",
   "shift": 0,
   "src": [
-   "S1904"
+   "S1906"
   ]
  },
  {
@@ -3417,8 +3564,8 @@
   "name": "USA ABC28 (KAMC) Lubbock",
   "shift": 0,
   "src": [
-   "S1471",
-   "S1472"
+   "S1472",
+   "S1473"
   ]
  },
  {
@@ -3435,7 +3582,7 @@
   "name": "USA ABC3 (WSIL) Illinois",
   "shift": 0,
   "src": [
-   "S1752"
+   "S1755"
   ]
  },
  {
@@ -3443,8 +3590,8 @@
   "name": "USA ABC31 (WAAY) Huntsville",
   "shift": 0,
   "src": [
-   "S1473",
-   "S1474"
+   "S1474",
+   "S1475"
   ]
  },
  {
@@ -3485,7 +3632,7 @@
   "name": "USA ABC40/29 (KHOG) Fort Smith",
   "shift": 0,
   "src": [
-   "S1475"
+   "S1476"
   ]
  },
  {
@@ -3511,8 +3658,8 @@
   "name": "USA ABC6 (WJBF) Augusta",
   "shift": 0,
   "src": [
-   "S1476",
-   "S1477"
+   "S1477",
+   "S1478"
   ]
  },
  {
@@ -3582,9 +3729,9 @@
   "name": "USA ALLBLK Gems",
   "shift": 0,
   "src": [
-   "S2457",
-   "S2458",
-   "S2459"
+   "S2468",
+   "S2469",
+   "S2470"
   ]
  },
  {
@@ -3592,8 +3739,8 @@
   "name": "USA ALTITUDE SPORTS",
   "shift": 0,
   "src": [
-   "S1754",
-   "S1755"
+   "S1757",
+   "S1758"
   ]
  },
  {
@@ -3611,9 +3758,9 @@
   "name": "USA AMC +",
   "shift": 0,
   "src": [
-   "S2167",
-   "S2168",
-   "S2169"
+   "S2170",
+   "S2171",
+   "S2172"
   ]
  },
  {
@@ -3621,9 +3768,9 @@
   "name": "USA AMC Thrillers",
   "shift": 0,
   "src": [
-   "S2140",
-   "S2141",
-   "S2142"
+   "S2143",
+   "S2144",
+   "S2145"
   ]
  },
  {
@@ -3631,8 +3778,8 @@
   "name": "USA AMC West",
   "shift": 0,
   "src": [
-   "S2303",
-   "S2304"
+   "S2307",
+   "S2308"
   ]
  },
  {
@@ -3640,7 +3787,7 @@
   "name": "USA ARIZONA'S FAMILY 3 KTVK",
   "shift": 0,
   "src": [
-   "S2369"
+   "S2373"
   ]
  },
  {
@@ -3648,7 +3795,7 @@
   "name": "USA AWE",
   "shift": 0,
   "src": [
-   "S2339"
+   "S2343"
   ]
  },
  {
@@ -3676,7 +3823,7 @@
   "name": "USA Afro",
   "shift": 0,
   "src": [
-   "S1856"
+   "S1858"
   ]
  },
  {
@@ -3684,9 +3831,9 @@
   "name": "USA American Crimes",
   "shift": 0,
   "src": [
-   "S2630",
-   "S2631",
-   "S2632"
+   "S2644",
+   "S2645",
+   "S2646"
   ]
  },
  {
@@ -3704,7 +3851,7 @@
   "name": "USA Angels Broadcast Television (ABTV)",
   "shift": 0,
   "src": [
-   "S2350"
+   "S2354"
   ]
  },
  {
@@ -3731,7 +3878,7 @@
   "name": "USA Antenna",
   "shift": 0,
   "src": [
-   "S2441"
+   "S2452"
   ]
  },
  {
@@ -3739,7 +3886,7 @@
   "name": "USA Arizona Diamondbacks",
   "shift": 0,
   "src": [
-   "S2781"
+   "S2801"
   ]
  },
  {
@@ -3756,8 +3903,8 @@
   "name": "USA At the Movies",
   "shift": 0,
   "src": [
-   "S2638",
-   "S2639"
+   "S2652",
+   "S2653"
   ]
  },
  {
@@ -3765,9 +3912,9 @@
   "name": "USA BBC America HD",
   "shift": 0,
   "src": [
-   "S2091",
-   "S2092",
-   "S2093"
+   "S2093",
+   "S2094",
+   "S2095"
   ]
  },
  {
@@ -3775,8 +3922,8 @@
   "name": "USA BET Classics",
   "shift": 0,
   "src": [
-   "S2762",
-   "S2763"
+   "S2780",
+   "S2781"
   ]
  },
  {
@@ -3794,9 +3941,9 @@
   "name": "USA BET Gospel",
   "shift": 0,
   "src": [
-   "S2413",
-   "S2414",
-   "S2415"
+   "S2422",
+   "S2423",
+   "S2424"
   ]
  },
  {
@@ -3844,8 +3991,8 @@
   "name": "USA BET Throwbacks",
   "shift": 0,
   "src": [
-   "S2764",
-   "S2765"
+   "S2782",
+   "S2783"
   ]
  },
  {
@@ -3853,8 +4000,8 @@
   "name": "USA BET Visionaries",
   "shift": 0,
   "src": [
-   "S2766",
-   "S2767"
+   "S2784",
+   "S2785"
   ]
  },
  {
@@ -3871,9 +4018,9 @@
   "name": "USA BET x Tyler Perry Drama",
   "shift": 0,
   "src": [
-   "S2562",
-   "S2563",
-   "S2564"
+   "S2574",
+   "S2575",
+   "S2576"
   ]
  },
  {
@@ -3881,9 +4028,9 @@
   "name": "USA BOUNCE TV*",
   "shift": 0,
   "src": [
-   "S2035",
-   "S2036",
-   "S2037"
+   "S2037",
+   "S2038",
+   "S2039"
   ]
  },
  {
@@ -3891,9 +4038,9 @@
   "name": "USA BYUtv",
   "shift": 0,
   "src": [
-   "S1967",
-   "S1968",
-   "S1969"
+   "S1969",
+   "S1970",
+   "S1971"
   ]
  },
  {
@@ -3958,9 +4105,9 @@
   "name": "USA Bein Sports Xtra",
   "shift": 0,
   "src": [
-   "S1951",
-   "S1952",
-   "S1953"
+   "S1953",
+   "S1954",
+   "S1955"
   ]
  },
  {
@@ -3988,9 +4135,9 @@
   "name": "USA Billiard TV",
   "shift": 0,
   "src": [
-   "S1980",
-   "S1981",
-   "S1982"
+   "S1982",
+   "S1983",
+   "S1984"
   ]
  },
  {
@@ -3998,8 +4145,8 @@
   "name": "USA BlackPix",
   "shift": 0,
   "src": [
-   "S2595",
-   "S2596"
+   "S2609",
+   "S2610"
   ]
  },
  {
@@ -4007,7 +4154,7 @@
   "name": "USA Blaze TV",
   "shift": 0,
   "src": [
-   "S2368"
+   "S2372"
   ]
  },
  {
@@ -4015,9 +4162,9 @@
   "name": "USA Bloomberg",
   "shift": 0,
   "src": [
-   "S2102",
-   "S2103",
-   "S2104"
+   "S2104",
+   "S2105",
+   "S2106"
   ]
  },
  {
@@ -4035,9 +4182,9 @@
   "name": "USA Bounce XL*",
   "shift": 0,
   "src": [
-   "S2131",
-   "S2132",
-   "S2133"
+   "S2133",
+   "S2134",
+   "S2135"
   ]
  },
  {
@@ -4045,8 +4192,8 @@
   "name": "USA Bowling TV",
   "shift": 0,
   "src": [
-   "S2744",
-   "S2745"
+   "S2762",
+   "S2763"
   ]
  },
  {
@@ -4103,8 +4250,8 @@
   "name": "USA C-SPAN 3",
   "shift": 0,
   "src": [
-   "S2260",
-   "S2261"
+   "S2264",
+   "S2265"
   ]
  },
  {
@@ -4112,7 +4259,7 @@
   "name": "USA CBN",
   "shift": 0,
   "src": [
-   "S2128"
+   "S2130"
   ]
  },
  {
@@ -4129,7 +4276,7 @@
   "name": "USA CBS (WBOC) Salisbury",
   "shift": 0,
   "src": [
-   "S2579"
+   "S2208"
   ]
  },
  {
@@ -4137,8 +4284,8 @@
   "name": "USA CBS (WTVR) Richmond",
   "shift": 0,
   "src": [
-   "S2287",
-   "S2288"
+   "S2291",
+   "S2292"
   ]
  },
  {
@@ -4146,8 +4293,8 @@
   "name": "USA CBS 10 KFDA Amarillo",
   "shift": 0,
   "src": [
-   "S1858",
-   "S1859"
+   "S1860",
+   "S1861"
   ]
  },
  {
@@ -4207,7 +4354,7 @@
   "name": "USA CBS 10 WTAJ ALTOONA",
   "shift": 0,
   "src": [
-   "S1857"
+   "S1859"
   ]
  },
  {
@@ -4215,7 +4362,7 @@
   "name": "USA CBS 10 WTHI Terre Haute",
   "shift": 0,
   "src": [
-   "S2146"
+   "S2149"
   ]
  },
  {
@@ -4223,7 +4370,7 @@
   "name": "USA CBS 10/55 WLNY RIVERHEAD NY",
   "shift": 0,
   "src": [
-   "S1723"
+   "S1724"
   ]
  },
  {
@@ -4312,8 +4459,8 @@
   "name": "USA CBS 12 (KXII) Sherman",
   "shift": 0,
   "src": [
-   "S2379",
-   "S2380"
+   "S2383",
+   "S2384"
   ]
  },
  {
@@ -4321,7 +4468,7 @@
   "name": "USA CBS 12 (WBNG) Binghamton",
   "shift": 0,
   "src": [
-   "S2290"
+   "S2294"
   ]
  },
  {
@@ -4381,8 +4528,8 @@
   "name": "USA CBS 12 WJTV JACKSON",
   "shift": 0,
   "src": [
-   "S1495",
-   "S1496"
+   "S1496",
+   "S1497"
   ]
  },
  {
@@ -4426,7 +4573,7 @@
   "name": "USA CBS 13 (KXMC) Minot",
   "shift": 0,
   "src": [
-   "S2289"
+   "S2293"
   ]
  },
  {
@@ -4434,7 +4581,7 @@
   "name": "USA CBS 13 (WBTW) Florence",
   "shift": 0,
   "src": [
-   "S1478"
+   "S1479"
   ]
  },
  {
@@ -4485,7 +4632,7 @@
   "name": "USA CBS 13 KRCG JEFFERSON CITY",
   "shift": 0,
   "src": [
-   "S1753"
+   "S1756"
   ]
  },
  {
@@ -4502,8 +4649,8 @@
   "name": "USA CBS 13 KVAL EUGENE",
   "shift": 0,
   "src": [
-   "S2694",
-   "S2695"
+   "S2711",
+   "S2712"
   ]
  },
  {
@@ -4511,7 +4658,7 @@
   "name": "USA CBS 13 WBTW FLORENCE",
   "shift": 0,
   "src": [
-   "S1478"
+   "S1479"
   ]
  },
  {
@@ -4561,8 +4708,8 @@
   "name": "USA CBS 17 WNCN RALEIGH/DURHAM",
   "shift": 0,
   "src": [
-   "S1401",
-   "S1402"
+   "S1402",
+   "S1403"
   ]
  },
  {
@@ -4570,7 +4717,7 @@
   "name": "USA CBS 18 WECP Panama City",
   "shift": 0,
   "src": [
-   "S1479"
+   "S1480"
   ]
  },
  {
@@ -4612,8 +4759,8 @@
   "name": "USA CBS 19 WHNT Huntsville",
   "shift": 0,
   "src": [
-   "S1480",
-   "S1481"
+   "S1481",
+   "S1482"
   ]
  },
  {
@@ -4639,7 +4786,7 @@
   "name": "USA CBS 2 (KPSP) Palm Springs",
   "shift": 0,
   "src": [
-   "S2299"
+   "S2303"
   ]
  },
  {
@@ -4745,8 +4892,8 @@
   "name": "USA CBS 22 South Bend (WSBT)",
   "shift": 0,
   "src": [
-   "S1482",
-   "S1483"
+   "S1483",
+   "S1484"
   ]
  },
  {
@@ -4763,8 +4910,8 @@
   "name": "USA CBS 23 (WIFR-LD) Rockford",
   "shift": 0,
   "src": [
-   "S2012",
-   "S2013"
+   "S2014",
+   "S2015"
   ]
  },
  {
@@ -4772,7 +4919,7 @@
   "name": "USA CBS 24 (WMDN) Meridian",
   "shift": 0,
   "src": [
-   "S2515"
+   "S2527"
   ]
  },
  {
@@ -4815,7 +4962,7 @@
   "name": "USA CBS 3 (KIMT) Rochester",
   "shift": 0,
   "src": [
-   "S2400"
+   "S2407"
   ]
  },
  {
@@ -4823,8 +4970,8 @@
   "name": "USA CBS 3 (WRBL) Columbus",
   "shift": 0,
   "src": [
-   "S2112",
-   "S2113"
+   "S2114",
+   "S2115"
   ]
  },
  {
@@ -4840,8 +4987,8 @@
   "name": "USA CBS 3 (WTKR) Hampton Roads",
   "shift": 0,
   "src": [
-   "S1983",
-   "S1984"
+   "S1985",
+   "S1986"
   ]
  },
  {
@@ -4849,8 +4996,8 @@
   "name": "USA CBS 3 KBTX BRYAN",
   "shift": 0,
   "src": [
-   "S1499",
-   "S1500"
+   "S1500",
+   "S1501"
   ]
  },
  {
@@ -4911,8 +5058,8 @@
   "name": "USA CBS 3 WREG Memphis",
   "shift": 0,
   "src": [
-   "S2040",
-   "S2041"
+   "S2042",
+   "S2043"
   ]
  },
  {
@@ -4987,8 +5134,8 @@
   "name": "USA CBS 35 WSEE Erie",
   "shift": 0,
   "src": [
-   "S2053",
-   "S2054"
+   "S2055",
+   "S2056"
   ]
  },
  {
@@ -4996,7 +5143,7 @@
   "name": "USA CBS 36 WENY Elmira",
   "shift": 0,
   "src": [
-   "S1918"
+   "S1920"
   ]
  },
  {
@@ -5004,7 +5151,7 @@
   "name": "USA CBS 39 (KJNB) Jonesboro",
   "shift": 0,
   "src": [
-   "S2438"
+   "S2449"
   ]
  },
  {
@@ -5012,7 +5159,7 @@
   "name": "USA CBS 4 (KXLF) Butte-Bozeman",
   "shift": 0,
   "src": [
-   "S2321"
+   "S2325"
   ]
  },
  {
@@ -5038,7 +5185,7 @@
   "name": "USA CBS 4 KGBT HARLINGEN",
   "shift": 0,
   "src": [
-   "S1426"
+   "S1427"
   ]
  },
  {
@@ -5090,8 +5237,8 @@
   "name": "USA CBS 4 WGFL GAINESVILLE",
   "shift": 0,
   "src": [
-   "S1501",
-   "S1502"
+   "S1502",
+   "S1503"
   ]
  },
  {
@@ -5117,8 +5264,8 @@
   "name": "USA CBS 4 WTVY Dothan",
   "shift": 0,
   "src": [
-   "S2045",
-   "S2046"
+   "S2047",
+   "S2048"
   ]
  },
  {
@@ -5180,7 +5327,7 @@
   "name": "USA CBS 5 (KFSM) Fort Smith",
   "shift": 0,
   "src": [
-   "S2409"
+   "S2416"
   ]
  },
  {
@@ -5233,7 +5380,7 @@
   "name": "USA CBS 5 WABI BANGOR",
   "shift": 0,
   "src": [
-   "S1698"
+   "S1699"
   ]
  },
  {
@@ -5259,8 +5406,8 @@
   "name": "USA CBS 5 WKRG MOBILE",
   "shift": 0,
   "src": [
-   "S1678",
-   "S1679"
+   "S1679",
+   "S1680"
   ]
  },
  {
@@ -5268,8 +5415,8 @@
   "name": "USA CBS 5 WNEM Bay City",
   "shift": 0,
   "src": [
-   "S1484",
-   "S1485"
+   "S1485",
+   "S1486"
   ]
  },
  {
@@ -5286,7 +5433,7 @@
   "name": "USA CBS 5 WTVH Syracuse",
   "shift": 0,
   "src": [
-   "S1412"
+   "S1413"
   ]
  },
  {
@@ -5294,8 +5441,8 @@
   "name": "USA CBS 57 (WYMT-DT) Hazard",
   "shift": 0,
   "src": [
-   "S1814",
-   "S1815"
+   "S1816",
+   "S1817"
   ]
  },
  {
@@ -5312,7 +5459,7 @@
   "name": "USA CBS 59 WVNS Bluefield",
   "shift": 0,
   "src": [
-   "S2735"
+   "S2753"
   ]
  },
  {
@@ -5320,7 +5467,7 @@
   "name": "USA CBS 6 (KAUZ) Wichita Falls",
   "shift": 0,
   "src": [
-   "S2096"
+   "S2098"
   ]
  },
  {
@@ -5328,8 +5475,8 @@
   "name": "USA CBS 6 (WCTV) Tallahassee",
   "shift": 0,
   "src": [
-   "S1486",
-   "S1487"
+   "S1487",
+   "S1488"
   ]
  },
  {
@@ -5337,8 +5484,8 @@
   "name": "USA CBS 6 KFDM Beaumont",
   "shift": 0,
   "src": [
-   "S2285",
-   "S2286"
+   "S2289",
+   "S2290"
   ]
  },
  {
@@ -5400,7 +5547,7 @@
   "name": "USA CBS 6 WRGB ALBANY",
   "shift": 0,
   "src": [
-   "S1411"
+   "S1412"
   ]
  },
  {
@@ -5417,7 +5564,7 @@
   "name": "USA CBS 7 (KOAM) Joplin",
   "shift": 0,
   "src": [
-   "S2253"
+   "S2257"
   ]
  },
  {
@@ -5425,7 +5572,7 @@
   "name": "USA CBS 7 (KOSA) Odessa/Midland",
   "shift": 0,
   "src": [
-   "S2281"
+   "S2285"
   ]
  },
  {
@@ -5442,7 +5589,7 @@
   "name": "USA CBS 7 (WWNY) Watertown",
   "shift": 0,
   "src": [
-   "S2576"
+   "S2588"
   ]
  },
  {
@@ -5450,7 +5597,7 @@
   "name": "USA CBS 7 Jackson Tennessee WBBJ",
   "shift": 0,
   "src": [
-   "S2331"
+   "S2335"
   ]
  },
  {
@@ -5485,8 +5632,8 @@
   "name": "USA CBS 7 WSAW Wausau",
   "shift": 0,
   "src": [
-   "S2212",
-   "S2213"
+   "S2216",
+   "S2217"
   ]
  },
  {
@@ -5503,7 +5650,7 @@
   "name": "USA CBS 8 (KNOE) Monroe El Dorado",
   "shift": 0,
   "src": [
-   "S1793"
+   "S1795"
   ]
  },
  {
@@ -5696,9 +5843,9 @@
   "name": "USA CBS East SD",
   "shift": 0,
   "src": [
-   "S1488",
    "S1489",
-   "S1490"
+   "S1490",
+   "S1491"
   ]
  },
  {
@@ -5706,8 +5853,8 @@
   "name": "USA CBS Indianapolis WTTV",
   "shift": 0,
   "src": [
-   "S1491",
-   "S1492"
+   "S1492",
+   "S1493"
   ]
  },
  {
@@ -5744,8 +5891,8 @@
   "name": "USA CBS News Philadelphia",
   "shift": 0,
   "src": [
-   "S2230",
-   "S2231"
+   "S2234",
+   "S2235"
   ]
  },
  {
@@ -5771,9 +5918,9 @@
   "name": "USA CBS SPORTS HQ",
   "shift": 0,
   "src": [
-   "S2663",
-   "S2664",
-   "S2665"
+   "S2677",
+   "S2678",
+   "S2679"
   ]
  },
  {
@@ -5808,9 +5955,9 @@
   "name": "USA CBS Sports Golazo Network",
   "shift": 0,
   "src": [
-   "S2334",
-   "S2335",
-   "S2336"
+   "S2338",
+   "S2339",
+   "S2340"
   ]
  },
  {
@@ -5828,8 +5975,8 @@
   "name": "USA CBS Tampa WTSP",
   "shift": 0,
   "src": [
-   "S1493",
-   "S1494"
+   "S1494",
+   "S1495"
   ]
  },
  {
@@ -5846,8 +5993,8 @@
   "name": "USA CBS WJTV Jackson",
   "shift": 0,
   "src": [
-   "S1495",
-   "S1496"
+   "S1496",
+   "S1497"
   ]
  },
  {
@@ -5873,8 +6020,8 @@
   "name": "USA CBS13 (KLBK) Lubbock",
   "shift": 0,
   "src": [
-   "S1497",
-   "S1498"
+   "S1498",
+   "S1499"
   ]
  },
  {
@@ -5882,8 +6029,8 @@
   "name": "USA CBS3 (KBTX) Bryan",
   "shift": 0,
   "src": [
-   "S1499",
-   "S1500"
+   "S1500",
+   "S1501"
   ]
  },
  {
@@ -5891,8 +6038,8 @@
   "name": "USA CBS4 (WGFL) Gainesville",
   "shift": 0,
   "src": [
-   "S1501",
-   "S1502"
+   "S1502",
+   "S1503"
   ]
  },
  {
@@ -5900,9 +6047,9 @@
   "name": "USA CBSN Bay Area",
   "shift": 0,
   "src": [
-   "S2226",
-   "S2227",
-   "S2228"
+   "S2230",
+   "S2231",
+   "S2232"
   ]
  },
  {
@@ -5920,9 +6067,9 @@
   "name": "USA CBSN Chicago",
   "shift": 0,
   "src": [
-   "S2223",
-   "S2224",
-   "S2225"
+   "S2227",
+   "S2228",
+   "S2229"
   ]
  },
  {
@@ -5930,9 +6077,9 @@
   "name": "USA CBSN Los Angeles",
   "shift": 0,
   "src": [
-   "S1651",
    "S1652",
-   "S1653"
+   "S1653",
+   "S1654"
   ]
  },
  {
@@ -5959,8 +6106,8 @@
   "name": "USA CBSN Pittsburgh",
   "shift": 0,
   "src": [
-   "S2221",
-   "S2222"
+   "S2225",
+   "S2226"
   ]
  },
  {
@@ -5977,9 +6124,9 @@
   "name": "USA CHEDDAR NEWS",
   "shift": 0,
   "src": [
-   "S2099",
-   "S2100",
-   "S2101"
+   "S2101",
+   "S2102",
+   "S2103"
   ]
  },
  {
@@ -6007,8 +6154,8 @@
   "name": "USA CINEVAULT",
   "shift": 0,
   "src": [
-   "S2510",
-   "S2511"
+   "S2522",
+   "S2523"
   ]
  },
  {
@@ -6016,8 +6163,8 @@
   "name": "USA CINEVAULT 80's",
   "shift": 0,
   "src": [
-   "S2510",
-   "S2511"
+   "S2522",
+   "S2523"
   ]
  },
  {
@@ -6025,7 +6172,7 @@
   "name": "USA CINEVAULT Classics",
   "shift": 0,
   "src": [
-   "S2509"
+   "S2521"
   ]
  },
  {
@@ -6033,8 +6180,8 @@
   "name": "USA CINEVAULT Westerns",
   "shift": 0,
   "src": [
-   "S2043",
-   "S2044"
+   "S2045",
+   "S2046"
   ]
  },
  {
@@ -6042,9 +6189,9 @@
   "name": "USA CLEO TV",
   "shift": 0,
   "src": [
-   "S1799",
-   "S1800",
-   "S1801"
+   "S1801",
+   "S1802",
+   "S1803"
   ]
  },
  {
@@ -6052,8 +6199,8 @@
   "name": "USA CMT Music",
   "shift": 0,
   "src": [
-   "S2292",
-   "S2293"
+   "S2296",
+   "S2297"
   ]
  },
  {
@@ -6071,8 +6218,8 @@
   "name": "USA CMT West",
   "shift": 0,
   "src": [
-   "S2403",
-   "S2404"
+   "S2410",
+   "S2411"
   ]
  },
  {
@@ -6080,9 +6227,9 @@
   "name": "USA CNBC UHD",
   "shift": 0,
   "src": [
-   "S1682",
    "S1683",
-   "S1684"
+   "S1684",
+   "S1685"
   ]
  },
  {
@@ -6090,8 +6237,8 @@
   "name": "USA CNBC World",
   "shift": 0,
   "src": [
-   "S2094",
-   "S2095"
+   "S2096",
+   "S2097"
   ]
  },
  {
@@ -6127,7 +6274,7 @@
   "name": "USA CTV Speed",
   "shift": 0,
   "src": [
-   "S2371"
+   "S2375"
   ]
  },
  {
@@ -6144,7 +6291,7 @@
   "name": "USA CW 12 KTXE SAN ANGELO",
   "shift": 0,
   "src": [
-   "S1709"
+   "S1710"
   ]
  },
  {
@@ -6161,7 +6308,7 @@
   "name": "USA CW 13 KYLX Laredo",
   "shift": 0,
   "src": [
-   "S2135"
+   "S2137"
   ]
  },
  {
@@ -6169,8 +6316,8 @@
   "name": "USA CW 15 (WHDF) Florence",
   "shift": 0,
   "src": [
-   "S2560",
-   "S2561"
+   "S2572",
+   "S2573"
   ]
  },
  {
@@ -6178,8 +6325,8 @@
   "name": "USA CW 17 WCWJ JACKSONVILLE",
   "shift": 0,
   "src": [
-   "S1705",
-   "S1706"
+   "S1706",
+   "S1707"
   ]
  },
  {
@@ -6187,8 +6334,8 @@
   "name": "USA CW 18 WCCB Charlotte",
   "shift": 0,
   "src": [
-   "S2029",
-   "S2030"
+   "S2031",
+   "S2032"
   ]
  },
  {
@@ -6196,8 +6343,8 @@
   "name": "USA CW 18 WKCF Daytona Beach",
   "shift": 0,
   "src": [
-   "S2138",
-   "S2139"
+   "S2140",
+   "S2141"
   ]
  },
  {
@@ -6205,8 +6352,8 @@
   "name": "USA CW 18 WVTV MILWAUKEE",
   "shift": 0,
   "src": [
-   "S1680",
-   "S1681"
+   "S1681",
+   "S1682"
   ]
  },
  {
@@ -6214,8 +6361,8 @@
   "name": "USA CW 19 KQCW Tulsa",
   "shift": 0,
   "src": [
-   "S1503",
-   "S1504"
+   "S1504",
+   "S1505"
   ]
  },
  {
@@ -6223,8 +6370,8 @@
   "name": "USA CW 2 (KWGN) Denver",
   "shift": 0,
   "src": [
-   "S2297",
-   "S2298"
+   "S2301",
+   "S2302"
   ]
  },
  {
@@ -6232,8 +6379,8 @@
   "name": "USA CW 20 (WCCT) Waterbury",
   "shift": 0,
   "src": [
-   "S2420",
-   "S2421"
+   "S2431",
+   "S2432"
   ]
  },
  {
@@ -6241,8 +6388,8 @@
   "name": "USA CW 20 WBXX Crossville",
   "shift": 0,
   "src": [
-   "S2577",
-   "S2578"
+   "S2589",
+   "S2590"
   ]
  },
  {
@@ -6250,8 +6397,8 @@
   "name": "USA CW 20 WCWG GREENSBORO",
   "shift": 0,
   "src": [
-   "S1703",
-   "S1704"
+   "S1704",
+   "S1705"
   ]
  },
  {
@@ -6259,7 +6406,7 @@
   "name": "USA CW 21 KPXJ SHREVPORT",
   "shift": 0,
   "src": [
-   "S1702"
+   "S1703"
   ]
  },
  {
@@ -6276,7 +6423,7 @@
   "name": "USA CW 22 WBMM Montgomery",
   "shift": 0,
   "src": [
-   "S1505"
+   "S1506"
   ]
  },
  {
@@ -6284,8 +6431,8 @@
   "name": "USA CW 22 WLFL DURHAM",
   "shift": 0,
   "src": [
-   "S1403",
-   "S1404"
+   "S1404",
+   "S1405"
   ]
  },
  {
@@ -6293,8 +6440,8 @@
   "name": "USA CW 23 (WFLI) Chattanooga",
   "shift": 0,
   "src": [
-   "S2586",
-   "S2587"
+   "S2600",
+   "S2601"
   ]
  },
  {
@@ -6302,8 +6449,8 @@
   "name": "USA CW 23 (WNLO) BUFFALO",
   "shift": 0,
   "src": [
-   "S1830",
-   "S1831"
+   "S1832",
+   "S1833"
   ]
  },
  {
@@ -6311,8 +6458,8 @@
   "name": "USA CW 23 WBUI Champaign",
   "shift": 0,
   "src": [
-   "S2566",
-   "S2567"
+   "S2578",
+   "S2579"
   ]
  },
  {
@@ -6320,8 +6467,8 @@
   "name": "USA CW 23 WUCW SAINT PAUL",
   "shift": 0,
   "src": [
-   "S1871",
-   "S1872"
+   "S1873",
+   "S1874"
   ]
  },
  {
@@ -6329,8 +6476,8 @@
   "name": "USA CW 29 KCWE Kansas City",
   "shift": 0,
   "src": [
-   "S2152",
-   "S2153"
+   "S2155",
+   "S2156"
   ]
  },
  {
@@ -6338,8 +6485,8 @@
   "name": "USA CW 30 (WLMT) Memphis",
   "shift": 0,
   "src": [
-   "S2439",
-   "S2440"
+   "S2450",
+   "S2451"
   ]
  },
  {
@@ -6347,7 +6494,7 @@
   "name": "USA CW 30 (WQCW) Portsmouth",
   "shift": 0,
   "src": [
-   "S2384"
+   "S2388"
   ]
  },
  {
@@ -6363,8 +6510,8 @@
   "name": "USA CW 33 (KDAF)",
   "shift": 0,
   "src": [
-   "S2114",
-   "S2115"
+   "S2116",
+   "S2117"
   ]
  },
  {
@@ -6381,8 +6528,8 @@
   "name": "USA CW 34 KOCB OKLAHOMA CITY",
   "shift": 0,
   "src": [
-   "S2079",
-   "S2080"
+   "S2081",
+   "S2082"
   ]
  },
  {
@@ -6390,7 +6537,7 @@
   "name": "USA CW 35 KMYS SAN ANTONIO",
   "shift": 0,
   "src": [
-   "S1512"
+   "S1513"
   ]
  },
  {
@@ -6406,8 +6553,8 @@
   "name": "USA CW 38 (WNOL) New Orleans",
   "shift": 0,
   "src": [
-   "S2328",
-   "S2329"
+   "S2332",
+   "S2333"
   ]
  },
  {
@@ -6415,8 +6562,8 @@
   "name": "USA CW 38 WSWB WILKES-BARRE",
   "shift": 0,
   "src": [
-   "S1513",
-   "S1514"
+   "S1514",
+   "S1515"
   ]
  },
  {
@@ -6424,8 +6571,8 @@
   "name": "USA CW 39 (KIAH) Houston",
   "shift": 0,
   "src": [
-   "S2270",
-   "S2271"
+   "S2274",
+   "S2275"
   ]
  },
  {
@@ -6433,7 +6580,7 @@
   "name": "USA CW 39 WSFL Miami",
   "shift": 0,
   "src": [
-   "S1588"
+   "S1589"
   ]
  },
  {
@@ -6441,8 +6588,8 @@
   "name": "USA CW 46 WXCW FORT MYERS",
   "shift": 0,
   "src": [
-   "S1756",
-   "S1757"
+   "S1759",
+   "S1760"
   ]
  },
  {
@@ -6450,8 +6597,8 @@
   "name": "USA CW 5 KTLA",
   "shift": 0,
   "src": [
-   "S2105",
-   "S2106"
+   "S2107",
+   "S2108"
   ]
  },
  {
@@ -6459,8 +6606,8 @@
   "name": "USA CW 50 (WDCW) Washington DC",
   "shift": 0,
   "src": [
-   "S2337",
-   "S2338"
+   "S2341",
+   "S2342"
   ]
  },
  {
@@ -6476,8 +6623,8 @@
   "name": "USA CW 56 WLVI Boston",
   "shift": 0,
   "src": [
-   "S1875",
-   "S1876"
+   "S1877",
+   "S1878"
   ]
  },
  {
@@ -6493,7 +6640,7 @@
   "name": "USA CW 58 (WBKI-DT) Louisville",
   "shift": 0,
   "src": [
-   "S1971"
+   "S1973"
   ]
  },
  {
@@ -6501,7 +6648,7 @@
   "name": "USA CW 58 WNAB NASHVILLE",
   "shift": 0,
   "src": [
-   "S1516"
+   "S1517"
   ]
  },
  {
@@ -6509,8 +6656,8 @@
   "name": "USA CW 59 (KFRE) Fresno/Visalia",
   "shift": 0,
   "src": [
-   "S1592",
-   "S1593"
+   "S1593",
+   "S1594"
   ]
  },
  {
@@ -6518,8 +6665,8 @@
   "name": "USA CW 62 (WYCW)",
   "shift": 0,
   "src": [
-   "S2316",
-   "S2317"
+   "S2320",
+   "S2321"
   ]
  },
  {
@@ -6527,7 +6674,7 @@
   "name": "USA CW 7 (KAZT) Arizona",
   "shift": 0,
   "src": [
-   "S2780"
+   "S2800"
   ]
  },
  {
@@ -6535,7 +6682,7 @@
   "name": "USA CW 8 (KNOE-DT2) Monroe El Dorado",
   "shift": 0,
   "src": [
-   "S1794"
+   "S1796"
   ]
  },
  {
@@ -6543,8 +6690,8 @@
   "name": "USA CW 8 (WISH) Indianapolis",
   "shift": 0,
   "src": [
-   "S2274",
-   "S2275"
+   "S2278",
+   "S2279"
   ]
  },
  {
@@ -6552,8 +6699,8 @@
   "name": "USA CW Dayton (WBDT)",
   "shift": 0,
   "src": [
-   "S2197",
-   "S2198"
+   "S2200",
+   "S2201"
   ]
  },
  {
@@ -6561,7 +6708,7 @@
   "name": "USA CW EAST (PHILLY)",
   "shift": 0,
   "src": [
-   "S1506"
+   "S1507"
   ]
  },
  {
@@ -6569,7 +6716,7 @@
   "name": "USA CW East SD",
   "shift": 0,
   "src": [
-   "S1506"
+   "S1507"
   ]
  },
  {
@@ -6577,8 +6724,8 @@
   "name": "USA CW Forever",
   "shift": 0,
   "src": [
-   "S2482",
-   "S2483"
+   "S2494",
+   "S2495"
   ]
  },
  {
@@ -6586,8 +6733,8 @@
   "name": "USA CW Gold",
   "shift": 0,
   "src": [
-   "S2480",
-   "S2481"
+   "S2492",
+   "S2493"
   ]
  },
  {
@@ -6595,7 +6742,7 @@
   "name": "USA CW KPLR St. Louis",
   "shift": 0,
   "src": [
-   "S2191"
+   "S2194"
   ]
  },
  {
@@ -6603,7 +6750,7 @@
   "name": "USA CW PHL17 (WPHL-TV) Philadelphia",
   "shift": 0,
   "src": [
-   "S2573"
+   "S2585"
   ]
  },
  {
@@ -6611,8 +6758,8 @@
   "name": "USA CW WNUV (Baltimore)",
   "shift": 0,
   "src": [
-   "S1507",
-   "S1508"
+   "S1508",
+   "S1509"
   ]
  },
  {
@@ -6629,8 +6776,8 @@
   "name": "USA CW14 (WCWF) Green Bay",
   "shift": 0,
   "src": [
-   "S1509",
-   "S1510"
+   "S1510",
+   "S1511"
   ]
  },
  {
@@ -6638,7 +6785,7 @@
   "name": "USA CW15 (WCWN) Albany",
   "shift": 0,
   "src": [
-   "S1511"
+   "S1512"
   ]
  },
  {
@@ -6646,8 +6793,8 @@
   "name": "USA CW18 (WVTV) Milwaukee",
   "shift": 0,
   "src": [
-   "S1680",
-   "S1681"
+   "S1681",
+   "S1682"
   ]
  },
  {
@@ -6664,8 +6811,8 @@
   "name": "USA CW22 (WLFL) Raleigh",
   "shift": 0,
   "src": [
-   "S1403",
-   "S1404"
+   "S1404",
+   "S1405"
   ]
  },
  {
@@ -6690,7 +6837,7 @@
   "name": "USA CW35 (KMYS) San Antonio",
   "shift": 0,
   "src": [
-   "S1512"
+   "S1513"
   ]
  },
  {
@@ -6698,8 +6845,8 @@
   "name": "USA CW38 (WSWB) Wilkes-Barre",
   "shift": 0,
   "src": [
-   "S1513",
-   "S1514"
+   "S1514",
+   "S1515"
   ]
  },
  {
@@ -6707,7 +6854,7 @@
   "name": "USA CW44 (WTOG) St. Petersburg",
   "shift": 0,
   "src": [
-   "S1515"
+   "S1516"
   ]
  },
  {
@@ -6715,7 +6862,7 @@
   "name": "USA CW58 (WNAB) Nashvi",
   "shift": 0,
   "src": [
-   "S1516"
+   "S1517"
   ]
  },
  {
@@ -6723,7 +6870,7 @@
   "name": "USA CW58 (WNAB) Nashville",
   "shift": 0,
   "src": [
-   "S1516"
+   "S1517"
   ]
  },
  {
@@ -6751,8 +6898,8 @@
   "name": "USA Catchy Comedy",
   "shift": 0,
   "src": [
-   "S2181",
-   "S2182"
+   "S2184",
+   "S2185"
   ]
  },
  {
@@ -6760,9 +6907,9 @@
   "name": "USA Catholic Faith Network",
   "shift": 0,
   "src": [
-   "S2183",
-   "S2184",
-   "S2185"
+   "S2186",
+   "S2187",
+   "S2188"
   ]
  },
  {
@@ -6770,8 +6917,8 @@
   "name": "USA Catholic TV",
   "shift": 0,
   "src": [
-   "S2272",
-   "S2273"
+   "S2276",
+   "S2277"
   ]
  },
  {
@@ -6779,8 +6926,8 @@
   "name": "USA Charge!",
   "shift": 0,
   "src": [
-   "S2219",
-   "S2220"
+   "S2223",
+   "S2224"
   ]
  },
  {
@@ -6788,8 +6935,8 @@
   "name": "USA Chicago Sports Network",
   "shift": 0,
   "src": [
-   "S2469",
-   "S2470"
+   "S2481",
+   "S2482"
   ]
  },
  {
@@ -6797,7 +6944,7 @@
   "name": "USA Chicago Sports Network Plus (CHSN)",
   "shift": 0,
   "src": [
-   "S2514"
+   "S2526"
   ]
  },
  {
@@ -6805,9 +6952,9 @@
   "name": "USA Cine Mexicano",
   "shift": 0,
   "src": [
-   "S2487",
-   "S2488",
-   "S2489"
+   "S2499",
+   "S2500",
+   "S2501"
   ]
  },
  {
@@ -6873,9 +7020,9 @@
   "name": "USA Circle Country",
   "shift": 0,
   "src": [
-   "S2282",
-   "S2283",
-   "S2284"
+   "S2286",
+   "S2287",
+   "S2288"
   ]
  },
  {
@@ -6893,9 +7040,9 @@
   "name": "USA Comedy Dynamics",
   "shift": 0,
   "src": [
-   "S1958",
-   "S1959",
-   "S1960"
+   "S1960",
+   "S1961",
+   "S1962"
   ]
  },
  {
@@ -6903,9 +7050,9 @@
   "name": "USA Comedy TV",
   "shift": 0,
   "src": [
-   "S2257",
-   "S2258",
-   "S2259"
+   "S2261",
+   "S2262",
+   "S2263"
   ]
  },
  {
@@ -6922,9 +7069,9 @@
   "name": "USA Confess by Nosey",
   "shift": 0,
   "src": [
-   "S2738",
-   "S2739",
-   "S2740"
+   "S2756",
+   "S2757",
+   "S2758"
   ]
  },
  {
@@ -6942,7 +7089,7 @@
   "name": "USA Cornerstone",
   "shift": 0,
   "src": [
-   "S2018"
+   "S2020"
   ]
  },
  {
@@ -6950,7 +7097,7 @@
   "name": "USA Cornerstone Television",
   "shift": 0,
   "src": [
-   "S2163"
+   "S2166"
   ]
  },
  {
@@ -6988,9 +7135,9 @@
   "name": "USA Crime Scenes",
   "shift": 0,
   "src": [
-   "S2619",
-   "S2620",
-   "S2621"
+   "S2633",
+   "S2634",
+   "S2635"
   ]
  },
  {
@@ -6998,8 +7145,8 @@
   "name": "USA Crimes Cults Killers",
   "shift": 0,
   "src": [
-   "S2716",
-   "S2717"
+   "S2734",
+   "S2735"
   ]
  },
  {
@@ -7007,9 +7154,9 @@
   "name": "USA Curiosity NOW",
   "shift": 0,
   "src": [
-   "S2484",
-   "S2485",
-   "S2486"
+   "S2496",
+   "S2497",
+   "S2498"
   ]
  },
  {
@@ -7017,8 +7164,8 @@
   "name": "USA DABL HD",
   "shift": 0,
   "src": [
-   "S2048",
-   "S2049"
+   "S2050",
+   "S2051"
   ]
  },
  {
@@ -7026,9 +7173,9 @@
   "name": "USA DAZN Ringside",
   "shift": 0,
   "src": [
-   "S2602",
-   "S2603",
-   "S2604"
+   "S2616",
+   "S2617",
+   "S2618"
   ]
  },
  {
@@ -7036,7 +7183,7 @@
   "name": "USA DISTRICT OF COLUMBIA NETWORK",
   "shift": 0,
   "src": [
-   "S1690"
+   "S1691"
   ]
  },
  {
@@ -7044,9 +7191,9 @@
   "name": "USA Daystar",
   "shift": 0,
   "src": [
-   "S1805",
-   "S1806",
-   "S1807"
+   "S1807",
+   "S1808",
+   "S1809"
   ]
  },
  {
@@ -7054,7 +7201,7 @@
   "name": "USA Decades (KAZD)",
   "shift": 0,
   "src": [
-   "S2116"
+   "S2118"
   ]
  },
  {
@@ -7072,8 +7219,8 @@
   "name": "USA Dinos 24/7",
   "shift": 0,
   "src": [
-   "S2512",
-   "S2513"
+   "S2524",
+   "S2525"
   ]
  },
  {
@@ -7183,7 +7330,7 @@
   "name": "USA District of Columbia Network",
   "shift": 0,
   "src": [
-   "S1690"
+   "S1691"
   ]
  },
  {
@@ -7191,9 +7338,9 @@
   "name": "USA Dog TV",
   "shift": 0,
   "src": [
-   "S1773",
-   "S1774",
-   "S1775"
+   "S1775",
+   "S1776",
+   "S1777"
   ]
  },
  {
@@ -7201,9 +7348,9 @@
   "name": "USA Dove",
   "shift": 0,
   "src": [
-   "S1945",
-   "S1946",
-   "S1947"
+   "S1947",
+   "S1948",
+   "S1949"
   ]
  },
  {
@@ -7211,9 +7358,9 @@
   "name": "USA Dust",
   "shift": 0,
   "src": [
-   "S1860",
-   "S1861",
-   "S1862"
+   "S1862",
+   "S1863",
+   "S1864"
   ]
  },
  {
@@ -7238,7 +7385,7 @@
   "name": "USA EL Rey Network FHD*",
   "shift": 0,
   "src": [
-   "S2081"
+   "S2083"
   ]
  },
  {
@@ -7276,9 +7423,9 @@
   "name": "USA ESPN Deportes",
   "shift": 0,
   "src": [
-   "S2341",
-   "S2342",
-   "S2343"
+   "S2345",
+   "S2346",
+   "S2347"
   ]
  },
  {
@@ -7306,9 +7453,9 @@
   "name": "USA ESPN SEC Network",
   "shift": 0,
   "src": [
-   "S2205",
-   "S2206",
-   "S2207"
+   "S2209",
+   "S2210",
+   "S2211"
   ]
  },
  {
@@ -7326,8 +7473,8 @@
   "name": "USA ESPN8: The Ocho",
   "shift": 0,
   "src": [
-   "S2590",
-   "S2591"
+   "S2604",
+   "S2605"
   ]
  },
  {
@@ -7345,7 +7492,7 @@
   "name": "USA Ebony TV",
   "shift": 0,
   "src": [
-   "S2460"
+   "S2471"
   ]
  },
  {
@@ -7353,9 +7500,9 @@
   "name": "USA El Rey Rebel",
   "shift": 0,
   "src": [
-   "S2654",
-   "S2655",
-   "S2656"
+   "S2668",
+   "S2669",
+   "S2670"
   ]
  },
  {
@@ -7363,9 +7510,9 @@
   "name": "USA Electric Now",
   "shift": 0,
   "src": [
-   "S1863",
-   "S1864",
-   "S1865"
+   "S1865",
+   "S1866",
+   "S1867"
   ]
  },
  {
@@ -7373,8 +7520,8 @@
   "name": "USA FIFA+",
   "shift": 0,
   "src": [
-   "S2398",
-   "S2399"
+   "S2405",
+   "S2406"
   ]
  },
  {
@@ -7390,8 +7537,8 @@
   "name": "USA FOX 10 (WALA) Alabama",
   "shift": 0,
   "src": [
-   "S1517",
-   "S1518"
+   "S1518",
+   "S1519"
   ]
  },
  {
@@ -7399,7 +7546,7 @@
   "name": "USA FOX 10 KIDY SAN ANGELO",
   "shift": 0,
   "src": [
-   "S1776"
+   "S1778"
   ]
  },
  {
@@ -7416,8 +7563,8 @@
   "name": "USA FOX 10 WALA ALABAMA",
   "shift": 0,
   "src": [
-   "S1517",
-   "S1518"
+   "S1518",
+   "S1519"
   ]
  },
  {
@@ -7425,7 +7572,7 @@
   "name": "USA FOX 10 WTHI-DT2 Terre Haute",
   "shift": 0,
   "src": [
-   "S2134"
+   "S2136"
   ]
  },
  {
@@ -7478,7 +7625,7 @@
   "name": "USA FOX 11 WVAH CHARLESTON",
   "shift": 0,
   "src": [
-   "S1738"
+   "S1741"
   ]
  },
  {
@@ -7532,7 +7679,7 @@
   "name": "USA FOX 14 (KARD) West Monroe El Dorado",
   "shift": 0,
   "src": [
-   "S1792"
+   "S1794"
   ]
  },
  {
@@ -7540,8 +7687,8 @@
   "name": "USA FOX 14 KCIT Amarillo",
   "shift": 0,
   "src": [
-   "S1932",
-   "S1933"
+   "S1934",
+   "S1935"
   ]
  },
  {
@@ -7549,7 +7696,7 @@
   "name": "USA FOX 14 KFJX Joplin",
   "shift": 0,
   "src": [
-   "S2074"
+   "S2076"
   ]
  },
  {
@@ -7557,8 +7704,8 @@
   "name": "USA FOX 14 KFOX EL PASO",
   "shift": 0,
   "src": [
-   "S1715",
-   "S1716"
+   "S1716",
+   "S1717"
   ]
  },
  {
@@ -7566,7 +7713,7 @@
   "name": "USA FOX 14 WYDO Greenville",
   "shift": 0,
   "src": [
-   "S2055"
+   "S2057"
   ]
  },
  {
@@ -7600,7 +7747,7 @@
   "name": "USA FOX 16 WJKT Jackson",
   "shift": 0,
   "src": [
-   "S2681"
+   "S2695"
   ]
  },
  {
@@ -7644,7 +7791,7 @@
   "name": "USA FOX 18 (KJTL) Wichita Falls",
   "shift": 0,
   "src": [
-   "S2067"
+   "S2069"
   ]
  },
  {
@@ -7696,8 +7843,8 @@
   "name": "USA FOX 2 KTVU OAKLAND",
   "shift": 0,
   "src": [
-   "S1536",
-   "S1537"
+   "S1537",
+   "S1538"
   ]
  },
  {
@@ -7714,8 +7861,8 @@
   "name": "USA FOX 20 WCOV Montgomery",
   "shift": 0,
   "src": [
-   "S1519",
-   "S1520"
+   "S1520",
+   "S1521"
   ]
  },
  {
@@ -7723,8 +7870,8 @@
   "name": "USA FOX 21 KQDS DULUTH/SUPERIOR",
   "shift": 0,
   "src": [
-   "S1713",
-   "S1714"
+   "S1714",
+   "S1715"
   ]
  },
  {
@@ -7758,7 +7905,7 @@
   "name": "USA FOX 23 KBSI CAPE GIRADEAU",
   "shift": 0,
   "src": [
-   "S1697"
+   "S1698"
   ]
  },
  {
@@ -7792,8 +7939,8 @@
   "name": "USA FOX 23 WSBT South Bend",
   "shift": 0,
   "src": [
-   "S1482",
-   "S1483"
+   "S1483",
+   "S1484"
   ]
  },
  {
@@ -7817,7 +7964,7 @@
   "name": "USA FOX 24 KPEJ Midland",
   "shift": 0,
   "src": [
-   "S2496"
+   "S2508"
   ]
  },
  {
@@ -7843,7 +7990,7 @@
   "name": "USA FOX 24 WGXA MACON",
   "shift": 0,
   "src": [
-   "S2014"
+   "S2016"
   ]
  },
  {
@@ -7921,7 +8068,7 @@
   "name": "USA FOX 27 KFNB CASPER/RIVERTON",
   "shift": 0,
   "src": [
-   "S1712"
+   "S1713"
   ]
  },
  {
@@ -7955,8 +8102,8 @@
   "name": "USA FOX 28 WNYF Watertown",
   "shift": 0,
   "src": [
-   "S2574",
-   "S2575"
+   "S2586",
+   "S2587"
   ]
  },
  {
@@ -7964,7 +8111,7 @@
   "name": "USA FOX 28 WPGX Panama City",
   "shift": 0,
   "src": [
-   "S1521"
+   "S1522"
   ]
  },
  {
@@ -7972,8 +8119,8 @@
   "name": "USA FOX 28 WTGS HARDEEVILLE",
   "shift": 0,
   "src": [
-   "S1583",
-   "S1584"
+   "S1584",
+   "S1585"
   ]
  },
  {
@@ -8042,8 +8189,8 @@
   "name": "USA FOX 31 (WFXL)  Albany",
   "shift": 0,
   "src": [
-   "S2558",
-   "S2559"
+   "S2570",
+   "S2571"
   ]
  },
  {
@@ -8078,8 +8225,8 @@
   "name": "USA FOX 32 WFQX Cadillac/Traverse City",
   "shift": 0,
   "src": [
-   "S2038",
-   "S2039"
+   "S2040",
+   "S2041"
   ]
  },
  {
@@ -8087,8 +8234,8 @@
   "name": "USA FOX 33 (KDFX) Palm Springs",
   "shift": 0,
   "src": [
-   "S2300",
-   "S2301"
+   "S2304",
+   "S2305"
   ]
  },
  {
@@ -8105,7 +8252,7 @@
   "name": "USA FOX 33 WFXV Utica",
   "shift": 0,
   "src": [
-   "S1819"
+   "S1821"
   ]
  },
  {
@@ -8113,7 +8260,7 @@
   "name": "USA FOX 33 WZAW Wausau",
   "shift": 0,
   "src": [
-   "S2214"
+   "S2218"
   ]
  },
  {
@@ -8183,8 +8330,8 @@
   "name": "USA FOX 39 (KFXO) Bend",
   "shift": 0,
   "src": [
-   "S2464",
-   "S2465"
+   "S2475",
+   "S2476"
   ]
  },
  {
@@ -8192,7 +8339,7 @@
   "name": "USA FOX 39 (KJNB) Jonesboro",
   "shift": 0,
   "src": [
-   "S2438"
+   "S2449"
   ]
  },
  {
@@ -8200,8 +8347,8 @@
   "name": "USA FOX 39 (WQRF) Rockford",
   "shift": 0,
   "src": [
-   "S2004",
-   "S2005"
+   "S2006",
+   "S2007"
   ]
  },
  {
@@ -8209,8 +8356,8 @@
   "name": "USA FOX 39 KXOF Laredo",
   "shift": 0,
   "src": [
-   "S2136",
-   "S2137"
+   "S2138",
+   "S2139"
   ]
  },
  {
@@ -8235,8 +8382,8 @@
   "name": "USA FOX 4 KTBY ANCHORAGE",
   "shift": 0,
   "src": [
-   "S1948",
-   "S1949"
+   "S1950",
+   "S1951"
   ]
  },
  {
@@ -8279,7 +8426,7 @@
   "name": "USA FOX 40 WICZ Binghamton",
   "shift": 0,
   "src": [
-   "S2011"
+   "S2013"
   ]
  },
  {
@@ -8304,8 +8451,8 @@
   "name": "USA FOX 42 Omaha (KPTM)",
   "shift": 0,
   "src": [
-   "S1522",
-   "S1523"
+   "S1523",
+   "S1524"
   ]
  },
  {
@@ -8434,8 +8581,8 @@
   "name": "USA FOX 47 WMSN MADISON",
   "shift": 0,
   "src": [
-   "S1740",
-   "S1741"
+   "S1743",
+   "S1744"
   ]
  },
  {
@@ -8443,8 +8590,8 @@
   "name": "USA FOX 47 WSYM LANSING",
   "shift": 0,
   "src": [
-   "S1524",
-   "S1525"
+   "S1525",
+   "S1526"
   ]
  },
  {
@@ -8452,8 +8599,8 @@
   "name": "USA FOX 47 WSYM Lansing",
   "shift": 0,
   "src": [
-   "S1524",
-   "S1525"
+   "S1525",
+   "S1526"
   ]
  },
  {
@@ -8514,8 +8661,8 @@
   "name": "USA FOX 50 Raleigh WRAZ",
   "shift": 0,
   "src": [
-   "S1405",
-   "S1406"
+   "S1406",
+   "S1407"
   ]
  },
  {
@@ -8523,8 +8670,8 @@
   "name": "USA FOX 50 WRAZ DURHAM",
   "shift": 0,
   "src": [
-   "S1405",
-   "S1406"
+   "S1406",
+   "S1407"
   ]
  },
  {
@@ -8532,8 +8679,8 @@
   "name": "USA FOX 50 WRAZ RALEIGH",
   "shift": 0,
   "src": [
-   "S1405",
-   "S1406"
+   "S1406",
+   "S1407"
   ]
  },
  {
@@ -8541,7 +8688,7 @@
   "name": "USA FOX 51 KFXK LONGVIEW",
   "shift": 0,
   "src": [
-   "S1428"
+   "S1429"
   ]
  },
  {
@@ -8549,8 +8696,8 @@
   "name": "USA FOX 51 KFXL LINCOLN NB",
   "shift": 0,
   "src": [
-   "S1688",
-   "S1689"
+   "S1689",
+   "S1690"
   ]
  },
  {
@@ -8609,8 +8756,8 @@
   "name": "USA FOX 56 WDKY DANVILLE",
   "shift": 0,
   "src": [
-   "S1869",
-   "S1870"
+   "S1871",
+   "S1872"
   ]
  },
  {
@@ -8627,8 +8774,8 @@
   "name": "USA FOX 57 WACH COLUMBIA",
   "shift": 0,
   "src": [
-   "S2015",
-   "S2016"
+   "S2017",
+   "S2018"
   ]
  },
  {
@@ -8698,8 +8845,8 @@
   "name": "USA FOX 66 WFXP Erie",
   "shift": 0,
   "src": [
-   "S2475",
-   "S2476"
+   "S2487",
+   "S2488"
   ]
  },
  {
@@ -8806,7 +8953,7 @@
   "name": "USA FOX 9 (KECY) El Centro",
   "shift": 0,
   "src": [
-   "S1594"
+   "S1595"
   ]
  },
  {
@@ -8832,8 +8979,8 @@
   "name": "USA FOX 9 WTVC-DT Chattanooga",
   "shift": 0,
   "src": [
-   "S1526",
-   "S1527"
+   "S1527",
+   "S1528"
   ]
  },
  {
@@ -8887,8 +9034,8 @@
   "name": "USA FOX KBFX Bakersfield",
   "shift": 0,
   "src": [
-   "S2158",
-   "S2159"
+   "S2161",
+   "S2162"
   ]
  },
  {
@@ -8926,8 +9073,8 @@
   "name": "USA FOX Soul",
   "shift": 0,
   "src": [
-   "S2050",
-   "S2051"
+   "S2052",
+   "S2053"
   ]
  },
  {
@@ -8935,9 +9082,9 @@
   "name": "USA FOX Weather",
   "shift": 0,
   "src": [
-   "S2264",
-   "S2265",
-   "S2266"
+   "S2268",
+   "S2269",
+   "S2270"
   ]
  },
  {
@@ -8945,7 +9092,7 @@
   "name": "USA FOX Wheeling WTOV",
   "shift": 0,
   "src": [
-   "S1415"
+   "S1416"
   ]
  },
  {
@@ -8953,7 +9100,7 @@
   "name": "USA FOX22 (KQFX) Jefferson City",
   "shift": 0,
   "src": [
-   "S1538"
+   "S1539"
   ]
  },
  {
@@ -8961,8 +9108,8 @@
   "name": "USA FREE SPEECH TV",
   "shift": 0,
   "src": [
-   "S1660",
-   "S1661"
+   "S1661",
+   "S1662"
   ]
  },
  {
@@ -8979,7 +9126,7 @@
   "name": "USA FX West",
   "shift": 0,
   "src": [
-   "S1671"
+   "S1672"
   ]
  },
  {
@@ -9016,9 +9163,9 @@
   "name": "USA Fail Army",
   "shift": 0,
   "src": [
-   "S2751",
-   "S2752",
-   "S2753"
+   "S2769",
+   "S2770",
+   "S2771"
   ]
  },
  {
@@ -9026,9 +9173,9 @@
   "name": "USA Family Movie Classics",
   "shift": 0,
   "src": [
-   "S2424",
-   "S2425",
-   "S2426"
+   "S2435",
+   "S2436",
+   "S2437"
   ]
  },
  {
@@ -9036,9 +9183,9 @@
   "name": "USA Family Movie Classics (FMC)",
   "shift": 0,
   "src": [
-   "S2424",
-   "S2425",
-   "S2426"
+   "S2435",
+   "S2436",
+   "S2437"
   ]
  },
  {
@@ -9046,8 +9193,8 @@
   "name": "USA FanDuel Racing",
   "shift": 0,
   "src": [
-   "S2436",
-   "S2437"
+   "S2447",
+   "S2448"
   ]
  },
  {
@@ -9055,7 +9202,7 @@
   "name": "USA FanDuel Sports SOUTH HD",
   "shift": 0,
   "src": [
-   "S2772"
+   "S2792"
   ]
  },
  {
@@ -9063,7 +9210,7 @@
   "name": "USA FanDuel Sports SOUTHWEST HD",
   "shift": 0,
   "src": [
-   "S2773"
+   "S2793"
   ]
  },
  {
@@ -9071,7 +9218,7 @@
   "name": "USA FanDuel Sports Sun",
   "shift": 0,
   "src": [
-   "S2774"
+   "S2794"
   ]
  },
  {
@@ -9079,9 +9226,9 @@
   "name": "USA FanDuel TV",
   "shift": 0,
   "src": [
-   "S2433",
-   "S2434",
-   "S2435"
+   "S2444",
+   "S2445",
+   "S2446"
   ]
  },
  {
@@ -9089,9 +9236,9 @@
   "name": "USA Fight Network",
   "shift": 0,
   "src": [
-   "S2109",
-   "S2110",
-   "S2111"
+   "S2111",
+   "S2112",
+   "S2113"
   ]
  },
  {
@@ -9099,8 +9246,8 @@
   "name": "USA FilmRise Action",
   "shift": 0,
   "src": [
-   "S2701",
-   "S2702"
+   "S2719",
+   "S2720"
   ]
  },
  {
@@ -9108,8 +9255,8 @@
   "name": "USA FilmRise Comedy",
   "shift": 0,
   "src": [
-   "S2726",
-   "S2727"
+   "S2744",
+   "S2745"
   ]
  },
  {
@@ -9117,8 +9264,8 @@
   "name": "USA FilmRise Horror",
   "shift": 0,
   "src": [
-   "S2703",
-   "S2704"
+   "S2721",
+   "S2722"
   ]
  },
  {
@@ -9126,8 +9273,8 @@
   "name": "USA FilmRise Mysteries",
   "shift": 0,
   "src": [
-   "S2613",
-   "S2614"
+   "S2627",
+   "S2628"
   ]
  },
  {
@@ -9135,8 +9282,8 @@
   "name": "USA FilmRise True Crime",
   "shift": 0,
   "src": [
-   "S2611",
-   "S2612"
+   "S2625",
+   "S2626"
   ]
  },
  {
@@ -9144,8 +9291,8 @@
   "name": "USA Filmrise Black TV",
   "shift": 0,
   "src": [
-   "S2599",
-   "S2600"
+   "S2613",
+   "S2614"
   ]
  },
  {
@@ -9153,8 +9300,8 @@
   "name": "USA Filmrise Western",
   "shift": 0,
   "src": [
-   "S2422",
-   "S2423"
+   "S2433",
+   "S2434"
   ]
  },
  {
@@ -9162,9 +9309,9 @@
   "name": "USA Flix East",
   "shift": 0,
   "src": [
-   "S2646",
-   "S2647",
-   "S2648"
+   "S2660",
+   "S2661",
+   "S2662"
   ]
  },
  {
@@ -9172,8 +9319,8 @@
   "name": "USA Flix West",
   "shift": 0,
   "src": [
-   "S2644",
-   "S2645"
+   "S2658",
+   "S2659"
   ]
  },
  {
@@ -9246,9 +9393,9 @@
   "name": "USA Fox Network East SD",
   "shift": 0,
   "src": [
-   "S1528",
    "S1529",
-   "S1530"
+   "S1530",
+   "S1531"
   ]
  },
  {
@@ -9256,8 +9403,8 @@
   "name": "USA Fox News Channel",
   "shift": 0,
   "src": [
-   "S2082",
-   "S2083"
+   "S2084",
+   "S2085"
   ]
  },
  {
@@ -9265,9 +9412,9 @@
   "name": "USA Fox News SD",
   "shift": 0,
   "src": [
-   "S1531",
    "S1532",
-   "S1533"
+   "S1533",
+   "S1534"
   ]
  },
  {
@@ -9275,8 +9422,8 @@
   "name": "USA Fox Pittsburgh WPGH",
   "shift": 0,
   "src": [
-   "S1534",
-   "S1535"
+   "S1535",
+   "S1536"
   ]
  },
  {
@@ -9284,8 +9431,8 @@
   "name": "USA Fox San Francisco KTVU",
   "shift": 0,
   "src": [
-   "S1536",
-   "S1537"
+   "S1537",
+   "S1538"
   ]
  },
  {
@@ -9321,8 +9468,8 @@
   "name": "USA Fubo Sports Network",
   "shift": 0,
   "src": [
-   "S1803",
-   "S1804"
+   "S1805",
+   "S1806"
   ]
  },
  {
@@ -9349,7 +9496,7 @@
   "name": "USA GAC Family",
   "shift": 0,
   "src": [
-   "S2108"
+   "S2110"
   ]
  },
  {
@@ -9374,9 +9521,9 @@
   "name": "USA Galavision",
   "shift": 0,
   "src": [
-   "S2155",
-   "S2156",
-   "S2157"
+   "S2158",
+   "S2159",
+   "S2160"
   ]
  },
  {
@@ -9384,9 +9531,9 @@
   "name": "USA Game Show Central",
   "shift": 0,
   "src": [
-   "S2294",
-   "S2295",
-   "S2296"
+   "S2298",
+   "S2299",
+   "S2300"
   ]
  },
  {
@@ -9394,7 +9541,7 @@
   "name": "USA Game Show Network West",
   "shift": 0,
   "src": [
-   "S2588"
+   "S2602"
   ]
  },
  {
@@ -9402,8 +9549,8 @@
   "name": "USA Get Comedy",
   "shift": 0,
   "src": [
-   "S2682",
-   "S2683"
+   "S2696",
+   "S2697"
   ]
  },
  {
@@ -9411,9 +9558,9 @@
   "name": "USA Golf LHD",
   "shift": 0,
   "src": [
-   "S1666",
    "S1667",
-   "S1668"
+   "S1668",
+   "S1669"
   ]
  },
  {
@@ -9421,9 +9568,9 @@
   "name": "USA Great American Faith & Living",
   "shift": 0,
   "src": [
-   "S2499",
-   "S2500",
-   "S2501"
+   "S2511",
+   "S2512",
+   "S2513"
   ]
  },
  {
@@ -9441,8 +9588,8 @@
   "name": "USA Grit TV*",
   "shift": 0,
   "src": [
-   "S2124",
-   "S2125"
+   "S2126",
+   "S2127"
   ]
  },
  {
@@ -9450,9 +9597,9 @@
   "name": "USA Grit Xtra",
   "shift": 0,
   "src": [
-   "S2713",
-   "S2714",
-   "S2715"
+   "S2731",
+   "S2732",
+   "S2733"
   ]
  },
  {
@@ -9460,8 +9607,8 @@
   "name": "USA Grjngo - Western Movies",
   "shift": 0,
   "src": [
-   "S2760",
-   "S2761"
+   "S2778",
+   "S2779"
   ]
  },
  {
@@ -9469,9 +9616,9 @@
   "name": "USA Gusto",
   "shift": 0,
   "src": [
-   "S1977",
-   "S1978",
-   "S1979"
+   "S1979",
+   "S1980",
+   "S1981"
   ]
  },
  {
@@ -9479,7 +9626,7 @@
   "name": "USA HBO Boxing",
   "shift": 0,
   "src": [
-   "S2601"
+   "S2615"
   ]
  },
  {
@@ -9487,8 +9634,8 @@
   "name": "USA HBO Comedy West*",
   "shift": 0,
   "src": [
-   "S2201",
-   "S2202"
+   "S2204",
+   "S2205"
   ]
  },
  {
@@ -9506,8 +9653,8 @@
   "name": "USA HBO Drama West",
   "shift": 0,
   "src": [
-   "S2314",
-   "S2315"
+   "S2318",
+   "S2319"
   ]
  },
  {
@@ -9545,9 +9692,9 @@
   "name": "USA HBO Hits West",
   "shift": 0,
   "src": [
-   "S2311",
-   "S2312",
-   "S2313"
+   "S2315",
+   "S2316",
+   "S2317"
   ]
  },
  {
@@ -9555,7 +9702,7 @@
   "name": "USA HBO Movies West",
   "shift": 0,
   "src": [
-   "S2203"
+   "S2206"
   ]
  },
  {
@@ -9583,9 +9730,9 @@
   "name": "USA HDNET MOVIES",
   "shift": 0,
   "src": [
-   "S1866",
-   "S1867",
-   "S1868"
+   "S1868",
+   "S1869",
+   "S1870"
   ]
  },
  {
@@ -9611,9 +9758,9 @@
   "name": "USA HLN*",
   "shift": 0,
   "src": [
-   "S2084",
-   "S2085",
-   "S2086"
+   "S2086",
+   "S2087",
+   "S2088"
   ]
  },
  {
@@ -9621,9 +9768,9 @@
   "name": "USA HSN",
   "shift": 0,
   "src": [
-   "S1749",
-   "S1750",
-   "S1751"
+   "S1752",
+   "S1753",
+   "S1754"
   ]
  },
  {
@@ -9631,9 +9778,9 @@
   "name": "USA HSN 2",
   "shift": 0,
   "src": [
-   "S2267",
-   "S2268",
-   "S2269"
+   "S2271",
+   "S2272",
+   "S2273"
   ]
  },
  {
@@ -9671,8 +9818,8 @@
   "name": "USA Haunt TV",
   "shift": 0,
   "src": [
-   "S2401",
-   "S2402"
+   "S2408",
+   "S2409"
   ]
  },
  {
@@ -9680,8 +9827,8 @@
   "name": "USA Hells Kitchen",
   "shift": 0,
   "src": [
-   "S1832",
-   "S1833"
+   "S1834",
+   "S1835"
   ]
  },
  {
@@ -9689,8 +9836,8 @@
   "name": "USA HerSphere by Lionsgate",
   "shift": 0,
   "src": [
-   "S2467",
-   "S2468"
+   "S2479",
+   "S2480"
   ]
  },
  {
@@ -9708,9 +9855,9 @@
   "name": "USA Hi-YAH!",
   "shift": 0,
   "src": [
-   "S2006",
-   "S2007",
-   "S2008"
+   "S2008",
+   "S2009",
+   "S2010"
   ]
  },
  {
@@ -9737,7 +9884,7 @@
   "name": "USA History West",
   "shift": 0,
   "src": [
-   "S2173"
+   "S2176"
   ]
  },
  {
@@ -9755,9 +9902,9 @@
   "name": "USA INDIEPLEX",
   "shift": 0,
   "src": [
-   "S1764",
-   "S1765",
-   "S1766"
+   "S1766",
+   "S1767",
+   "S1768"
   ]
  },
  {
@@ -9775,9 +9922,9 @@
   "name": "USA ION MYSTERY",
   "shift": 0,
   "src": [
-   "S2385",
-   "S2386",
-   "S2387"
+   "S2389",
+   "S2390",
+   "S2391"
   ]
  },
  {
@@ -9785,8 +9932,8 @@
   "name": "USA ION Mystery (KLKN)*",
   "shift": 0,
   "src": [
-   "S1894",
-   "S1895"
+   "S1896",
+   "S1897"
   ]
  },
  {
@@ -9794,9 +9941,9 @@
   "name": "USA ION Plus*",
   "shift": 0,
   "src": [
-   "S1985",
-   "S1986",
-   "S1987"
+   "S1987",
+   "S1988",
+   "S1989"
   ]
  },
  {
@@ -9804,9 +9951,9 @@
   "name": "USA ION TV*",
   "shift": 0,
   "src": [
-   "S2058",
-   "S2059",
-   "S2060"
+   "S2060",
+   "S2061",
+   "S2062"
   ]
  },
  {
@@ -9824,8 +9971,8 @@
   "name": "USA Investigation Discovery West*",
   "shift": 0,
   "src": [
-   "S2165",
-   "S2166"
+   "S2168",
+   "S2169"
   ]
  },
  {
@@ -9833,9 +9980,9 @@
   "name": "USA Inwonder",
   "shift": 0,
   "src": [
-   "S1961",
-   "S1962",
-   "S1963"
+   "S1963",
+   "S1964",
+   "S1965"
   ]
  },
  {
@@ -9843,9 +9990,9 @@
   "name": "USA Jewelry Television",
   "shift": 0,
   "src": [
-   "S1821",
-   "S1822",
-   "S1823"
+   "S1823",
+   "S1824",
+   "S1825"
   ]
  },
  {
@@ -9853,7 +10000,7 @@
   "name": "USA Joel Osteen Network",
   "shift": 0,
   "src": [
-   "S2759"
+   "S2777"
   ]
  },
  {
@@ -9861,8 +10008,8 @@
   "name": "USA Judge Nosey",
   "shift": 0,
   "src": [
-   "S2736",
-   "S2737"
+   "S2754",
+   "S2755"
   ]
  },
  {
@@ -9870,9 +10017,9 @@
   "name": "USA Justice Central",
   "shift": 0,
   "src": [
-   "S1692",
    "S1693",
-   "S1694"
+   "S1694",
+   "S1695"
   ]
  },
  {
@@ -9880,7 +10027,7 @@
   "name": "USA KJZZ 14 (KJZZDT) Salt Lake City",
   "shift": 0,
   "src": [
-   "S2471"
+   "S2483"
   ]
  },
  {
@@ -9888,7 +10035,7 @@
   "name": "USA KTVK 3TV Arizona's Family Phoenix",
   "shift": 0,
   "src": [
-   "S2369"
+   "S2373"
   ]
  },
  {
@@ -9896,8 +10043,8 @@
   "name": "USA KTVU Plus San Francisco",
   "shift": 0,
   "src": [
-   "S1536",
-   "S1537"
+   "S1537",
+   "S1538"
   ]
  },
  {
@@ -9905,8 +10052,8 @@
   "name": "USA Kartoon Channel!",
   "shift": 0,
   "src": [
-   "S2724",
-   "S2725"
+   "S2742",
+   "S2743"
   ]
  },
  {
@@ -9942,9 +10089,9 @@
   "name": "USA LOL Network",
   "shift": 0,
   "src": [
-   "S2676",
-   "S2677",
-   "S2678"
+   "S2690",
+   "S2691",
+   "S2692"
   ]
  },
  {
@@ -9968,7 +10115,7 @@
   "name": "USA Latin Antena 3 Internacional",
   "shift": 0,
   "src": [
-   "S2367"
+   "S2371"
   ]
  },
  {
@@ -10003,7 +10150,7 @@
   "name": "USA Latin Centroamerica TV",
   "shift": 0,
   "src": [
-   "S2154"
+   "S2157"
   ]
  },
  {
@@ -10030,7 +10177,7 @@
   "name": "USA Latin ESNE",
   "shift": 0,
   "src": [
-   "S2192"
+   "S2195"
   ]
  },
  {
@@ -10038,7 +10185,7 @@
   "name": "USA Latin EVTV",
   "shift": 0,
   "src": [
-   "S1761"
+   "S1763"
   ]
  },
  {
@@ -10046,9 +10193,9 @@
   "name": "USA Latin Estrella TV",
   "shift": 0,
   "src": [
-   "S2063",
-   "S2064",
-   "S2065"
+   "S2065",
+   "S2066",
+   "S2067"
   ]
  },
  {
@@ -10075,8 +10222,8 @@
   "name": "USA Latin HITN",
   "shift": 0,
   "src": [
-   "S1852",
-   "S1853"
+   "S1854",
+   "S1855"
   ]
  },
  {
@@ -10092,9 +10239,9 @@
   "name": "USA Latin Mega",
   "shift": 0,
   "src": [
-   "S2322",
-   "S2323",
-   "S2324"
+   "S2326",
+   "S2327",
+   "S2328"
   ]
  },
  {
@@ -10102,7 +10249,7 @@
   "name": "USA Latin Mexicanal",
   "shift": 0,
   "src": [
-   "S1676"
+   "S1677"
   ]
  },
  {
@@ -10143,8 +10290,8 @@
   "name": "USA Latin Pasiones",
   "shift": 0,
   "src": [
-   "S2061",
-   "S2062"
+   "S2063",
+   "S2064"
   ]
  },
  {
@@ -10152,7 +10299,7 @@
   "name": "USA Latin TOONCAST",
   "shift": 0,
   "src": [
-   "S1874"
+   "S1876"
   ]
  },
  {
@@ -10160,9 +10307,9 @@
   "name": "USA Latin TUDN",
   "shift": 0,
   "src": [
-   "S2787",
-   "S2788",
-   "S2789"
+   "S2807",
+   "S2808",
+   "S2809"
   ]
  },
  {
@@ -10170,9 +10317,9 @@
   "name": "USA Latin TeleXitos",
   "shift": 0,
   "src": [
-   "S2388",
-   "S2389",
-   "S2390"
+   "S2392",
+   "S2393",
+   "S2394"
   ]
  },
  {
@@ -10197,7 +10344,7 @@
   "name": "USA Latin Telemundo 2 WKAQ Puerto Rico",
   "shift": 0,
   "src": [
-   "S2042"
+   "S2044"
   ]
  },
  {
@@ -10205,7 +10352,7 @@
   "name": "USA Latin UNIVISION (WUVF) Ft. Myers-Naples",
   "shift": 0,
   "src": [
-   "S1770"
+   "S1772"
   ]
  },
  {
@@ -10241,9 +10388,9 @@
   "name": "USA Lifetime Real Women",
   "shift": 0,
   "src": [
-   "S1936",
-   "S1937",
-   "S1938"
+   "S1938",
+   "S1939",
+   "S1940"
   ]
  },
  {
@@ -10261,9 +10408,9 @@
   "name": "USA LiveNOW from FOX",
   "shift": 0,
   "src": [
-   "S2240",
-   "S2241",
-   "S2242"
+   "S2244",
+   "S2245",
+   "S2246"
   ]
  },
  {
@@ -10271,9 +10418,9 @@
   "name": "USA Living with Evil",
   "shift": 0,
   "src": [
-   "S2670",
-   "S2671",
-   "S2672"
+   "S2684",
+   "S2685",
+   "S2686"
   ]
  },
  {
@@ -10281,7 +10428,7 @@
   "name": "USA Lonestar",
   "shift": 0,
   "src": [
-   "S1964"
+   "S1966"
   ]
  },
  {
@@ -10297,9 +10444,9 @@
   "name": "USA MAVTV Select",
   "shift": 0,
   "src": [
-   "S2143",
-   "S2144",
-   "S2145"
+   "S2146",
+   "S2147",
+   "S2148"
   ]
  },
  {
@@ -10307,8 +10454,8 @@
   "name": "USA MGM Presents",
   "shift": 0,
   "src": [
-   "S2633",
-   "S2634"
+   "S2647",
+   "S2648"
   ]
  },
  {
@@ -10316,8 +10463,8 @@
   "name": "USA MGM Presents: Action",
   "shift": 0,
   "src": [
-   "S2720",
-   "S2721"
+   "S2738",
+   "S2739"
   ]
  },
  {
@@ -10325,8 +10472,8 @@
   "name": "USA MGM Presents: Westerns",
   "shift": 0,
   "src": [
-   "S2718",
-   "S2719"
+   "S2736",
+   "S2737"
   ]
  },
  {
@@ -10334,9 +10481,9 @@
   "name": "USA MGM+ HITS",
   "shift": 0,
   "src": [
-   "S2243",
-   "S2244",
-   "S2245"
+   "S2247",
+   "S2248",
+   "S2249"
   ]
  },
  {
@@ -10344,9 +10491,9 @@
   "name": "USA MGM+ Marquee",
   "shift": 0,
   "src": [
-   "S2246",
-   "S2247",
-   "S2248"
+   "S2250",
+   "S2251",
+   "S2252"
   ]
  },
  {
@@ -10354,9 +10501,9 @@
   "name": "USA MGM+ UHD",
   "shift": 0,
   "src": [
-   "S2249",
-   "S2250",
-   "S2251"
+   "S2253",
+   "S2254",
+   "S2255"
   ]
  },
  {
@@ -10364,7 +10511,7 @@
   "name": "USA MGM+ West",
   "shift": 0,
   "src": [
-   "S2252"
+   "S2256"
   ]
  },
  {
@@ -10372,9 +10519,9 @@
   "name": "USA MLB Network",
   "shift": 0,
   "src": [
-   "S2782",
-   "S2783",
-   "S2784"
+   "S2802",
+   "S2803",
+   "S2804"
   ]
  },
  {
@@ -10382,7 +10529,7 @@
   "name": "USA MLB Strike Zone",
   "shift": 0,
   "src": [
-   "S2785"
+   "S2805"
   ]
  },
  {
@@ -10390,9 +10537,9 @@
   "name": "USA MOVIEPLEX",
   "shift": 0,
   "src": [
-   "S1767",
-   "S1768",
-   "S1769"
+   "S1769",
+   "S1770",
+   "S1771"
   ]
  },
  {
@@ -10426,8 +10573,8 @@
   "name": "USA MSG HD",
   "shift": 0,
   "src": [
-   "S2351",
-   "S2352"
+   "S2355",
+   "S2356"
   ]
  },
  {
@@ -10435,8 +10582,8 @@
   "name": "USA MSGSN HD",
   "shift": 0,
   "src": [
-   "S2351",
-   "S2352"
+   "S2355",
+   "S2356"
   ]
  },
  {
@@ -10454,8 +10601,8 @@
   "name": "USA MTV 2 (West)",
   "shift": 0,
   "src": [
-   "S1965",
-   "S1966"
+   "S1967",
+   "S1968"
   ]
  },
  {
@@ -10502,9 +10649,9 @@
   "name": "USA MTV West",
   "shift": 0,
   "src": [
-   "S2306",
-   "S2307",
-   "S2308"
+   "S2310",
+   "S2311",
+   "S2312"
   ]
  },
  {
@@ -10512,8 +10659,8 @@
   "name": "USA MY 12 WMYT CHARLOTTE",
   "shift": 0,
   "src": [
-   "S1695",
-   "S1696"
+   "S1696",
+   "S1697"
   ]
  },
  {
@@ -10555,8 +10702,8 @@
   "name": "USA MY 28 WRDC DURHAM",
   "shift": 0,
   "src": [
-   "S2071",
-   "S2072"
+   "S2073",
+   "S2074"
   ]
  },
  {
@@ -10581,7 +10728,7 @@
   "name": "USA MY 38 WSBK BOSTON",
   "shift": 0,
   "src": [
-   "S1954"
+   "S1956"
   ]
  },
  {
@@ -10615,8 +10762,8 @@
   "name": "USA MY 64 (WSTR) Cincinnati",
   "shift": 0,
   "src": [
-   "S1586",
-   "S1587"
+   "S1587",
+   "S1588"
   ]
  },
  {
@@ -10633,7 +10780,7 @@
   "name": "USA MY 9 (KECY-DT) El Centro",
   "shift": 0,
   "src": [
-   "S1594"
+   "S1595"
   ]
  },
  {
@@ -10641,8 +10788,8 @@
   "name": "USA MY25 (WFGX) Alabama",
   "shift": 0,
   "src": [
-   "S1854",
-   "S1855"
+   "S1856",
+   "S1857"
   ]
  },
  {
@@ -10650,8 +10797,8 @@
   "name": "USA MY30 (WUXP) Nashville",
   "shift": 0,
   "src": [
-   "S2000",
-   "S2001"
+   "S2002",
+   "S2003"
   ]
  },
  {
@@ -10659,8 +10806,8 @@
   "name": "USA MY33 (WTVZ) Hampton Roads",
   "shift": 0,
   "src": [
-   "S1539",
-   "S1540"
+   "S1540",
+   "S1541"
   ]
  },
  {
@@ -10668,8 +10815,8 @@
   "name": "USA MY53 (WQMY) Williamsport",
   "shift": 0,
   "src": [
-   "S1541",
-   "S1542"
+   "S1542",
+   "S1543"
   ]
  },
  {
@@ -10677,8 +10824,8 @@
   "name": "USA MY62 (KSMO) Kansas City",
   "shift": 0,
   "src": [
-   "S1543",
-   "S1544"
+   "S1544",
+   "S1545"
   ]
  },
  {
@@ -10706,8 +10853,8 @@
   "name": "USA Maverick Black Cinema",
   "shift": 0,
   "src": [
-   "S2279",
-   "S2280"
+   "S2283",
+   "S2284"
   ]
  },
  {
@@ -10724,8 +10871,8 @@
   "name": "USA MeTV Plus",
   "shift": 0,
   "src": [
-   "S2493",
-   "S2494"
+   "S2505",
+   "S2506"
   ]
  },
  {
@@ -10733,8 +10880,8 @@
   "name": "USA MeTV Toons",
   "shift": 0,
   "src": [
-   "S2491",
-   "S2492"
+   "S2503",
+   "S2504"
   ]
  },
  {
@@ -10742,8 +10889,8 @@
   "name": "USA Midnight Pulp",
   "shift": 0,
   "src": [
-   "S2711",
-   "S2712"
+   "S2729",
+   "S2730"
   ]
  },
  {
@@ -10751,8 +10898,8 @@
   "name": "USA Military Heroes",
   "shift": 0,
   "src": [
-   "S2696",
-   "S2697"
+   "S2714",
+   "S2715"
   ]
  },
  {
@@ -10760,8 +10907,8 @@
   "name": "USA Miramax Movie Channel",
   "shift": 0,
   "src": [
-   "S2571",
-   "S2572"
+   "S2583",
+   "S2584"
   ]
  },
  {
@@ -10787,8 +10934,8 @@
   "name": "USA MotorTrend FAST TV",
   "shift": 0,
   "src": [
-   "S2687",
-   "S2688"
+   "S2704",
+   "S2705"
   ]
  },
  {
@@ -10796,7 +10943,7 @@
   "name": "USA Movie Favorites by Lifetime",
   "shift": 0,
   "src": [
-   "S2565"
+   "S2577"
   ]
  },
  {
@@ -10804,7 +10951,7 @@
   "name": "USA Movie Hub",
   "shift": 0,
   "src": [
-   "S2756"
+   "S2774"
   ]
  },
  {
@@ -10812,7 +10959,7 @@
   "name": "USA Movie Hub Action",
   "shift": 0,
   "src": [
-   "S2757"
+   "S2775"
   ]
  },
  {
@@ -10820,7 +10967,7 @@
   "name": "USA Movie Hub Romance",
   "shift": 0,
   "src": [
-   "S2758"
+   "S2776"
   ]
  },
  {
@@ -10828,9 +10975,9 @@
   "name": "USA MovieSphere by Lionsgate",
   "shift": 0,
   "src": [
-   "S2608",
-   "S2609",
-   "S2610"
+   "S2622",
+   "S2623",
+   "S2624"
   ]
  },
  {
@@ -10838,9 +10985,9 @@
   "name": "USA Movies!",
   "shift": 0,
   "src": [
-   "S2452",
-   "S2453",
-   "S2454"
+   "S2463",
+   "S2464",
+   "S2465"
   ]
  },
  {
@@ -10848,7 +10995,7 @@
   "name": "USA Music Choice '80s",
   "shift": 0,
   "src": [
-   "S2743"
+   "S2761"
   ]
  },
  {
@@ -10856,7 +11003,7 @@
   "name": "USA Music Choice Contemporary Christian",
   "shift": 0,
   "src": [
-   "S2196"
+   "S2199"
   ]
  },
  {
@@ -10864,7 +11011,7 @@
   "name": "USA My 43 (WUAB) Cleveland",
   "shift": 0,
   "src": [
-   "S2291"
+   "S2295"
   ]
  },
  {
@@ -10905,7 +11052,7 @@
   "name": "USA MyNetworkTV 20 (WMYD) Detroit",
   "shift": 0,
   "src": [
-   "S2786"
+   "S2806"
   ]
  },
  {
@@ -10913,7 +11060,7 @@
   "name": "USA MyTV 58 (KQCA) Sacramento",
   "shift": 0,
   "src": [
-   "S2502"
+   "S2514"
   ]
  },
  {
@@ -10921,8 +11068,8 @@
   "name": "USA MyTV 68 WABM Birmingham",
   "shift": 0,
   "src": [
-   "S2254",
-   "S2255"
+   "S2258",
+   "S2259"
   ]
  },
  {
@@ -10930,8 +11077,8 @@
   "name": "USA MyTime Movie Network",
   "shift": 0,
   "src": [
-   "S2075",
-   "S2076"
+   "S2077",
+   "S2078"
   ]
  },
  {
@@ -10939,7 +11086,7 @@
   "name": "USA Mytv KUTP Phoenix",
   "shift": 0,
   "src": [
-   "S1873"
+   "S1875"
   ]
  },
  {
@@ -10947,9 +11094,9 @@
   "name": "USA NBA TV UHD",
   "shift": 0,
   "src": [
-   "S2428",
-   "S2429",
-   "S2430"
+   "S2439",
+   "S2440",
+   "S2441"
   ]
  },
  {
@@ -10957,7 +11104,7 @@
   "name": "USA NBC  (WYCN) Nashua",
   "shift": 0,
   "src": [
-   "S1780"
+   "S1782"
   ]
  },
  {
@@ -10965,7 +11112,7 @@
   "name": "USA NBC (WEAR-TV2) Pensacola",
   "shift": 0,
   "src": [
-   "S1570"
+   "S1571"
   ]
  },
  {
@@ -10973,8 +11120,8 @@
   "name": "USA NBC 10 Albany (WALB)",
   "shift": 0,
   "src": [
-   "S1545",
-   "S1546"
+   "S1546",
+   "S1547"
   ]
  },
  {
@@ -11006,8 +11153,8 @@
   "name": "USA NBC 10 Rochester  WHEC",
   "shift": 0,
   "src": [
-   "S1547",
-   "S1548"
+   "S1548",
+   "S1549"
   ]
  },
  {
@@ -11015,8 +11162,8 @@
   "name": "USA NBC 10 WALB ALBANY",
   "shift": 0,
   "src": [
-   "S1545",
-   "S1546"
+   "S1546",
+   "S1547"
   ]
  },
  {
@@ -11059,8 +11206,8 @@
   "name": "USA NBC 10 WILX Onondaga",
   "shift": 0,
   "src": [
-   "S1549",
-   "S1550"
+   "S1550",
+   "S1551"
   ]
  },
  {
@@ -11077,8 +11224,8 @@
   "name": "USA NBC 10 WJAR Providence",
   "shift": 0,
   "src": [
-   "S1551",
-   "S1552"
+   "S1552",
+   "S1553"
   ]
  },
  {
@@ -11414,7 +11561,7 @@
   "name": "USA NBC 17 KMOL VICTORIA",
   "shift": 0,
   "src": [
-   "S1434"
+   "S1435"
   ]
  },
  {
@@ -11465,8 +11612,8 @@
   "name": "USA NBC 2 (WDTN) Dayton",
   "shift": 0,
   "src": [
-   "S1553",
-   "S1554"
+   "S1554",
+   "S1555"
   ]
  },
  {
@@ -11500,8 +11647,8 @@
   "name": "USA NBC 2 KTUU ANCHORAGE",
   "shift": 0,
   "src": [
-   "S1571",
-   "S1572"
+   "S1572",
+   "S1573"
   ]
  },
  {
@@ -11536,8 +11683,8 @@
   "name": "USA NBC 2 WKTV UTICA",
   "shift": 0,
   "src": [
-   "S1413",
-   "S1414"
+   "S1414",
+   "S1415"
   ]
  },
  {
@@ -11731,7 +11878,7 @@
   "name": "USA NBC 3 (KFDX) Wichita Falls",
   "shift": 0,
   "src": [
-   "S2305"
+   "S2309"
   ]
  },
  {
@@ -11739,8 +11886,8 @@
   "name": "USA NBC 3 (KSNW) Wichita",
   "shift": 0,
   "src": [
-   "S2455",
-   "S2456"
+   "S2466",
+   "S2467"
   ]
  },
  {
@@ -11748,8 +11895,8 @@
   "name": "USA NBC 3 (WAVE) Louisville",
   "shift": 0,
   "src": [
-   "S1555",
-   "S1556"
+   "S1556",
+   "S1557"
   ]
  },
  {
@@ -11774,7 +11921,7 @@
   "name": "USA NBC 3 KSAN SAN ANGELO",
   "shift": 0,
   "src": [
-   "S1429"
+   "S1430"
   ]
  },
  {
@@ -11791,7 +11938,7 @@
   "name": "USA NBC 3 KYTV SPRINGFIELD",
   "shift": 0,
   "src": [
-   "S1760"
+   "S1399"
   ]
  },
  {
@@ -11799,8 +11946,8 @@
   "name": "USA NBC 3 WLBT JACKSON",
   "shift": 0,
   "src": [
-   "S1568",
-   "S1569"
+   "S1569",
+   "S1570"
   ]
  },
  {
@@ -11808,8 +11955,8 @@
   "name": "USA NBC 3 WRCB Chattanooga",
   "shift": 0,
   "src": [
-   "S1557",
-   "S1558"
+   "S1558",
+   "S1559"
   ]
  },
  {
@@ -11869,8 +12016,8 @@
   "name": "USA NBC 32 WMBF MYRTLE BEACH",
   "shift": 0,
   "src": [
-   "S2126",
-   "S2127"
+   "S2128",
+   "S2129"
   ]
  },
  {
@@ -11948,8 +12095,8 @@
   "name": "USA NBC 4 KOB Albuquerque",
   "shift": 0,
   "src": [
-   "S1559",
-   "S1560"
+   "S1560",
+   "S1561"
   ]
  },
  {
@@ -11957,8 +12104,8 @@
   "name": "USA NBC 4 KSNB SUPERIOR",
   "shift": 0,
   "src": [
-   "S1407",
-   "S1408"
+   "S1408",
+   "S1409"
   ]
  },
  {
@@ -12121,7 +12268,7 @@
   "name": "USA NBC 5 KFYR BISMARK",
   "shift": 0,
   "src": [
-   "S1685"
+   "S1686"
   ]
  },
  {
@@ -12146,8 +12293,8 @@
   "name": "USA NBC 5 KOBI MEDFORD",
   "shift": 0,
   "src": [
-   "S1416",
-   "S1417"
+   "S1417",
+   "S1418"
   ]
  },
  {
@@ -12218,7 +12365,7 @@
   "name": "USA NBC 5 WPTZ PLATTSBURGH",
   "shift": 0,
   "src": [
-   "S1410"
+   "S1411"
   ]
  },
  {
@@ -12226,8 +12373,8 @@
   "name": "USA NBC 5 WRAL DURHAM/RALEIGH",
   "shift": 0,
   "src": [
-   "S1686",
-   "S1687"
+   "S1687",
+   "S1688"
   ]
  },
  {
@@ -12243,8 +12390,8 @@
   "name": "USA NBC 6 KBJR DULUTH",
   "shift": 0,
   "src": [
-   "S1580",
-   "S1581"
+   "S1581",
+   "S1582"
   ]
  },
  {
@@ -12252,8 +12399,8 @@
   "name": "USA NBC 6 KBJR WISCONSIN",
   "shift": 0,
   "src": [
-   "S1580",
-   "S1581"
+   "S1581",
+   "S1582"
   ]
  },
  {
@@ -12261,8 +12408,8 @@
   "name": "USA NBC 6 KCEN TEMPLE",
   "shift": 0,
   "src": [
-   "S1432",
-   "S1433"
+   "S1433",
+   "S1434"
   ]
  },
  {
@@ -12287,8 +12434,8 @@
   "name": "USA NBC 6 KRIS CORPUS CHRISTI",
   "shift": 0,
   "src": [
-   "S1424",
-   "S1425"
+   "S1425",
+   "S1426"
   ]
  },
  {
@@ -12305,8 +12452,8 @@
   "name": "USA NBC 6 KTAL Shreveport",
   "shift": 0,
   "src": [
-   "S1576",
-   "S1577"
+   "S1577",
+   "S1578"
   ]
  },
  {
@@ -12349,7 +12496,7 @@
   "name": "USA NBC 6 WJAC JOHNSTOWN",
   "shift": 0,
   "src": [
-   "S1797"
+   "S1799"
   ]
  },
  {
@@ -12357,7 +12504,7 @@
   "name": "USA NBC 6 WLUC Marquette",
   "shift": 0,
   "src": [
-   "S1957"
+   "S1959"
   ]
  },
  {
@@ -12527,7 +12674,7 @@
   "name": "USA NBC 8 WYCN-LD",
   "shift": 0,
   "src": [
-   "S1780"
+   "S1782"
   ]
  },
  {
@@ -12543,8 +12690,8 @@
   "name": "USA NBC 9 KRBC ABILENE",
   "shift": 0,
   "src": [
-   "S1758",
-   "S1759"
+   "S1761",
+   "S1762"
   ]
  },
  {
@@ -12603,8 +12750,8 @@
   "name": "USA NBC Buffalo WGRZ",
   "shift": 0,
   "src": [
-   "S1561",
-   "S1562"
+   "S1562",
+   "S1563"
   ]
  },
  {
@@ -12612,8 +12759,8 @@
   "name": "USA NBC Cleveland WKYC",
   "shift": 0,
   "src": [
-   "S1563",
-   "S1564"
+   "S1564",
+   "S1565"
   ]
  },
  {
@@ -12638,8 +12785,8 @@
   "name": "USA NBC Los Angeles KNBC",
   "shift": 0,
   "src": [
-   "S1565",
-   "S1566"
+   "S1566",
+   "S1567"
   ]
  },
  {
@@ -12656,9 +12803,9 @@
   "name": "USA NBC News NOW",
   "shift": 0,
   "src": [
-   "S2148",
-   "S2149",
-   "S2150"
+   "S2151",
+   "S2152",
+   "S2153"
   ]
  },
  {
@@ -12733,9 +12880,9 @@
   "name": "USA NBC Sports California",
   "shift": 0,
   "src": [
-   "S2347",
-   "S2348",
-   "S2349"
+   "S2351",
+   "S2352",
+   "S2353"
   ]
  },
  {
@@ -12751,8 +12898,8 @@
   "name": "USA NBC Sports Chicago",
   "shift": 0,
   "src": [
-   "S2746",
-   "S2747"
+   "S2764",
+   "S2765"
   ]
  },
  {
@@ -12760,9 +12907,9 @@
   "name": "USA NBC Sports Philadelphia",
   "shift": 0,
   "src": [
-   "S2344",
-   "S2345",
-   "S2346"
+   "S2348",
+   "S2349",
+   "S2350"
   ]
  },
  {
@@ -12770,8 +12917,8 @@
   "name": "USA NBC Sports Philadelphia Plus",
   "shift": 0,
   "src": [
-   "S2353",
-   "S2354"
+   "S2357",
+   "S2358"
   ]
  },
  {
@@ -12779,7 +12926,7 @@
   "name": "USA NBC St Louis KSDK",
   "shift": 0,
   "src": [
-   "S1567"
+   "S1568"
   ]
  },
  {
@@ -12787,8 +12934,8 @@
   "name": "USA NBC WLBT Jackson",
   "shift": 0,
   "src": [
-   "S1568",
-   "S1569"
+   "S1569",
+   "S1570"
   ]
  },
  {
@@ -12813,8 +12960,8 @@
   "name": "USA NBC2 (KTUU) Anchorage",
   "shift": 0,
   "src": [
-   "S1571",
-   "S1572"
+   "S1572",
+   "S1573"
   ]
  },
  {
@@ -12822,8 +12969,8 @@
   "name": "USA NBC2 (WCBD) Charleston",
   "shift": 0,
   "src": [
-   "S1573",
-   "S1574"
+   "S1574",
+   "S1575"
   ]
  },
  {
@@ -12831,7 +12978,7 @@
   "name": "USA NBC8 (KOMU) Jefferson City",
   "shift": 0,
   "src": [
-   "S1575"
+   "S1576"
   ]
  },
  {
@@ -12885,9 +13032,9 @@
   "name": "USA NHL NETWORK HD",
   "shift": 0,
   "src": [
-   "S2355",
-   "S2356",
-   "S2357"
+   "S2359",
+   "S2360",
+   "S2361"
   ]
  },
  {
@@ -12895,7 +13042,7 @@
   "name": "USA NHRA TV",
   "shift": 0,
   "src": [
-   "S2256"
+   "S2260"
   ]
  },
  {
@@ -12913,8 +13060,8 @@
   "name": "USA NICK MUSIC",
   "shift": 0,
   "src": [
-   "S1988",
-   "S1989"
+   "S1990",
+   "S1991"
   ]
  },
  {
@@ -12922,7 +13069,7 @@
   "name": "USA NRB Network",
   "shift": 0,
   "src": [
-   "S1808"
+   "S1810"
   ]
  },
  {
@@ -12930,8 +13077,8 @@
   "name": "USA Nascar Channel",
   "shift": 0,
   "src": [
-   "S2520",
-   "S2521"
+   "S2532",
+   "S2533"
   ]
  },
  {
@@ -12965,8 +13112,8 @@
   "name": "USA National Lampoon",
   "shift": 0,
   "src": [
-   "S2628",
-   "S2629"
+   "S2642",
+   "S2643"
   ]
  },
  {
@@ -12974,9 +13121,9 @@
   "name": "USA Network",
   "shift": 0,
   "src": [
-   "S2689",
-   "S2690",
-   "S2691"
+   "S2706",
+   "S2707",
+   "S2708"
   ]
  },
  {
@@ -12984,7 +13131,7 @@
   "name": "USA New England Cable News",
   "shift": 0,
   "src": [
-   "S2107"
+   "S2109"
   ]
  },
  {
@@ -12992,7 +13139,7 @@
   "name": "USA News 12 Connecticut",
   "shift": 0,
   "src": [
-   "S2090"
+   "S2092"
   ]
  },
  {
@@ -13000,7 +13147,7 @@
   "name": "USA News 12 Long Island",
   "shift": 0,
   "src": [
-   "S2333"
+   "S2337"
   ]
  },
  {
@@ -13008,7 +13155,7 @@
   "name": "USA News 12 New Jersey",
   "shift": 0,
   "src": [
-   "S2087"
+   "S2089"
   ]
  },
  {
@@ -13016,9 +13163,9 @@
   "name": "USA News 12 New York",
   "shift": 0,
   "src": [
-   "S2174",
-   "S2175",
-   "S2176"
+   "S2177",
+   "S2178",
+   "S2179"
   ]
  },
  {
@@ -13026,7 +13173,7 @@
   "name": "USA News 12 Westchester",
   "shift": 0,
   "src": [
-   "S2089"
+   "S2091"
   ]
  },
  {
@@ -13034,7 +13181,7 @@
   "name": "USA News4 WJXT Jacksonville",
   "shift": 0,
   "src": [
-   "S2370"
+   "S2374"
   ]
  },
  {
@@ -13052,9 +13199,9 @@
   "name": "USA Newsmax 2",
   "shift": 0,
   "src": [
-   "S2417",
-   "S2418",
-   "S2419"
+   "S2428",
+   "S2429",
+   "S2430"
   ]
  },
  {
@@ -13062,9 +13209,9 @@
   "name": "USA Next Level Sports",
   "shift": 0,
   "src": [
-   "S2640",
-   "S2641",
-   "S2642"
+   "S2654",
+   "S2655",
+   "S2656"
   ]
  },
  {
@@ -13102,9 +13249,9 @@
   "name": "USA Nickelodeon West",
   "shift": 0,
   "src": [
-   "S2160",
-   "S2161",
-   "S2162"
+   "S2163",
+   "S2164",
+   "S2165"
   ]
  },
  {
@@ -13112,9 +13259,9 @@
   "name": "USA Nosey",
   "shift": 0,
   "src": [
-   "S2660",
-   "S2661",
-   "S2662"
+   "S2674",
+   "S2675",
+   "S2676"
   ]
  },
  {
@@ -13122,7 +13269,7 @@
   "name": "USA OAN (One America News Network)",
   "shift": 0,
   "src": [
-   "S2088"
+   "S2090"
   ]
  },
  {
@@ -13130,7 +13277,7 @@
   "name": "USA Olympic Channel (Team USA TV)",
   "shift": 0,
   "src": [
-   "S2442"
+   "S2453"
   ]
  },
  {
@@ -13138,8 +13285,8 @@
   "name": "USA One Championship TV",
   "shift": 0,
   "src": [
-   "S2551",
-   "S2552"
+   "S2563",
+   "S2564"
   ]
  },
  {
@@ -13165,9 +13312,9 @@
   "name": "USA OuterSphere by Lionsgate",
   "shift": 0,
   "src": [
-   "S2605",
-   "S2606",
-   "S2607"
+   "S2619",
+   "S2620",
+   "S2621"
   ]
  },
  {
@@ -13195,8 +13342,8 @@
   "name": "USA Overtime",
   "shift": 0,
   "src": [
-   "S2649",
-   "S2650"
+   "S2663",
+   "S2664"
   ]
  },
  {
@@ -13223,8 +13370,8 @@
   "name": "USA PBS (KEDT) TX | CorpUSA Christi",
   "shift": 0,
   "src": [
-   "S1599",
-   "S1600"
+   "S1600",
+   "S1601"
   ]
  },
  {
@@ -13232,8 +13379,8 @@
   "name": "USA PBS (KERA) DALLAS",
   "shift": 0,
   "src": [
-   "S1611",
-   "S1612"
+   "S1612",
+   "S1613"
   ]
  },
  {
@@ -13241,7 +13388,7 @@
   "name": "USA PBS (KOCE) CA | Los Angeles (D)",
   "shift": 0,
   "src": [
-   "S1635"
+   "S1636"
   ]
  },
  {
@@ -13249,7 +13396,7 @@
   "name": "USA PBS (KOPB) OR | Portland",
   "shift": 0,
   "src": [
-   "S2121"
+   "S2123"
   ]
  },
  {
@@ -13257,8 +13404,8 @@
   "name": "USA PBS (KQED) Kids San Francisco",
   "shift": 0,
   "src": [
-   "S1602",
-   "S1603"
+   "S1603",
+   "S1604"
   ]
  },
  {
@@ -13266,8 +13413,8 @@
   "name": "USA PBS (KQED) San Francisco",
   "shift": 0,
   "src": [
-   "S1602",
-   "S1603"
+   "S1603",
+   "S1604"
   ]
  },
  {
@@ -13275,7 +13422,7 @@
   "name": "USA PBS (KSIN) Sioux City",
   "shift": 0,
   "src": [
-   "S2172"
+   "S2175"
   ]
  },
  {
@@ -13283,7 +13430,7 @@
   "name": "USA PBS (KTCA) MN | Minneapolis",
   "shift": 0,
   "src": [
-   "S2120"
+   "S2122"
   ]
  },
  {
@@ -13291,8 +13438,8 @@
   "name": "USA PBS (WBGU) Toledo",
   "shift": 0,
   "src": [
-   "S1645",
-   "S1646"
+   "S1646",
+   "S1647"
   ]
  },
  {
@@ -13300,8 +13447,8 @@
   "name": "USA PBS (WCNY) Syracuse",
   "shift": 0,
   "src": [
-   "S1640",
-   "S1641"
+   "S1641",
+   "S1642"
   ]
  },
  {
@@ -13309,8 +13456,8 @@
   "name": "USA PBS (WEDU) Tampa",
   "shift": 0,
   "src": [
-   "S1633",
-   "S1634"
+   "S1634",
+   "S1635"
   ]
  },
  {
@@ -13318,7 +13465,7 @@
   "name": "USA PBS (WETA) BALTIMORE",
   "shift": 0,
   "src": [
-   "S1610"
+   "S1611"
   ]
  },
  {
@@ -13326,8 +13473,8 @@
   "name": "USA PBS (WFYI) INDIANAPOLIS",
   "shift": 0,
   "src": [
-   "S2129",
-   "S2130"
+   "S2131",
+   "S2132"
   ]
  },
  {
@@ -13335,8 +13482,8 @@
   "name": "USA PBS (WGBH) BOSTON",
   "shift": 0,
   "src": [
-   "S2122",
-   "S2123"
+   "S2124",
+   "S2125"
   ]
  },
  {
@@ -13344,8 +13491,8 @@
   "name": "USA PBS (WGCU) Fort Myers",
   "shift": 0,
   "src": [
-   "S1643",
-   "S1644"
+   "S1644",
+   "S1645"
   ]
  },
  {
@@ -13353,8 +13500,8 @@
   "name": "USA PBS (WGTE) Toledo",
   "shift": 0,
   "src": [
-   "S1647",
-   "S1648"
+   "S1648",
+   "S1649"
   ]
  },
  {
@@ -13362,8 +13509,8 @@
   "name": "USA PBS (WHUT) Baltimore",
   "shift": 0,
   "src": [
-   "S1649",
-   "S1650"
+   "S1650",
+   "S1651"
   ]
  },
  {
@@ -13371,8 +13518,8 @@
   "name": "USA PBS (WHUT) Baltimore",
   "shift": 0,
   "src": [
-   "S1649",
-   "S1650"
+   "S1650",
+   "S1651"
   ]
  },
  {
@@ -13380,8 +13527,8 @@
   "name": "USA PBS (WHYY) PHILADELPHIA",
   "shift": 0,
   "src": [
-   "S1629",
-   "S1630"
+   "S1630",
+   "S1631"
   ]
  },
  {
@@ -13389,7 +13536,7 @@
   "name": "USA PBS (WITF) Harrisburg",
   "shift": 0,
   "src": [
-   "S2495"
+   "S2507"
   ]
  },
  {
@@ -13397,7 +13544,7 @@
   "name": "USA PBS (WKLE)",
   "shift": 0,
   "src": [
-   "S2263"
+   "S2267"
   ]
  },
  {
@@ -13405,8 +13552,8 @@
   "name": "USA PBS (WLIW) New York",
   "shift": 0,
   "src": [
-   "S1606",
-   "S1607"
+   "S1607",
+   "S1608"
   ]
  },
  {
@@ -13414,8 +13561,8 @@
   "name": "USA PBS (WLRN) MIAMI",
   "shift": 0,
   "src": [
-   "S1625",
-   "S1626"
+   "S1626",
+   "S1627"
   ]
  },
  {
@@ -13423,7 +13570,7 @@
   "name": "USA PBS (WNJT) NJ | New Jersey",
   "shift": 0,
   "src": [
-   "S2472"
+   "S2484"
   ]
  },
  {
@@ -13447,8 +13594,8 @@
   "name": "USA PBS (WQED) Pittsburgh",
   "shift": 0,
   "src": [
-   "S2210",
-   "S2211"
+   "S2214",
+   "S2215"
   ]
  },
  {
@@ -13456,8 +13603,8 @@
   "name": "USA PBS (WTTW) CHICAGO",
   "shift": 0,
   "src": [
-   "S2077",
-   "S2078"
+   "S2079",
+   "S2080"
   ]
  },
  {
@@ -13465,7 +13612,7 @@
   "name": "USA PBS (WTVI) Charlotte",
   "shift": 0,
   "src": [
-   "S2490"
+   "S2502"
   ]
  },
  {
@@ -13473,8 +13620,8 @@
   "name": "USA PBS (WUCF) ORLANDO",
   "shift": 0,
   "src": [
-   "S1627",
-   "S1628"
+   "S1628",
+   "S1629"
   ]
  },
  {
@@ -13482,7 +13629,7 @@
   "name": "USA PBS (WUNC) Chapel Hill",
   "shift": 0,
   "src": [
-   "S2070"
+   "S2072"
   ]
  },
  {
@@ -13490,8 +13637,8 @@
   "name": "USA PBS (WXXI) Rochester",
   "shift": 0,
   "src": [
-   "S2068",
-   "S2069"
+   "S2070",
+   "S2071"
   ]
  },
  {
@@ -13499,8 +13646,8 @@
   "name": "USA PBS (WYES) NEW ORLEANS",
   "shift": 0,
   "src": [
-   "S2179",
-   "S2180"
+   "S2182",
+   "S2183"
   ]
  },
  {
@@ -13508,8 +13655,8 @@
   "name": "USA PBS 10 (KLVX) Las Vegas",
   "shift": 0,
   "src": [
-   "S1621",
-   "S1622"
+   "S1622",
+   "S1623"
   ]
  },
  {
@@ -13517,7 +13664,7 @@
   "name": "USA PBS 10 (WMEM) Presque Isle",
   "shift": 0,
   "src": [
-   "S1601"
+   "S1602"
   ]
  },
  {
@@ -13525,8 +13672,8 @@
   "name": "USA PBS 11 KTWU KANSAS CITY",
   "shift": 0,
   "src": [
-   "S1729",
-   "S1730"
+   "S1732",
+   "S1733"
   ]
  },
  {
@@ -13534,7 +13681,7 @@
   "name": "USA PBS 11 WLJT Lexington",
   "shift": 0,
   "src": [
-   "S2680"
+   "S2694"
   ]
  },
  {
@@ -13551,8 +13698,8 @@
   "name": "USA PBS 14 (WCMU) Flint/Saginaw/Bay City",
   "shift": 0,
   "src": [
-   "S1604",
-   "S1605"
+   "S1605",
+   "S1606"
   ]
  },
  {
@@ -13560,7 +13707,7 @@
   "name": "USA PBS 16 WPBS Watertown",
   "shift": 0,
   "src": [
-   "S2410"
+   "S2417"
   ]
  },
  {
@@ -13568,7 +13715,7 @@
   "name": "USA PBS 17 (WMHT) Albany",
   "shift": 0,
   "src": [
-   "S1642"
+   "S1643"
   ]
  },
  {
@@ -13576,7 +13723,7 @@
   "name": "USA PBS 17 WMHT ALBANY",
   "shift": 0,
   "src": [
-   "S1642"
+   "S1643"
   ]
  },
  {
@@ -13593,8 +13740,8 @@
   "name": "USA PBS 24 WCNY SYRACUSE",
   "shift": 0,
   "src": [
-   "S1640",
-   "S1641"
+   "S1641",
+   "S1642"
   ]
  },
  {
@@ -13602,8 +13749,8 @@
   "name": "USA PBS 30 WTIU INDIANAPOLIS",
   "shift": 0,
   "src": [
-   "S1727",
-   "S1728"
+   "S1730",
+   "S1731"
   ]
  },
  {
@@ -13611,8 +13758,8 @@
   "name": "USA PBS 34 WNIT South Bend",
   "shift": 0,
   "src": [
-   "S2692",
-   "S2693"
+   "S2709",
+   "S2710"
   ]
  },
  {
@@ -13628,8 +13775,8 @@
   "name": "USA PBS 35/52 WGVU GRAND RAPIDS/KALAMAZOO",
   "shift": 0,
   "src": [
-   "S2023",
-   "S2024"
+   "S2025",
+   "S2026"
   ]
  },
  {
@@ -13646,8 +13793,8 @@
   "name": "USA PBS 54 (WQLN) Erie",
   "shift": 0,
   "src": [
-   "S1828",
-   "S1829"
+   "S1830",
+   "S1831"
   ]
  },
  {
@@ -13655,7 +13802,7 @@
   "name": "USA PBS 57 (WCFE) Mountain Lake",
   "shift": 0,
   "src": [
-   "S2009"
+   "S2011"
   ]
  },
  {
@@ -13663,8 +13810,8 @@
   "name": "USA PBS 58 (KLCS) Los Angeles",
   "shift": 0,
   "src": [
-   "S1623",
-   "S1624"
+   "S1624",
+   "S1625"
   ]
  },
  {
@@ -13672,8 +13819,8 @@
   "name": "USA PBS 6 (KVIE) Sacramento",
   "shift": 0,
   "src": [
-   "S1636",
-   "S1637"
+   "S1637",
+   "S1638"
   ]
  },
  {
@@ -13681,7 +13828,7 @@
   "name": "USA PBS 6 KPTW CASPER/RIVERTON",
   "shift": 0,
   "src": [
-   "S1731"
+   "S1734"
   ]
  },
  {
@@ -13689,8 +13836,8 @@
   "name": "USA PBS 6 KVIE SACRAMENTO",
   "shift": 0,
   "src": [
-   "S1636",
-   "S1637"
+   "S1637",
+   "S1638"
   ]
  },
  {
@@ -13698,8 +13845,8 @@
   "name": "USA PBS 7 KUED SALT LAKE CITY",
   "shift": 0,
   "src": [
-   "S1732",
-   "S1733"
+   "S1735",
+   "S1736"
   ]
  },
  {
@@ -13707,8 +13854,8 @@
   "name": "USA PBS 8 (TV8) HOUSTON",
   "shift": 0,
   "src": [
-   "S1617",
-   "S1618"
+   "S1618",
+   "S1619"
   ]
  },
  {
@@ -13716,8 +13863,8 @@
   "name": "USA PBS 9 (KCTS) SEATTLE",
   "shift": 0,
   "src": [
-   "S1631",
-   "S1632"
+   "S1632",
+   "S1633"
   ]
  },
  {
@@ -13725,8 +13872,8 @@
   "name": "USA PBS 9 (KLRN) SAN ANTONIO",
   "shift": 0,
   "src": [
-   "S1608",
-   "S1609"
+   "S1609",
+   "S1610"
   ]
  },
  {
@@ -13742,8 +13889,8 @@
   "name": "USA PBS DETROIT",
   "shift": 0,
   "src": [
-   "S1613",
-   "S1614"
+   "S1614",
+   "S1615"
   ]
  },
  {
@@ -13751,8 +13898,8 @@
   "name": "USA PBS Detroit (WTVS)",
   "shift": 0,
   "src": [
-   "S1613",
-   "S1614"
+   "S1614",
+   "S1615"
   ]
  },
  {
@@ -13760,8 +13907,8 @@
   "name": "USA PBS EL PASO TX",
   "shift": 0,
   "src": [
-   "S1615",
-   "S1616"
+   "S1616",
+   "S1617"
   ]
  },
  {
@@ -13769,8 +13916,8 @@
   "name": "USA PBS KANSAS CITY",
   "shift": 0,
   "src": [
-   "S1619",
-   "S1620"
+   "S1620",
+   "S1621"
   ]
  },
  {
@@ -13778,8 +13925,8 @@
   "name": "USA PBS KET TV",
   "shift": 0,
   "src": [
-   "S2276",
-   "S2277"
+   "S2280",
+   "S2281"
   ]
  },
  {
@@ -13787,7 +13934,7 @@
   "name": "USA PBS KET2",
   "shift": 0,
   "src": [
-   "S2397"
+   "S2402"
   ]
  },
  {
@@ -13795,8 +13942,8 @@
   "name": "USA PBS KPBS SAN DIEGO",
   "shift": 0,
   "src": [
-   "S2363",
-   "S2364"
+   "S2367",
+   "S2368"
   ]
  },
  {
@@ -13804,8 +13951,8 @@
   "name": "USA PBS KRMA CO Denver",
   "shift": 0,
   "src": [
-   "S1998",
-   "S1999"
+   "S2000",
+   "S2001"
   ]
  },
  {
@@ -13821,9 +13968,9 @@
   "name": "USA PBS Kids (KOPB)",
   "shift": 0,
   "src": [
-   "S1596",
    "S1597",
-   "S1598"
+   "S1598",
+   "S1599"
   ]
  },
  {
@@ -13831,9 +13978,9 @@
   "name": "USA PBS Kids Atlanta",
   "shift": 0,
   "src": [
-   "S1596",
    "S1597",
-   "S1598"
+   "S1598",
+   "S1599"
   ]
  },
  {
@@ -13841,9 +13988,9 @@
   "name": "USA PBS Kids Baltimore",
   "shift": 0,
   "src": [
-   "S1596",
    "S1597",
-   "S1598"
+   "S1598",
+   "S1599"
   ]
  },
  {
@@ -13851,9 +13998,9 @@
   "name": "USA PBS Kids Fresno/Visalia",
   "shift": 0,
   "src": [
-   "S1596",
    "S1597",
-   "S1598"
+   "S1598",
+   "S1599"
   ]
  },
  {
@@ -13861,9 +14008,9 @@
   "name": "USA PBS Kids Hartford/New Haven",
   "shift": 0,
   "src": [
-   "S1596",
    "S1597",
-   "S1598"
+   "S1598",
+   "S1599"
   ]
  },
  {
@@ -13871,9 +14018,9 @@
   "name": "USA PBS Kids Indianapolis",
   "shift": 0,
   "src": [
-   "S1596",
    "S1597",
-   "S1598"
+   "S1598",
+   "S1599"
   ]
  },
  {
@@ -13881,9 +14028,9 @@
   "name": "USA PBS Kids Norfolk/Portsmouth/Newport News",
   "shift": 0,
   "src": [
-   "S1596",
    "S1597",
-   "S1598"
+   "S1598",
+   "S1599"
   ]
  },
  {
@@ -13891,9 +14038,9 @@
   "name": "USA PBS Kids PHILADELPHIA",
   "shift": 0,
   "src": [
-   "S1596",
    "S1597",
-   "S1598"
+   "S1598",
+   "S1599"
   ]
  },
  {
@@ -13901,9 +14048,9 @@
   "name": "USA PBS Kids Presque Isle",
   "shift": 0,
   "src": [
-   "S1596",
    "S1597",
-   "S1598"
+   "S1598",
+   "S1599"
   ]
  },
  {
@@ -13911,9 +14058,9 @@
   "name": "USA PBS Kids San Diego",
   "shift": 0,
   "src": [
-   "S1596",
    "S1597",
-   "S1598"
+   "S1598",
+   "S1599"
   ]
  },
  {
@@ -13921,8 +14068,8 @@
   "name": "USA PBS LOS ANGELES",
   "shift": 0,
   "src": [
-   "S1623",
-   "S1624"
+   "S1624",
+   "S1625"
   ]
  },
  {
@@ -13938,8 +14085,8 @@
   "name": "USA PBS PHOENIX",
   "shift": 0,
   "src": [
-   "S2170",
-   "S2171"
+   "S2173",
+   "S2174"
   ]
  },
  {
@@ -13947,7 +14094,7 @@
   "name": "USA PBS Plus (KOPB)",
   "shift": 0,
   "src": [
-   "S2121"
+   "S2123"
   ]
  },
  {
@@ -13955,7 +14102,7 @@
   "name": "USA PBS SoCal Kids West",
   "shift": 0,
   "src": [
-   "S1635"
+   "S1636"
   ]
  },
  {
@@ -13963,7 +14110,7 @@
   "name": "USA PBS WASHINGTON DC",
   "shift": 0,
   "src": [
-   "S1610"
+   "S1611"
   ]
  },
  {
@@ -13971,8 +14118,8 @@
   "name": "USA PBS WPBT Miami",
   "shift": 0,
   "src": [
-   "S1795",
-   "S1796"
+   "S1797",
+   "S1798"
   ]
  },
  {
@@ -13980,8 +14127,8 @@
   "name": "USA PBS WVIZ Cleveland",
   "shift": 0,
   "src": [
-   "S1638",
-   "S1639"
+   "S1639",
+   "S1640"
   ]
  },
  {
@@ -13998,7 +14145,7 @@
   "name": "USA PFL",
   "shift": 0,
   "src": [
-   "S2392"
+   "S2396"
   ]
  },
  {
@@ -14006,7 +14153,7 @@
   "name": "USA PIXL",
   "shift": 0,
   "src": [
-   "S2187"
+   "S2190"
   ]
  },
  {
@@ -14023,8 +14170,8 @@
   "name": "USA POP West",
   "shift": 0,
   "src": [
-   "S2754",
-   "S2755"
+   "S2772",
+   "S2773"
   ]
  },
  {
@@ -14032,8 +14179,8 @@
   "name": "USA Pam Grier's Soul Flix",
   "shift": 0,
   "src": [
-   "S2741",
-   "S2742"
+   "S2759",
+   "S2760"
   ]
  },
  {
@@ -14089,9 +14236,9 @@
   "name": "USA Pickleball TV (PBTV)",
   "shift": 0,
   "src": [
-   "S2406",
-   "S2407",
-   "S2408"
+   "S2413",
+   "S2414",
+   "S2415"
   ]
  },
  {
@@ -14099,9 +14246,9 @@
   "name": "USA PowerNation",
   "shift": 0,
   "src": [
-   "S2477",
-   "S2478",
-   "S2479"
+   "S2489",
+   "S2490",
+   "S2491"
   ]
  },
  {
@@ -14109,7 +14256,7 @@
   "name": "USA Premier League TV",
   "shift": 0,
   "src": [
-   "S1834"
+   "S1836"
   ]
  },
  {
@@ -14117,8 +14264,8 @@
   "name": "USA PureFlix",
   "shift": 0,
   "src": [
-   "S2592",
-   "S2593"
+   "S2606",
+   "S2607"
   ]
  },
  {
@@ -14162,9 +14309,9 @@
   "name": "USA REELZ Famous & Infamous",
   "shift": 0,
   "src": [
-   "S2728",
-   "S2729",
-   "S2730"
+   "S2746",
+   "S2747",
+   "S2748"
   ]
  },
  {
@@ -14182,8 +14329,8 @@
   "name": "USA Racing America",
   "shift": 0,
   "src": [
-   "S2377",
-   "S2378"
+   "S2381",
+   "S2382"
   ]
  },
  {
@@ -14191,9 +14338,9 @@
   "name": "USA Real America's Voice",
   "shift": 0,
   "src": [
-   "S2188",
-   "S2189",
-   "S2190"
+   "S2191",
+   "S2192",
+   "S2193"
   ]
  },
  {
@@ -14201,8 +14348,8 @@
   "name": "USA Real Madrid TV",
   "shift": 0,
   "src": [
-   "S2411",
-   "S2412"
+   "S2420",
+   "S2421"
   ]
  },
  {
@@ -14210,9 +14357,9 @@
   "name": "USA Recipe TV",
   "shift": 0,
   "src": [
-   "S2235",
-   "S2236",
-   "S2237"
+   "S2239",
+   "S2240",
+   "S2241"
   ]
  },
  {
@@ -14220,7 +14367,7 @@
   "name": "USA Red Bull TV",
   "shift": 0,
   "src": [
-   "S2178"
+   "S2181"
   ]
  },
  {
@@ -14266,9 +14413,9 @@
   "name": "USA Revry",
   "shift": 0,
   "src": [
-   "S1942",
-   "S1943",
-   "S1944"
+   "S1944",
+   "S1945",
+   "S1946"
   ]
  },
  {
@@ -14276,8 +14423,8 @@
   "name": "USA Rewind TV",
   "shift": 0,
   "src": [
-   "S2473",
-   "S2474"
+   "S2485",
+   "S2486"
   ]
  },
  {
@@ -14285,7 +14432,7 @@
   "name": "USA Ride TV",
   "shift": 0,
   "src": [
-   "S2186"
+   "S2189"
   ]
  },
  {
@@ -14293,7 +14440,7 @@
   "name": "USA Ryz Sports",
   "shift": 0,
   "src": [
-   "S2615"
+   "S2629"
   ]
  },
  {
@@ -14309,9 +14456,9 @@
   "name": "USA SHOxBET",
   "shift": 0,
   "src": [
-   "S1656",
    "S1657",
-   "S1658"
+   "S1658",
+   "S1659"
   ]
  },
  {
@@ -14319,7 +14466,7 @@
   "name": "USA SHOxBET West",
   "shift": 0,
   "src": [
-   "S2151"
+   "S2154"
   ]
  },
  {
@@ -14327,9 +14474,9 @@
   "name": "USA SNL Vault",
   "shift": 0,
   "src": [
-   "S1838",
-   "S1839",
-   "S1840"
+   "S1840",
+   "S1841",
+   "S1842"
   ]
  },
  {
@@ -14337,7 +14484,7 @@
   "name": "USA SPECTRUM NEWS (NEW YORK) ROCHESTER",
   "shift": 0,
   "src": [
-   "S2431"
+   "S2442"
   ]
  },
  {
@@ -14345,7 +14492,7 @@
   "name": "USA SPECTRUM NEWS 1 (CAROLINAS) - CHARLOTTE",
   "shift": 0,
   "src": [
-   "S2405"
+   "S2412"
   ]
  },
  {
@@ -14353,7 +14500,7 @@
   "name": "USA SPECTRUM NEWS 1 - (KENTUCKY) LOUISVILLE",
   "shift": 0,
   "src": [
-   "S2445"
+   "S2456"
   ]
  },
  {
@@ -14361,7 +14508,7 @@
   "name": "USA SPECTRUM NEWS 1 - DALLAS -FT WORTH",
   "shift": 0,
   "src": [
-   "S2446"
+   "S2457"
   ]
  },
  {
@@ -14369,7 +14516,7 @@
   "name": "USA SPECTRUM NEWS HUDSON VALLEY",
   "shift": 0,
   "src": [
-   "S2391"
+   "S2395"
   ]
  },
  {
@@ -14386,8 +14533,8 @@
   "name": "USA SPORTSNET New York HD",
   "shift": 0,
   "src": [
-   "S2027",
-   "S2028"
+   "S2029",
+   "S2030"
   ]
  },
  {
@@ -14405,8 +14552,8 @@
   "name": "USA Samuel Goldwyn Channel",
   "shift": 0,
   "src": [
-   "S2666",
-   "S2667"
+   "S2680",
+   "S2681"
   ]
  },
  {
@@ -14414,8 +14561,8 @@
   "name": "USA Samuel Goldwyn Classics CHANNEL",
   "shift": 0,
   "src": [
-   "S2668",
-   "S2669"
+   "S2682",
+   "S2683"
   ]
  },
  {
@@ -14423,9 +14570,9 @@
   "name": "USA Scares by Shudder",
   "shift": 0,
   "src": [
-   "S2568",
-   "S2569",
-   "S2570"
+   "S2580",
+   "S2581",
+   "S2582"
   ]
  },
  {
@@ -14433,8 +14580,8 @@
   "name": "USA Science Channel",
   "shift": 0,
   "src": [
-   "S2372",
-   "S2373"
+   "S2376",
+   "S2377"
   ]
  },
  {
@@ -14442,7 +14589,7 @@
   "name": "USA ScreenPix",
   "shift": 0,
   "src": [
-   "S2360"
+   "S2364"
   ]
  },
  {
@@ -14450,8 +14597,8 @@
   "name": "USA ScreenPix Action",
   "shift": 0,
   "src": [
-   "S2361",
-   "S2362"
+   "S2365",
+   "S2366"
   ]
  },
  {
@@ -14459,7 +14606,7 @@
   "name": "USA ScreenPix Voices",
   "shift": 0,
   "src": [
-   "S2381"
+   "S2385"
   ]
  },
  {
@@ -14467,8 +14614,8 @@
   "name": "USA ScreenPix Westerns",
   "shift": 0,
   "src": [
-   "S2358",
-   "S2359"
+   "S2362",
+   "S2363"
   ]
  },
  {
@@ -14476,9 +14623,9 @@
   "name": "USA Scripps News",
   "shift": 0,
   "src": [
-   "S2374",
-   "S2375",
-   "S2376"
+   "S2378",
+   "S2379",
+   "S2380"
   ]
  },
  {
@@ -14486,9 +14633,9 @@
   "name": "USA Shades of Black",
   "shift": 0,
   "src": [
-   "S2673",
-   "S2674",
-   "S2675"
+   "S2687",
+   "S2688",
+   "S2689"
   ]
  },
  {
@@ -14496,8 +14643,8 @@
   "name": "USA Shout!",
   "shift": 0,
   "src": [
-   "S2208",
-   "S2209"
+   "S2212",
+   "S2213"
   ]
  },
  {
@@ -14505,9 +14652,9 @@
   "name": "USA Shout! Movies",
   "shift": 0,
   "src": [
-   "S2698",
-   "S2699",
-   "S2700"
+   "S2716",
+   "S2717",
+   "S2718"
   ]
  },
  {
@@ -14574,9 +14721,9 @@
   "name": "USA Sky News",
   "shift": 0,
   "src": [
-   "S1835",
-   "S1836",
-   "S1837"
+   "S1837",
+   "S1838",
+   "S1839"
   ]
  },
  {
@@ -14592,8 +14739,8 @@
   "name": "USA Smithsonian Channel West",
   "shift": 0,
   "src": [
-   "S2033",
-   "S2034"
+   "S2035",
+   "S2036"
   ]
  },
  {
@@ -14621,8 +14768,8 @@
   "name": "USA Spectrum News 1",
   "shift": 0,
   "src": [
-   "S2443",
-   "S2444"
+   "S2454",
+   "S2455"
   ]
  },
  {
@@ -14630,7 +14777,7 @@
   "name": "USA Spectrum News 1 Buffalo",
   "shift": 0,
   "src": [
-   "S2466"
+   "S2478"
   ]
  },
  {
@@ -14638,7 +14785,7 @@
   "name": "USA Spectrum News 1 Carolinas Mountain",
   "shift": 0,
   "src": [
-   "S2447"
+   "S2458"
   ]
  },
  {
@@ -14646,7 +14793,7 @@
   "name": "USA Spectrum News 1 Kansas City",
   "shift": 0,
   "src": [
-   "S2449"
+   "S2460"
   ]
  },
  {
@@ -14654,7 +14801,7 @@
   "name": "USA Spectrum News 1 Kentucky",
   "shift": 0,
   "src": [
-   "S2448"
+   "S2459"
   ]
  },
  {
@@ -14662,7 +14809,7 @@
   "name": "USA Spectrum News 1 Raleigh",
   "shift": 0,
   "src": [
-   "S2432"
+   "S2443"
   ]
  },
  {
@@ -14670,7 +14817,7 @@
   "name": "USA Spectrum News 1 Rochester",
   "shift": 0,
   "src": [
-   "S2431"
+   "S2442"
   ]
  },
  {
@@ -14678,7 +14825,7 @@
   "name": "USA Spectrum News 1 Southern Tier",
   "shift": 0,
   "src": [
-   "S2450"
+   "S2461"
   ]
  },
  {
@@ -14686,7 +14833,7 @@
   "name": "USA Spectrum News 1 Worcester",
   "shift": 0,
   "src": [
-   "S2383"
+   "S2387"
   ]
  },
  {
@@ -14694,7 +14841,7 @@
   "name": "USA Spectrum News Austin",
   "shift": 0,
   "src": [
-   "S2330"
+   "S2334"
   ]
  },
  {
@@ -14702,9 +14849,9 @@
   "name": "USA SpeedVision",
   "shift": 0,
   "src": [
-   "S2325",
-   "S2326",
-   "S2327"
+   "S2329",
+   "S2330",
+   "S2331"
   ]
  },
  {
@@ -14712,9 +14859,9 @@
   "name": "USA SportsGrid",
   "shift": 0,
   "src": [
-   "S1809",
-   "S1810",
-   "S1811"
+   "S1811",
+   "S1812",
+   "S1813"
   ]
  },
  {
@@ -14732,9 +14879,9 @@
   "name": "USA Start TV",
   "shift": 0,
   "src": [
-   "S1742",
-   "S1743",
-   "S1744"
+   "S1745",
+   "S1746",
+   "S1747"
   ]
  },
  {
@@ -14882,7 +15029,7 @@
   "name": "USA Stellar",
   "shift": 0,
   "src": [
-   "S2594"
+   "S2608"
   ]
  },
  {
@@ -14890,9 +15037,9 @@
   "name": "USA Stingray Karaoke",
   "shift": 0,
   "src": [
-   "S1849",
-   "S1850",
-   "S1851"
+   "S1851",
+   "S1852",
+   "S1853"
   ]
  },
  {
@@ -14900,7 +15047,7 @@
   "name": "USA Story Television",
   "shift": 0,
   "src": [
-   "S2427"
+   "S2438"
   ]
  },
  {
@@ -14918,9 +15065,9 @@
   "name": "USA Sweet Escapes",
   "shift": 0,
   "src": [
-   "S2657",
-   "S2658",
-   "S2659"
+   "S2671",
+   "S2672",
+   "S2673"
   ]
  },
  {
@@ -14928,9 +15075,9 @@
   "name": "USA Swerve Combat",
   "shift": 0,
   "src": [
-   "S2635",
-   "S2636",
-   "S2637"
+   "S2649",
+   "S2650",
+   "S2651"
   ]
  },
  {
@@ -14957,7 +15104,7 @@
   "name": "USA TBD TV",
   "shift": 0,
   "src": [
-   "S2195"
+   "S2198"
   ]
  },
  {
@@ -14965,7 +15112,7 @@
   "name": "USA TBN",
   "shift": 0,
   "src": [
-   "S1677"
+   "S1678"
   ]
  },
  {
@@ -14983,8 +15130,8 @@
   "name": "USA TBS West*",
   "shift": 0,
   "src": [
-   "S2365",
-   "S2366"
+   "S2369",
+   "S2370"
   ]
  },
  {
@@ -15002,7 +15149,7 @@
   "name": "USA TCM West",
   "shift": 180,
   "src": [
-   "S1659"
+   "S1660"
   ]
  },
  {
@@ -15010,7 +15157,7 @@
   "name": "USA TCM*",
   "shift": 0,
   "src": [
-   "S1659"
+   "S1660"
   ]
  },
  {
@@ -15018,7 +15165,7 @@
   "name": "USA TELEMUNDO 19 WRDM HARTFORD CT",
   "shift": 0,
   "src": [
-   "S1701"
+   "S1702"
   ]
  },
  {
@@ -15066,7 +15213,7 @@
   "name": "USA TELEMUNDO 44 DC WZDC",
   "shift": 0,
   "src": [
-   "S1739"
+   "S1742"
   ]
  },
  {
@@ -15074,7 +15221,7 @@
   "name": "USA TELEMUNDO 48 KTDO EL PASO TX",
   "shift": 0,
   "src": [
-   "S2262"
+   "S2266"
   ]
  },
  {
@@ -15082,9 +15229,9 @@
   "name": "USA THE MOVIE CHANNEL",
   "shift": 0,
   "src": [
-   "S1724",
-   "S1725",
-   "S1726"
+   "S1727",
+   "S1728",
+   "S1729"
   ]
  },
  {
@@ -15110,9 +15257,9 @@
   "name": "USA TMZ",
   "shift": 0,
   "src": [
-   "S1777",
-   "S1778",
-   "S1779"
+   "S1779",
+   "S1780",
+   "S1781"
   ]
  },
  {
@@ -15148,8 +15295,8 @@
   "name": "USA TV Land Drama",
   "shift": 0,
   "src": [
-   "S2768",
-   "S2769"
+   "S2786",
+   "S2787"
   ]
  },
  {
@@ -15157,8 +15304,8 @@
   "name": "USA TV Land Sitcoms",
   "shift": 0,
   "src": [
-   "S2770",
-   "S2771"
+   "S2788",
+   "S2789"
   ]
  },
  {
@@ -15166,8 +15313,8 @@
   "name": "USA TV Land West",
   "shift": 0,
   "src": [
-   "S2193",
-   "S2194"
+   "S2196",
+   "S2197"
   ]
  },
  {
@@ -15204,8 +15351,8 @@
   "name": "USA TYT Network",
   "shift": 0,
   "src": [
-   "S2556",
-   "S2557"
+   "S2568",
+   "S2569"
   ]
  },
  {
@@ -15233,8 +15380,8 @@
   "name": "USA Telemundo (WRMD) Tampa",
   "shift": 0,
   "src": [
-   "S2504",
-   "S2505"
+   "S2516",
+   "S2517"
   ]
  },
  {
@@ -15242,7 +15389,7 @@
   "name": "USA Telemundo 2 (WKAQ) Puerto Rico",
   "shift": 0,
   "src": [
-   "S2042"
+   "S2044"
   ]
  },
  {
@@ -15250,7 +15397,7 @@
   "name": "USA Telemundo 2 KASA Albuquerque",
   "shift": 0,
   "src": [
-   "S2164"
+   "S2167"
   ]
  },
  {
@@ -15258,7 +15405,7 @@
   "name": "USA Telemundo 42 (KGLA) New Orleans",
   "shift": 0,
   "src": [
-   "S2017"
+   "S2019"
   ]
  },
  {
@@ -15266,7 +15413,7 @@
   "name": "USA Telemundo 44 DC WZDC",
   "shift": 0,
   "src": [
-   "S1739"
+   "S1742"
   ]
  },
  {
@@ -15274,9 +15421,9 @@
   "name": "USA Telemundo Al Dia",
   "shift": 0,
   "src": [
-   "S1841",
-   "S1842",
-   "S1843"
+   "S1843",
+   "S1844",
+   "S1845"
   ]
  },
  {
@@ -15284,7 +15431,7 @@
   "name": "USA Telemundo KUTU Tulsa",
   "shift": 0,
   "src": [
-   "S1691"
+   "S1692"
   ]
  },
  {
@@ -15310,9 +15457,9 @@
   "name": "USA The Asylum",
   "shift": 0,
   "src": [
-   "S2708",
-   "S2709",
-   "S2710"
+   "S2726",
+   "S2727",
+   "S2728"
   ]
  },
  {
@@ -15320,7 +15467,7 @@
   "name": "USA The Country Network",
   "shift": 0,
   "src": [
-   "S2589"
+   "S2603"
   ]
  },
  {
@@ -15337,9 +15484,9 @@
   "name": "USA The Design Network",
   "shift": 0,
   "src": [
-   "S2232",
-   "S2233",
-   "S2234"
+   "S2236",
+   "S2237",
+   "S2238"
   ]
  },
  {
@@ -15347,9 +15494,9 @@
   "name": "USA The First",
   "shift": 0,
   "src": [
-   "S2318",
-   "S2319",
-   "S2320"
+   "S2322",
+   "S2323",
+   "S2324"
   ]
  },
  {
@@ -15357,9 +15504,9 @@
   "name": "USA The Grio",
   "shift": 0,
   "src": [
-   "S1717",
    "S1718",
-   "S1719"
+   "S1719",
+   "S1720"
   ]
  },
  {
@@ -15367,9 +15514,9 @@
   "name": "USA The Grio TV",
   "shift": 0,
   "src": [
-   "S1717",
    "S1718",
-   "S1719"
+   "S1719",
+   "S1720"
   ]
  },
  {
@@ -15377,8 +15524,8 @@
   "name": "USA The Impact Network",
   "shift": 0,
   "src": [
-   "S2097",
-   "S2098"
+   "S2099",
+   "S2100"
   ]
  },
  {
@@ -15386,8 +15533,8 @@
   "name": "USA The Movie Channel Xtra",
   "shift": 0,
   "src": [
-   "S1996",
-   "S1997"
+   "S1998",
+   "S1999"
   ]
  },
  {
@@ -15395,7 +15542,7 @@
   "name": "USA The U WCIU (CW26 Chicago IL)",
   "shift": 0,
   "src": [
-   "S2679"
+   "S2693"
   ]
  },
  {
@@ -15413,9 +15560,9 @@
   "name": "USA The Word Network",
   "shift": 0,
   "src": [
-   "S2528",
-   "S2529",
-   "S2530"
+   "S2540",
+   "S2541",
+   "S2542"
   ]
  },
  {
@@ -15423,9 +15570,9 @@
   "name": "USA This Old House",
   "shift": 0,
   "src": [
-   "S1844",
-   "S1845",
-   "S1846"
+   "S1846",
+   "S1847",
+   "S1848"
   ]
  },
  {
@@ -15433,8 +15580,8 @@
   "name": "USA Top Rank Classics",
   "shift": 0,
   "src": [
-   "S2597",
-   "S2598"
+   "S2611",
+   "S2612"
   ]
  },
  {
@@ -15442,8 +15589,8 @@
   "name": "USA Topeka ABC 49 (KTKA)",
   "shift": 0,
   "src": [
-   "S1788",
-   "S1789"
+   "S1790",
+   "S1791"
   ]
  },
  {
@@ -15451,8 +15598,8 @@
   "name": "USA Topeka CBS 13 (WIBW)",
   "shift": 0,
   "src": [
-   "S1784",
-   "S1785"
+   "S1786",
+   "S1787"
   ]
  },
  {
@@ -15460,8 +15607,8 @@
   "name": "USA Topeka FOX 43 (KTMJ)",
   "shift": 0,
   "src": [
-   "S1786",
-   "S1787"
+   "S1788",
+   "S1789"
   ]
  },
  {
@@ -15505,7 +15652,7 @@
   "name": "USA True Crime Network",
   "shift": 0,
   "src": [
-   "S2119"
+   "S2121"
   ]
  },
  {
@@ -15513,9 +15660,9 @@
   "name": "USA True History",
   "shift": 0,
   "src": [
-   "S2731",
-   "S2732",
-   "S2733"
+   "S2749",
+   "S2750",
+   "S2751"
   ]
  },
  {
@@ -15523,9 +15670,9 @@
   "name": "USA Turner Classic Movies*",
   "shift": 0,
   "src": [
-   "S2216",
-   "S2217",
-   "S2218"
+   "S2220",
+   "S2221",
+   "S2222"
   ]
  },
  {
@@ -15533,9 +15680,9 @@
   "name": "USA UFC Channel",
   "shift": 0,
   "src": [
-   "S2580",
-   "S2581",
-   "S2582"
+   "S2594",
+   "S2595",
+   "S2596"
   ]
  },
  {
@@ -15543,9 +15690,9 @@
   "name": "USA UNBEATEN",
   "shift": 0,
   "src": [
-   "S2553",
-   "S2554",
-   "S2555"
+   "S2565",
+   "S2566",
+   "S2567"
   ]
  },
  {
@@ -15579,8 +15726,8 @@
   "name": "USA Ultimate Builds",
   "shift": 0,
   "src": [
-   "S2748",
-   "S2749"
+   "S2766",
+   "S2767"
   ]
  },
  {
@@ -15588,9 +15735,9 @@
   "name": "USA Universal Action",
   "shift": 0,
   "src": [
-   "S2622",
-   "S2623",
-   "S2624"
+   "S2636",
+   "S2637",
+   "S2638"
   ]
  },
  {
@@ -15598,9 +15745,9 @@
   "name": "USA Universal Crime",
   "shift": 0,
   "src": [
-   "S2651",
-   "S2652",
-   "S2653"
+   "S2665",
+   "S2666",
+   "S2667"
   ]
  },
  {
@@ -15608,9 +15755,9 @@
   "name": "USA Universal Monsters",
   "shift": 0,
   "src": [
-   "S2775",
-   "S2776",
-   "S2777"
+   "S2795",
+   "S2796",
+   "S2797"
   ]
  },
  {
@@ -15618,9 +15765,9 @@
   "name": "USA Universal Movies",
   "shift": 0,
   "src": [
-   "S2625",
-   "S2626",
-   "S2627"
+   "S2639",
+   "S2640",
+   "S2641"
   ]
  },
  {
@@ -15628,7 +15775,7 @@
   "name": "USA Univision (KUNW)",
   "shift": 0,
   "src": [
-   "S2204"
+   "S2207"
   ]
  },
  {
@@ -15636,7 +15783,7 @@
   "name": "USA Univision 19 (KUVS) Sacramento",
   "shift": 0,
   "src": [
-   "S2229"
+   "S2233"
   ]
  },
  {
@@ -15644,7 +15791,7 @@
   "name": "USA Univision 21 (KFTV) Fresno",
   "shift": 0,
   "src": [
-   "S1970"
+   "S1972"
   ]
  },
  {
@@ -15662,8 +15809,8 @@
   "name": "USA VH1 West",
   "shift": 0,
   "src": [
-   "S2031",
-   "S2032"
+   "S2033",
+   "S2034"
   ]
  },
  {
@@ -15671,7 +15818,7 @@
   "name": "USA Vegas34 (KMCC) Las Vegas",
   "shift": 0,
   "src": [
-   "S2340"
+   "S2344"
   ]
  },
  {
@@ -15679,8 +15826,8 @@
   "name": "USA Vevo 80s",
   "shift": 0,
   "src": [
-   "S2516",
-   "S2517"
+   "S2528",
+   "S2529"
   ]
  },
  {
@@ -15688,8 +15835,8 @@
   "name": "USA Vevo Country",
   "shift": 0,
   "src": [
-   "S2518",
-   "S2519"
+   "S2530",
+   "S2531"
   ]
  },
  {
@@ -15697,7 +15844,7 @@
   "name": "USA Vice TV",
   "shift": 0,
   "src": [
-   "S2503"
+   "S2515"
   ]
  },
  {
@@ -15715,7 +15862,7 @@
   "name": "USA WATC-57 Atlanta",
   "shift": 0,
   "src": [
-   "S2052"
+   "S2054"
   ]
  },
  {
@@ -15723,8 +15870,8 @@
   "name": "USA WILLOW CRICKET HD",
   "shift": 0,
   "src": [
-   "S1745",
-   "S1746"
+   "S1748",
+   "S1749"
   ]
  },
  {
@@ -15732,7 +15879,7 @@
   "name": "USA WMBC Newton",
   "shift": 0,
   "src": [
-   "S2177"
+   "S2180"
   ]
  },
  {
@@ -15749,9 +15896,9 @@
   "name": "USA WORLD POKER TOUR",
   "shift": 0,
   "src": [
-   "S1720",
    "S1721",
-   "S1722"
+   "S1722",
+   "S1723"
   ]
  },
  {
@@ -15759,7 +15906,7 @@
   "name": "USA WPIX",
   "shift": 0,
   "src": [
-   "S1995"
+   "S1997"
   ]
  },
  {
@@ -15786,9 +15933,9 @@
   "name": "USA WeatherNation HD",
   "shift": 0,
   "src": [
-   "S1990",
-   "S1991",
-   "S1992"
+   "S1992",
+   "S1993",
+   "S1994"
   ]
  },
  {
@@ -15796,8 +15943,8 @@
   "name": "USA Western Bound",
   "shift": 0,
   "src": [
-   "S2722",
-   "S2723"
+   "S2740",
+   "S2741"
   ]
  },
  {
@@ -15805,8 +15952,8 @@
   "name": "USA Willow Cricket",
   "shift": 0,
   "src": [
-   "S1745",
-   "S1746"
+   "S1748",
+   "S1749"
   ]
  },
  {
@@ -15814,9 +15961,9 @@
   "name": "USA Willow Sports",
   "shift": 0,
   "src": [
-   "S2684",
-   "S2685",
-   "S2686"
+   "S2698",
+   "S2699",
+   "S2700"
   ]
  },
  {
@@ -15824,9 +15971,9 @@
   "name": "USA Women's Sports Network",
   "shift": 0,
   "src": [
-   "S2461",
-   "S2462",
-   "S2463"
+   "S2472",
+   "S2473",
+   "S2474"
   ]
  },
  {
@@ -15834,8 +15981,8 @@
   "name": "USA Yahoo! Finance",
   "shift": 0,
   "src": [
-   "S2395",
-   "S2396"
+   "S2400",
+   "S2401"
   ]
  },
  {
@@ -15843,8 +15990,8 @@
   "name": "USA Yakima/Pasco/Richland/Kennewick ABC 42 (KVEW)",
   "shift": 0,
   "src": [
-   "S1790",
-   "S1791"
+   "S1792",
+   "S1793"
   ]
  },
  {
@@ -15862,7 +16009,7 @@
   "name": "USA Zanesville, OH WHIZ-D2 FOX 19",
   "shift": 0,
   "src": [
-   "S2750"
+   "S2768"
   ]
  },
  {
@@ -15870,7 +16017,7 @@
   "name": "USA abc 7 (KSWO) Wichita Falls",
   "shift": 0,
   "src": [
-   "S2066"
+   "S2068"
   ]
  },
  {
@@ -15887,8 +16034,8 @@
   "name": "USA abc12 KDRV Medford",
   "shift": 0,
   "src": [
-   "S1884",
-   "S1885"
+   "S1886",
+   "S1887"
   ]
  },
  {
@@ -15896,8 +16043,8 @@
   "name": "USA abc16 WAPT Jackson",
   "shift": 0,
   "src": [
-   "S1912",
-   "S1913"
+   "S1914",
+   "S1915"
   ]
  },
  {
@@ -15905,7 +16052,7 @@
   "name": "USA abc17 KBMY Minot",
   "shift": 0,
   "src": [
-   "S1882"
+   "S1884"
   ]
  },
  {
@@ -15913,7 +16060,7 @@
   "name": "USA abc18 (WDHN) Dothan",
   "shift": 0,
   "src": [
-   "S1915"
+   "S1917"
   ]
  },
  {
@@ -15921,7 +16068,7 @@
   "name": "USA abc18 KOHD Bend",
   "shift": 0,
   "src": [
-   "S1897"
+   "S1899"
   ]
  },
  {
@@ -15929,7 +16076,7 @@
   "name": "USA abc18 KWYB Butte",
   "shift": 0,
   "src": [
-   "S1907"
+   "S1909"
   ]
  },
  {
@@ -15937,7 +16084,7 @@
   "name": "USA abc18 WQOW Eau Claire",
   "shift": 0,
   "src": [
-   "S1928"
+   "S1930"
   ]
  },
  {
@@ -15945,7 +16092,7 @@
   "name": "USA abc19 WXOW Eau Claire",
   "shift": 0,
   "src": [
-   "S1931"
+   "S1933"
   ]
  },
  {
@@ -15953,7 +16100,7 @@
   "name": "USA abc2 KMID Odessa/Midland",
   "shift": 0,
   "src": [
-   "S1896"
+   "S1898"
   ]
  },
  {
@@ -15961,7 +16108,7 @@
   "name": "USA abc2 KQTV St. Joseph",
   "shift": 0,
   "src": [
-   "S1898"
+   "S1900"
   ]
  },
  {
@@ -15969,8 +16116,8 @@
   "name": "USA abc22 WJCL Savannah",
   "shift": 0,
   "src": [
-   "S1920",
-   "S1921"
+   "S1922",
+   "S1923"
   ]
  },
  {
@@ -15978,8 +16125,8 @@
   "name": "USA abc23 KERO Bakersfield",
   "shift": 0,
   "src": [
-   "S1886",
-   "S1887"
+   "S1888",
+   "S1889"
   ]
  },
  {
@@ -15987,8 +16134,8 @@
   "name": "USA abc24 WJET Erie",
   "shift": 0,
   "src": [
-   "S1922",
-   "S1923"
+   "S1924",
+   "S1925"
   ]
  },
  {
@@ -16004,7 +16151,7 @@
   "name": "USA abc25 KAVU Victoria",
   "shift": 0,
   "src": [
-   "S1881"
+   "S1883"
   ]
  },
  {
@@ -16012,8 +16159,8 @@
   "name": "USA abc25 WEHT Evansville",
   "shift": 0,
   "src": [
-   "S1916",
-   "S1917"
+   "S1918",
+   "S1919"
   ]
  },
  {
@@ -16021,8 +16168,8 @@
   "name": "USA abc29 KVHP Lake Charles",
   "shift": 0,
   "src": [
-   "S1905",
-   "S1906"
+   "S1907",
+   "S1908"
   ]
  },
  {
@@ -16030,7 +16177,7 @@
   "name": "USA abc34 WIVT Binghamton",
   "shift": 0,
   "src": [
-   "S1919"
+   "S1921"
   ]
  },
  {
@@ -16038,7 +16185,7 @@
   "name": "USA abc35 WOHL Lima",
   "shift": 0,
   "src": [
-   "S1925"
+   "S1927"
   ]
  },
  {
@@ -16046,7 +16193,7 @@
   "name": "USA abc35 WPBY Lafayette",
   "shift": 0,
   "src": [
-   "S1924"
+   "S1926"
   ]
  },
  {
@@ -16054,7 +16201,7 @@
   "name": "USA abc36 WENY Elmira",
   "shift": 0,
   "src": [
-   "S1918"
+   "S1920"
   ]
  },
  {
@@ -16062,8 +16209,8 @@
   "name": "USA abc4 KXLY Spokane",
   "shift": 0,
   "src": [
-   "S1908",
-   "S1909"
+   "S1910",
+   "S1911"
   ]
  },
  {
@@ -16071,7 +16218,7 @@
   "name": "USA abc47 WMDT Salisbury",
   "shift": 0,
   "src": [
-   "S2047"
+   "S2049"
   ]
  },
  {
@@ -16079,7 +16226,7 @@
   "name": "USA abc5 KAAL Rochester",
   "shift": 0,
   "src": [
-   "S1880"
+   "S1882"
   ]
  },
  {
@@ -16087,7 +16234,7 @@
   "name": "USA abc5 KFBB Great Falls",
   "shift": 0,
   "src": [
-   "S1892"
+   "S1894"
   ]
  },
  {
@@ -16095,8 +16242,8 @@
   "name": "USA abc5 WOI West Des Moine",
   "shift": 0,
   "src": [
-   "S1926",
-   "S1927"
+   "S1928",
+   "S1929"
   ]
  },
  {
@@ -16104,7 +16251,7 @@
   "name": "USA abc50 WWTI Watertown",
   "shift": 0,
   "src": [
-   "S1930"
+   "S1932"
   ]
  },
  {
@@ -16112,7 +16259,7 @@
   "name": "USA abc6 (WDAY) Fargo",
   "shift": 0,
   "src": [
-   "S1914"
+   "S1916"
   ]
  },
  {
@@ -16120,7 +16267,7 @@
   "name": "USA abc6 KIVI Boise City",
   "shift": 0,
   "src": [
-   "S1893"
+   "S1895"
   ]
  },
  {
@@ -16128,8 +16275,8 @@
   "name": "USA abc6 KRGV Harlingen/Weslaco/Brownsville/Mcallen",
   "shift": 0,
   "src": [
-   "S1899",
-   "S1900"
+   "S1901",
+   "S1902"
   ]
  },
  {
@@ -16137,8 +16284,8 @@
   "name": "USA abc6 KSAW Twin Falls V",
   "shift": 0,
   "src": [
-   "S1901",
-   "S1902"
+   "S1903",
+   "S1904"
   ]
  },
  {
@@ -16146,7 +16293,7 @@
   "name": "USA abc6 KSVI Billings V",
   "shift": 0,
   "src": [
-   "S1903"
+   "S1905"
   ]
  },
  {
@@ -16154,7 +16301,7 @@
   "name": "USA abc6 WABG Greenwood",
   "shift": 0,
   "src": [
-   "S1910"
+   "S1912"
   ]
  },
  {
@@ -16162,8 +16309,8 @@
   "name": "USA abc7 KETV Omaha",
   "shift": 0,
   "src": [
-   "S1888",
-   "S1889"
+   "S1890",
+   "S1891"
   ]
  },
  {
@@ -16171,7 +16318,7 @@
   "name": "USA abc7 WTRF Wheeling",
   "shift": 0,
   "src": [
-   "S2451"
+   "S2462"
   ]
  },
  {
@@ -16179,7 +16326,7 @@
   "name": "USA abc7 WVII Presque Isle",
   "shift": 0,
   "src": [
-   "S1929"
+   "S1931"
   ]
  },
  {
@@ -16187,7 +16334,7 @@
   "name": "USA abc8 KIFI Idaho Falls",
   "shift": 0,
   "src": [
-   "S1585"
+   "S1586"
   ]
  },
  {
@@ -16195,8 +16342,8 @@
   "name": "USA abc8 KLKN Lincoln / NB",
   "shift": 0,
   "src": [
-   "S1894",
-   "S1895"
+   "S1896",
+   "S1897"
   ]
  },
  {
@@ -16204,7 +16351,7 @@
   "name": "USA abc9 KCAU Sioux City",
   "shift": 0,
   "src": [
-   "S1883"
+   "S1885"
   ]
  },
  {
@@ -16212,8 +16359,8 @@
   "name": "USA abc9 KEZI Eugene",
   "shift": 0,
   "src": [
-   "S1890",
-   "S1891"
+   "S1892",
+   "S1893"
   ]
  },
  {
@@ -16221,7 +16368,7 @@
   "name": "USA abc9 WAOW Wausau",
   "shift": 0,
   "src": [
-   "S1911"
+   "S1913"
   ]
  },
  {
@@ -16239,9 +16386,9 @@
   "name": "USA i24 News",
   "shift": 0,
   "src": [
-   "S1816",
-   "S1817",
-   "S1818"
+   "S1818",
+   "S1819",
+   "S1820"
   ]
  },
  {
@@ -16249,7 +16396,7 @@
   "name": "USA the Spot 66 (WXPX) Tampa",
   "shift": 0,
   "src": [
-   "S2734"
+   "S2752"
   ]
  },
  {
@@ -16257,9 +16404,9 @@
   "name": "USA theGrio",
   "shift": 0,
   "src": [
-   "S1717",
    "S1718",
-   "S1719"
+   "S1719",
+   "S1720"
   ]
  },
  {
@@ -16282,11 +16429,20 @@
   ]
  },
  {
+  "id": "uss-pbs-21-wvia-scranton.jm",
+  "name": "USS PBS 21 (WVIA) Scranton",
+  "shift": 0,
+  "src": [
+   "S2425",
+   "S2426"
+  ]
+ },
+ {
   "id": "va-charlottesville-abc-wvaw-lp.jm",
   "name": "VA | Charlottesville | ABC WVAW-LP",
   "shift": 0,
   "src": [
-   "S2524"
+   "S2536"
   ]
  },
  {
@@ -16294,7 +16450,7 @@
   "name": "VA | Charlottesville | CBS WCAV",
   "shift": 0,
   "src": [
-   "S2537"
+   "S2549"
   ]
  },
  {
@@ -16302,7 +16458,7 @@
   "name": "VA | Harrisonburg | CBS WSVF-C2",
   "shift": 0,
   "src": [
-   "S2540"
+   "S2552"
   ]
  },
  {
@@ -16310,8 +16466,8 @@
   "name": "WA | Spokane | NBC KHQ",
   "shift": 0,
   "src": [
-   "S1578",
-   "S1579"
+   "S1579",
+   "S1580"
   ]
  },
  {
@@ -16319,7 +16475,7 @@
   "name": "WI | Superior | CBS KBJR-D2",
   "shift": 0,
   "src": [
-   "S2539"
+   "S2551"
   ]
  },
  {
@@ -16327,8 +16483,8 @@
   "name": "WI | Superior | NBC KBJR",
   "shift": 0,
   "src": [
-   "S1580",
-   "S1581"
+   "S1581",
+   "S1582"
   ]
  },
  {
@@ -16345,7 +16501,7 @@
   "name": "WV | Parkersburg | CBS WIYE-LD",
   "shift": 0,
   "src": [
-   "S2538"
+   "S2550"
   ]
  },
  {
@@ -16362,7 +16518,7 @@
   "name": "WV | Wheeling | NBC WTOV",
   "shift": 0,
   "src": [
-   "S1415"
+   "S1416"
   ]
  },
  {
@@ -16370,7 +16526,7 @@
   "name": "WY | Casper | CBS 14 KGWC",
   "shift": 0,
   "src": [
-   "S2532"
+   "S2544"
   ]
  },
  {
@@ -16386,7 +16542,7 @@
   "name": "WY | Cheyenne | NBC KCHY",
   "shift": 0,
   "src": [
-   "S1582"
+   "S1583"
   ]
  },
  {

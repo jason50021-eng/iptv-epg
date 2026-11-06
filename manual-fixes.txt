@@ -3,7 +3,9 @@ so TiviMate links them to the wrong listings. Fix any you watch once: in TiviMat
 options, choose the TV guide / EPG channel, and pick the entry with the same name from this guide.
 
 ID | Idaho Falls | Telemundo KIFI
+MARYLAND | Salisbury | Fox WBOC
 NY | Plattsburgh | NBC WPTZ
+US CBS 18 WLFI-DT Lafayette
 USA ABC 12 (KTXS) Abilene
 USA ABC 12 WCTI Greenville
 USA ABC 13 Omaha (KMTV)
