@@ -94,7 +94,7 @@ jobs:
           - group: other
             args: --days=4 --maxConnections=5
           - group: epgshare
-            args: --days=4 --maxConnections=1
+            args: ""
     steps:
       - uses: actions/checkout@v5
       - name: Use tonight's matching
@@ -106,10 +106,13 @@ jobs:
         with:
           repository: iptv-org/epg
           path: epg
+          sparse-checkout: ${{ matrix.group == 'epgshare' && 'README.md' || '' }}
       - uses: actions/setup-node@v5
+        if: matrix.group != 'epgshare'
         with:
           node-version: 22
       - name: Install grabber
+        if: matrix.group != 'epgshare'
         working-directory: epg
         run: npm ci --no-audit --no-fund
       - name: Grab ${{ matrix.group }}
@@ -119,12 +122,8 @@ jobs:
           # tonight's late listings sit on the previous day's page. build.py drops shows that already ended.
           export CURR_DATE=$(TZ=America/Chicago date -d yesterday +%F)
           if [ "${{ matrix.group }}" = epgshare ]; then
-            # one run per country file (the epgshare01 grabber caches a single file at a time)
-            for f in ../sources/epgshare-*.channels.xml; do
-              tag=$(basename "$f" .channels.xml)
-              npm run grab -- --channels="$f" --output="../raw-$tag.xml" --timeout=120000 ${{ matrix.args }} \
-                >> ../grab-epgshare.log 2>&1 || true
-            done
+            # epgshare01 publishes whole files: download each once and keep only our channels (fast)
+            python3 ../epgshare_grab.py .. > ../grab-epgshare.log 2>&1 || true
           else
             npm run grab -- --channels=../sources/${{ matrix.group }}.channels.xml \
               --output=../raw-${{ matrix.group }}.xml --timeout=30000 ${{ matrix.args }} \

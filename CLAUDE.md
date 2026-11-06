@@ -41,7 +41,7 @@ TiviMate guide URL: https://raw.githubusercontent.com/jason50021-eng/iptv-epg/gu
 
 ## Sources
 - Work from GitHub: tvpassport.com (first choice, has descriptions/images), ontvtonight.com, epgshare01.online
-  (whole-country files US2, US_LOCALS1, US_SPORTS1, FANDUEL1, PLEX1, DISTROTV1; grabbed one file per run because
+  (whole-country files, downloaded once each by epgshare_grab.py: US2, US_LOCALS1, US_SPORTS1, FANDUEL1, PLEX1, DISTROTV1; grabbed one file per run because
   its grabber caches a single file. File names and channel IDs change, so the match job downloads the current
   epg_ripper_<TAG>.txt lists and EPGSHARE_TAGS in match.py names the files; iptv-org's epgshare lists are stale), directv.com, tvinsider.com, tvguide.com, i.mjh.nz (Pluto/Samsung/Roku/Plex/PBS),
   plex.tv, pluto.tv, xumo.tv, distro.tv.
