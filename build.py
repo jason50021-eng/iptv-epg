@@ -66,6 +66,7 @@ def main(out, raws):
     mapping = json.load(open(os.path.join(HERE, 'mapping.json'), encoding='utf-8'))
     progs = load_programmes(raws)
     used, empty, n_prog = 0, [], 0
+    cutoff = (datetime.datetime.utcnow() - datetime.timedelta(hours=3)).strftime(FMT)
     tmp = out + '.tmp'
     with gzip.open(tmp, 'wt', encoding='utf-8', compresslevel=9) as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv generator-info-name="iptv-epg">\n')
@@ -80,6 +81,8 @@ def main(out, raws):
         for m, src in chosen:
             used += 1
             for el in progs[src]:
+                if (el.get('stop') or el.get('start'))[:14] < cutoff:
+                    continue  # already over
                 el.set('channel', m['id'])
                 start, stop = el.get('start'), el.get('stop')
                 if m.get('shift'):

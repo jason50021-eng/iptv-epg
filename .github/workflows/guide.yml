@@ -22,11 +22,11 @@ jobs:
       matrix:
         include:
           - group: tvpassport
-            args: --days=3 --maxConnections=5
+            args: --days=4 --maxConnections=5
           - group: ontvtonight
-            args: --days=3 --maxConnections=2
+            args: --days=4 --maxConnections=2
           - group: other
-            args: --days=3 --maxConnections=5
+            args: --days=4 --maxConnections=5
     steps:
       - uses: actions/checkout@v5
       - uses: actions/checkout@v5
@@ -42,8 +42,9 @@ jobs:
       - name: Grab ${{ matrix.group }}
         working-directory: epg
         run: |
-          # start from today's date in Central time (GitHub runs on UTC, which is already tomorrow after 6 PM)
-          CURR_DATE=$(TZ=America/Chicago date +%F) npm run grab -- --channels=../sources/${{ matrix.group }}.channels.xml \
+          # start from yesterday (Central time): source sites split days on Eastern/UTC midnight, so
+          # tonight's late listings sit on the previous day's page. build.py drops shows that already ended.
+          CURR_DATE=$(TZ=America/Chicago date -d yesterday +%F) npm run grab -- --channels=../sources/${{ matrix.group }}.channels.xml \
             --output=../raw-${{ matrix.group }}.xml --timeout=30000 ${{ matrix.args }} \
             > ../grab-${{ matrix.group }}.log 2>&1 || true
           tail -n 25 ../grab-${{ matrix.group }}.log
