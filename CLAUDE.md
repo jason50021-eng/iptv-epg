@@ -49,6 +49,8 @@ TiviMate guide URL: https://raw.githubusercontent.com/jason50021-eng/iptv-epg/gu
 - ontvtonight lists each market in local time but its grabber reads times as Eastern (Pacific stations 3h early).
   build.py calibrate_lineups() compares ontvtonight against tvpassport per market lineup and shifts it; it needs
   sources/index.json (written by gen.py). The shift per market is printed in status.txt.
+  Shifts are limited to -1h..+6h (real US offsets from Eastern) and need a clear winner over no shift.
+- epgshare channel names come from their IDs; run-together names (MLB-SeattleMariners) are split in epgshare_name().
 - Samsung TV Plus (i.mjh.nz) only publishes a few hours ahead, and some sources skip a day. build.py picks, per
   channel, the source covering the most hours from 3h ago to 3 days ahead (earlier sources win when within 15%).
 
