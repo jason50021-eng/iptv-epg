@@ -107,7 +107,7 @@ def calibrate_lineups(mapping, progs, index):
         best = max(counts, key=lambda h: (counts[h], -abs(h)))  # ties go to the smaller shift
         n0 = counts[0]
         # only trust a clear winner: shows that repeat every hour match at many shifts
-        if best != 0 and counts[best] >= 3 and counts[best] >= 2 * n0 + 2:
+        if best != 0 and counts[best] >= 3 and counts[best] >= n0 + 2:
             votes[index[ot[0]][1].split('/')[0]][best] += 1
         elif n0 >= 3:
             votes[index[ot[0]][1].split('/')[0]][0] += 1
