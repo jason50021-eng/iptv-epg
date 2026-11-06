@@ -3,7 +3,7 @@
 Builds a daily XMLTV guide (`guide.xml.gz`) for the US channels in my IPTV playlist, named to match the
 provider's channel names and guide IDs so TiviMate links them automatically.
 
-**Guide URL for TiviMate:** `https://raw.githubusercontent.com/<your-github-username>/<repo-name>/guide/guide.xml.gz`
+**Guide URL for TiviMate:** `https://raw.githubusercontent.com/jason50021-eng/iptv-epg/guide/guide.xml.gz`
 
 - Runs every day at about 2:23 AM Central (Actions tab, "Build TV guide"). Use "Run workflow" to refresh by hand.
 - Listings come from free sources via [iptv-org/epg](https://github.com/iptv-org/epg): tvpassport.com (with
