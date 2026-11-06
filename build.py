@@ -24,6 +24,21 @@ def shift_time(value, minutes):
     return t.strftime(FMT) + (' ' + tz if tz else '')
 
 
+def coverage_end(els):
+    return max((e.get('stop') or e.get('start'))[:14] for e in els)
+
+
+def pick_source(keys, progs):
+    """Prefer sources in listed order, but skip one that stops far earlier than another
+    (e.g. Samsung TV Plus only publishes a few hours ahead; Plex has three days)."""
+    have = [k for k in keys if progs.get(k)]
+    if not have:
+        return None
+    ends = {k: datetime.datetime.strptime(coverage_end(progs[k]), FMT) for k in have}
+    best = max(ends.values())
+    return next(k for k in have if ends[k] >= best - datetime.timedelta(hours=12))
+
+
 def load_programmes(paths):
     progs = collections.defaultdict(list)
     for p in paths:
@@ -56,7 +71,7 @@ def main(out, raws):
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv generator-info-name="iptv-epg">\n')
         chosen = []
         for m in mapping:
-            src = next((s for s in m['src'] if progs.get(s)), None)
+            src = pick_source(m['src'], progs)
             if not src:
                 empty.append(m['name'])
                 continue
