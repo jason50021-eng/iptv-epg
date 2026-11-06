@@ -23,17 +23,17 @@ jobs:
         include:
           - group: tvpassport
             args: --days=3 --maxConnections=5
-          - group: tvtv
-            args: --days=2 --maxConnections=1 --delay=1000
+          - group: ontvtonight
+            args: --days=3 --maxConnections=2
           - group: other
             args: --days=3 --maxConnections=5
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
+      - uses: actions/checkout@v5
         with:
           repository: iptv-org/epg
           path: epg
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with:
           node-version: 22
       - name: Install grabber
@@ -61,7 +61,7 @@ jobs:
     if: always()
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: actions/download-artifact@v4
         with:
           path: raw

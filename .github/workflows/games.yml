@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Get the current guide
         run: |
           git fetch -q --depth=1 origin guide || { echo "No guide yet. Run 'Build TV guide' first."; exit 0; }
