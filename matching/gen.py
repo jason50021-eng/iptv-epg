@@ -20,7 +20,7 @@ SHARED_IDS = read_list('shared-ids.txt')
 DROP_ALL_SHARED = 'ALL' in SHARED_IDS
 
 # Descriptions matter for a useful guide: tvpassport (has descriptions) first, tvtv.us second.
-SITE_PR = {'tvpassport.com': 1, 'ontvtonight.com': 2, 'directv.com': 3, 'tvinsider.com': 3, 'tvguide.com': 3,
+SITE_PR = {'tvpassport.com': 1, 'ontvtonight.com': 2, 'epgshare01.online': 3, 'directv.com': 3, 'tvinsider.com': 3, 'tvguide.com': 3,
            'i.mjh.nz': 4, 'plex.tv': 5, 'pluto.tv': 5, 'xumo.tv': 5, 'distro.tv': 5}
 
 def compact(n):
@@ -53,7 +53,7 @@ def alternatives(x, s):
     best = {}
     for a in sorted(alts, key=lambda a: (SITE_PR.get(a['site'], 9), 0 if 'HD' in a['name'] else 1)):
         best.setdefault(a['site'], a)
-    out = sorted(best.values(), key=lambda a: SITE_PR.get(a['site'], 9))[:3]
+    out = sorted(best.values(), key=lambda a: SITE_PR.get(a['site'], 9))[:4]
     return out
 
 rows = json.load(open(os.path.join(M.WORK, 'match.json')))
@@ -144,12 +144,27 @@ for x in rows:
 
 json.dump(sorted(mapping.values(), key=lambda m: m['name']), open(OUT + '/mapping.json', 'w'), indent=1)
 
+# epgshare01's grabber caches one country file at a time, so it gets one sources file per file tag
+import glob as _glob
+for old in _glob.glob(OUT + '/sources/epgshare*.channels.xml'):
+    os.remove(old)
+epg_tags = sorted({v['site_id'].split('#')[0] for v in src_keys.values() if v['site'] == 'epgshare01.online'})
+for tag in epg_tags:
+    rows_ = [v for v in src_keys.values() if v['site'] == 'epgshare01.online' and v['site_id'].split('#')[0] == tag]
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>', '<channels>']
+    for v in rows_:
+        lines.append('  <channel site="%s" site_id="%s" lang="%s" xmltv_id="%s">%s</channel>' % (
+            html.escape(v['site']), html.escape(v['site_id']), v['lang'] or 'en', v['key'], html.escape(v['name'])))
+    lines.append('</channels>')
+    open(f'{OUT}/sources/epgshare-{tag}.channels.xml', 'w').write('\n'.join(lines) + '\n')
+    print('epgshare', tag, len(rows_), 'sources')
+
 groups = {'tvpassport': ['tvpassport.com'], 'ontvtonight': ['ontvtonight.com'], 'other': None}
 for g, sites in groups.items():
     lines = ['<?xml version="1.0" encoding="UTF-8"?>', '<channels>']
     n = 0
     for v in src_keys.values():
-        if (sites and v['site'] in sites) or (not sites and v['site'] not in ('tvpassport.com', 'ontvtonight.com')):
+        if (sites and v['site'] in sites) or (not sites and v['site'] not in ('tvpassport.com', 'ontvtonight.com', 'epgshare01.online')):
             lines.append('  <channel site="%s" site_id="%s" lang="%s" xmltv_id="%s">%s</channel>' % (
                 html.escape(v['site']), html.escape(v['site_id']), v['lang'] or 'en', v['key'], html.escape(v['name'])))
             n += 1

@@ -40,14 +40,18 @@ TiviMate guide URL: https://raw.githubusercontent.com/jason50021-eng/iptv-epg/gu
 - Channel numbers in TiviMate = position within the group by provider order.
 
 ## Sources
-- Work from GitHub: tvpassport.com (first choice, has descriptions/images), ontvtonight.com, directv.com,
-  tvinsider.com, tvguide.com, i.mjh.nz (Pluto/Samsung/Roku/Plex/PBS), plex.tv, pluto.tv, xumo.tv, distro.tv.
+- Work from GitHub: tvpassport.com (first choice, has descriptions/images), ontvtonight.com, epgshare01.online
+  (whole-country files US1, US_LOCALS2, US_SPORTS1, FANDUEL1, PLEX1, DISTROTV1; grabbed one file per run because
+  its grabber caches a single file), directv.com, tvinsider.com, tvguide.com, i.mjh.nz (Pluto/Samsung/Roku/Plex/PBS),
+  plex.tv, pluto.tv, xumo.tv, distro.tv.
 - Do NOT use from GitHub: tvtv.us and streamingtvguides.com return nothing.
-- Samsung TV Plus (i.mjh.nz) only publishes a few hours ahead; build.py prefers longer-coverage sources.
+- Samsung TV Plus (i.mjh.nz) only publishes a few hours ahead, and some sources skip a day. build.py picks, per
+  channel, the source covering the most hours from 3h ago to 3 days ahead (earlier sources win when within 15%).
 
 ## Fixing a channel
 1. Find why it is blank: is it in `no-guide.txt` (no match) or matched but empty (check `status.txt`)?
-2. Renamed network (e.g. EPIX -> MGM+): add to ALIAS in `matching/match.py`. Local station: check its call
+2. Renamed network (e.g. EPIX -> MGM+): add to ALIAS in `matching/match.py`. Provider names that no source
+   uses (e.g. "Detroit SportsNet" = "FanDuel Sports Network Detroit"): add to MANUAL in `matching/match.py`. Local station: check its call
    sign exists in a source (`calls_idx`). Provider-specific oddity: OVERRIDE_CALLS or norm() rules.
 3. Test locally before pushing:
    - `git clone --depth 1 --filter=blob:none --sparse https://github.com/iptv-org/epg.git` then

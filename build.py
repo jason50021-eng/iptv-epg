@@ -41,14 +41,31 @@ def coverage_end(els):
 
 
 def pick_source(keys, progs):
-    """Prefer sources in listed order, but skip one that stops far earlier than another
-    (e.g. Samsung TV Plus only publishes a few hours ahead; Plex has three days)."""
+    """Pick the source with the best coverage from 3 hours ago to 3 days ahead, preferring earlier
+    (higher quality) sources when they are close. A source that skips today or only publishes a few
+    hours ahead (Samsung TV Plus) loses to a backup that covers the whole window."""
     have = [k for k in keys if progs.get(k)]
     if not have:
         return None
-    ends = {k: datetime.datetime.strptime(coverage_end(progs[k]), FMT) for k in have}
-    best = max(ends.values())
-    return next(k for k in have if ends[k] >= best - datetime.timedelta(hours=12))
+    now = datetime.datetime.now(datetime.timezone.utc).replace(tzinfo=None)
+    lo, hi = now - datetime.timedelta(hours=3), now + datetime.timedelta(days=3)
+
+    def hours(k):
+        total = 0.0
+        for e in progs[k]:
+            try:
+                a = datetime.datetime.strptime(e.get('start')[:14], FMT)
+                b = datetime.datetime.strptime((e.get('stop') or e.get('start'))[:14], FMT)
+            except (TypeError, ValueError):
+                continue
+            a, b = max(a, lo), min(b, hi)
+            if b > a:
+                total += (b - a).total_seconds() / 3600
+        return total
+
+    cover = {k: hours(k) for k in have}
+    best = max(cover.values())
+    return next(k for k in have if cover[k] >= best * 0.85 - 1)
 
 
 def load_programmes(paths):
@@ -78,7 +95,7 @@ def main(out, raws):
     mapping = json.load(open(os.path.join(HERE, 'mapping.json'), encoding='utf-8'))
     progs = load_programmes(raws)
     used, empty, n_prog = 0, [], 0
-    cutoff = (datetime.datetime.utcnow() - datetime.timedelta(hours=3)).strftime(FMT)
+    cutoff = (datetime.datetime.now(datetime.timezone.utc).replace(tzinfo=None) - datetime.timedelta(hours=3)).strftime(FMT)
     tmp = out + '.tmp'
     with gzip.open(tmp, 'wt', encoding='utf-8', compresslevel=9) as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv generator-info-name="iptv-epg">\n')

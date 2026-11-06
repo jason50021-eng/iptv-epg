@@ -28,6 +28,13 @@ SRC_FILES = [  # (glob, priority) lower = preferred
     ('i.mjh.nz/i.mjh.nz_roku.channels.xml', 4),
     ('i.mjh.nz/i.mjh.nz_plex.channels.xml', 4),
     ('i.mjh.nz/i.mjh.nz_pbs.channels.xml', 4),
+    # epgshare01 publishes whole-country files (one download each); good backup and covers many sports/FAST channels
+    ('epgshare01.online/epgshare01.online_US1.channels.xml', 3),
+    ('epgshare01.online/epgshare01.online_US_SPORTS1.channels.xml', 3),
+    ('epgshare01.online/epgshare01.online_FANDUEL1.channels.xml', 3),
+    ('epgshare01.online/epgshare01.online_US_LOCALS2.channels.xml', 3),
+    ('epgshare01.online/epgshare01.online_PLEX1.channels.xml', 4),
+    ('epgshare01.online/epgshare01.online_DISTROTV1.channels.xml', 4),
     ('pluto.tv/pluto.tv_us.channels.xml', 5),
     ('plex.tv/plex.tv_us.channels.xml', 5),
     ('xumo.tv/xumo.tv.channels.xml', 5),
@@ -224,10 +231,55 @@ def is_event(c):
     """Game/event slot channels whose name carries the event, e.g. 'USA NBA 01: Hawks vs Wizards @ 07:00 PM EDT'."""
     return bool(EVENT_SLOT.search(c['name'])) and 'OCHO' not in c['name'].upper()
 
+# ---------- manual matches ----------
+# (provider name pattern, source name pattern). Source names are compared lowercased with a trailing HD removed.
+MANUAL = [
+    (r'detroit sportsnet', r'^fanduel sports network detroit$'),
+    (r'diamondbac', r'^arizona diamondbacks tv$'),
+    (r'\bt2 tennis\b', r'^tennis channel 2$'),
+    (r'chicago sports network plus', r'^chicago sports network plus$'),
+    (r'spectrum oc ?16', r'^spectrum oc 16$|^spectrum sports hawaii \(oc16\)$'),
+    (r'mavtv select', r'^mavtv select$'),
+    (r'mav ?tv', r'^mavtv motorsports$|^mavtv$'),
+    (r'root sports northwest plus', r'^root sports northwest plus$'),
+    (r'root sports northwest(?! plus)', r'^root sports northwest$'),
+    (r'sportsnet la dodgers|sportsnet dodgers', r'^spectrum sportsnet dodgers$|^spectrum sportsnet la$'),
+    (r'sportsnet lakers', r'^spectrum sportsnet lakers$'),
+    (r'\bmasn ?2\b', r'^masn ?2$'),
+    (r'\bqvc ?3\b', r'^qvc ?3$'),
+    (r'\bfe ?tv\b', r'^fetv \(family entertainment television\)$|^fetv$'),
+    (r'axs tv now', r'^axs tv now$'),
+    (r'pokergo', r'^pokergo$'),
+    (r'bon ?app', r'^bon app[eé]tit( tv)?$'),
+    (r'history military', r'^military heroes presented by history$'),
+    (r'discovery science', r'^science( channel)?$'),
+    (r'boxing tv', r'^boxing tv$'),
+    (r'edgesport', r'^edgesport$'),
+    (r'gulf coast sports', r'^wala gulf coast sports & entertainment network$'),
+    (r'\bnhra\b', r'^nhra tv$'),
+]
+def _srcname(s):
+    n = html.unescape(html.unescape(s['name'])).lower().strip()
+    return re.sub(r'\s+(hd|hdtv|uhd)$', '', n)
+
+def match_manual(c):
+    n = re.sub(r'^(usa|us:?)\s+', '', html.unescape(c['name']).lower())
+    for prx, srx in MANUAL:
+        if re.search(prx, n):
+            cands = [s for s in src if re.search(srx, _srcname(s))]
+            s = pick(cands, is_west(c['name']))
+            if s:
+                return s, 'manual'
+    return None, None
+
+
 # ---------- main ----------
 def match(c):
     if is_event(c):
         return None, 'event'
+    s, how = match_manual(c)
+    if s:
+        return s, how
     west = is_west(c['name'])
     if 'PBS KIDS' not in c['name'].upper() and (c['category_id'] in LOCAL_CATS or re.search(NETWORDS + r'.*\b[KW][A-Z]{2,3}\b', c['name'].upper())):
         s, how = match_local(c)
