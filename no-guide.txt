@@ -1,6 +1,5 @@
-No free guide source carries these channels (Spectrum News, News 12, Music Choice video channels,
-public-access stations, some streaming-only channels, numbered
-Starzplay / ViX / Conmebol slots). They will stay blank.
+No free guide source carries these channels (Music Choice video channels, rotating Starzplay / ViX /
+TUDN / Conmebol slots, public-access stations, some streaming-only and regional sports channels).
 
 24/7 OVERHAULING
 24/7 The Secret Lives Of Big Cats
@@ -193,6 +192,7 @@ USA MC Video | Pride
 USA MC Video | Soft Rock
 USA MC Video | Wonderama
 USA MC Video | Youth Hits
+USA MSG Western New York
 USA MY 38 - BOSTON
 USA MY 50 - CHICAGO
 USA MY 50 WPWR CHICAGO
