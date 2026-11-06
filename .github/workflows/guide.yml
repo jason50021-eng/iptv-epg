@@ -39,9 +39,14 @@ jobs:
           CHANNELS: channels.json
           MATCH_WORK: work
           MATCH_OUT: .
+          EPGSHARE_LISTS: work/epgshare
         run: |
-          mkdir -p work
+          mkdir -p work/epgshare
           cp mapping.json work/previous-mapping.json
+          for t in US2 US_SPORTS1 FANDUEL1 US_LOCALS1 PLEX1 DISTROTV1; do
+            curl -sSfL -m 120 -o work/epgshare/$t.txt https://epgshare01.online/epgshare01/epg_ripper_$t.txt \
+              || echo "epgshare01 list $t not available"
+          done
           curl -sSfL -o work/channels.csv https://raw.githubusercontent.com/iptv-org/database/master/data/channels.csv
           python3 matching/match.py && python3 matching/gen.py
           python3 - <<'PY'

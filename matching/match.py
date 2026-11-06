@@ -28,19 +28,35 @@ SRC_FILES = [  # (glob, priority) lower = preferred
     ('i.mjh.nz/i.mjh.nz_roku.channels.xml', 4),
     ('i.mjh.nz/i.mjh.nz_plex.channels.xml', 4),
     ('i.mjh.nz/i.mjh.nz_pbs.channels.xml', 4),
-    # epgshare01 publishes whole-country files (one download each); good backup and covers many sports/FAST channels
-    ('epgshare01.online/epgshare01.online_US1.channels.xml', 3),
-    ('epgshare01.online/epgshare01.online_US_SPORTS1.channels.xml', 3),
-    ('epgshare01.online/epgshare01.online_FANDUEL1.channels.xml', 3),
-    ('epgshare01.online/epgshare01.online_US_LOCALS2.channels.xml', 3),
-    ('epgshare01.online/epgshare01.online_PLEX1.channels.xml', 4),
-    ('epgshare01.online/epgshare01.online_DISTROTV1.channels.xml', 4),
     ('pluto.tv/pluto.tv_us.channels.xml', 5),
     ('plex.tv/plex.tv_us.channels.xml', 5),
     ('xumo.tv/xumo.tv.channels.xml', 5),
     ('distro.tv/distro.tv.channels.xml', 5),
 ]
 src = []
+
+# epgshare01 publishes whole-country files (one download each). Its file names and channel IDs change, so the
+# build downloads the current channel lists (epg_ripper_<TAG>.txt) into EPGSHARE_LISTS and matches against those.
+EPGSHARE_TAGS = {'US2': 3, 'US_SPORTS1': 3, 'FANDUEL1': 3, 'US_LOCALS1': 3, 'PLEX1': 4, 'DISTROTV1': 4}
+EPGSHARE_LISTS = os.environ.get('EPGSHARE_LISTS', os.path.join(WORK, 'epgshare'))
+
+def epgshare_name(cid):
+    n = html.unescape(cid)
+    n = re.sub(r'\.(us\d*|us_locals\d*|plex|distro|[a-z]{2}\d?)$', '', n, flags=re.I)
+    n = re.sub(r'^plex\.tv\.', '', n, flags=re.I)
+    return n.replace('.', ' ').strip()
+
+for tag, pr in EPGSHARE_TAGS.items():
+    path = os.path.join(EPGSHARE_LISTS, tag + '.txt')
+    if not os.path.exists(path):
+        continue
+    for line in open(path, encoding='utf-8', errors='ignore'):
+        cid = line.strip()
+        if not cid or cid.startswith('--') or re.fullmatch(r'\d{12}', cid):
+            continue
+        src.append(dict(site='epgshare01.online', site_id=f'{tag}#{html.unescape(cid)}', xmltv_id='', lang='en',
+                        name=epgshare_name(cid), pr=pr))
+
 for f, pr in SRC_FILES:
     for p in glob.glob(f'{SITES}/{f}'):
         for ch in ET.parse(p).getroot():
@@ -237,13 +253,13 @@ MANUAL = [
     (r'detroit sportsnet', r'^fanduel sports network detroit$'),
     (r'diamondbac', r'^arizona diamondbacks tv$'),
     (r'\bt2 tennis\b', r'^tennis channel 2$'),
-    (r'chicago sports network plus', r'^chicago sports network plus$'),
+    (r'chicago sports network plus', r'^(chsn )?chicago sports network plus$'),
     (r'spectrum oc ?16', r'^spectrum oc 16$|^spectrum sports hawaii \(oc16\)$'),
     (r'mavtv select', r'^mavtv select$'),
     (r'mav ?tv', r'^mavtv motorsports$|^mavtv$'),
     (r'root sports northwest plus', r'^root sports northwest plus$'),
     (r'root sports northwest(?! plus)', r'^root sports northwest$'),
-    (r'sportsnet la dodgers|sportsnet dodgers', r'^spectrum sportsnet dodgers$|^spectrum sportsnet la$'),
+    (r'sportsnet la dodgers|sportsnet dodgers', r'^spectrum sportsnet (la )?dodgers$|^spectrum sportsnet la$'),
     (r'sportsnet lakers', r'^spectrum sportsnet lakers$'),
     (r'\bmasn ?2\b', r'^masn ?2$'),
     (r'\bqvc ?3\b', r'^qvc ?3$'),
