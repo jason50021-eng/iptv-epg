@@ -14,24 +14,19 @@ MC Video | Rap 2K - DIRECT
 MD | Minot | FOX Net
 ME | Presque Isle | FOX Net
 MI | Marquette | FOX Net
-MLB Seattle Mariners
 MO | St. Joseph | CBS KCJO-LD
 NC | Wilmington | FOX Net
 NY | Binghampton | FOX Net
 NY | New York | CW (PIX 11)
 OR | Medford | FOX Net
-PA | Jeannette | CW WPCW
 SD | City | FOX Net Rapid
 TX | Abilene | FOX Net
 TX | Lubbock | FOX Net
 TX | San Angelo | FOX Net
 TX | Sherman | FOX Net
 US CW 4 (KRON) San Francisco
-US Karaoke (ST)
 US MC Radio | Blues
 US MC Video | Country Hits
-US Root Sports Northwest
-USA (Faith) Hillsong
 USA (Latin) ViX Deportes 1
 USA (Latin) ViX Deportes 10
 USA (Latin) ViX Deportes 11
@@ -66,7 +61,6 @@ USA ABC Houston WTRK
 USA ABC News International
 USA ABC Washington
 USA AT&T SportsNet Pittsburgh
-USA AXS TV Now
 USA Altitude Sports 2
 USA Atlanta Channel
 USA Atlanta News First (WANF)
@@ -80,8 +74,6 @@ USA BeIN Sports LaLiga
 USA Bible Explorations
 USA Binge TV
 USA Black Voices
-USA Bonappetit
-USA Boxing TV
 USA BravesVision
 USA CBN News International
 USA CBS POP
@@ -91,15 +83,9 @@ USA CINE SONY HD
 USA CNN en Español*
 USA CTN TV  - CONNETICUT
 USA CW 11 AMARILLO
-USA CW 19 WPCW JEANETTE
-USA CW 19 WPCW PITTSBURGH
 USA CW 43 (WBNX) Cleveland
 USA CW 43 WBNX Cleveland
-USA CW 50 WKBD DETROIT
-USA CW East Philadelphia UHD
-USA CW19 (WPCW) Pittsburgh
 USA CW44 (KBCW) Bay Area
-USA CW50 (WKBD) Detroit
 USA Cheddar Business
 USA Cincinnati Reds
 USA Clubbing TV
@@ -111,14 +97,9 @@ USA Country Today
 USA Cycling 05
 USA DC COUNCIL CHANNEL
 USA Def Jam
-USA Detroit SportsNet
-USA Diamondbac Baseball
 USA Discovery Español*
-USA Discovery Science UHD*
-USA Discovery Science*
 USA ESPORTS TELEVISION (ESTV)
 USA Edgesports
-USA FE TV
 USA FNTSY SPORTS NETWORK | HD
 USA FOX 53 WGPH PITTSBURGH
 USA FOX Sports Southwest
@@ -139,12 +120,9 @@ USA GREENSBORO TV NETWORK
 USA Gravitas (ST)
 USA Great American Christmas Family
 USA Great American Living
-USA Gulf Coast Sports and Entertainment Network (GCSEN)
 USA HBCU Go
 USA Hip Hop Evolution
-USA History Military
 USA Home Crashers
-USA Horror Machine
 USA Horse and Country
 USA InfoWars
 USA Insight TV
@@ -182,8 +160,6 @@ USA Latin TVE International
 USA Latin Telemicro Internacional
 USA Latin Wapa Puerto Rico
 USA Latin ZONA Futbol
-USA MASN 2
-USA MAV TV
 USA MC Radio Gospel
 USA MC Radio | Reggae
 USA MC Video | Disney
@@ -194,9 +170,6 @@ USA MC Video | Wonderama
 USA MC Video | Youth Hits
 USA MSG Western New York
 USA MY 38 - BOSTON
-USA MY 50 - CHICAGO
-USA MY 50 WPWR CHICAGO
-USA MavTV Motorsports Network FHD
 USA Milwaukee Brewers
 USA Music Choice Classic Country
 USA Music Choice Video Soundscape
@@ -244,7 +217,6 @@ USA NBCSN NORTHWEST | HD
 USA NBCSN PHILADELPHIA HD
 USA NBCSN WASHINGTON | HD
 USA NFL Red Zone LHD
-USA NHL Carolina Hurricanes
 USA NO TV - NEW ORLEANS TELEVISION
 USA News 12 Brooklyn
 USA News 12 Hudson Valley
@@ -281,9 +253,7 @@ USA PBS Mobile/Pensacola/Fort Walton Beach
 USA PBS South Florida West Palm Beach/Fort Pierce
 USA PCC TV PINELLAS COUNTY FLORIDA
 USA Pac-12 Network
-USA PokerGo+
 USA Pop Music
-USA QVC 3
 USA R&B Classic Jams
 USA R&B Feels
 USA RED APPLE 21 - FAIRFAX COUNTY PUBLIC SCHOOLS - VIRGINIA
@@ -292,14 +262,10 @@ USA Rap Game
 USA Rap Modern 2020
 USA Republic TV
 USA Revelation TV
-USA Revry News
 USA Rock 00-99
 USA Rock 80-90
 USA Rock Modern 2020
-USA Root Sports Northwest
-USA Root Sports Northwest Plus
 USA SPECTRUM NEWS - ALBANY CAPITAL REGION
-USA SPECTRUM NEWS - CENTRAL NY
 USA SPECTRUM NEWS 1 (CAROLINAS) - COASTAL
 USA SPECTRUM NEWS 1 - (KENTUCKY) - COVINGTON
 USA SPECTRUM NEWS 1 - (KENTUCKY) - EVANSVILLE
@@ -328,12 +294,8 @@ USA Spectrum News Maine
 USA Spectrum News NY1
 USA Spectrum News San Antonio
 USA Spectrum Noticias NY1
-USA Spectrum OC16
 USA Spectrum Sports 1
 USA Spectrum Sports 2
-USA Spectrum SportsNet La Dodgers
-USA Spectrum SportsNet La Dodgers HD
-USA Spectrum SportsNet Lakers
 USA Spectrum XCast
 USA Spectrum XCast 2
 USA Spectrum XCast 3
@@ -355,18 +317,15 @@ USA Starzplay 7
 USA Starzplay 8
 USA Starzplay 9
 USA SurvivorNetTV
-USA T2 Tennis
 USA TELEMUNDO 47 NEW YORK
 USA The Now Network
 USA The Real Houswives
 USA UFC Fight Pass
 USA VSIN HD
 USA Victory Television Network
-USA WILLOW XTRA HD
 USA Willow Extra
 USA beIN SPORTS enEspanol
 USA beIN Sports 01
-USA hello inspo
 VA | Charlottesville | FOX Net
 VA | Harrisonburg | FOX Net
 VA | Harrisonburg | NBC WSVW

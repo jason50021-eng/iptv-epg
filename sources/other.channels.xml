@@ -2,740 +2,872 @@
 <channels>
   <channel site="directv.com" site_id="5576b285-b115-44e1-9789-1803ab7091fd" lang="en" xmltv_id="S0002">NewsNation HD</channel>
   <channel site="tvguide.com" site_id="9233013251" lang="en" xmltv_id="S0003">NewsNation</channel>
-  <channel site="tvguide.com" site_id="9233007144" lang="en" xmltv_id="S0005">C-SPAN</channel>
-  <channel site="tvinsider.com" site_id="c-span" lang="en" xmltv_id="S0006">C-SPAN</channel>
-  <channel site="tvinsider.com" site_id="c-span-2" lang="en" xmltv_id="S0008">C-SPAN 2</channel>
-  <channel site="directv.com" site_id="fdb542e6-fbea-4c9d-875b-2252c1623023" lang="en" xmltv_id="S0009">CSPAN 2</channel>
-  <channel site="tvinsider.com" site_id="fox-business" lang="en" xmltv_id="S0012">Fox Business</channel>
-  <channel site="tvguide.com" site_id="9200009124" lang="en" xmltv_id="S0013">Fox Business Network</channel>
-  <channel site="directv.com" site_id="519a0379-3e00-4a61-8581-56f5bf7488a2" lang="en" xmltv_id="S0015">CNN HD</channel>
-  <channel site="tvguide.com" site_id="9233013812" lang="en" xmltv_id="S0016">CNN</channel>
-  <channel site="tvinsider.com" site_id="newsmax" lang="en" xmltv_id="S0018">Newsmax</channel>
-  <channel site="directv.com" site_id="7188780b-f344-4cb6-8ebc-7c7937a02004" lang="en" xmltv_id="S0021">MS Now HD</channel>
-  <channel site="distro.tv" site_id="95227" lang="en" xmltv_id="S0023">CGTN</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5eb1af2ad345340008fccd1e" lang="en" xmltv_id="S0024">CBS News Boston</channel>
-  <channel site="pluto.tv" site_id="62cdc7c2a3e6270007f3f2f3" lang="en" xmltv_id="S0025">CBS News Boston</channel>
-  <channel site="plex.tv" site_id="65965210fca6056ca69e3e3a" lang="en" xmltv_id="S0026">CBS News Boston</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5dc9b8223687ff000936ed79" lang="en" xmltv_id="S0027">CBS News New York</channel>
-  <channel site="pluto.tv" site_id="5dc48170e280c80009a861ab" lang="en" xmltv_id="S0028">CBS News New York</channel>
-  <channel site="xumo.tv" site_id="350#99991641" lang="en" xmltv_id="S0029">CBS News New York</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5eb1b0bf2240d8000732a09c" lang="en" xmltv_id="S0030">CBS News Minnesota</channel>
-  <channel site="pluto.tv" site_id="5eb1b0bf2240d8000732a09c" lang="en" xmltv_id="S0031">CBS News Minnesota</channel>
-  <channel site="tvguide.com" site_id="9233000410" lang="en" xmltv_id="S0034">Fox News</channel>
-  <channel site="tvinsider.com" site_id="fox-news" lang="en" xmltv_id="S0035">Fox News</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5dc9b875e280c80009a8a44a" lang="en" xmltv_id="S0036">CBS News Los Angeles</channel>
-  <channel site="pluto.tv" site_id="5dc9b875e280c80009a8a44a" lang="en" xmltv_id="S0037">CBS News Los Angeles</channel>
-  <channel site="plex.tv" site_id="65970654fca6056ca69e3e41" lang="en" xmltv_id="S0038">CBS News Los Angeles</channel>
-  <channel site="directv.com" site_id="6aeb8ae6-2f8b-48fb-a746-2f963ea8e86d" lang="en" xmltv_id="S0040">Free Speech TV</channel>
-  <channel site="directv.com" site_id="c3cfa12b-f991-4ace-9438-62ace1ac535a" lang="en" xmltv_id="S0042">CNBC HD</channel>
-  <channel site="tvguide.com" site_id="9200009413" lang="en" xmltv_id="S0043">CNBC</channel>
-  <channel site="directv.com" site_id="c546d353-7526-4d4d-9cf3-e7afefad7f44" lang="en" xmltv_id="S0045">theGrio</channel>
-  <channel site="tvinsider.com" site_id="thegrio" lang="en" xmltv_id="S0046">TheGrio</channel>
-  <channel site="directv.com" site_id="8a5c075e-1969-453b-b5f9-9108243c7816" lang="en" xmltv_id="S0049">i24 News</channel>
-  <channel site="directv.com" site_id="e286a88a-9068-45ff-a81d-929b9455b557" lang="en" xmltv_id="S0051">FOX News Channel HD</channel>
-  <channel site="directv.com" site_id="8d1c72f6-99db-4279-a5b2-183f92c53a61" lang="en" xmltv_id="S0054">HLN HD</channel>
-  <channel site="tvinsider.com" site_id="oan" lang="en" xmltv_id="S0056">OAN</channel>
-  <channel site="directv.com" site_id="cbc01bc2-bd52-4380-8b7e-f991a03b65f1" lang="en" xmltv_id="S0060">CNBC World</channel>
-  <channel site="directv.com" site_id="95622e62-7b62-4eea-bf32-691abc764c77" lang="en" xmltv_id="S0063">Cheddar News</channel>
-  <channel site="directv.com" site_id="9d556827-6bb0-4e70-b843-1ae390321e74" lang="en" xmltv_id="S0066">Bloomberg TV HD</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5fff49cfb5cd4f0007c2b0dc" lang="en" xmltv_id="S0068">News 12 New York</channel>
-  <channel site="pluto.tv" site_id="5fff49cfb5cd4f0007c2b0dc" lang="en" xmltv_id="S0069">News 12 New York</channel>
-  <channel site="plex.tv" site_id="5fc6f3a62b6f7b002e77ffaa" lang="en" xmltv_id="S0070">News 12 New York</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5eb1b17aa5277e00083f6521" lang="en" xmltv_id="S0071">CBS News Pittsburgh</channel>
-  <channel site="pluto.tv" site_id="5eb1b17aa5277e00083f6521" lang="en" xmltv_id="S0072">CBS News Pittsburgh</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5eb1aeb2fd4b8a00076c2047" lang="en" xmltv_id="S0073">CBS News Chicago</channel>
-  <channel site="pluto.tv" site_id="5eb1aeb2fd4b8a00076c2047" lang="en" xmltv_id="S0074">CBS News Chicago</channel>
-  <channel site="xumo.tv" site_id="350#99991643" lang="en" xmltv_id="S0075">CBS News Chicago</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5eb1afb21486df0007abc57c" lang="en" xmltv_id="S0076">CBS News Bay Area</channel>
-  <channel site="pluto.tv" site_id="62cdc6c5a698740007d299b1" lang="en" xmltv_id="S0077">CBS News Bay Area</channel>
-  <channel site="plex.tv" site_id="6596546bfca6056ca69e3e3c" lang="en" xmltv_id="S0078">CBS News Bay Area</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5eb1b05ea168cc000767ba67" lang="en" xmltv_id="S0079">CBS News Philadelphia</channel>
-  <channel site="pluto.tv" site_id="62cdca1cda044a00077b903d" lang="en" xmltv_id="S0080">CBS News Philadelphia</channel>
-  <channel site="tvinsider.com" site_id="c-span-3" lang="en" xmltv_id="S0082">C-SPAN 3</channel>
-  <channel site="directv.com" site_id="3eb71a0d-48b1-459a-be81-c229062bb18c" lang="en" xmltv_id="S0085">FOX Weather</channel>
-  <channel site="directv.com" site_id="0efea3bb-d064-4de1-b4e0-9b374f028af5" lang="en" xmltv_id="S0090">Scripps News</channel>
-  <channel site="directv.com" site_id="f4fb0d15-77c9-4ef8-b86c-1500ae958250" lang="en" xmltv_id="S0093">Yahoo Finance</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAJ4300005PJ" lang="en" xmltv_id="S0094">Yahoo Finance</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#55b179af994403942f3061d6" lang="en" xmltv_id="S0097">Newsmax2</channel>
-  <channel site="pluto.tv" site_id="55b179af994403942f3061d6" lang="en" xmltv_id="S0098">Newsmax2</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBA30002142" lang="en" xmltv_id="S0110">TYT Network</channel>
-  <channel site="xumo.tv" site_id="0#99991147" lang="en" xmltv_id="S0111">TYT</channel>
-  <channel site="tvinsider.com" site_id="retroplex" lang="en" xmltv_id="S0114">RetroPlex</channel>
-  <channel site="directv.com" site_id="c6dc4d77-8cc4-4de1-9b69-8b27577c49c2" lang="en" xmltv_id="S0117">Cinemax Classics HD</channel>
-  <channel site="directv.com" site_id="bf3ed883-db9f-40d0-afaa-77ca71911e24" lang="en" xmltv_id="S0120">Cinemax Action HD</channel>
-  <channel site="directv.com" site_id="577da2f8-1c59-4297-8956-c24d30b1d967" lang="en" xmltv_id="S0125">Cinemax East HD</channel>
-  <channel site="directv.com" site_id="45cdfc9d-1228-4b50-8987-7c82db99f1ba" lang="en" xmltv_id="S0128">Cinemax Hits HD</channel>
-  <channel site="tvguide.com" site_id="9200014841" lang="en" xmltv_id="S0132">OuterMax</channel>
-  <channel site="tvinsider.com" site_id="outer-max" lang="en" xmltv_id="S0133">Outer MAX</channel>
-  <channel site="directv.com" site_id="0e9a6483-c7e1-4cb1-9e51-dda1ead5b966" lang="en" xmltv_id="S0136">Cinemax West HD</channel>
-  <channel site="tvguide.com" site_id="9200009335" lang="en" xmltv_id="S0138">MGM+ HD</channel>
-  <channel site="directv.com" site_id="8f79eb33-17b6-4c95-a687-f9823230e6d5" lang="en" xmltv_id="S0139">MGM+</channel>
-  <channel site="tvguide.com" site_id="9200006851" lang="en" xmltv_id="S0141">MGM+ Drive-In</channel>
-  <channel site="tvinsider.com" site_id="mgm-plus-drive-in" lang="en" xmltv_id="S0142">MGM+ Drive-In</channel>
-  <channel site="tvguide.com" site_id="9233013634" lang="en" xmltv_id="S0144">MGM+ Hits HD</channel>
-  <channel site="directv.com" site_id="94e444e1-e188-46a0-b5d4-913a3945fa7a" lang="en" xmltv_id="S0145">MGM+ HITS</channel>
-  <channel site="tvguide.com" site_id="9200020594" lang="en" xmltv_id="S0147">MGM+ Marquee HD</channel>
-  <channel site="directv.com" site_id="811a9bcb-279f-4362-8a9b-2845fe3eb636" lang="en" xmltv_id="S0148">MGM+ MARQUEE</channel>
-  <channel site="tvguide.com" site_id="9200006932" lang="en" xmltv_id="S0150">FX</channel>
-  <channel site="directv.com" site_id="d7088b74-3db2-4672-825e-6c7cb8ff41ec" lang="en" xmltv_id="S0153">FX Movie Channel HD</channel>
-  <channel site="directv.com" site_id="51cfd7f4-0f6e-4c9b-b2ec-646afb3f7d93" lang="en" xmltv_id="S0156">HBO Hits HD East</channel>
-  <channel site="directv.com" site_id="703c22aa-7be9-43b4-a3fb-d828479bc421" lang="en" xmltv_id="S0159">HBO Comedy HD</channel>
-  <channel site="directv.com" site_id="4fc097f1-e123-4b41-b302-faf4e7d82118" lang="en" xmltv_id="S0162">HBO HD East</channel>
-  <channel site="directv.com" site_id="5beb41da-ff97-42af-a31f-3787ee6878b6" lang="en" xmltv_id="S0165">HBO Drama HD</channel>
-  <channel site="directv.com" site_id="6da0d147-0635-4fe0-a003-19c6dc089af5" lang="en" xmltv_id="S0168">HBO West HD</channel>
-  <channel site="tvguide.com" site_id="9233009866" lang="en" xmltv_id="S0170">HBO Zone</channel>
-  <channel site="tvinsider.com" site_id="hbo-zone" lang="en" xmltv_id="S0171">HBO Zone</channel>
-  <channel site="directv.com" site_id="23e1c6f4-81ce-4cbd-948b-93619740b339" lang="en" xmltv_id="S0174">SHOWTIME 2 HD</channel>
-  <channel site="directv.com" site_id="0bba36e4-7802-43c0-ad3f-cc0ff064a518" lang="en" xmltv_id="S0177">Paramount+ with SHOWTIME EAST HD</channel>
-  <channel site="directv.com" site_id="a0652edf-0255-4cd0-b19a-3593673ea6f8" lang="en" xmltv_id="S0180">Showtime Extreme HD</channel>
-  <channel site="directv.com" site_id="6d7bde13-2992-4f23-8b3d-ec02eaa17d4f" lang="en" xmltv_id="S0183">Showtime FamilyZone HD</channel>
-  <channel site="directv.com" site_id="4128313f-fce9-474d-b5fe-c709c4e1e07d" lang="en" xmltv_id="S0186">Showtime Next HD</channel>
-  <channel site="tvguide.com" site_id="9233003805" lang="en" xmltv_id="S0188">SHOWTIME SHOWCASE</channel>
-  <channel site="directv.com" site_id="a78c644e-08a0-47d7-ada2-9d0251f556e8" lang="en" xmltv_id="S0191">Paramount+ with SHOWTIME WEST HD</channel>
-  <channel site="tvguide.com" site_id="9200002975" lang="en" xmltv_id="S0194">SHOWTIME WOMEN</channel>
-  <channel site="directv.com" site_id="3517dc60-418a-4d0a-8a0e-4be262dd27ee" lang="en" xmltv_id="S0196">Sony Movies</channel>
-  <channel site="directv.com" site_id="78487d44-75e4-42a9-9a43-2c3ea9736d3e" lang="en" xmltv_id="S0199">STARZ Cinema HD</channel>
-  <channel site="directv.com" site_id="c7cca5a8-98ee-44bb-9af6-91aa79e37652" lang="en" xmltv_id="S0202">STARZ Comedy HD</channel>
-  <channel site="directv.com" site_id="2b80c0fe-0670-4a20-977e-83e8658c1678" lang="en" xmltv_id="S0205">STARZ East HD</channel>
-  <channel site="directv.com" site_id="42d7c5c9-84fb-4a90-b2b6-624e4cf46637" lang="en" xmltv_id="S0208">STARZ Encore Action HD</channel>
-  <channel site="tvguide.com" site_id="9200001097" lang="en" xmltv_id="S0211">STARZ ENCORE Black</channel>
-  <channel site="tvguide.com" site_id="9200003144" lang="en" xmltv_id="S0214">STARZ ENCORE Classic</channel>
-  <channel site="directv.com" site_id="676e4861-8f11-40d9-9285-a78455472b29" lang="en" xmltv_id="S0217">STARZ Encore HD</channel>
-  <channel site="directv.com" site_id="6e5f46ea-3381-4436-9f8c-478fdf4a2ab6" lang="en" xmltv_id="S0220">STARZ Edge HD</channel>
-  <channel site="tvguide.com" site_id="9200011867" lang="en" xmltv_id="S0223">STARZ ENCORE Family</channel>
-  <channel site="tvguide.com" site_id="9200011866" lang="en" xmltv_id="S0226">STARZ ENCORE Suspense</channel>
-  <channel site="directv.com" site_id="3db92850-0314-4bd9-a517-7af91523d3ea" lang="en" xmltv_id="S0229">STARZ Encore West</channel>
-  <channel site="tvguide.com" site_id="9233008131" lang="en" xmltv_id="S0232">STARZ ENCORE Westerns</channel>
-  <channel site="directv.com" site_id="d539400e-8ef3-4c0d-9673-5ad31347dae5" lang="en" xmltv_id="S0235">STARZ in Black HD</channel>
-  <channel site="directv.com" site_id="a5362726-4133-4233-89e6-459b8f435810" lang="en" xmltv_id="S0238">STARZ West HD</channel>
-  <channel site="directv.com" site_id="f56626d5-7461-4408-91f6-8d235b884be6" lang="en" xmltv_id="S0241">SundanceTV HD</channel>
-  <channel site="directv.com" site_id="095db592-0d0e-4f05-92cb-29c23525ac62" lang="en" xmltv_id="S0246">SHOxBET HD</channel>
-  <channel site="directv.com" site_id="6b20b8de-3094-48f4-ad7b-4eecc2f8d48a" lang="en" xmltv_id="S0247">TCM HD</channel>
-  <channel site="directv.com" site_id="3078897a-8da3-4a0f-b5e1-19aac06a1c0d" lang="en" xmltv_id="S0249">The Movie Channel East HD</channel>
-  <channel site="tvinsider.com" site_id="the-movie-channel" lang="en" xmltv_id="S0250">The Movie Channel</channel>
-  <channel site="tvinsider.com" site_id="indieplex" lang="en" xmltv_id="S0253">IndiePlex</channel>
-  <channel site="tvinsider.com" site_id="movieplex" lang="en" xmltv_id="S0256">MoviePlex</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616" lang="en" xmltv_id="S0257">Lone Star</channel>
-  <channel site="tvinsider.com" site_id="ion-plus" lang="en" xmltv_id="S0258">Ion Plus</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD300003LK" lang="en" xmltv_id="S0259">ION Plus</channel>
-  <channel site="plex.tv" site_id="627e347795b0f50af26d78f9" lang="en" xmltv_id="S0260">ION Plus</channel>
-  <channel site="directv.com" site_id="15d23b4b-a9df-4094-ba16-cebfca650cd1" lang="en" xmltv_id="S0262">The Movie Channel Xtra HD</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f64c4ef35f612003f6ffe30" lang="en" xmltv_id="S0263">Hi-YAH!</channel>
-  <channel site="plex.tv" site_id="5f64c4ef35f612003f6ffe30" lang="en" xmltv_id="S0264">Hi-YAH!</channel>
-  <channel site="xumo.tv" site_id="0#99991302" lang="en" xmltv_id="S0265">Hi-Yah!</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAK3508709A" lang="en" xmltv_id="S0266">CINEVAULT: Westerns</channel>
-  <channel site="xumo.tv" site_id="200#99951357" lang="en" xmltv_id="S0267">CINEVAULT Westerns</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC3900018K6" lang="en" xmltv_id="S0268">MyTime Movie Network</channel>
-  <channel site="plex.tv" site_id="644875d7af92c31f4a190bc2" lang="en" xmltv_id="S0269">MyTime Movie Network</channel>
-  <channel site="directv.com" site_id="41d6d859-3dd5-406f-9fa3-1fa25de472c7" lang="en" xmltv_id="S0272">AMC+ HD</channel>
-  <channel site="tvinsider.com" site_id="amc-plus" lang="en" xmltv_id="S0273">AMC+</channel>
-  <channel site="tvguide.com" site_id="9200017928" lang="en" xmltv_id="S0280">Turner Classic Movies</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAJ3000007MT" lang="en" xmltv_id="S0282">Maverick Black Cinema</channel>
-  <channel site="xumo.tv" site_id="0#99991336" lang="en" xmltv_id="S0283">Maverick Black Cinema</channel>
-  <channel site="directv.com" site_id="c4256331-1604-417d-9c37-6dba5513ef98" lang="en" xmltv_id="S0286">HBO Hits West HD</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBB32000196O" lang="en" xmltv_id="S0295">FilmRise Western</channel>
-  <channel site="plex.tv" site_id="6449369eb3ff17382cae57fd" lang="en" xmltv_id="S0296">FilmRise Western</channel>
-  <channel site="directv.com" site_id="d4791ed5-5e7e-4596-bbe6-1884f80bf100" lang="en" xmltv_id="S0298">Family Movie Classics</channel>
-  <channel site="tvinsider.com" site_id="family-movie-classics" lang="en" xmltv_id="S0299">Family Movie Classics</channel>
-  <channel site="tvinsider.com" site_id="movies" lang="en" xmltv_id="S0302">Movies!</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBB3200015M8" lang="en" xmltv_id="S0303">CINEVAULT: Classics</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAJ30000148W" lang="en" xmltv_id="S0304">CINEVAULT</channel>
-  <channel site="xumo.tv" site_id="0#99951335" lang="en" xmltv_id="S0305">CINEVAULT</channel>
-  <channel site="directv.com" site_id="009ae0d4-8a1e-4f96-8abd-56afe53f9c30" lang="en" xmltv_id="S0306">Movie Favorites by Lifetime</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US18000163F" lang="en" xmltv_id="S0307">Miramax Movie Channel</channel>
-  <channel site="plex.tv" site_id="661fca34414d94009d1206ec" lang="en" xmltv_id="S0308">Miramax Movie Channel</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-69332d894b745570462f3cc4" lang="en" xmltv_id="S0309">FilmRise Black TV</channel>
-  <channel site="plex.tv" site_id="69332d894b745570462f3cc4" lang="en" xmltv_id="S0310">FilmRise Black TV</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-646e489b58898bf3be94b325" lang="en" xmltv_id="S0311">FilmRise True Crime</channel>
-  <channel site="plex.tv" site_id="646e489b58898bf3be94b325" lang="en" xmltv_id="S0312">FilmRise True Crime</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6933306bac5b3f9f53442372" lang="en" xmltv_id="S0313">FilmRise Mysteries</channel>
-  <channel site="plex.tv" site_id="6933306bac5b3f9f53442372" lang="en" xmltv_id="S0314">FilmRise Mysteries</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#654933e253fc970008390114" lang="en" xmltv_id="S0315">Universal Action</channel>
-  <channel site="pluto.tv" site_id="654933e253fc970008390114" lang="en" xmltv_id="S0316">Universal Action</channel>
-  <channel site="xumo.tv" site_id="100#99951254" lang="en" xmltv_id="S0317">Universal Action</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBB3200030CG" lang="en" xmltv_id="S0319">Universal Movies</channel>
-  <channel site="xumo.tv" site_id="0#99991621" lang="en" xmltv_id="S0320">Universal Movies</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6876fa82e50e77c59c8940c2" lang="en" xmltv_id="S0321">MGM Presents</channel>
-  <channel site="plex.tv" site_id="6876fa82e50e77c59c8940c2" lang="en" xmltv_id="S0322">MGM Presents</channel>
-  <channel site="tvguide.com" site_id="9233000217" lang="en" xmltv_id="S0327">Flix</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#6549341853fc9700083901ac" lang="en" xmltv_id="S0328">Universal Crime</channel>
-  <channel site="pluto.tv" site_id="6549341853fc9700083901ac" lang="en" xmltv_id="S0329">Universal Crime</channel>
-  <channel site="xumo.tv" site_id="100#99951245" lang="en" xmltv_id="S0330">Universal Crime</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" lang="en" xmltv_id="S0331">Samuel Goldwyn Channel</channel>
-  <channel site="plex.tv" site_id="6233ee9222dcc1d9a93916b6" lang="en" xmltv_id="S0332">Samuel Goldwyn Channel</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6233ef13ce37cac7a278664b" lang="en" xmltv_id="S0333">Samuel Goldwyn Classics</channel>
-  <channel site="plex.tv" site_id="6233ef13ce37cac7a278664b" lang="en" xmltv_id="S0334">Samuel Goldwyn Classics</channel>
-  <channel site="directv.com" site_id="07e6d416-6d4c-4a0f-8848-e49bb6f8e25f" lang="en" xmltv_id="S0335">Military Heroes</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC39000204J" lang="en" xmltv_id="S0336">Military Heroes</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-67ddc2c01d30518241f9249d" lang="en" xmltv_id="S0337">Shout! Movies</channel>
-  <channel site="plex.tv" site_id="67ddc2c01d30518241f9249d" lang="en" xmltv_id="S0338">Shout! Movies</channel>
-  <channel site="xumo.tv" site_id="0#99951411" lang="en" xmltv_id="S0339">Shout! Movies</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-66ea0504c24d95b51b7cd189" lang="en" xmltv_id="S0340">FilmRise Action</channel>
-  <channel site="plex.tv" site_id="66ea0504c24d95b51b7cd189" lang="en" xmltv_id="S0341">FilmRise Action</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-66ea09a39502c5778b828d43" lang="en" xmltv_id="S0342">FilmRise Horror</channel>
-  <channel site="plex.tv" site_id="66ea09a39502c5778b828d43" lang="en" xmltv_id="S0343">FilmRise Horror</channel>
-  <channel site="directv.com" site_id="8584c42f-762d-4a54-8912-f1166a61131c" lang="en" xmltv_id="S0344">Horror by Alter</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC100001175" lang="en" xmltv_id="S0345">Horror by ALTER</channel>
-  <channel site="plex.tv" site_id="66f5a92352c50d2f62020f38" lang="en" xmltv_id="S0346">Horror by ALTER</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAJ17000014C" lang="en" xmltv_id="S0347">The Asylum</channel>
-  <channel site="plex.tv" site_id="6627ab12580825e8a7bc4f04" lang="en" xmltv_id="S0348">The Asylum</channel>
-  <channel site="xumo.tv" site_id="50#99991331" lang="en" xmltv_id="S0349">The Asylum</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD700015LK" lang="en" xmltv_id="S0350">Midnight Pulp</channel>
-  <channel site="plex.tv" site_id="5ef4e1b40d9ad000423c4427" lang="en" xmltv_id="S0351">Midnight Pulp</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC24000213P" lang="en" xmltv_id="S0352">Grit Xtra</channel>
-  <channel site="plex.tv" site_id="62b45f15b4508e0eedacdf25" lang="en" xmltv_id="S0353">Grit Xtra</channel>
-  <channel site="xumo.tv" site_id="150#99951152" lang="en" xmltv_id="S0354">Grit Xtra</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBB5200022PY" lang="en" xmltv_id="S0355">Crimes Cults Killers</channel>
-  <channel site="plex.tv" site_id="63c97410187b3c9f3581fdf4" lang="en" xmltv_id="S0356">Crimes Cults Killers</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-689fb8470a486aeba3c7917e" lang="en" xmltv_id="S0357">MGM Presents: Westerns</channel>
-  <channel site="plex.tv" site_id="689fb8470a486aeba3c7917e" lang="en" xmltv_id="S0358">MGM Presents: Westerns</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-689fb42fba3be0bafe349d33" lang="en" xmltv_id="S0359">MGM Presents: Action</channel>
-  <channel site="plex.tv" site_id="689fb42fba3be0bafe349d33" lang="en" xmltv_id="S0360">MGM Presents: Action</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC3200020QF" lang="en" xmltv_id="S0361">Western Bound</channel>
-  <channel site="plex.tv" site_id="62316e8eb9d292cb4ad7499f" lang="en" xmltv_id="S0362">Western Bound</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBA3000041ZP" lang="en" xmltv_id="S0363">Movie Hub</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD3500032H0" lang="en" xmltv_id="S0364">Movie Hub Action</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD3500033U0" lang="en" xmltv_id="S0365">Movie Hub Romance</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-63489a771159f6a5ce819b7b" lang="en" xmltv_id="S0366">Grjngo - Western Movies</channel>
-  <channel site="plex.tv" site_id="63489a771159f6a5ce819b7b" lang="en" xmltv_id="S0367">Grjngo - Western Movies</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#65a9b20f0c7ff50008d3a3b6" lang="en" xmltv_id="S0368">Universal Monsters</channel>
-  <channel site="pluto.tv" site_id="65a9b20f0c7ff50008d3a3b6" lang="en" xmltv_id="S0369">Universal Monsters</channel>
-  <channel site="xumo.tv" site_id="50#99951264" lang="en" xmltv_id="S0370">Universal Monsters</channel>
-  <channel site="directv.com" site_id="b428862c-08fc-47d1-98f4-7cc8bdbf0c31" lang="en" xmltv_id="S0373">AMC HD</channel>
-  <channel site="directv.com" site_id="6e1ae46f-40ab-44ee-b20e-d4508363a65e" lang="en" xmltv_id="S0375">A&amp;E HD</channel>
-  <channel site="tvguide.com" site_id="9200004889" lang="en" xmltv_id="S0376">A&amp;E</channel>
-  <channel site="directv.com" site_id="a368c1d1-d258-4e80-9448-b9ef3a8271c7" lang="en" xmltv_id="S0379">AccuWeather HD</channel>
-  <channel site="directv.com" site_id="a1cc44bc-a1d3-4cfc-9561-f79244ddd509" lang="en" xmltv_id="S0382">American Heroes Channel</channel>
-  <channel site="directv.com" site_id="2022d13f-d2c5-44bd-9e92-041d33c18c49" lang="en" xmltv_id="S0385">Animal Planet HD</channel>
-  <channel site="directv.com" site_id="181271ae-0aa6-4974-83e2-c80759427ae3" lang="en" xmltv_id="S0388">ASPIRE (HD)</channel>
-  <channel site="tvinsider.com" site_id="aspire" lang="en" xmltv_id="S0389">Aspire</channel>
-  <channel site="directv.com" site_id="44483b11-87ac-4da6-a420-538a462f45e0" lang="en" xmltv_id="S0392">AXS TV HD</channel>
-  <channel site="directv.com" site_id="89c5c432-4596-47ef-a801-1b0308ba6994" lang="en" xmltv_id="S0394">BET HD</channel>
-  <channel site="tvguide.com" site_id="9233005931" lang="en" xmltv_id="S0395">BET</channel>
-  <channel site="tvguide.com" site_id="9200020665" lang="en" xmltv_id="S0398">BET Her</channel>
-  <channel site="directv.com" site_id="4acb50cc-b347-45c1-941c-50d65fb25271" lang="en" xmltv_id="S0400">BET West HD</channel>
-  <channel site="directv.com" site_id="83249ad9-5836-4d16-a5f7-9cc2a42032c9" lang="en" xmltv_id="S0403">Bravo HD</channel>
-  <channel site="directv.com" site_id="848b354b-681b-482b-a86b-bd4368b7c84e" lang="en" xmltv_id="S0407">Buzzr</channel>
-  <channel site="tvinsider.com" site_id="buzzr" lang="en" xmltv_id="S0408">Buzzr</channel>
-  <channel site="directv.com" site_id="5070bc2e-dd69-4dee-98b4-a4c5e3b1fd7b" lang="en" xmltv_id="S0411">Comedy Central HD</channel>
-  <channel site="tvguide.com" site_id="9200000016" lang="en" xmltv_id="S0416">Cooking</channel>
-  <channel site="directv.com" site_id="202c9e76-c1ca-40f0-ace1-89b626ae1ca2" lang="en" xmltv_id="S0418">Court TV</channel>
-  <channel site="tvinsider.com" site_id="court-tv" lang="en" xmltv_id="S0419">Court TV</channel>
-  <channel site="directv.com" site_id="c725c691-7980-4353-8580-c261fb6900b8" lang="en" xmltv_id="S0421">COZI TV</channel>
-  <channel site="tvinsider.com" site_id="cozi-tv" lang="en" xmltv_id="S0422">Cozi TV</channel>
-  <channel site="tvguide.com" site_id="9233003673" lang="en" xmltv_id="S0425">Crime &amp; Investigation Network</channel>
-  <channel site="directv.com" site_id="6903683f-175f-4289-bec6-1de345090173" lang="en" xmltv_id="S0428">Destination America HD</channel>
-  <channel site="tvinsider.com" site_id="discovery" lang="en" xmltv_id="S0430">Discovery Channel</channel>
-  <channel site="tvguide.com" site_id="9233004102" lang="en" xmltv_id="S0431">Discovery</channel>
-  <channel site="directv.com" site_id="429ccc87-fcaf-4a61-8bff-fcb4299eef8d" lang="en" xmltv_id="S0434">Discovery Family Channel HD</channel>
-  <channel site="tvinsider.com" site_id="discovery-life-channel" lang="en" xmltv_id="S0437">Discovery Life Channel</channel>
-  <channel site="tvguide.com" site_id="9233003479" lang="en" xmltv_id="S0438">Motor Trend Network</channel>
-  <channel site="directv.com" site_id="43847d39-8406-487a-b232-8ceea451186e" lang="en" xmltv_id="S0441">Magnolia Network HD</channel>
-  <channel site="tvguide.com" site_id="9200012415" lang="en" xmltv_id="S0442">MAGNOLIA Network</channel>
-  <channel site="tvguide.com" site_id="9200012343" lang="en" xmltv_id="S0444">E!</channel>
-  <channel site="directv.com" site_id="b6258d16-2f69-4846-abc7-b3947eea6e2b" lang="en" xmltv_id="S0448">Food Network HD</channel>
-  <channel site="directv.com" site_id="33ad289e-84cc-462f-bfee-26531b95d443" lang="en" xmltv_id="S0453">Freeform HD</channel>
-  <channel site="tvguide.com" site_id="9233011488" lang="en" xmltv_id="S0457">Fuse HD</channel>
-  <channel site="directv.com" site_id="97c42c68-6aca-4e70-8368-381efcb10cbf" lang="en" xmltv_id="S0459">Fuse HD</channel>
-  <channel site="directv.com" site_id="6d1cd9b3-d125-4e87-a37f-0309c1459f8a" lang="en" xmltv_id="S0462">FYI HD</channel>
-  <channel site="tvinsider.com" site_id="pursuit" lang="en" xmltv_id="S0463">Pursuit</channel>
-  <channel site="directv.com" site_id="4d7c01e5-531f-41c3-96d6-ce67ea400cec" lang="en" xmltv_id="S0466">QVC HD (317)</channel>
-  <channel site="directv.com" site_id="7acc5a6e-ee65-4749-a071-9f587ad6d499" lang="en" xmltv_id="S0467">Rai Italia</channel>
-  <channel site="tvguide.com" site_id="9200011769" lang="en" xmltv_id="S0469">Reelz</channel>
-  <channel site="tvinsider.com" site_id="reelz" lang="en" xmltv_id="S0470">Reelz</channel>
-  <channel site="directv.com" site_id="33b33049-4d09-4ad9-8c25-b1862f8a7600" lang="en" xmltv_id="S0474">RFD HD TV</channel>
-  <channel site="tvguide.com" site_id="9200004316" lang="en" xmltv_id="S0477">Syfy</channel>
-  <channel site="directv.com" site_id="ca0a1649-7452-498b-a1c6-647938cc0e3d" lang="en" xmltv_id="S0480">Tastemade</channel>
-  <channel site="tvinsider.com" site_id="tastemade" lang="en" xmltv_id="S0481">Tastemade</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD7000189R" lang="en" xmltv_id="S0482">Tastemade</channel>
-  <channel site="directv.com" site_id="86528a42-ae4e-405c-8fae-c567c1ed70df" lang="en" xmltv_id="S0485">TBS HD</channel>
-  <channel site="tvinsider.com" site_id="the-cowboy-channel" lang="en" xmltv_id="S0487">The Cowboy Channel</channel>
-  <channel site="directv.com" site_id="56f08371-563d-4910-8b4f-147e829104e5" lang="en" xmltv_id="S0490">The Weather Channel HD</channel>
-  <channel site="directv.com" site_id="be9b2996-ae6c-4161-b99b-6158e6d2b798" lang="en" xmltv_id="S0493">TLC HD</channel>
-  <channel site="directv.com" site_id="3c10db4e-98ac-40c0-a301-661504f60588" lang="en" xmltv_id="S0496">TNT HD</channel>
-  <channel site="tvguide.com" site_id="9233011830" lang="en" xmltv_id="S0497">TNT</channel>
-  <channel site="directv.com" site_id="fb089f4f-0b1a-481c-adb1-d624884f51f2" lang="en" xmltv_id="S0499">TNT West HD</channel>
-  <channel site="tvguide.com" site_id="9233000035" lang="en" xmltv_id="S0501">Travel</channel>
-  <channel site="directv.com" site_id="088ffb78-2fed-4ebb-bf13-bf009d0700d7" lang="en" xmltv_id="S0503">Travel Channel HD</channel>
-  <channel site="tvinsider.com" site_id="travel-channel" lang="en" xmltv_id="S0504">Travel Channel</channel>
-  <channel site="directv.com" site_id="1b10de5e-3e3b-488f-9740-bec197244114" lang="en" xmltv_id="S0508">truTV HD</channel>
-  <channel site="directv.com" site_id="8c312c97-15af-45d1-b754-9770c854f177" lang="en" xmltv_id="S0513">TV One HD</channel>
-  <channel site="directv.com" site_id="a22a1e02-fb9b-4d64-b9e8-2ce5eac89d6d" lang="en" xmltv_id="S0516">TV Land HD</channel>
-  <channel site="tvguide.com" site_id="9233004106" lang="en" xmltv_id="S0519">USA</channel>
-  <channel site="directv.com" site_id="2e991d96-3ca5-41f6-8ec1-6db7bd9f4371" lang="en" xmltv_id="S0522">VICE HD</channel>
-  <channel site="tvguide.com" site_id="9200018188" lang="en" xmltv_id="S0525">WE tv</channel>
-  <channel site="tvguide.com" site_id="9233013354" lang="en" xmltv_id="S0528">LOGO</channel>
-  <channel site="directv.com" site_id="d48f198b-6a0f-4d53-9749-222e38f8847b" lang="en" xmltv_id="S0531">FXX HD</channel>
-  <channel site="tvinsider.com" site_id="gettv" lang="en" xmltv_id="S0534">getTV</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD1200002PM" lang="en" xmltv_id="S0535">get TV</channel>
-  <channel site="directv.com" site_id="7d74cbcf-0ae9-4981-b7ba-9dde99194efa" lang="en" xmltv_id="S0537">Great American Family HD</channel>
-  <channel site="tvguide.com" site_id="9200009636" lang="en" xmltv_id="S0538">Great American Family</channel>
-  <channel site="directv.com" site_id="11cc055c-6f49-4c2e-b391-f96b7ac8e7d7" lang="en" xmltv_id="S0540">Game Show Network HD</channel>
-  <channel site="tvguide.com" site_id="9200019858" lang="en" xmltv_id="S0541">Game Show Network</channel>
-  <channel site="directv.com" site_id="cb4259f1-c227-41e7-8542-1d08a47cf49d" lang="en" xmltv_id="S0544">Hallmark Channel HD</channel>
-  <channel site="tvguide.com" site_id="9233010939" lang="en" xmltv_id="S0547">Hallmark Family</channel>
-  <channel site="tvguide.com" site_id="9233013351" lang="en" xmltv_id="S0550">Hallmark Mystery</channel>
-  <channel site="directv.com" site_id="b7669e3c-2916-4b8c-b40d-6266e791ab57" lang="en" xmltv_id="S0552">HGTV HD</channel>
-  <channel site="tvguide.com" site_id="9233004104" lang="en" xmltv_id="S0553">HGTV</channel>
-  <channel site="directv.com" site_id="8dc85473-5c44-444f-8ee3-f3ad6da10329" lang="en" xmltv_id="S0556">History HD</channel>
-  <channel site="tvguide.com" site_id="9233008002" lang="en" xmltv_id="S0557">History</channel>
-  <channel site="directv.com" site_id="9e89d8ee-9678-4378-988f-09665f91f1c2" lang="en" xmltv_id="S0559">IFC HD</channel>
-  <channel site="tvguide.com" site_id="9200004303" lang="en" xmltv_id="S0560">IFC</channel>
-  <channel site="directv.com" site_id="3c6a1eea-d513-4ed7-b467-dcde66069d31" lang="en" xmltv_id="S0563">INSP HD</channel>
-  <channel site="directv.com" site_id="1dd9b3b8-12fe-4821-9cef-0f5adbd4b0e5" lang="en" xmltv_id="S0566">Investigation Discovery HD</channel>
-  <channel site="tvinsider.com" site_id="law-and-crime" lang="en" xmltv_id="S0569">Law &amp; Crime</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAK3508710A" lang="en" xmltv_id="S0570">Law &amp; Crime</channel>
-  <channel site="directv.com" site_id="d1dd879a-5790-454f-9104-39432f4859c6" lang="en" xmltv_id="S0571">Lifetime HD</channel>
-  <channel site="tvguide.com" site_id="9200020452" lang="en" xmltv_id="S0572">Lifetime</channel>
-  <channel site="tvinsider.com" site_id="lifetime" lang="en" xmltv_id="S0573">Lifetime</channel>
-  <channel site="tvinsider.com" site_id="nat-geo" lang="en" xmltv_id="S0576">Nat Geo</channel>
-  <channel site="directv.com" site_id="86732c76-8068-44b3-9c89-f39523208b9c" lang="en" xmltv_id="S0578">Nat Geo Wild HD</channel>
-  <channel site="tvinsider.com" site_id="nat-geo-wild" lang="en" xmltv_id="S0579">Nat Geo Wild</channel>
-  <channel site="directv.com" site_id="f33c61e3-1697-4307-a30f-cf2af76bed69" lang="en" xmltv_id="S0583">Outdoor Channel HD</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-629e522ed1bc5f1b16c6b98d" lang="en" xmltv_id="S0584">Outside</channel>
-  <channel site="plex.tv" site_id="629e522ed1bc5f1b16c6b98d" lang="en" xmltv_id="S0585">Outside</channel>
-  <channel site="distro.tv" site_id="15976" lang="en" xmltv_id="S0586">Outside</channel>
-  <channel site="directv.com" site_id="9e44efca-a796-4d96-a15f-25c0e75f90ce" lang="en" xmltv_id="S0588">Ovation HD</channel>
-  <channel site="tvguide.com" site_id="9233011240" lang="en" xmltv_id="S0589">Ovation</channel>
-  <channel site="tvguide.com" site_id="9200004949" lang="en" xmltv_id="S0591">Oxygen</channel>
-  <channel site="tvinsider.com" site_id="oxygen" lang="en" xmltv_id="S0592">Oxygen</channel>
-  <channel site="directv.com" site_id="35132820-6521-4eb9-9ccf-1dd42de1a5c3" lang="en" xmltv_id="S0597">Paramount Network HD</channel>
-  <channel site="tvinsider.com" site_id="lmn" lang="en" xmltv_id="S0601">Lifetime Movie Network</channel>
-  <channel site="directv.com" site_id="c1a35106-2d20-4b58-bcfe-906cdb19197d" lang="en" xmltv_id="S0604">CMT HD</channel>
-  <channel site="directv.com" site_id="6bb1b774-c06c-44e1-a316-5d41c63229e0" lang="en" xmltv_id="S0607">MTV HD</channel>
-  <channel site="directv.com" site_id="5fa9cee6-c5e0-4efd-8035-23dd470c2f3d" lang="en" xmltv_id="S0610">MTV2 HD</channel>
-  <channel site="directv.com" site_id="3e229de3-9fb0-4f09-8a0c-4c88b4c61614" lang="en" xmltv_id="S0613">VH1 HD</channel>
-  <channel site="directv.com" site_id="6107dde2-4d9f-4c2e-9cb7-75e49ce72ea9" lang="en" xmltv_id="S0615">Heroes &amp; Icons</channel>
-  <channel site="tvinsider.com" site_id="heroes-icons" lang="en" xmltv_id="S0616">Heroes &amp; Icons</channel>
-  <channel site="directv.com" site_id="6aec9a4e-7824-4869-b75f-fb1c648d207e" lang="en" xmltv_id="S0619">Comedy Central West HD</channel>
-  <channel site="directv.com" site_id="74c41fde-6f1e-4920-8429-16d9d4fa259c" lang="en" xmltv_id="S0621">Tr3S (103A)</channel>
-  <channel site="directv.com" site_id="893b200c-1f5c-4d8f-82c8-9219fa0e5118" lang="en" xmltv_id="S0625">QVC2 (79)</channel>
-  <channel site="directv.com" site_id="520ba247-660d-481d-97e5-b231d3256723" lang="en" xmltv_id="S0626">Pop TV</channel>
-  <channel site="tvinsider.com" site_id="pop" lang="en" xmltv_id="S0627">Pop TV</channel>
-  <channel site="directv.com" site_id="1d36c051-d7cd-42a5-8a79-5c9ceac2fca8" lang="en" xmltv_id="S0632">Justice Central HD</channel>
-  <channel site="directv.com" site_id="d833c43a-5f3c-45a1-9c4d-2861c71da177" lang="en" xmltv_id="S0634">Start TV</channel>
-  <channel site="tvinsider.com" site_id="start-tv" lang="en" xmltv_id="S0635">Start TV</channel>
-  <channel site="tvinsider.com" site_id="hsn" lang="en" xmltv_id="S0637">HSN</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5f8a02476b72230007e62b7d" lang="en" xmltv_id="S0638">HSN</channel>
-  <channel site="directv.com" site_id="fc656ac0-652b-42f4-ae42-fade3a74b8f5" lang="en" xmltv_id="S0641">Dog TV</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD70000213" lang="en" xmltv_id="S0643">TMZ</channel>
-  <channel site="plex.tv" site_id="63e2ca44203bafbef831a152" lang="en" xmltv_id="S0644">TMZ</channel>
-  <channel site="directv.com" site_id="d3349098-3608-45d6-8efb-24ebae2be28c" lang="en" xmltv_id="S0646">Cleo TV</channel>
-  <channel site="tvinsider.com" site_id="cleo-tv" lang="en" xmltv_id="S0647">Cleo TV</channel>
-  <channel site="directv.com" site_id="35c1d4c8-f63e-4943-83fe-cfcae3f93772" lang="en" xmltv_id="S0649">Alien Nation by DUST</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC100000630" lang="en" xmltv_id="S0650">Alien Nation by DUST</channel>
-  <channel site="plex.tv" site_id="63d6f799a9e88ee909e7ee21" lang="en" xmltv_id="S0651">Alien Nation by DUST</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f170d61b898490041b49360" lang="en" xmltv_id="S0652">Electric Now</channel>
-  <channel site="plex.tv" site_id="5f170d61b898490041b49360" lang="en" xmltv_id="S0653">Electric Now</channel>
-  <channel site="xumo.tv" site_id="100#99991378" lang="en" xmltv_id="S0654">ElectricNOW</channel>
-  <channel site="directv.com" site_id="bb69566a-8bcb-46a4-badb-1e6705d4041b" lang="en" xmltv_id="S0657">HDNET MOVIES</channel>
-  <channel site="tvinsider.com" site_id="lifetime-real-women" lang="en" xmltv_id="S0660">Lifetime Real Women</channel>
-  <channel site="directv.com" site_id="c0562e14-c7b8-48a7-8cd8-b587629ccebc" lang="en" xmltv_id="S0661">Comedy Dynamics</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD7000145C" lang="en" xmltv_id="S0662">Comedy Dynamics</channel>
-  <channel site="plex.tv" site_id="5efe1de5e0b3f5003f5d9f76" lang="en" xmltv_id="S0663">Comedy Dynamics</channel>
-  <channel site="directv.com" site_id="45c0b1b4-190f-4b09-beb8-e264ec62980a" lang="en" xmltv_id="S0664">INWONDER</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBA300023G8" lang="en" xmltv_id="S0665">InWonder</channel>
-  <channel site="plex.tv" site_id="6668b2b5e4f56766e556a413" lang="en" xmltv_id="S0666">INWONDER</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#674f735a2fb8a100087bf253" lang="en" xmltv_id="S0667">Revry</channel>
-  <channel site="pluto.tv" site_id="674f735a2fb8a100087bf253" lang="en" xmltv_id="S0668">Revry</channel>
-  <channel site="plex.tv" site_id="5ef11487d33ab9004048a1d9" lang="en" xmltv_id="S0669">Revry</channel>
-  <channel site="directv.com" site_id="4bfae50c-9f91-4613-8847-02181340006f" lang="en" xmltv_id="S0672">BYUtv</channel>
-  <channel site="tvinsider.com" site_id="byutv" lang="en" xmltv_id="S0673">BYUtv</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US410000230" lang="en" xmltv_id="S0674">BYUtv</channel>
-  <channel site="directv.com" site_id="ea82c4aa-5081-46b9-8328-f9a7501f8f7c" lang="en" xmltv_id="S0675">Gusto TV</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAK3508724A" lang="en" xmltv_id="S0676">Gusto TV</channel>
-  <channel site="distro.tv" site_id="83408" lang="en" xmltv_id="S0677">Gusto TV</channel>
-  <channel site="directv.com" site_id="e6dd5b81-803d-4602-b8c9-90bb65a6f0af" lang="en" xmltv_id="S0678">Billiard TV</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD12000183X" lang="en" xmltv_id="S0679">Billiard TV</channel>
-  <channel site="plex.tv" site_id="6334a8e48a7b2a349d903b8c" lang="en" xmltv_id="S0680">Billiard TV</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC1500009LD" lang="en" xmltv_id="S0683">WeatherNation</channel>
-  <channel site="tvinsider.com" site_id="bounce-tv" lang="en" xmltv_id="S0689">Bounce TV</channel>
-  <channel site="directv.com" site_id="82539a74-53de-49ba-bcb4-1a43775803f9" lang="en" xmltv_id="S0690">BounceTV</channel>
-  <channel site="tvinsider.com" site_id="dabl" lang="en" xmltv_id="S0692">Dabl</channel>
-  <channel site="directv.com" site_id="6e4cfd3d-56dd-4463-8f48-9620c2e6ab5d" lang="en" xmltv_id="S0693">FOX Soul</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBA300032J7" lang="en" xmltv_id="S0694">FOX SOUL</channel>
-  <channel site="tvguide.com" site_id="9233011910" lang="en" xmltv_id="S0697">ION</channel>
-  <channel site="directv.com" site_id="f0651d6c-09c5-46a9-a168-cfc86e01cdc7" lang="en" xmltv_id="S0701">BBC America HD</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#6176fd25e83a5f0007a464c9" lang="en" xmltv_id="S0707">Bounce XL</channel>
-  <channel site="pluto.tv" site_id="6176fd25e83a5f0007a464c9" lang="en" xmltv_id="S0708">Bounce XL</channel>
-  <channel site="plex.tv" site_id="623d9b0370560b72147a994a" lang="en" xmltv_id="S0709">Bounce XL</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" lang="en" xmltv_id="S0710">AMC Thrillers</channel>
-  <channel site="plex.tv" site_id="5fc705e2a2236e002d69f36d" lang="en" xmltv_id="S0711">AMC Thrillers</channel>
-  <channel site="xumo.tv" site_id="50#99951377" lang="en" xmltv_id="S0712">AMC Thrillers</channel>
-  <channel site="tvinsider.com" site_id="catchy-comedy" lang="en" xmltv_id="S0718">Catchy Comedy</channel>
-  <channel site="tvinsider.com" site_id="ride-tv" lang="en" xmltv_id="S0719">Ride TV</channel>
-  <channel site="tvinsider.com" site_id="real-americas-voice" lang="en" xmltv_id="S0720">Real America&#x27;s Voice</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBB1900002KF" lang="en" xmltv_id="S0721">Real America&#x27;s Voice</channel>
-  <channel site="distro.tv" site_id="64501" lang="en" xmltv_id="S0722">Real America&#x27;s Voice</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD1200021JM" lang="en" xmltv_id="S0726">Shout! TV</channel>
-  <channel site="plex.tv" site_id="60d4edd6b2fdec002c141127" lang="en" xmltv_id="S0727">Shout! TV</channel>
-  <channel site="tvinsider.com" site_id="charge" lang="en" xmltv_id="S0729">Charge!</channel>
-  <channel site="directv.com" site_id="f6dbe792-f9fd-4cb7-a8f2-4e9cc342700e" lang="en" xmltv_id="S0730">The Design Network</channel>
-  <channel site="tvinsider.com" site_id="the-design-network" lang="en" xmltv_id="S0731">The Design Network</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD1200022S1" lang="en" xmltv_id="S0732">The Design Network</channel>
-  <channel site="directv.com" site_id="4bd216f2-8d04-416d-92ed-ed9c394a227c" lang="en" xmltv_id="S0735">Recipe TV</channel>
-  <channel site="directv.com" site_id="6bc2e297-8940-4561-9071-994328392946" lang="en" xmltv_id="S0738">Comedy TV HD</channel>
-  <channel site="directv.com" site_id="173aa1c2-5e38-4ac4-b7b0-fbb749bf9f93" lang="en" xmltv_id="S0741">HSN2</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6995ed8173f56d61dc078f0d" lang="en" xmltv_id="S0742">Circle Country</channel>
-  <channel site="plex.tv" site_id="6995ed8173f56d61dc078f0d" lang="en" xmltv_id="S0743">Circle Country</channel>
-  <channel site="xumo.tv" site_id="200#99991131" lang="en" xmltv_id="S0744">Circle Country</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5e54187aae660e00093561d6" lang="en" xmltv_id="S0745">Game Show Central</channel>
-  <channel site="pluto.tv" site_id="5e54187aae660e00093561d6" lang="en" xmltv_id="S0746">Game Show Central</channel>
-  <channel site="plex.tv" site_id="5eea605574085f0040ddc782" lang="en" xmltv_id="S0747">Game Show Central</channel>
-  <channel site="directv.com" site_id="e3190daa-5f8a-41e8-b8ff-0d9eae7bb347" lang="en" xmltv_id="S0752">MTV West HD</channel>
-  <channel site="directv.com" site_id="80c25768-273c-4298-a307-a6255e60cf7f" lang="en" xmltv_id="S0753">The First</channel>
-  <channel site="tvinsider.com" site_id="the-first" lang="en" xmltv_id="S0754">The First</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5d486acc34ceb37d3c458a64" lang="en" xmltv_id="S0755">The First</channel>
-  <channel site="directv.com" site_id="d1351812-e633-4da7-8fbf-972d52d869b5" lang="en" xmltv_id="S0756">Speedvision</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6349ed0eb1adc4cfa571fd37" lang="en" xmltv_id="S0757">SPEEDVISION</channel>
-  <channel site="xumo.tv" site_id="100#99951268" lang="en" xmltv_id="S0758">SPEEDVISION</channel>
-  <channel site="tvinsider.com" site_id="awe" lang="en" xmltv_id="S0759">AWE</channel>
-  <channel site="directv.com" site_id="385801f7-606a-457d-8116-e1a73cf77484" lang="en" xmltv_id="S0761">TBS West HD</channel>
-  <channel site="tvinsider.com" site_id="science-channel" lang="en" xmltv_id="S0765">Science Channel</channel>
-  <channel site="tvinsider.com" site_id="ion-mystery" lang="en" xmltv_id="S0767">ION Mystery</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC24000223S" lang="en" xmltv_id="S0768">ION Mystery</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC4400006BR" lang="en" xmltv_id="S0769">Haunt TV</channel>
-  <channel site="xumo.tv" site_id="50#99951375" lang="en" xmltv_id="S0770">Haunt TV</channel>
-  <channel site="tvinsider.com" site_id="bet-gospel" lang="en" xmltv_id="S0775">BET Gospel</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#6793ea255225b515b4ba91a7" lang="en" xmltv_id="S0777">ALLBLK Gems</channel>
-  <channel site="pluto.tv" site_id="6793ea255225b515b4ba91a7" lang="en" xmltv_id="S0778">ALLBLK Gems</channel>
-  <channel site="plex.tv" site_id="628bb0eafcb403aa62d2317d" lang="en" xmltv_id="S0779">ALLBLK Gems</channel>
-  <channel site="directv.com" site_id="4ce170e6-9219-42f3-8b02-ad3a5b851e81" lang="en" xmltv_id="S0780">Ebony TV</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" lang="en" xmltv_id="S0782">HerSphere by Lionsgate</channel>
-  <channel site="plex.tv" site_id="644c4bc17472b186783f35a0" lang="en" xmltv_id="S0783">HerSphere by Lionsgate</channel>
-  <channel site="tvinsider.com" site_id="rewind-tv" lang="en" xmltv_id="S0786">Rewind TV</channel>
-  <channel site="directv.com" site_id="f1e6988c-8273-4356-9d41-23dd1eb7e667" lang="en" xmltv_id="S0787">PowerNation</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#63b48016d9dd51000828fa37" lang="en" xmltv_id="S0788">POWERNATION</channel>
-  <channel site="pluto.tv" site_id="63b48016d9dd51000828fa37" lang="en" xmltv_id="S0789">POWERNATION</channel>
-  <channel site="directv.com" site_id="c919b444-d041-4a55-aeff-44e681878ae4" lang="en" xmltv_id="S0790">MeTV Toons</channel>
-  <channel site="tvinsider.com" site_id="metv-toons" lang="en" xmltv_id="S0791">MeTV Toons</channel>
-  <channel site="tvinsider.com" site_id="metv-plus" lang="en" xmltv_id="S0793">MeTV+</channel>
-  <channel site="tvinsider.com" site_id="vice-tv" lang="en" xmltv_id="S0794">Vice TV</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#666b265722acab000885c6aa" lang="en" xmltv_id="S0795">BET x Tyler Perry Comedy</channel>
-  <channel site="pluto.tv" site_id="666b265722acab000885c6aa" lang="en" xmltv_id="S0796">BET x Tyler Perry Comedy</channel>
-  <channel site="plex.tv" site_id="66635c20ca7b22f4c3a2d73f" lang="en" xmltv_id="S0797">BET x Tyler Perry Comedy</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US2600006VY" lang="en" xmltv_id="S0798">One Championship TV</channel>
-  <channel site="plex.tv" site_id="6785867ad3749c9bdd4d2ed1" lang="en" xmltv_id="S0799">ONE Championship TV</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-633239caa6615514fb78ecf3" lang="en" xmltv_id="S0801">Unbeaten</channel>
-  <channel site="plex.tv" site_id="67f45ef989089d917e1b1634" lang="en" xmltv_id="S0802">Unbeaten</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#666b38a5efa2a10008b15b3a" lang="en" xmltv_id="S0803">BET x Tyler Perry Drama</channel>
-  <channel site="pluto.tv" site_id="666b38a5efa2a10008b15b3a" lang="en" xmltv_id="S0804">BET x Tyler Perry Drama</channel>
-  <channel site="plex.tv" site_id="66635b07ca7b22f4c3a2d73d" lang="en" xmltv_id="S0805">BET x Tyler Perry Drama</channel>
-  <channel site="tvguide.com" site_id="9200004533" lang="en" xmltv_id="S0808">Big Ten Network</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9" lang="en" xmltv_id="S0809">Scares by Shudder</channel>
-  <channel site="plex.tv" site_id="650b38f490baad1963ad96f9" lang="en" xmltv_id="S0810">Scares by Shudder</channel>
-  <channel site="xumo.tv" site_id="50#99951349" lang="en" xmltv_id="S0811">Scares by Shudder</channel>
-  <channel site="directv.com" site_id="8a26be7e-df40-4be0-9a0c-50f2013c03a2" lang="en" xmltv_id="S0812">Are We There Yet</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US1900011ZN" lang="en" xmltv_id="S0813">Are We There Yet?</channel>
-  <channel site="plex.tv" site_id="612919784f53e1002c9aa219" lang="en" xmltv_id="S0814">Are We There Yet?</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#68487fb3f212bedacf5a53e3" lang="en" xmltv_id="S0815">50 Cent Action</channel>
-  <channel site="pluto.tv" site_id="68487fb3f212bedacf5a53e3" lang="en" xmltv_id="S0816">50 Cent Action</channel>
-  <channel site="plex.tv" site_id="6827b9579beea89c38b6df55" lang="en" xmltv_id="S0817">50 Cent Action</channel>
-  <channel site="directv.com" site_id="7e3cd866-061b-410c-86cf-5aa5fc6e6937" lang="en" xmltv_id="S0820">Pureflix TV</channel>
-  <channel site="xumo.tv" site_id="300#99951407" lang="en" xmltv_id="S0821">Pure Flix TV</channel>
-  <channel site="xumo.tv" site_id="300#99951211" lang="en" xmltv_id="S0822">STELLAR</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-62280644c9f485cc7afe8c48" lang="en" xmltv_id="S0823">BlackPix</channel>
-  <channel site="plex.tv" site_id="62280644c9f485cc7afe8c48" lang="en" xmltv_id="S0824">BlackPix</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-641496bf238e21f260e7844a" lang="en" xmltv_id="S0825">OuterSphere by Lionsgate</channel>
-  <channel site="plex.tv" site_id="641496bf238e21f260e7844a" lang="en" xmltv_id="S0826">OuterSphere by Lionsgate</channel>
-  <channel site="xumo.tv" site_id="50#99951250" lang="en" xmltv_id="S0827">OuterSphere by Lionsgate</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#645e7828e1979c00087b75b4" lang="en" xmltv_id="S0828">MovieSphere by Lionsgate</channel>
-  <channel site="pluto.tv" site_id="645e7828e1979c00087b75b4" lang="en" xmltv_id="S0829">MovieSphere by Lionsgate</channel>
-  <channel site="xumo.tv" site_id="0#99951251" lang="en" xmltv_id="S0830">MovieSphere by Lionsgate</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US1800015K5" lang="en" xmltv_id="S0831">National Lampoon</channel>
-  <channel site="plex.tv" site_id="661fcbcf414d94009d1206ee" lang="en" xmltv_id="S0832">National Lampoon</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-66a2c1370b91165254efdb3c" lang="en" xmltv_id="S0833">At the Movies</channel>
-  <channel site="plex.tv" site_id="66a2c1370b91165254efdb3c" lang="en" xmltv_id="S0834">At the Movies</channel>
-  <channel site="directv.com" site_id="1e160544-00bc-4b3c-88df-455fb4af26e2" lang="en" xmltv_id="S0836">El Rey Rebel</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#691d1200c2185a44642f5e7c" lang="en" xmltv_id="S0837">El Rey Rebel</channel>
-  <channel site="pluto.tv" site_id="691d1200c2185a44642f5e7c" lang="en" xmltv_id="S0838">El Rey Rebel</channel>
-  <channel site="directv.com" site_id="9007fc14-113d-4e1e-bf32-abc1a8777d1d" lang="en" xmltv_id="S0839">Sweet Escapes</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-66a1acc577649467da169f0c" lang="en" xmltv_id="S0840">Sweet Escapes</channel>
-  <channel site="plex.tv" site_id="66a1acc577649467da169f0c" lang="en" xmltv_id="S0841">Sweet Escapes</channel>
-  <channel site="directv.com" site_id="171d9bb5-236b-4d9b-9c29-c9e5dc823d9b" lang="en" xmltv_id="S0842">Nosey</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5aec96ec5126c2157123c657" lang="en" xmltv_id="S0843">Nosey</channel>
-  <channel site="pluto.tv" site_id="5aec96ec5126c2157123c657" lang="en" xmltv_id="S0844">Nosey</channel>
-  <channel site="directv.com" site_id="cb6822da-03bc-42b4-bf41-d63b2ba29fa6" lang="en" xmltv_id="S0845">Living With Evil</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#68bb164fb3900870ec368759" lang="en" xmltv_id="S0846">Living With Evil</channel>
-  <channel site="pluto.tv" site_id="68bb164fb3900870ec368759" lang="en" xmltv_id="S0847">Living With Evil</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC1000004G8" lang="en" xmltv_id="S0848">Shades of Black</channel>
-  <channel site="plex.tv" site_id="67a1421f114554261db9e459" lang="en" xmltv_id="S0849">Shades of Black</channel>
-  <channel site="xumo.tv" site_id="0#9995106" lang="en" xmltv_id="S0850">Shades of Black</channel>
-  <channel site="tvinsider.com" site_id="lol-network" lang="en" xmltv_id="S0851">LOL Network</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC1300009VM" lang="en" xmltv_id="S0852">LOL! Network</channel>
-  <channel site="plex.tv" site_id="628ea9fcffe4cec6361f5310" lang="en" xmltv_id="S0853">LOL! Network</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US350000563" lang="en" xmltv_id="S0855">GET Comedy</channel>
-  <channel site="xumo.tv" site_id="150#99951333" lang="en" xmltv_id="S0856">GET Comedy</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#67c62ac2095aea2ec805eb34" lang="en" xmltv_id="S0857">The Martha Stewart Channel</channel>
-  <channel site="pluto.tv" site_id="67c62ac2095aea2ec805eb34" lang="en" xmltv_id="S0858">The Martha Stewart Channel</channel>
-  <channel site="xumo.tv" site_id="250#99951513" lang="en" xmltv_id="S0859">The Martha Stewart Channel</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#6400f731d200410008f9b339" lang="en" xmltv_id="S0860">Discovery Turbo TV</channel>
-  <channel site="pluto.tv" site_id="6400f731d200410008f9b339" lang="en" xmltv_id="S0861">MotorTrend FAST TV</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" lang="en" xmltv_id="S0862">FilmRise Comedy</channel>
-  <channel site="plex.tv" site_id="68db6a852be6c4ceb7947b9a" lang="en" xmltv_id="S0863">FilmRise Comedy</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBB3200001MG" lang="en" xmltv_id="S0864">REELZ Famous &amp; Infamous</channel>
-  <channel site="plex.tv" site_id="64f0d3ddc2bc9b9001d46ea4" lang="en" xmltv_id="S0865">REELZ Famous &amp; Infamous</channel>
-  <channel site="xumo.tv" site_id="100#99991368" lang="en" xmltv_id="S0866">REELZ Famous &amp; Infamous</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" lang="en" xmltv_id="S0867">True History</channel>
-  <channel site="distro.tv" site_id="66893" lang="en" xmltv_id="S0868">True History</channel>
-  <channel site="xumo.tv" site_id="300#99991650" lang="en" xmltv_id="S0869">True History Channel</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5e9decb953e157000752321c" lang="en" xmltv_id="S0870">Judge Nosey</channel>
-  <channel site="pluto.tv" site_id="5e9decb953e157000752321c" lang="en" xmltv_id="S0871">Judge Nosey</channel>
-  <channel site="directv.com" site_id="15ef47e7-1b5e-4cf2-be5e-dedc55dfdaf8" lang="en" xmltv_id="S0872">Confess by Nosey</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#634ee8f95aa9870007248333" lang="en" xmltv_id="S0873">Confess by Nosey</channel>
-  <channel site="pluto.tv" site_id="634ee8f95aa9870007248333" lang="en" xmltv_id="S0874">Confess by Nosey</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-678819cadb8f0c5dc195cf50" lang="en" xmltv_id="S0875">Pam Grier&#x27;s Soul Flix</channel>
-  <channel site="plex.tv" site_id="678819cadb8f0c5dc195cf50" lang="en" xmltv_id="S0876">Pam Grier&#x27;s Soul Flix</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#656542ae4261ca00082154a8" lang="en" xmltv_id="S0877">Ultimate Builds</channel>
-  <channel site="pluto.tv" site_id="656542ae4261ca00082154a8" lang="en" xmltv_id="S0878">Ultimate Builds</channel>
-  <channel site="directv.com" site_id="5b2cc61c-32c8-42db-8c2e-ec527e55f1fa" lang="en" xmltv_id="S0879">Fail Army</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#554158e864526b29254ff105" lang="en" xmltv_id="S0880">FailArmy</channel>
-  <channel site="pluto.tv" site_id="554158e864526b29254ff105" lang="en" xmltv_id="S0881">FailArmy</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#60f85644a9493e0007a1f035" lang="en" xmltv_id="S0884">BET Classics</channel>
-  <channel site="pluto.tv" site_id="60f85644a9493e0007a1f035" lang="en" xmltv_id="S0885">BET Classics</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#61326275b3c86a00078e4833" lang="en" xmltv_id="S0886">BET Throwbacks</channel>
-  <channel site="pluto.tv" site_id="61326275b3c86a00078e4833" lang="en" xmltv_id="S0887">BET Throwbacks</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#663946c1b18d700008d9c168" lang="en" xmltv_id="S0888">BET Visionaries</channel>
-  <channel site="pluto.tv" site_id="663946c1b18d700008d9c168" lang="en" xmltv_id="S0889">BET Visionaries</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5d40bebc5e3d2750a2239d7e" lang="en" xmltv_id="S0890">TV Land Drama</channel>
-  <channel site="pluto.tv" site_id="5d40bebc5e3d2750a2239d7e" lang="en" xmltv_id="S0891">TV Land Drama</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5c2d64ffbdf11b71587184b8" lang="en" xmltv_id="S0892">TV Land Sitcoms</channel>
-  <channel site="pluto.tv" site_id="61bd0b57872c650008ed2e38" lang="en" xmltv_id="S0893">TV Land Sitcoms</channel>
-  <channel site="directv.com" site_id="21e41317-1a4e-4302-b43e-b916fa1e7534" lang="en" xmltv_id="S0895">RACER Network</channel>
-  <channel site="directv.com" site_id="a159f96b-b98b-4772-af97-dff13b11a0d2" lang="en" xmltv_id="S0897">STARZ Kids &amp; Family HD</channel>
-  <channel site="tvguide.com" site_id="9200006977" lang="en" xmltv_id="S0898">STARZ Kids &amp; Family</channel>
-  <channel site="tvguide.com" site_id="9233015844" lang="en" xmltv_id="S0903">Boomerang</channel>
-  <channel site="directv.com" site_id="b58935e4-74c0-4d19-aa0c-d0557d716f2b" lang="en" xmltv_id="S0906">Cartoon Network HD</channel>
-  <channel site="directv.com" site_id="2c8f5f1d-ca3e-44a3-80ee-a30bf8060aa2" lang="en" xmltv_id="S0909">Cartoon Network West</channel>
-  <channel site="tvguide.com" site_id="9200018475" lang="en" xmltv_id="S0911">Disney</channel>
-  <channel site="directv.com" site_id="e0811c53-5460-4731-a8dd-1e3e3543a4c1" lang="en" xmltv_id="S0912">Disney Channel (West)</channel>
-  <channel site="directv.com" site_id="b49573ad-cf93-4c89-81dd-c06ce57822f2" lang="en" xmltv_id="S0914">Disney Junior HD</channel>
-  <channel site="tvguide.com" site_id="9233009788" lang="en" xmltv_id="S0915">Disney Junior</channel>
-  <channel site="directv.com" site_id="b7c1fb6b-0eb7-4fa9-b7e0-1005f699fbb6" lang="en" xmltv_id="S0919">Disney XD HD</channel>
-  <channel site="directv.com" site_id="0ae8d67d-2284-4e26-a2f9-4ba1b2819ff9" lang="en" xmltv_id="S0925">Nick Jr. HD</channel>
-  <channel site="tvguide.com" site_id="9200006974" lang="en" xmltv_id="S0928">TeenNick</channel>
-  <channel site="tvguide.com" site_id="9200020469" lang="en" xmltv_id="S0930">Nicktoons</channel>
-  <channel site="directv.com" site_id="41a3b6f2-8fbd-416d-9c61-b150d4006711" lang="en" xmltv_id="S0931">Nicktoons</channel>
-  <channel site="directv.com" site_id="18ee6c13-d93a-4f79-bd02-21bd18b052a3" lang="en" xmltv_id="S0934">Nickelodeon East HD</channel>
-  <channel site="directv.com" site_id="46c15402-92e9-4aee-9b2d-e8512c33696a" lang="en" xmltv_id="S0937">PBS Kids</channel>
-  <channel site="directv.com" site_id="63c40d47-aab6-4ba9-b1ad-de7a646e4ce9" lang="en" xmltv_id="S0940">Nickelodeon West</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#60fb040d4795a6000762fe8f" lang="en" xmltv_id="S0941">Kartoon Channel!</channel>
-  <channel site="pluto.tv" site_id="60fb040d4795a6000762fe8f" lang="en" xmltv_id="S0942">Kartoon Channel!</channel>
-  <channel site="tvguide.com" site_id="9233002112" lang="en" xmltv_id="S0943">Smithsonian</channel>
-  <channel site="tvinsider.com" site_id="history-channel" lang="en" xmltv_id="S0945">History Channel</channel>
-  <channel site="tvinsider.com" site_id="curiosity-stream" lang="en" xmltv_id="S0947">Curiosity Stream</channel>
-  <channel site="directv.com" site_id="974e261e-f83c-4f7d-9c13-7fbedd8bd614" lang="en" xmltv_id="S0950">Jewelry Television (72)</channel>
-  <channel site="tvinsider.com" site_id="story-television" lang="en" xmltv_id="S0954">Story Television</channel>
-  <channel site="directv.com" site_id="5be021ad-db5c-4d09-945f-9f6852648dbe" lang="en" xmltv_id="S0955">Curiosity Now</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" lang="en" xmltv_id="S0956">Curiosity NOW</channel>
-  <channel site="plex.tv" site_id="64831c8be3541c909e96d240" lang="en" xmltv_id="S0957">Curiosity NOW</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#673bf05ddaad7f0008ac7a5c" lang="en" xmltv_id="S0958">Dinos 24/7</channel>
-  <channel site="pluto.tv" site_id="673bf05ddaad7f0008ac7a5c" lang="en" xmltv_id="S0959">Dinos 24/7</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#6000a5a9e767980007b497ca" lang="en" xmltv_id="S0960">A&amp;E Crime 360</channel>
-  <channel site="pluto.tv" site_id="6000a5a9e767980007b497ca" lang="en" xmltv_id="S0961">A&amp;E Crime 360</channel>
-  <channel site="plex.tv" site_id="5f74cf7effbe690040689f41" lang="en" xmltv_id="S0962">A&amp;E Crime 360</channel>
-  <channel site="directv.com" site_id="7b4b945b-8877-4aa3-b194-e352c209f1c7" lang="en" xmltv_id="S0963">Crime Scenes</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" lang="en" xmltv_id="S0964">Crime Scenes</channel>
-  <channel site="plex.tv" site_id="66a2bfe594b6a49cb5054d75" lang="en" xmltv_id="S0965">Crime Scenes</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#65492fc7056b9700088560b5" lang="en" xmltv_id="S0966">American Crimes</channel>
-  <channel site="pluto.tv" site_id="65492fc7056b9700088560b5" lang="en" xmltv_id="S0967">American Crimes</channel>
-  <channel site="plex.tv" site_id="6467891c73e5e029428f0e16" lang="en" xmltv_id="S0968">American Crimes</channel>
-  <channel site="tvinsider.com" site_id="bet-jams" lang="en" xmltv_id="S0971">BET Jams</channel>
-  <channel site="tvinsider.com" site_id="bet-soul" lang="en" xmltv_id="S0974">BET Soul</channel>
-  <channel site="directv.com" site_id="d1557f70-9718-4365-aca6-0fdc7b6c94c6" lang="en" xmltv_id="S0980">MTV Classic</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc705daa2236e002d69f108" lang="en" xmltv_id="S0982">Stingray Karaoke</channel>
-  <channel site="plex.tv" site_id="62d7f6904d0067dd4d60d0de" lang="en" xmltv_id="S0983">Stingray Karaoke</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5fd7b8bf927e090007685853" lang="en" xmltv_id="S0989">Vevo &#x27;80s</channel>
-  <channel site="pluto.tv" site_id="5fd7b8bf927e090007685853" lang="en" xmltv_id="S0990">Vevo &#x27;80s</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5da0d75e84830900098a1ea0" lang="en" xmltv_id="S0991">Vevo Country</channel>
-  <channel site="pluto.tv" site_id="5da0d75e84830900098a1ea0" lang="en" xmltv_id="S0992">Vevo Country</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5f4d86f519358a00072b978e" lang="en" xmltv_id="S0995">90s Throwback</channel>
-  <channel site="pluto.tv" site_id="5f4d86f519358a00072b978e" lang="en" xmltv_id="S0996">90s Throwback</channel>
-  <channel site="directv.com" site_id="c26f8f09-66fb-452a-ab90-86e90a69d599" lang="en" xmltv_id="S0999">EWTN</channel>
-  <channel site="directv.com" site_id="5972cb2f-63d7-47fb-bec3-e1f956f15ceb" lang="en" xmltv_id="S1003">Daystar HD</channel>
-  <channel site="directv.com" site_id="3c6bb192-dc04-48de-862b-71fb9e12cd1f" lang="en" xmltv_id="S1004">NRB</channel>
-  <channel site="tvinsider.com" site_id="catholic-faith-network" lang="en" xmltv_id="S1015">Catholic Faith Network</channel>
-  <channel site="tvinsider.com" site_id="great-american-faith-and-living" lang="en" xmltv_id="S1020">Great American Faith &amp; Living</channel>
-  <channel site="directv.com" site_id="cfd4b615-c89c-47db-a561-5f582c3e23a2" lang="en" xmltv_id="S1023">The WORD Network</channel>
-  <channel site="xumo.tv" site_id="300#99951344" lang="en" xmltv_id="S1024">Joel Osteen Network</channel>
-  <channel site="directv.com" site_id="54097e9b-de62-4618-be26-12f73cf6c484" lang="en" xmltv_id="S1025">Pursuit UP</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc" lang="en" xmltv_id="S1026">PursuitUP</channel>
-  <channel site="xumo.tv" site_id="50#99991648" lang="en" xmltv_id="S1027">PursuitUp</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5efe1de8e0b3f5003f5d9f91" lang="en" xmltv_id="S1028">Dove</channel>
-  <channel site="plex.tv" site_id="5efe1de8e0b3f5003f5d9f91" lang="en" xmltv_id="S1029">Dove</channel>
-  <channel site="xumo.tv" site_id="300#99991333" lang="en" xmltv_id="S1030">Dove</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBB2900002Z7" lang="en" xmltv_id="S1031">Hell&#x27;s Kitchen</channel>
-  <channel site="xumo.tv" site_id="250#99991681" lang="en" xmltv_id="S1032">Hell&#x27;s Kitchen</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3" lang="en" xmltv_id="S1033">Choppertown</channel>
-  <channel site="directv.com" site_id="b9a635df-c9a1-459a-b714-a6ca56d137a3" lang="en" xmltv_id="S1034">NBC Sports Now</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#6549306c83595c000815a696" lang="en" xmltv_id="S1035">NBC Sports NOW</channel>
-  <channel site="pluto.tv" site_id="6549306c83595c000815a696" lang="en" xmltv_id="S1036">NBC Sports NOW</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#55b285cd2665de274553d66f" lang="en" xmltv_id="S1038">Sky News</channel>
-  <channel site="pluto.tv" site_id="55b285cd2665de274553d66f" lang="en" xmltv_id="S1039">Sky News</channel>
-  <channel site="xumo.tv" site_id="0#99951223" lang="en" xmltv_id="S1040">Sky News</channel>
-  <channel site="directv.com" site_id="1354ac42-cf21-4578-82df-9e35c0657718" lang="en" xmltv_id="S1041">SNL Vault</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US1800012MT" lang="en" xmltv_id="S1042">SNL Vault</channel>
-  <channel site="plex.tv" site_id="5fc70600598c41002da3dd34" lang="en" xmltv_id="S1043">SNL Vault</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6478acb5c83f56da796f166f" lang="en" xmltv_id="S1044">Telemundo al Dia</channel>
-  <channel site="plex.tv" site_id="6478acb5c83f56da796f166f" lang="es" xmltv_id="S1045">Telemundo al Dia</channel>
-  <channel site="xumo.tv" site_id="250#99991747" lang="en" xmltv_id="S1046">Telemundo Al Día</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5d51e791b7dba3b2ae990ab2" lang="en" xmltv_id="S1047">This Old House</channel>
-  <channel site="pluto.tv" site_id="5d51e791b7dba3b2ae990ab2" lang="en" xmltv_id="S1048">This Old House</channel>
-  <channel site="plex.tv" site_id="62e3232ca105dea9c400e9fe" lang="en" xmltv_id="S1049">This Old House</channel>
-  <channel site="tvinsider.com" site_id="abc" lang="en" xmltv_id="S1424">ABC</channel>
-  <channel site="directv.com" site_id="ba49e669-31ec-499c-9ede-3c766016226e" lang="en" xmltv_id="S1441">ABC News Live</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#6508be683a0d700008c534e4" lang="en" xmltv_id="S1442">ABC News Live</channel>
-  <channel site="tvinsider.com" site_id="cbs" lang="en" xmltv_id="S1575">CBS</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6571f43a1d2aae780d597196" lang="en" xmltv_id="S1596">CBS News</channel>
-  <channel site="plex.tv" site_id="6571f43a1d2aae780d597196" lang="en" xmltv_id="S1597">CBS News</channel>
-  <channel site="tvguide.com" site_id="9233002271" lang="en" xmltv_id="S1722">FOX</channel>
-  <channel site="plex.tv" site_id="6577aa88f8a8e7d24bc86ed1" lang="en" xmltv_id="S1737">KSTU</channel>
-  <channel site="plex.tv" site_id="6577ab54f8a8e7d24bc86ed3" lang="en" xmltv_id="S2134">KNXV</channel>
-  <channel site="directv.com" site_id="13037afa-9397-4f2a-b015-069621319ced" lang="en" xmltv_id="S2298">NBC News Now</channel>
-  <channel site="tvinsider.com" site_id="nbc-news-now" lang="en" xmltv_id="S2299">NBC News Now</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5df97894467dfa00091c873c" lang="en" xmltv_id="S2300">NBC News NOW</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#63d025db4e83e700086eaa96" lang="en" xmltv_id="S2438">LiveNOW from FOX</channel>
-  <channel site="pluto.tv" site_id="63d025db4e83e700086eaa96" lang="en" xmltv_id="S2439">LiveNOW from FOX</channel>
-  <channel site="plex.tv" site_id="6377ea0e13bb6b1757e14695" lang="en" xmltv_id="S2440">LiveNOW from FOX</channel>
-  <channel site="tvinsider.com" site_id="wgn" lang="en" xmltv_id="S2510">WGN America</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US25000063S" lang="en" xmltv_id="S2528">CW Gold</channel>
-  <channel site="plex.tv" site_id="66635e41ca7b22f4c3a2d741" lang="en" xmltv_id="S2529">CW Gold</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US25000075Y" lang="en" xmltv_id="S2530">CW FOREVER</channel>
-  <channel site="plex.tv" site_id="66635fc0ca7b22f4c3a2d743" lang="en" xmltv_id="S2531">CW Forever</channel>
-  <channel site="directv.com" site_id="2945210e-6289-4402-be3a-6704b027ec50" lang="en" xmltv_id="S2546">CBS Sports Network HD</channel>
-  <channel site="directv.com" site_id="d29f3a3b-29ea-4807-9222-3e29fc8df922" lang="en" xmltv_id="S2549">FOX Soccer Plus HD</channel>
-  <channel site="directv.com" site_id="d1f76753-8507-4df5-bdeb-77ce20690d9d" lang="en" xmltv_id="S2552">ESPN HD</channel>
-  <channel site="directv.com" site_id="f86aec47-ea18-4de2-8f67-38384c91102a" lang="en" xmltv_id="S2555">FOX Sports 1 HD</channel>
-  <channel site="directv.com" site_id="c710ec79-d8e0-4100-ae61-ab296cbb1fc0" lang="en" xmltv_id="S2558">FOX Sports 2 HD</channel>
-  <channel site="directv.com" site_id="73507e54-57e2-4ca8-b815-845aebaa8ec7" lang="en" xmltv_id="S2561">Space City Home Network HD</channel>
-  <channel site="directv.com" site_id="4adb6040-f730-4e88-be8c-742a12943915" lang="en" xmltv_id="S2564">ACC Network HD</channel>
-  <channel site="directv.com" site_id="fa09c7bf-b0bd-4976-9bab-c7e2c5021ade" lang="en" xmltv_id="S2567">ESPN2 HD</channel>
-  <channel site="tvguide.com" site_id="9200006950" lang="en" xmltv_id="S2570">ESPN News</channel>
-  <channel site="directv.com" site_id="78a8f90a-df4f-4fcf-be56-df27539c5ac4" lang="en" xmltv_id="S2573">ESPNU HD</channel>
-  <channel site="directv.com" site_id="45c68715-9c20-4897-9235-8ec996d2af97" lang="en" xmltv_id="S2575">FOX Deportes HD</channel>
-  <channel site="tvinsider.com" site_id="fox-deportes" lang="en" xmltv_id="S2576">FOX Deportes</channel>
-  <channel site="directv.com" site_id="5d03a7c5-e0e6-4588-b0e9-012e0c3e63b8" lang="en" xmltv_id="S2579">NESN+ HD (Alternate)</channel>
-  <channel site="directv.com" site_id="35c1ba7e-1007-4171-a7a1-a04912e8149f" lang="en" xmltv_id="S2581">Sportsman Channel</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAJ3504705A" lang="en" xmltv_id="S2583">Stadium</channel>
-  <channel site="plex.tv" site_id="5f6142d2fc6ce20041ec3c92" lang="en" xmltv_id="S2584">Stadium</channel>
-  <channel site="tvguide.com" site_id="9200017917" lang="en" xmltv_id="S2586">The Tennis</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#681109b688b9d85d0938c6ba" lang="en" xmltv_id="S2587">TennisChannel 2</channel>
-  <channel site="tvinsider.com" site_id="world-fishing-network" lang="en" xmltv_id="S2589">World Fishing Network</channel>
-  <channel site="directv.com" site_id="1f16d48c-530d-446f-a759-2d7c7a8a527a" lang="en" xmltv_id="S2592">NFL RedZone HD</channel>
-  <channel site="directv.com" site_id="8e4f3326-9bf2-46df-a128-92df7f3e8919" lang="en" xmltv_id="S2593">MASN HD</channel>
-  <channel site="directv.com" site_id="a758c1e7-0d3b-4c07-8b9f-e00850387cb9" lang="en" xmltv_id="S2594">NESN HD</channel>
-  <channel site="tvinsider.com" site_id="new-england-sports-network" lang="en" xmltv_id="S2595">NESN</channel>
-  <channel site="directv.com" site_id="4ee999b9-4089-478e-91cc-05440acc38b9" lang="en" xmltv_id="S2598">Marquee Sports Network HD.</channel>
-  <channel site="directv.com" site_id="f7c082b5-833f-4a63-91d7-3276d0bc010c" lang="en" xmltv_id="S2600">Yes Network HD</channel>
-  <channel site="tvinsider.com" site_id="yankee-entertainment-sports" lang="en" xmltv_id="S2601">YES Network</channel>
-  <channel site="directv.com" site_id="b9b1b688-8d78-4580-8913-e98fe3bd9b05" lang="en" xmltv_id="S2604">NFL Network HD</channel>
-  <channel site="directv.com" site_id="35621fc9-1d39-49c7-bdef-4c182d3d07fa" lang="en" xmltv_id="S2606">Golf Channel HD</channel>
-  <channel site="tvinsider.com" site_id="golf-channel" lang="en" xmltv_id="S2607">Golf Channel</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5616f9c0ada51f8004c4b091" lang="en" xmltv_id="S2608">World Poker Tour</channel>
-  <channel site="pluto.tv" site_id="5616f9c0ada51f8004c4b091" lang="en" xmltv_id="S2609">World Poker Tour</channel>
-  <channel site="xumo.tv" site_id="50#99991317" lang="en" xmltv_id="S2610">World Poker Tour</channel>
-  <channel site="directv.com" site_id="7b4405c7-5cdd-4248-a399-1859e74652ab" lang="en" xmltv_id="S2613">Altitude Sports HD</channel>
-  <channel site="tvinsider.com" site_id="altitude-sports" lang="en" xmltv_id="S2614">Altitude Sports</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAJ2200023Z0" lang="en" xmltv_id="S2615">fubo Sports Network</channel>
-  <channel site="plex.tv" site_id="5fc705f68aba71002d8b7b37" lang="en" xmltv_id="S2616">Fubo Sports Network</channel>
-  <channel site="directv.com" site_id="28cb5863-af10-473d-9625-fb6fd2206fe6" lang="en" xmltv_id="S2618">SportsGrid</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBA300031OT" lang="en" xmltv_id="S2619">SportsGrid</channel>
-  <channel site="directv.com" site_id="b5452e9c-1d13-42ed-9723-794d26e77530" lang="en" xmltv_id="S2621">SportsNet New York HD</channel>
-  <channel site="directv.com" site_id="ea4a382a-356e-4693-9a4d-36782f1f2713" lang="en" xmltv_id="S2623">Fight Network</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" lang="en" xmltv_id="S2624">Fight Network</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD1700019RN" lang="en" xmltv_id="S2625">RACER Select</channel>
-  <channel site="plex.tv" site_id="5f0641d0e8ffda004033aff4" lang="en" xmltv_id="S2626">RACER Select</channel>
-  <channel site="xumo.tv" site_id="100#99951269" lang="en" xmltv_id="S2627">RACER Select</channel>
-  <channel site="directv.com" site_id="6fe20dc1-9103-4569-a42c-d887dddf14a3" lang="en" xmltv_id="S2628">Red Bull TV</channel>
-  <channel site="tvinsider.com" site_id="gol-tv" lang="en" xmltv_id="S2630">GOL TV</channel>
-  <channel site="directv.com" site_id="3c8abb32-1002-4118-a3b2-2201be88fe5a" lang="en" xmltv_id="S2633">SEC Network HD</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC3200019WF" lang="en" xmltv_id="S2634">NHRA TV</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" lang="en" xmltv_id="S2635">CBS Sports Golazo Network</channel>
-  <channel site="plex.tv" site_id="6571186d9a46917c0a8f2ddd" lang="en" xmltv_id="S2636">CBS Sports Golazo Network</channel>
-  <channel site="pluto.tv" site_id="63a0e33a45264d000850ed7e" lang="en" xmltv_id="S2637">Golazo Network</channel>
-  <channel site="directv.com" site_id="2ec64545-91c5-4f3a-9934-d9633962fe3b" lang="en" xmltv_id="S2640">ESPN Deportes HD</channel>
-  <channel site="tvinsider.com" site_id="nbc-sports-philadelphia" lang="en" xmltv_id="S2643">NBC Sports Philadelphia</channel>
-  <channel site="tvinsider.com" site_id="msg" lang="en" xmltv_id="S2646">MSG</channel>
-  <channel site="directv.com" site_id="028e8e6c-3ecd-4248-a436-1f3284a3f955" lang="en" xmltv_id="S2649">NHL Network HD</channel>
-  <channel site="directv.com" site_id="d8e10041-feec-44fa-983f-dd8ae07323fe" lang="en" xmltv_id="S2650">Racing America</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" lang="en" xmltv_id="S2651">Racing America</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US350000231" lang="en" xmltv_id="S2652">PFL</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD12000255B" lang="en" xmltv_id="S2653">FIFA+</channel>
-  <channel site="plex.tv" site_id="66628d4a8dfc36b8c8a399c4" lang="en" xmltv_id="S2654">FIFA+</channel>
-  <channel site="directv.com" site_id="d351ef21-b01e-434f-acec-712e62b6d093" lang="en" xmltv_id="S2655">Pickleball TV</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD4200016QR" lang="en" xmltv_id="S2656">PickleballTV</channel>
-  <channel site="plex.tv" site_id="6583507e0938f2993a23375c" lang="en" xmltv_id="S2657">PickleballTV</channel>
-  <channel site="xumo.tv" site_id="50#99951381" lang="en" xmltv_id="S2659">Real Madrid TV</channel>
-  <channel site="directv.com" site_id="29f35d32-a695-40de-9fbb-56d5c0204822" lang="en" xmltv_id="S2662">FanDuel TV HD</channel>
-  <channel site="directv.com" site_id="812f6dbf-9b5a-4f45-9af8-d1723d847dfe" lang="en" xmltv_id="S2666">Women&#x27;s Sports Network</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#686d8dd294a028da3ac59566" lang="en" xmltv_id="S2667">Women&#x27;s Sports Network</channel>
-  <channel site="pluto.tv" site_id="686d8dd294a028da3ac59566" lang="en" xmltv_id="S2668">Women&#x27;s Sports Network</channel>
-  <channel site="directv.com" site_id="1a6be6ca-c05f-4780-b4bc-4a2610291dc6" lang="en" xmltv_id="S2670">Chicago Sports Network HD</channel>
-  <channel site="directv.com" site_id="4428ff9c-a80a-409f-8fa4-f5ed43a11891" lang="en" xmltv_id="S2671">Chicago Sports Network Plus HD</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US700021SM" lang="en" xmltv_id="S2672">NASCAR Channel</channel>
-  <channel site="xumo.tv" site_id="100#99951413" lang="en" xmltv_id="S2673">NASCAR Channel</channel>
-  <channel site="directv.com" site_id="1376d7e8-791b-4e90-a8f9-2719d1933d6d" lang="en" xmltv_id="S2674">ESPN8: The Ocho</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US34000040T" lang="en" xmltv_id="S2675">ESPN8: The Ocho</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#64d160f53c785e0008df525e" lang="en" xmltv_id="S2676">Top Rank Classics</channel>
-  <channel site="pluto.tv" site_id="64d160f53c785e0008df525e" lang="en" xmltv_id="S2677">Top Rank Classics</channel>
-  <channel site="xumo.tv" site_id="100#99951469" lang="en" xmltv_id="S2678">HBO Boxing</channel>
-  <channel site="directv.com" site_id="ccc1eee8-8654-4e42-87a0-a8de1cee9fe3" lang="en" xmltv_id="S2679">DAZN Ringside</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#649b6898f2ec0000081a9460" lang="en" xmltv_id="S2680">DAZN Ringside</channel>
-  <channel site="pluto.tv" site_id="649b6898f2ec0000081a9460" lang="en" xmltv_id="S2681">DAZN Ringside</channel>
-  <channel site="directv.com" site_id="d0e60163-66ce-449c-a34b-a0cd7c39be94" lang="en" xmltv_id="S2682">Ryz Sports</channel>
-  <channel site="directv.com" site_id="f90768ab-a273-4808-9460-30818f1839f9" lang="en" xmltv_id="S2683">Swerve Combat</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-61f04d2bb01a6e8df3f72902" lang="en" xmltv_id="S2684">Swerve Combat</channel>
-  <channel site="plex.tv" site_id="61f04d2bb01a6e8df3f72902" lang="en" xmltv_id="S2685">Swerve Combat</channel>
-  <channel site="directv.com" site_id="bcf92b51-1468-4e05-ba16-cd2b17a6194b" lang="en" xmltv_id="S2688">Next Level Sports HD</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US33000154M" lang="en" xmltv_id="S2689">Overtime</channel>
-  <channel site="plex.tv" site_id="62a388865440744efae8e243" lang="en" xmltv_id="S2690">Overtime</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#5e9f2c05172a0f0007db4786" lang="en" xmltv_id="S2691">CBS Sports HQ</channel>
-  <channel site="pluto.tv" site_id="5e9f2c05172a0f0007db4786" lang="en" xmltv_id="S2692">CBS Sports HQ</channel>
-  <channel site="plex.tv" site_id="657107dc56226238740fcc2d" lang="en" xmltv_id="S2693">CBS Sports HQ</channel>
-  <channel site="directv.com" site_id="90a0ccfd-61b9-4904-999a-c97a9befe3cc" lang="en" xmltv_id="S2694">Willow Sports</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US20000131M" lang="en" xmltv_id="S2695">Willow Sports</channel>
-  <channel site="plex.tv" site_id="66fbf9cf128ab3f65b259bcb" lang="en" xmltv_id="S2696">Willow Sports</channel>
-  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6970fdabbde579fb71262401" lang="en" xmltv_id="S2697">Bowling TV</channel>
-  <channel site="xumo.tv" site_id="50#99951510" lang="en" xmltv_id="S2698">Bowling TV</channel>
-  <channel site="tvinsider.com" site_id="fanduel-sports-south" lang="en" xmltv_id="S2699">FanDuel Sports South</channel>
-  <channel site="tvinsider.com" site_id="fanduel-sports-southwest" lang="en" xmltv_id="S2700">FanDuel Sports Southwest</channel>
-  <channel site="tvinsider.com" site_id="fanduel-sports-sun" lang="en" xmltv_id="S2701">FanDuel Sports Sun</channel>
-  <channel site="directv.com" site_id="b0b06816-dd9f-41be-8004-4b2c39065d19" lang="en" xmltv_id="S2704">NBC Sports Bay Area HD</channel>
-  <channel site="directv.com" site_id="022da6da-eb29-4975-b0e5-1ba83b768312" lang="en" xmltv_id="S2707">NBC Sports Boston HD</channel>
-  <channel site="directv.com" site_id="1dc41f1c-7380-4bf8-a4b5-13f688b48fd6" lang="en" xmltv_id="S2708">NBC Sports California Plus</channel>
-  <channel site="directv.com" site_id="335e1127-3daa-4187-9869-ccf1e2d2a606" lang="en" xmltv_id="S2711">Monumental Sports Network HD</channel>
-  <channel site="directv.com" site_id="1d6aba71-5282-4f56-8acf-2a2aff938b0f" lang="en" xmltv_id="S2714">NBC Sports California HD</channel>
-  <channel site="tvinsider.com" site_id="nbc-sports-chicago" lang="en" xmltv_id="S2718">NBC Sports Chicago</channel>
-  <channel site="tvinsider.com" site_id="bein-sports" lang="en" xmltv_id="S2721">beIN Sports</channel>
-  <channel site="directv.com" site_id="be076527-86af-4537-a165-56839e0eea0b" lang="en" xmltv_id="S2728">beIN SPORTS XTRA</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US2700004DX" lang="en" xmltv_id="S2729">beIN Sports XTRA ñ</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#677d9adfa9a51b0008497fa0" lang="en" xmltv_id="S2730">UFC</channel>
-  <channel site="pluto.tv" site_id="677d9adfa9a51b0008497fa0" lang="en" xmltv_id="S2731">UFC</channel>
-  <channel site="plex.tv" site_id="66ccac69fdf9cd3a568ef135" lang="en" xmltv_id="S2732">UFC</channel>
-  <channel site="directv.com" site_id="10627bc1-89a2-4c00-bf92-8851d96e1b98" lang="en" xmltv_id="S2735">NBA TV HD</channel>
-  <channel site="directv.com" site_id="c8e2cc18-4320-4f21-8a59-68c2f33c0c05" lang="en" xmltv_id="S2739">MLB Network HD</channel>
-  <channel site="directv.com" site_id="23d4fb04-2b56-4a9e-9066-47022a5e164f" lang="en" xmltv_id="S2740">MLB Strike Zone HD</channel>
-  <channel site="directv.com" site_id="214a502e-c54a-4b61-8904-b4ce37c1e38a" lang="en" xmltv_id="S2743">USA Network HD</channel>
-  <channel site="directv.com" site_id="d3cb96a7-c699-4ddd-bd3b-e9d654704897" lang="en" xmltv_id="S2745">WAPA America (103A)</channel>
-  <channel site="directv.com" site_id="5b4cf873-77d4-41e0-8641-6bd7c852399b" lang="en" xmltv_id="S2748">Discovery Familia (103A)</channel>
-  <channel site="directv.com" site_id="25cbe8bb-c628-44f0-aa9f-8668cad54fc0" lang="en" xmltv_id="S2749">Antena 3</channel>
-  <channel site="directv.com" site_id="22743767-b7a4-44e8-9090-b5a6329ccde8" lang="en" xmltv_id="S2750">Atreseries</channel>
-  <channel site="directv.com" site_id="b5a2d87e-46e6-4c8a-9d06-953bd102c1b7" lang="en" xmltv_id="S2752">Bandamax (103A)</channel>
-  <channel site="directv.com" site_id="245dfb72-b8f8-42d8-b78e-ed03904821fb" lang="en" xmltv_id="S2754">De Pelicula (103A)</channel>
-  <channel site="directv.com" site_id="113ffc23-cef3-4ad3-85f3-7f741a1d337e" lang="en" xmltv_id="S2757">FOROtv</channel>
-  <channel site="directv.com" site_id="2cdd1068-8a3c-40ee-9d41-48016d5712e4" lang="en" xmltv_id="S2759">NTN 24 (103A)</channel>
-  <channel site="directv.com" site_id="f613d391-2db1-470b-b875-a0ee899dc876" lang="en" xmltv_id="S2762">Telefe</channel>
-  <channel site="directv.com" site_id="e68a9f77-7585-4b8a-a365-efffe5531d25" lang="en" xmltv_id="S2769">BabyTV</channel>
-  <channel site="directv.com" site_id="4d2c2d58-cb18-44fe-8f9b-96637b1aac60" lang="en" xmltv_id="S2771">Discovery HD</channel>
-  <channel site="directv.com" site_id="efeb88ef-f6ff-4688-8604-5dcf3e3d005f" lang="en" xmltv_id="S2772">Nat Geo Mundo</channel>
-  <channel site="directv.com" site_id="6feed8e2-5530-440d-9ce7-314447b54f5f" lang="en" xmltv_id="S2777">HITN (103A)</channel>
-  <channel site="directv.com" site_id="4120dd0a-1c5f-42ba-80c6-3fb269edb45e" lang="en" xmltv_id="S2780">Pasiones</channel>
-  <channel site="directv.com" site_id="f7ef160c-dbba-4d72-b426-a99bf20778ce" lang="en" xmltv_id="S2783">Estrella TV</channel>
-  <channel site="directv.com" site_id="83788be3-54b2-4e29-baf1-3b48a3b5f0e2" lang="en" xmltv_id="S2784">Centroamerica TV (103A)</channel>
-  <channel site="directv.com" site_id="888e3a20-6838-46e6-a68d-fb33cafd4f33" lang="en" xmltv_id="S2788">MEGA TV HD</channel>
-  <channel site="tvinsider.com" site_id="telexitos" lang="en" xmltv_id="S2792">TeleXitos</channel>
-  <channel site="directv.com" site_id="68f91c91-2e0b-4eec-817b-fe362a6f9ede" lang="en" xmltv_id="S2795">Cine Mexicano</channel>
-  <channel site="directv.com" site_id="851e06c6-a83a-4d33-a19d-bb726a9a955f" lang="en" xmltv_id="S2798">Galavision HD</channel>
-  <channel site="directv.com" site_id="94f6ccab-c0c4-4011-b060-5f7205dc8528" lang="en" xmltv_id="S2816">TUDN HD</channel>
-  <channel site="tvinsider.com" site_id="tudn" lang="en" xmltv_id="S2817">TUDN</channel>
+  <channel site="tvinsider.com" site_id="newsnation" lang="en" xmltv_id="S0004">NewsNation</channel>
+  <channel site="tvguide.com" site_id="9233007144" lang="en" xmltv_id="S0006">C-SPAN</channel>
+  <channel site="tvinsider.com" site_id="c-span" lang="en" xmltv_id="S0007">C-SPAN</channel>
+  <channel site="tvinsider.com" site_id="c-span-2" lang="en" xmltv_id="S0010">C-SPAN 2</channel>
+  <channel site="directv.com" site_id="fdb542e6-fbea-4c9d-875b-2252c1623023" lang="en" xmltv_id="S0012">CSPAN 2</channel>
+  <channel site="tvinsider.com" site_id="fox-business" lang="en" xmltv_id="S0015">Fox Business</channel>
+  <channel site="tvguide.com" site_id="9200009124" lang="en" xmltv_id="S0017">Fox Business Network</channel>
+  <channel site="directv.com" site_id="519a0379-3e00-4a61-8581-56f5bf7488a2" lang="en" xmltv_id="S0019">CNN HD</channel>
+  <channel site="tvguide.com" site_id="9233013812" lang="en" xmltv_id="S0020">CNN</channel>
+  <channel site="tvinsider.com" site_id="cnn" lang="en" xmltv_id="S0021">CNN</channel>
+  <channel site="tvinsider.com" site_id="newsmax" lang="en" xmltv_id="S0023">Newsmax</channel>
+  <channel site="directv.com" site_id="7188780b-f344-4cb6-8ebc-7c7937a02004" lang="en" xmltv_id="S0026">MS Now HD</channel>
+  <channel site="tvguide.com" site_id="9233006803" lang="en" xmltv_id="S0027">MSNBC</channel>
+  <channel site="distro.tv" site_id="95227" lang="en" xmltv_id="S0030">CGTN</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5eb1af2ad345340008fccd1e" lang="en" xmltv_id="S0031">CBS News Boston</channel>
+  <channel site="pluto.tv" site_id="62cdc7c2a3e6270007f3f2f3" lang="en" xmltv_id="S0032">CBS News Boston</channel>
+  <channel site="plex.tv" site_id="65965210fca6056ca69e3e3a" lang="en" xmltv_id="S0033">CBS News Boston</channel>
+  <channel site="xumo.tv" site_id="350#99991656" lang="en" xmltv_id="S0034">CBS News Boston</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5dc9b8223687ff000936ed79" lang="en" xmltv_id="S0035">CBS News New York</channel>
+  <channel site="pluto.tv" site_id="5dc48170e280c80009a861ab" lang="en" xmltv_id="S0036">CBS News New York</channel>
+  <channel site="xumo.tv" site_id="350#99991641" lang="en" xmltv_id="S0037">CBS News New York</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5eb1b0bf2240d8000732a09c" lang="en" xmltv_id="S0038">CBS News Minnesota</channel>
+  <channel site="pluto.tv" site_id="5eb1b0bf2240d8000732a09c" lang="en" xmltv_id="S0039">CBS News Minnesota</channel>
+  <channel site="tvguide.com" site_id="9233000410" lang="en" xmltv_id="S0043">Fox News</channel>
+  <channel site="tvinsider.com" site_id="fox-news" lang="en" xmltv_id="S0044">Fox News</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5dc9b875e280c80009a8a44a" lang="en" xmltv_id="S0046">CBS News Los Angeles</channel>
+  <channel site="pluto.tv" site_id="5dc9b875e280c80009a8a44a" lang="en" xmltv_id="S0047">CBS News Los Angeles</channel>
+  <channel site="plex.tv" site_id="65970654fca6056ca69e3e41" lang="en" xmltv_id="S0048">CBS News Los Angeles</channel>
+  <channel site="xumo.tv" site_id="350#99991642" lang="en" xmltv_id="S0049">CBS News Los Angeles</channel>
+  <channel site="directv.com" site_id="6aeb8ae6-2f8b-48fb-a746-2f963ea8e86d" lang="en" xmltv_id="S0051">Free Speech TV</channel>
+  <channel site="directv.com" site_id="c3cfa12b-f991-4ace-9438-62ace1ac535a" lang="en" xmltv_id="S0053">CNBC HD</channel>
+  <channel site="tvguide.com" site_id="9200009413" lang="en" xmltv_id="S0054">CNBC</channel>
+  <channel site="tvinsider.com" site_id="cnbc" lang="en" xmltv_id="S0055">CNBC</channel>
+  <channel site="directv.com" site_id="c546d353-7526-4d4d-9cf3-e7afefad7f44" lang="en" xmltv_id="S0058">theGrio</channel>
+  <channel site="tvinsider.com" site_id="thegrio" lang="en" xmltv_id="S0059">TheGrio</channel>
+  <channel site="directv.com" site_id="8a5c075e-1969-453b-b5f9-9108243c7816" lang="en" xmltv_id="S0062">i24 News</channel>
+  <channel site="directv.com" site_id="e286a88a-9068-45ff-a81d-929b9455b557" lang="en" xmltv_id="S0066">FOX News Channel HD</channel>
+  <channel site="directv.com" site_id="8d1c72f6-99db-4279-a5b2-183f92c53a61" lang="en" xmltv_id="S0069">HLN HD</channel>
+  <channel site="tvguide.com" site_id="9200016601" lang="en" xmltv_id="S0070">HLN</channel>
+  <channel site="tvinsider.com" site_id="oan" lang="en" xmltv_id="S0073">OAN</channel>
+  <channel site="directv.com" site_id="cbc01bc2-bd52-4380-8b7e-f991a03b65f1" lang="en" xmltv_id="S0077">CNBC World</channel>
+  <channel site="directv.com" site_id="95622e62-7b62-4eea-bf32-691abc764c77" lang="en" xmltv_id="S0081">Cheddar News</channel>
+  <channel site="directv.com" site_id="9d556827-6bb0-4e70-b843-1ae390321e74" lang="en" xmltv_id="S0085">Bloomberg TV HD</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5fff49cfb5cd4f0007c2b0dc" lang="en" xmltv_id="S0089">News 12 New York</channel>
+  <channel site="pluto.tv" site_id="5fff49cfb5cd4f0007c2b0dc" lang="en" xmltv_id="S0090">News 12 New York</channel>
+  <channel site="plex.tv" site_id="5fc6f3a62b6f7b002e77ffaa" lang="en" xmltv_id="S0091">News 12 New York</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5eb1b17aa5277e00083f6521" lang="en" xmltv_id="S0093">CBS News Pittsburgh</channel>
+  <channel site="pluto.tv" site_id="5eb1b17aa5277e00083f6521" lang="en" xmltv_id="S0094">CBS News Pittsburgh</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5eb1aeb2fd4b8a00076c2047" lang="en" xmltv_id="S0095">CBS News Chicago</channel>
+  <channel site="pluto.tv" site_id="5eb1aeb2fd4b8a00076c2047" lang="en" xmltv_id="S0096">CBS News Chicago</channel>
+  <channel site="xumo.tv" site_id="350#99991643" lang="en" xmltv_id="S0097">CBS News Chicago</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5eb1afb21486df0007abc57c" lang="en" xmltv_id="S0098">CBS News Bay Area</channel>
+  <channel site="pluto.tv" site_id="62cdc6c5a698740007d299b1" lang="en" xmltv_id="S0099">CBS News Bay Area</channel>
+  <channel site="plex.tv" site_id="6596546bfca6056ca69e3e3c" lang="en" xmltv_id="S0100">CBS News Bay Area</channel>
+  <channel site="xumo.tv" site_id="350#99991655" lang="en" xmltv_id="S0101">CBS News Bay Area</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5eb1b05ea168cc000767ba67" lang="en" xmltv_id="S0102">CBS News Philadelphia</channel>
+  <channel site="pluto.tv" site_id="62cdca1cda044a00077b903d" lang="en" xmltv_id="S0103">CBS News Philadelphia</channel>
+  <channel site="tvinsider.com" site_id="c-span-3" lang="en" xmltv_id="S0105">C-SPAN 3</channel>
+  <channel site="directv.com" site_id="3eb71a0d-48b1-459a-be81-c229062bb18c" lang="en" xmltv_id="S0109">FOX Weather</channel>
+  <channel site="directv.com" site_id="0efea3bb-d064-4de1-b4e0-9b374f028af5" lang="en" xmltv_id="S0115">Scripps News</channel>
+  <channel site="tvinsider.com" site_id="scripps-news" lang="en" xmltv_id="S0116">Scripps News</channel>
+  <channel site="directv.com" site_id="f4fb0d15-77c9-4ef8-b86c-1500ae958250" lang="en" xmltv_id="S0119">Yahoo Finance</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAJ4300005PJ" lang="en" xmltv_id="S0121">Yahoo Finance</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#55b179af994403942f3061d6" lang="en" xmltv_id="S0125">Newsmax2</channel>
+  <channel site="pluto.tv" site_id="55b179af994403942f3061d6" lang="en" xmltv_id="S0126">Newsmax2</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBA30002142" lang="en" xmltv_id="S0139">TYT Network</channel>
+  <channel site="xumo.tv" site_id="0#99991147" lang="en" xmltv_id="S0140">TYT</channel>
+  <channel site="tvinsider.com" site_id="retroplex" lang="en" xmltv_id="S0143">RetroPlex</channel>
+  <channel site="directv.com" site_id="c6dc4d77-8cc4-4de1-9b69-8b27577c49c2" lang="en" xmltv_id="S0146">Cinemax Classics HD</channel>
+  <channel site="directv.com" site_id="bf3ed883-db9f-40d0-afaa-77ca71911e24" lang="en" xmltv_id="S0149">Cinemax Action HD</channel>
+  <channel site="tvguide.com" site_id="9200016592" lang="en" xmltv_id="S0150">ActionMax</channel>
+  <channel site="directv.com" site_id="577da2f8-1c59-4297-8956-c24d30b1d967" lang="en" xmltv_id="S0155">Cinemax East HD</channel>
+  <channel site="directv.com" site_id="45cdfc9d-1228-4b50-8987-7c82db99f1ba" lang="en" xmltv_id="S0159">Cinemax Hits HD</channel>
+  <channel site="tvguide.com" site_id="9200014841" lang="en" xmltv_id="S0163">OuterMax</channel>
+  <channel site="tvinsider.com" site_id="outer-max" lang="en" xmltv_id="S0164">Outer MAX</channel>
+  <channel site="directv.com" site_id="0e9a6483-c7e1-4cb1-9e51-dda1ead5b966" lang="en" xmltv_id="S0167">Cinemax West HD</channel>
+  <channel site="tvguide.com" site_id="9200009335" lang="en" xmltv_id="S0170">MGM+ HD</channel>
+  <channel site="directv.com" site_id="8f79eb33-17b6-4c95-a687-f9823230e6d5" lang="en" xmltv_id="S0171">MGM+</channel>
+  <channel site="tvinsider.com" site_id="mgm-plus" lang="en" xmltv_id="S0172">MGM+</channel>
+  <channel site="tvguide.com" site_id="9200006851" lang="en" xmltv_id="S0174">MGM+ Drive-In</channel>
+  <channel site="tvinsider.com" site_id="mgm-plus-drive-in" lang="en" xmltv_id="S0175">MGM+ Drive-In</channel>
+  <channel site="tvguide.com" site_id="9233013634" lang="en" xmltv_id="S0178">MGM+ Hits HD</channel>
+  <channel site="directv.com" site_id="94e444e1-e188-46a0-b5d4-913a3945fa7a" lang="en" xmltv_id="S0179">MGM+ HITS</channel>
+  <channel site="tvinsider.com" site_id="mgm-plus-hits" lang="en" xmltv_id="S0180">MGM+ Hits</channel>
+  <channel site="tvguide.com" site_id="9200020594" lang="en" xmltv_id="S0182">MGM+ Marquee HD</channel>
+  <channel site="directv.com" site_id="811a9bcb-279f-4362-8a9b-2845fe3eb636" lang="en" xmltv_id="S0183">MGM+ MARQUEE</channel>
+  <channel site="tvinsider.com" site_id="mgm-plus-marquee" lang="en" xmltv_id="S0184">MGM+ Marquee</channel>
+  <channel site="tvguide.com" site_id="9200006932" lang="en" xmltv_id="S0187">FX</channel>
+  <channel site="directv.com" site_id="d7088b74-3db2-4672-825e-6c7cb8ff41ec" lang="en" xmltv_id="S0190">FX Movie Channel HD</channel>
+  <channel site="tvinsider.com" site_id="fx-movie-channel" lang="en" xmltv_id="S0191">FX Movie Channel</channel>
+  <channel site="directv.com" site_id="51cfd7f4-0f6e-4c9b-b2ec-646afb3f7d93" lang="en" xmltv_id="S0194">HBO Hits HD East</channel>
+  <channel site="tvguide.com" site_id="9233003524" lang="en" xmltv_id="S0195">HBO 2</channel>
+  <channel site="directv.com" site_id="703c22aa-7be9-43b4-a3fb-d828479bc421" lang="en" xmltv_id="S0198">HBO Comedy HD</channel>
+  <channel site="directv.com" site_id="4fc097f1-e123-4b41-b302-faf4e7d82118" lang="en" xmltv_id="S0202">HBO HD East</channel>
+  <channel site="tvguide.com" site_id="9200004886" lang="en" xmltv_id="S0203">HBO</channel>
+  <channel site="directv.com" site_id="5beb41da-ff97-42af-a31f-3787ee6878b6" lang="en" xmltv_id="S0206">HBO Drama HD</channel>
+  <channel site="tvguide.com" site_id="9233008160" lang="en" xmltv_id="S0207">HBO Signature</channel>
+  <channel site="directv.com" site_id="6da0d147-0635-4fe0-a003-19c6dc089af5" lang="en" xmltv_id="S0210">HBO West HD</channel>
+  <channel site="tvguide.com" site_id="9233009866" lang="en" xmltv_id="S0214">HBO Zone</channel>
+  <channel site="tvinsider.com" site_id="hbo-zone" lang="en" xmltv_id="S0215">HBO Zone</channel>
+  <channel site="directv.com" site_id="23e1c6f4-81ce-4cbd-948b-93619740b339" lang="en" xmltv_id="S0218">SHOWTIME 2 HD</channel>
+  <channel site="tvguide.com" site_id="9200018178" lang="en" xmltv_id="S0219">SHOWTIME 2</channel>
+  <channel site="directv.com" site_id="0bba36e4-7802-43c0-ad3f-cc0ff064a518" lang="en" xmltv_id="S0222">Paramount+ with SHOWTIME EAST HD</channel>
+  <channel site="tvguide.com" site_id="9200016599" lang="en" xmltv_id="S0223">Paramount+ with Showtime</channel>
+  <channel site="directv.com" site_id="a0652edf-0255-4cd0-b19a-3593673ea6f8" lang="en" xmltv_id="S0226">Showtime Extreme HD</channel>
+  <channel site="tvguide.com" site_id="9200004879" lang="en" xmltv_id="S0227">SHOWTIME EXTREME</channel>
+  <channel site="directv.com" site_id="6d7bde13-2992-4f23-8b3d-ec02eaa17d4f" lang="en" xmltv_id="S0230">Showtime FamilyZone HD</channel>
+  <channel site="tvguide.com" site_id="9200000968" lang="en" xmltv_id="S0231">SHOWTIME FAMILY ZONE</channel>
+  <channel site="directv.com" site_id="4128313f-fce9-474d-b5fe-c709c4e1e07d" lang="en" xmltv_id="S0234">Showtime Next HD</channel>
+  <channel site="tvguide.com" site_id="9233003805" lang="en" xmltv_id="S0237">SHOWTIME SHOWCASE</channel>
+  <channel site="directv.com" site_id="a78c644e-08a0-47d7-ada2-9d0251f556e8" lang="en" xmltv_id="S0240">Paramount+ with SHOWTIME WEST HD</channel>
+  <channel site="tvguide.com" site_id="9200002975" lang="en" xmltv_id="S0245">SHOWTIME WOMEN</channel>
+  <channel site="directv.com" site_id="3517dc60-418a-4d0a-8a0e-4be262dd27ee" lang="en" xmltv_id="S0247">Sony Movies</channel>
+  <channel site="directv.com" site_id="78487d44-75e4-42a9-9a43-2c3ea9736d3e" lang="en" xmltv_id="S0251">STARZ Cinema HD</channel>
+  <channel site="directv.com" site_id="c7cca5a8-98ee-44bb-9af6-91aa79e37652" lang="en" xmltv_id="S0255">STARZ Comedy HD</channel>
+  <channel site="directv.com" site_id="2b80c0fe-0670-4a20-977e-83e8658c1678" lang="en" xmltv_id="S0259">STARZ East HD</channel>
+  <channel site="tvguide.com" site_id="9233013809" lang="en" xmltv_id="S0260">STARZ</channel>
+  <channel site="directv.com" site_id="42d7c5c9-84fb-4a90-b2b6-624e4cf46637" lang="en" xmltv_id="S0263">STARZ Encore Action HD</channel>
+  <channel site="tvguide.com" site_id="9233005667" lang="en" xmltv_id="S0264">STARZ ENCORE Action</channel>
+  <channel site="tvguide.com" site_id="9200001097" lang="en" xmltv_id="S0267">STARZ ENCORE Black</channel>
+  <channel site="directv.com" site_id="ecf02663-f12d-4e5b-954e-fcc64ed4c295" lang="en" xmltv_id="S0268">STARZ Encore Black</channel>
+  <channel site="tvguide.com" site_id="9200003144" lang="en" xmltv_id="S0271">STARZ ENCORE Classic</channel>
+  <channel site="directv.com" site_id="69429991-b95f-4bef-8d71-ff6ba44d1824" lang="en" xmltv_id="S0272">STARZ Encore Classic</channel>
+  <channel site="directv.com" site_id="676e4861-8f11-40d9-9285-a78455472b29" lang="en" xmltv_id="S0275">STARZ Encore HD</channel>
+  <channel site="tvguide.com" site_id="9200009649" lang="en" xmltv_id="S0276">STARZ ENCORE</channel>
+  <channel site="directv.com" site_id="6e5f46ea-3381-4436-9f8c-478fdf4a2ab6" lang="en" xmltv_id="S0279">STARZ Edge HD</channel>
+  <channel site="tvguide.com" site_id="9233011247" lang="en" xmltv_id="S0280">STARZ Edge</channel>
+  <channel site="tvguide.com" site_id="9200011867" lang="en" xmltv_id="S0283">STARZ ENCORE Family</channel>
+  <channel site="directv.com" site_id="f25513f5-3685-40aa-a172-c07265006b5b" lang="en" xmltv_id="S0284">STARZ Encore Family</channel>
+  <channel site="tvguide.com" site_id="9200011866" lang="en" xmltv_id="S0287">STARZ ENCORE Suspense</channel>
+  <channel site="directv.com" site_id="0e89f29b-17a7-4e9e-8edd-bbe2de49cb56" lang="en" xmltv_id="S0288">STARZ Encore Suspense</channel>
+  <channel site="directv.com" site_id="3db92850-0314-4bd9-a517-7af91523d3ea" lang="en" xmltv_id="S0291">STARZ Encore West</channel>
+  <channel site="tvguide.com" site_id="9233008131" lang="en" xmltv_id="S0295">STARZ ENCORE Westerns</channel>
+  <channel site="directv.com" site_id="c40a0cb8-8717-46e0-9920-c17cf6f5e124" lang="en" xmltv_id="S0296">STARZ Encore Westerns</channel>
+  <channel site="directv.com" site_id="d539400e-8ef3-4c0d-9673-5ad31347dae5" lang="en" xmltv_id="S0299">STARZ in Black HD</channel>
+  <channel site="tvinsider.com" site_id="starz-in-black" lang="en" xmltv_id="S0300">Starz In Black</channel>
+  <channel site="directv.com" site_id="a5362726-4133-4233-89e6-459b8f435810" lang="en" xmltv_id="S0303">STARZ West HD</channel>
+  <channel site="directv.com" site_id="f56626d5-7461-4408-91f6-8d235b884be6" lang="en" xmltv_id="S0307">SundanceTV HD</channel>
+  <channel site="directv.com" site_id="095db592-0d0e-4f05-92cb-29c23525ac62" lang="en" xmltv_id="S0314">SHOxBET HD</channel>
+  <channel site="tvguide.com" site_id="9233017018" lang="en" xmltv_id="S0315">SHOxBET</channel>
+  <channel site="directv.com" site_id="6b20b8de-3094-48f4-ad7b-4eecc2f8d48a" lang="en" xmltv_id="S0316">TCM HD</channel>
+  <channel site="directv.com" site_id="3078897a-8da3-4a0f-b5e1-19aac06a1c0d" lang="en" xmltv_id="S0318">The Movie Channel East HD</channel>
+  <channel site="tvinsider.com" site_id="the-movie-channel" lang="en" xmltv_id="S0319">The Movie Channel</channel>
+  <channel site="tvinsider.com" site_id="indieplex" lang="en" xmltv_id="S0322">IndiePlex</channel>
+  <channel site="tvinsider.com" site_id="movieplex" lang="en" xmltv_id="S0325">MoviePlex</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6196c9241d310bf925e02616" lang="en" xmltv_id="S0328">Lone Star</channel>
+  <channel site="tvinsider.com" site_id="ion-plus" lang="en" xmltv_id="S0329">Ion Plus</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD300003LK" lang="en" xmltv_id="S0331">ION Plus</channel>
+  <channel site="plex.tv" site_id="627e347795b0f50af26d78f9" lang="en" xmltv_id="S0332">ION Plus</channel>
+  <channel site="directv.com" site_id="15d23b4b-a9df-4094-ba16-cebfca650cd1" lang="en" xmltv_id="S0334">The Movie Channel Xtra HD</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f64c4ef35f612003f6ffe30" lang="en" xmltv_id="S0336">Hi-YAH!</channel>
+  <channel site="plex.tv" site_id="5f64c4ef35f612003f6ffe30" lang="en" xmltv_id="S0337">Hi-YAH!</channel>
+  <channel site="xumo.tv" site_id="0#99991302" lang="en" xmltv_id="S0338">Hi-Yah!</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAK3508709A" lang="en" xmltv_id="S0340">CINEVAULT: Westerns</channel>
+  <channel site="xumo.tv" site_id="200#99951357" lang="en" xmltv_id="S0341">CINEVAULT Westerns</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC3900018K6" lang="en" xmltv_id="S0343">MyTime Movie Network</channel>
+  <channel site="plex.tv" site_id="644875d7af92c31f4a190bc2" lang="en" xmltv_id="S0344">MyTime Movie Network</channel>
+  <channel site="directv.com" site_id="41d6d859-3dd5-406f-9fa3-1fa25de472c7" lang="en" xmltv_id="S0347">AMC+ HD</channel>
+  <channel site="tvinsider.com" site_id="amc-plus" lang="en" xmltv_id="S0348">AMC+</channel>
+  <channel site="tvguide.com" site_id="9200017928" lang="en" xmltv_id="S0357">Turner Classic Movies</channel>
+  <channel site="tvinsider.com" site_id="turner-classic-movies" lang="en" xmltv_id="S0358">Turner Classic Movies</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAJ3000007MT" lang="en" xmltv_id="S0361">Maverick Black Cinema</channel>
+  <channel site="xumo.tv" site_id="0#99991336" lang="en" xmltv_id="S0362">Maverick Black Cinema</channel>
+  <channel site="directv.com" site_id="c4256331-1604-417d-9c37-6dba5513ef98" lang="en" xmltv_id="S0365">HBO Hits West HD</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBB32000196O" lang="en" xmltv_id="S0379">FilmRise Western</channel>
+  <channel site="plex.tv" site_id="6449369eb3ff17382cae57fd" lang="en" xmltv_id="S0380">FilmRise Western</channel>
+  <channel site="directv.com" site_id="d4791ed5-5e7e-4596-bbe6-1884f80bf100" lang="en" xmltv_id="S0382">Family Movie Classics</channel>
+  <channel site="tvinsider.com" site_id="family-movie-classics" lang="en" xmltv_id="S0383">Family Movie Classics</channel>
+  <channel site="tvinsider.com" site_id="movies" lang="en" xmltv_id="S0387">Movies!</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBB3200015M8" lang="en" xmltv_id="S0390">CINEVAULT: Classics</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAJ30000148W" lang="en" xmltv_id="S0392">CINEVAULT</channel>
+  <channel site="xumo.tv" site_id="0#99951335" lang="en" xmltv_id="S0393">CINEVAULT</channel>
+  <channel site="directv.com" site_id="009ae0d4-8a1e-4f96-8abd-56afe53f9c30" lang="en" xmltv_id="S0394">Movie Favorites by Lifetime</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US18000163F" lang="en" xmltv_id="S0397">Miramax Movie Channel</channel>
+  <channel site="plex.tv" site_id="661fca34414d94009d1206ec" lang="en" xmltv_id="S0398">Miramax Movie Channel</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-69332d894b745570462f3cc4" lang="en" xmltv_id="S0399">FilmRise Black TV</channel>
+  <channel site="plex.tv" site_id="69332d894b745570462f3cc4" lang="en" xmltv_id="S0400">FilmRise Black TV</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-646e489b58898bf3be94b325" lang="en" xmltv_id="S0402">FilmRise True Crime</channel>
+  <channel site="plex.tv" site_id="646e489b58898bf3be94b325" lang="en" xmltv_id="S0403">FilmRise True Crime</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6933306bac5b3f9f53442372" lang="en" xmltv_id="S0404">FilmRise Mysteries</channel>
+  <channel site="plex.tv" site_id="6933306bac5b3f9f53442372" lang="en" xmltv_id="S0405">FilmRise Mysteries</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#654933e253fc970008390114" lang="en" xmltv_id="S0406">Universal Action</channel>
+  <channel site="pluto.tv" site_id="654933e253fc970008390114" lang="en" xmltv_id="S0407">Universal Action</channel>
+  <channel site="xumo.tv" site_id="100#99951254" lang="en" xmltv_id="S0408">Universal Action</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBB3200030CG" lang="en" xmltv_id="S0410">Universal Movies</channel>
+  <channel site="xumo.tv" site_id="0#99991621" lang="en" xmltv_id="S0411">Universal Movies</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6876fa82e50e77c59c8940c2" lang="en" xmltv_id="S0413">MGM Presents</channel>
+  <channel site="plex.tv" site_id="6876fa82e50e77c59c8940c2" lang="en" xmltv_id="S0414">MGM Presents</channel>
+  <channel site="tvguide.com" site_id="9233000217" lang="en" xmltv_id="S0419">Flix</channel>
+  <channel site="directv.com" site_id="8c29ea39-968a-491b-8ca1-8caa98b619d4" lang="en" xmltv_id="S0420">Flix</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#6549341853fc9700083901ac" lang="en" xmltv_id="S0421">Universal Crime</channel>
+  <channel site="pluto.tv" site_id="6549341853fc9700083901ac" lang="en" xmltv_id="S0422">Universal Crime</channel>
+  <channel site="xumo.tv" site_id="100#99951245" lang="en" xmltv_id="S0423">Universal Crime</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6233ee9222dcc1d9a93916b6" lang="en" xmltv_id="S0425">Samuel Goldwyn Channel</channel>
+  <channel site="plex.tv" site_id="6233ee9222dcc1d9a93916b6" lang="en" xmltv_id="S0426">Samuel Goldwyn Channel</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6233ef13ce37cac7a278664b" lang="en" xmltv_id="S0428">Samuel Goldwyn Classics</channel>
+  <channel site="plex.tv" site_id="6233ef13ce37cac7a278664b" lang="en" xmltv_id="S0429">Samuel Goldwyn Classics</channel>
+  <channel site="directv.com" site_id="07e6d416-6d4c-4a0f-8848-e49bb6f8e25f" lang="en" xmltv_id="S0430">Military Heroes</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC39000204J" lang="en" xmltv_id="S0431">Military Heroes</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-67ddc2c01d30518241f9249d" lang="en" xmltv_id="S0432">Shout! Movies</channel>
+  <channel site="plex.tv" site_id="67ddc2c01d30518241f9249d" lang="en" xmltv_id="S0433">Shout! Movies</channel>
+  <channel site="xumo.tv" site_id="0#99951411" lang="en" xmltv_id="S0434">Shout! Movies</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-66ea0504c24d95b51b7cd189" lang="en" xmltv_id="S0436">FilmRise Action</channel>
+  <channel site="plex.tv" site_id="66ea0504c24d95b51b7cd189" lang="en" xmltv_id="S0437">FilmRise Action</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-66ea09a39502c5778b828d43" lang="en" xmltv_id="S0439">FilmRise Horror</channel>
+  <channel site="plex.tv" site_id="66ea09a39502c5778b828d43" lang="en" xmltv_id="S0440">FilmRise Horror</channel>
+  <channel site="directv.com" site_id="8584c42f-762d-4a54-8912-f1166a61131c" lang="en" xmltv_id="S0441">Horror by Alter</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC100001175" lang="en" xmltv_id="S0443">Horror by ALTER</channel>
+  <channel site="plex.tv" site_id="66f5a92352c50d2f62020f38" lang="en" xmltv_id="S0444">Horror by ALTER</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAJ17000014C" lang="en" xmltv_id="S0446">The Asylum</channel>
+  <channel site="plex.tv" site_id="6627ab12580825e8a7bc4f04" lang="en" xmltv_id="S0447">The Asylum</channel>
+  <channel site="xumo.tv" site_id="50#99991331" lang="en" xmltv_id="S0448">The Asylum</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD700015LK" lang="en" xmltv_id="S0450">Midnight Pulp</channel>
+  <channel site="plex.tv" site_id="5ef4e1b40d9ad000423c4427" lang="en" xmltv_id="S0451">Midnight Pulp</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC24000213P" lang="en" xmltv_id="S0453">Grit Xtra</channel>
+  <channel site="plex.tv" site_id="62b45f15b4508e0eedacdf25" lang="en" xmltv_id="S0454">Grit Xtra</channel>
+  <channel site="xumo.tv" site_id="150#99951152" lang="en" xmltv_id="S0455">Grit Xtra</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBB5200022PY" lang="en" xmltv_id="S0457">Crimes Cults Killers</channel>
+  <channel site="plex.tv" site_id="63c97410187b3c9f3581fdf4" lang="en" xmltv_id="S0458">Crimes Cults Killers</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-689fb8470a486aeba3c7917e" lang="en" xmltv_id="S0460">MGM Presents: Westerns</channel>
+  <channel site="plex.tv" site_id="689fb8470a486aeba3c7917e" lang="en" xmltv_id="S0461">MGM Presents: Westerns</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-689fb42fba3be0bafe349d33" lang="en" xmltv_id="S0463">MGM Presents: Action</channel>
+  <channel site="plex.tv" site_id="689fb42fba3be0bafe349d33" lang="en" xmltv_id="S0464">MGM Presents: Action</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC3200020QF" lang="en" xmltv_id="S0466">Western Bound</channel>
+  <channel site="plex.tv" site_id="62316e8eb9d292cb4ad7499f" lang="en" xmltv_id="S0467">Western Bound</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBA3000041ZP" lang="en" xmltv_id="S0468">Movie Hub</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD3500032H0" lang="en" xmltv_id="S0469">Movie Hub Action</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD3500033U0" lang="en" xmltv_id="S0470">Movie Hub Romance</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-63489a771159f6a5ce819b7b" lang="en" xmltv_id="S0472">Grjngo - Western Movies</channel>
+  <channel site="plex.tv" site_id="63489a771159f6a5ce819b7b" lang="en" xmltv_id="S0473">Grjngo - Western Movies</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#65a9b20f0c7ff50008d3a3b6" lang="en" xmltv_id="S0474">Universal Monsters</channel>
+  <channel site="pluto.tv" site_id="65a9b20f0c7ff50008d3a3b6" lang="en" xmltv_id="S0475">Universal Monsters</channel>
+  <channel site="xumo.tv" site_id="50#99951264" lang="en" xmltv_id="S0476">Universal Monsters</channel>
+  <channel site="directv.com" site_id="b428862c-08fc-47d1-98f4-7cc8bdbf0c31" lang="en" xmltv_id="S0479">AMC HD</channel>
+  <channel site="tvguide.com" site_id="9233011832" lang="en" xmltv_id="S0480">AMC</channel>
+  <channel site="directv.com" site_id="6e1ae46f-40ab-44ee-b20e-d4508363a65e" lang="en" xmltv_id="S0482">A&amp;E HD</channel>
+  <channel site="tvguide.com" site_id="9200004889" lang="en" xmltv_id="S0483">A&amp;E</channel>
+  <channel site="tvinsider.com" site_id="ae" lang="en" xmltv_id="S0484">A&amp;E</channel>
+  <channel site="directv.com" site_id="a368c1d1-d258-4e80-9448-b9ef3a8271c7" lang="en" xmltv_id="S0487">AccuWeather HD</channel>
+  <channel site="directv.com" site_id="a1cc44bc-a1d3-4cfc-9561-f79244ddd509" lang="en" xmltv_id="S0491">American Heroes Channel</channel>
+  <channel site="tvinsider.com" site_id="american-heroes-channel" lang="en" xmltv_id="S0492">American Heroes Channel</channel>
+  <channel site="directv.com" site_id="2022d13f-d2c5-44bd-9e92-041d33c18c49" lang="en" xmltv_id="S0495">Animal Planet HD</channel>
+  <channel site="tvguide.com" site_id="9200018479" lang="en" xmltv_id="S0496">Animal Planet</channel>
+  <channel site="directv.com" site_id="181271ae-0aa6-4974-83e2-c80759427ae3" lang="en" xmltv_id="S0499">ASPIRE (HD)</channel>
+  <channel site="tvinsider.com" site_id="aspire" lang="en" xmltv_id="S0500">Aspire</channel>
+  <channel site="directv.com" site_id="44483b11-87ac-4da6-a420-538a462f45e0" lang="en" xmltv_id="S0503">AXS TV HD</channel>
+  <channel site="directv.com" site_id="89c5c432-4596-47ef-a801-1b0308ba6994" lang="en" xmltv_id="S0506">BET HD</channel>
+  <channel site="tvguide.com" site_id="9233005931" lang="en" xmltv_id="S0507">BET</channel>
+  <channel site="tvinsider.com" site_id="bet" lang="en" xmltv_id="S0508">BET</channel>
+  <channel site="tvguide.com" site_id="9200020665" lang="en" xmltv_id="S0511">BET Her</channel>
+  <channel site="directv.com" site_id="a8a891ae-7b6c-4195-9863-fc261d5a0d77" lang="en" xmltv_id="S0512">BET Her</channel>
+  <channel site="directv.com" site_id="4acb50cc-b347-45c1-941c-50d65fb25271" lang="en" xmltv_id="S0514">BET West HD</channel>
+  <channel site="directv.com" site_id="83249ad9-5836-4d16-a5f7-9cc2a42032c9" lang="en" xmltv_id="S0517">Bravo HD</channel>
+  <channel site="tvguide.com" site_id="9200002886" lang="en" xmltv_id="S0518">Bravo</channel>
+  <channel site="directv.com" site_id="848b354b-681b-482b-a86b-bd4368b7c84e" lang="en" xmltv_id="S0522">Buzzr</channel>
+  <channel site="tvinsider.com" site_id="buzzr" lang="en" xmltv_id="S0523">Buzzr</channel>
+  <channel site="directv.com" site_id="5070bc2e-dd69-4dee-98b4-a4c5e3b1fd7b" lang="en" xmltv_id="S0527">Comedy Central HD</channel>
+  <channel site="tvguide.com" site_id="9200000657" lang="en" xmltv_id="S0528">Comedy Central</channel>
+  <channel site="tvguide.com" site_id="9200000016" lang="en" xmltv_id="S0535">Cooking</channel>
+  <channel site="directv.com" site_id="202c9e76-c1ca-40f0-ace1-89b626ae1ca2" lang="en" xmltv_id="S0537">Court TV</channel>
+  <channel site="tvinsider.com" site_id="court-tv" lang="en" xmltv_id="S0538">Court TV</channel>
+  <channel site="directv.com" site_id="c725c691-7980-4353-8580-c261fb6900b8" lang="en" xmltv_id="S0541">COZI TV</channel>
+  <channel site="tvinsider.com" site_id="cozi-tv" lang="en" xmltv_id="S0542">Cozi TV</channel>
+  <channel site="tvguide.com" site_id="9233003673" lang="en" xmltv_id="S0547">Crime &amp; Investigation Network</channel>
+  <channel site="directv.com" site_id="6903683f-175f-4289-bec6-1de345090173" lang="en" xmltv_id="S0550">Destination America HD</channel>
+  <channel site="tvguide.com" site_id="9200009245" lang="en" xmltv_id="S0551">Destination America</channel>
+  <channel site="tvinsider.com" site_id="discovery" lang="en" xmltv_id="S0553">Discovery Channel</channel>
+  <channel site="tvguide.com" site_id="9233004102" lang="en" xmltv_id="S0555">Discovery</channel>
+  <channel site="directv.com" site_id="429ccc87-fcaf-4a61-8bff-fcb4299eef8d" lang="en" xmltv_id="S0558">Discovery Family Channel HD</channel>
+  <channel site="tvinsider.com" site_id="discovery-life-channel" lang="en" xmltv_id="S0562">Discovery Life Channel</channel>
+  <channel site="directv.com" site_id="96c2990a-a4f4-4009-8076-a62ee28ae061" lang="en" xmltv_id="S0566">Science HD</channel>
+  <channel site="tvguide.com" site_id="9200019847" lang="en" xmltv_id="S0567">Science</channel>
+  <channel site="tvguide.com" site_id="9233003479" lang="en" xmltv_id="S0568">Motor Trend Network</channel>
+  <channel site="directv.com" site_id="43847d39-8406-487a-b232-8ceea451186e" lang="en" xmltv_id="S0571">Magnolia Network HD</channel>
+  <channel site="tvguide.com" site_id="9200012415" lang="en" xmltv_id="S0572">MAGNOLIA Network</channel>
+  <channel site="tvinsider.com" site_id="magnolia-network" lang="en" xmltv_id="S0573">Magnolia Network</channel>
+  <channel site="tvguide.com" site_id="9200012343" lang="en" xmltv_id="S0576">E!</channel>
+  <channel site="directv.com" site_id="b6258d16-2f69-4846-abc7-b3947eea6e2b" lang="en" xmltv_id="S0580">Food Network HD</channel>
+  <channel site="tvguide.com" site_id="9233009448" lang="en" xmltv_id="S0581">Food Network</channel>
+  <channel site="directv.com" site_id="33ad289e-84cc-462f-bfee-26531b95d443" lang="en" xmltv_id="S0586">Freeform HD</channel>
+  <channel site="tvguide.com" site_id="9200006942" lang="en" xmltv_id="S0587">Freeform</channel>
+  <channel site="tvguide.com" site_id="9233011488" lang="en" xmltv_id="S0591">Fuse HD</channel>
+  <channel site="directv.com" site_id="97c42c68-6aca-4e70-8368-381efcb10cbf" lang="en" xmltv_id="S0594">Fuse HD</channel>
+  <channel site="tvinsider.com" site_id="fuse" lang="en" xmltv_id="S0595">Fuse</channel>
+  <channel site="directv.com" site_id="6d1cd9b3-d125-4e87-a37f-0309c1459f8a" lang="en" xmltv_id="S0598">FYI HD</channel>
+  <channel site="tvguide.com" site_id="9200020460" lang="en" xmltv_id="S0599">FYI</channel>
+  <channel site="tvinsider.com" site_id="pursuit" lang="en" xmltv_id="S0600">Pursuit</channel>
+  <channel site="directv.com" site_id="4d7c01e5-531f-41c3-96d6-ce67ea400cec" lang="en" xmltv_id="S0603">QVC HD (317)</channel>
+  <channel site="tvinsider.com" site_id="qvc" lang="en" xmltv_id="S0604">QVC</channel>
+  <channel site="directv.com" site_id="7acc5a6e-ee65-4749-a071-9f587ad6d499" lang="en" xmltv_id="S0605">Rai Italia</channel>
+  <channel site="tvguide.com" site_id="9200011769" lang="en" xmltv_id="S0607">Reelz</channel>
+  <channel site="tvinsider.com" site_id="reelz" lang="en" xmltv_id="S0608">Reelz</channel>
+  <channel site="directv.com" site_id="33b33049-4d09-4ad9-8c25-b1862f8a7600" lang="en" xmltv_id="S0613">RFD HD TV</channel>
+  <channel site="tvinsider.com" site_id="rfd-tv" lang="en" xmltv_id="S0614">RFD-TV</channel>
+  <channel site="tvguide.com" site_id="9200004316" lang="en" xmltv_id="S0617">Syfy</channel>
+  <channel site="directv.com" site_id="7d83b2a7-c1d8-4052-82ea-5624a19667d9" lang="en" xmltv_id="S0618">SYFY</channel>
+  <channel site="directv.com" site_id="ca0a1649-7452-498b-a1c6-647938cc0e3d" lang="en" xmltv_id="S0621">Tastemade</channel>
+  <channel site="tvinsider.com" site_id="tastemade" lang="en" xmltv_id="S0622">Tastemade</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD7000189R" lang="en" xmltv_id="S0624">Tastemade</channel>
+  <channel site="directv.com" site_id="86528a42-ae4e-405c-8fae-c567c1ed70df" lang="en" xmltv_id="S0627">TBS HD</channel>
+  <channel site="tvguide.com" site_id="9233000403" lang="en" xmltv_id="S0628">tbs</channel>
+  <channel site="tvinsider.com" site_id="the-cowboy-channel" lang="en" xmltv_id="S0630">The Cowboy Channel</channel>
+  <channel site="directv.com" site_id="56f08371-563d-4910-8b4f-147e829104e5" lang="en" xmltv_id="S0634">The Weather Channel HD</channel>
+  <channel site="tvinsider.com" site_id="the-weather-channel" lang="en" xmltv_id="S0635">The Weather Channel</channel>
+  <channel site="directv.com" site_id="be9b2996-ae6c-4161-b99b-6158e6d2b798" lang="en" xmltv_id="S0638">TLC HD</channel>
+  <channel site="tvguide.com" site_id="9233004112" lang="en" xmltv_id="S0639">TLC</channel>
+  <channel site="directv.com" site_id="3c10db4e-98ac-40c0-a301-661504f60588" lang="en" xmltv_id="S0642">TNT HD</channel>
+  <channel site="tvguide.com" site_id="9233011830" lang="en" xmltv_id="S0643">TNT</channel>
+  <channel site="tvinsider.com" site_id="tnt" lang="en" xmltv_id="S0644">TNT</channel>
+  <channel site="directv.com" site_id="fb089f4f-0b1a-481c-adb1-d624884f51f2" lang="en" xmltv_id="S0646">TNT West HD</channel>
+  <channel site="tvguide.com" site_id="9233000035" lang="en" xmltv_id="S0648">Travel</channel>
+  <channel site="directv.com" site_id="088ffb78-2fed-4ebb-bf13-bf009d0700d7" lang="en" xmltv_id="S0651">Travel Channel HD</channel>
+  <channel site="tvinsider.com" site_id="travel-channel" lang="en" xmltv_id="S0652">Travel Channel</channel>
+  <channel site="directv.com" site_id="1b10de5e-3e3b-488f-9740-bec197244114" lang="en" xmltv_id="S0656">truTV HD</channel>
+  <channel site="tvguide.com" site_id="9200009547" lang="en" xmltv_id="S0657">truTV</channel>
+  <channel site="directv.com" site_id="8c312c97-15af-45d1-b754-9770c854f177" lang="en" xmltv_id="S0662">TV One HD</channel>
+  <channel site="tvinsider.com" site_id="tv-one" lang="en" xmltv_id="S0663">TV One</channel>
+  <channel site="directv.com" site_id="a22a1e02-fb9b-4d64-b9e8-2ce5eac89d6d" lang="en" xmltv_id="S0666">TV Land HD</channel>
+  <channel site="tvguide.com" site_id="9233005468" lang="en" xmltv_id="S0667">TV Land</channel>
+  <channel site="tvguide.com" site_id="9233004106" lang="en" xmltv_id="S0671">USA</channel>
+  <channel site="directv.com" site_id="2e991d96-3ca5-41f6-8ec1-6db7bd9f4371" lang="en" xmltv_id="S0674">VICE HD</channel>
+  <channel site="tvguide.com" site_id="9233002242" lang="en" xmltv_id="S0675">VICE</channel>
+  <channel site="tvguide.com" site_id="9200018188" lang="en" xmltv_id="S0679">WE tv</channel>
+  <channel site="tvguide.com" site_id="9233013354" lang="en" xmltv_id="S0682">LOGO</channel>
+  <channel site="directv.com" site_id="14ec4f80-2045-4d80-8bf4-36a57123d642" lang="en" xmltv_id="S0683">Logo</channel>
+  <channel site="directv.com" site_id="d48f198b-6a0f-4d53-9749-222e38f8847b" lang="en" xmltv_id="S0686">FXX HD</channel>
+  <channel site="tvguide.com" site_id="9200018644" lang="en" xmltv_id="S0687">FXX</channel>
+  <channel site="tvinsider.com" site_id="gettv" lang="en" xmltv_id="S0691">getTV</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD1200002PM" lang="en" xmltv_id="S0692">get TV</channel>
+  <channel site="directv.com" site_id="7d74cbcf-0ae9-4981-b7ba-9dde99194efa" lang="en" xmltv_id="S0694">Great American Family HD</channel>
+  <channel site="tvguide.com" site_id="9200009636" lang="en" xmltv_id="S0695">Great American Family</channel>
+  <channel site="tvinsider.com" site_id="great-american-family" lang="en" xmltv_id="S0696">Great American Family</channel>
+  <channel site="directv.com" site_id="11cc055c-6f49-4c2e-b391-f96b7ac8e7d7" lang="en" xmltv_id="S0698">Game Show Network HD</channel>
+  <channel site="tvguide.com" site_id="9200019858" lang="en" xmltv_id="S0699">Game Show Network</channel>
+  <channel site="tvinsider.com" site_id="game-show-network" lang="en" xmltv_id="S0700">Game Show Network</channel>
+  <channel site="directv.com" site_id="cb4259f1-c227-41e7-8542-1d08a47cf49d" lang="en" xmltv_id="S0703">Hallmark Channel HD</channel>
+  <channel site="tvinsider.com" site_id="hallmark-channel" lang="en" xmltv_id="S0704">Hallmark Channel</channel>
+  <channel site="tvguide.com" site_id="9233010939" lang="en" xmltv_id="S0707">Hallmark Family</channel>
+  <channel site="directv.com" site_id="ccd6fd6a-c746-44de-bbc2-05e31ecfd851" lang="en" xmltv_id="S0708">Hallmark Family</channel>
+  <channel site="tvguide.com" site_id="9233013351" lang="en" xmltv_id="S0712">Hallmark Mystery</channel>
+  <channel site="directv.com" site_id="b7669e3c-2916-4b8c-b40d-6266e791ab57" lang="en" xmltv_id="S0714">HGTV HD</channel>
+  <channel site="tvguide.com" site_id="9233004104" lang="en" xmltv_id="S0715">HGTV</channel>
+  <channel site="tvinsider.com" site_id="hgtv" lang="en" xmltv_id="S0716">HGTV</channel>
+  <channel site="directv.com" site_id="8dc85473-5c44-444f-8ee3-f3ad6da10329" lang="en" xmltv_id="S0719">History HD</channel>
+  <channel site="tvguide.com" site_id="9233008002" lang="en" xmltv_id="S0720">History</channel>
+  <channel site="directv.com" site_id="9e89d8ee-9678-4378-988f-09665f91f1c2" lang="en" xmltv_id="S0722">IFC HD</channel>
+  <channel site="tvguide.com" site_id="9200004303" lang="en" xmltv_id="S0723">IFC</channel>
+  <channel site="tvinsider.com" site_id="ifc" lang="en" xmltv_id="S0724">IFC</channel>
+  <channel site="directv.com" site_id="3c6a1eea-d513-4ed7-b467-dcde66069d31" lang="en" xmltv_id="S0727">INSP HD</channel>
+  <channel site="tvinsider.com" site_id="insp" lang="en" xmltv_id="S0728">INSP</channel>
+  <channel site="directv.com" site_id="1dd9b3b8-12fe-4821-9cef-0f5adbd4b0e5" lang="en" xmltv_id="S0731">Investigation Discovery HD</channel>
+  <channel site="tvguide.com" site_id="9200002243" lang="en" xmltv_id="S0732">Investigation Discovery</channel>
+  <channel site="tvinsider.com" site_id="law-and-crime" lang="en" xmltv_id="S0736">Law &amp; Crime</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAK3508710A" lang="en" xmltv_id="S0738">Law &amp; Crime</channel>
+  <channel site="directv.com" site_id="d1dd879a-5790-454f-9104-39432f4859c6" lang="en" xmltv_id="S0739">Lifetime HD</channel>
+  <channel site="tvguide.com" site_id="9200020452" lang="en" xmltv_id="S0740">Lifetime</channel>
+  <channel site="tvinsider.com" site_id="lifetime" lang="en" xmltv_id="S0741">Lifetime</channel>
+  <channel site="tvinsider.com" site_id="mavtv" lang="en" xmltv_id="S0742">MAVTV</channel>
+  <channel site="tvinsider.com" site_id="nat-geo" lang="en" xmltv_id="S0745">Nat Geo</channel>
+  <channel site="directv.com" site_id="86732c76-8068-44b3-9c89-f39523208b9c" lang="en" xmltv_id="S0747">Nat Geo Wild HD</channel>
+  <channel site="tvinsider.com" site_id="nat-geo-wild" lang="en" xmltv_id="S0748">Nat Geo Wild</channel>
+  <channel site="directv.com" site_id="f33c61e3-1697-4307-a30f-cf2af76bed69" lang="en" xmltv_id="S0753">Outdoor Channel HD</channel>
+  <channel site="tvinsider.com" site_id="outdoor-channel" lang="en" xmltv_id="S0754">Outdoor Channel</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-629e522ed1bc5f1b16c6b98d" lang="en" xmltv_id="S0756">Outside</channel>
+  <channel site="plex.tv" site_id="629e522ed1bc5f1b16c6b98d" lang="en" xmltv_id="S0757">Outside</channel>
+  <channel site="distro.tv" site_id="15976" lang="en" xmltv_id="S0758">Outside</channel>
+  <channel site="directv.com" site_id="9e44efca-a796-4d96-a15f-25c0e75f90ce" lang="en" xmltv_id="S0760">Ovation HD</channel>
+  <channel site="tvguide.com" site_id="9233011240" lang="en" xmltv_id="S0761">Ovation</channel>
+  <channel site="tvinsider.com" site_id="ovation" lang="en" xmltv_id="S0762">Ovation</channel>
+  <channel site="tvguide.com" site_id="9200004949" lang="en" xmltv_id="S0764">Oxygen</channel>
+  <channel site="tvinsider.com" site_id="oxygen" lang="en" xmltv_id="S0765">Oxygen</channel>
+  <channel site="directv.com" site_id="35132820-6521-4eb9-9ccf-1dd42de1a5c3" lang="en" xmltv_id="S0771">Paramount Network HD</channel>
+  <channel site="tvguide.com" site_id="9233013810" lang="en" xmltv_id="S0772">Paramount Network</channel>
+  <channel site="tvinsider.com" site_id="lmn" lang="en" xmltv_id="S0778">Lifetime Movie Network</channel>
+  <channel site="directv.com" site_id="c1a35106-2d20-4b58-bcfe-906cdb19197d" lang="en" xmltv_id="S0781">CMT HD</channel>
+  <channel site="tvguide.com" site_id="9200012085" lang="en" xmltv_id="S0782">CMT</channel>
+  <channel site="directv.com" site_id="6bb1b774-c06c-44e1-a316-5d41c63229e0" lang="en" xmltv_id="S0785">MTV HD</channel>
+  <channel site="directv.com" site_id="5fa9cee6-c5e0-4efd-8035-23dd470c2f3d" lang="en" xmltv_id="S0789">MTV2 HD</channel>
+  <channel site="directv.com" site_id="3e229de3-9fb0-4f09-8a0c-4c88b4c61614" lang="en" xmltv_id="S0793">VH1 HD</channel>
+  <channel site="tvguide.com" site_id="9233000037" lang="en" xmltv_id="S0794">VH1</channel>
+  <channel site="directv.com" site_id="6107dde2-4d9f-4c2e-9cb7-75e49ce72ea9" lang="en" xmltv_id="S0796">Heroes &amp; Icons</channel>
+  <channel site="tvinsider.com" site_id="heroes-icons" lang="en" xmltv_id="S0797">Heroes &amp; Icons</channel>
+  <channel site="directv.com" site_id="6aec9a4e-7824-4869-b75f-fb1c648d207e" lang="en" xmltv_id="S0800">Comedy Central West HD</channel>
+  <channel site="directv.com" site_id="74c41fde-6f1e-4920-8429-16d9d4fa259c" lang="en" xmltv_id="S0802">Tr3S (103A)</channel>
+  <channel site="directv.com" site_id="893b200c-1f5c-4d8f-82c8-9219fa0e5118" lang="en" xmltv_id="S0807">QVC2 (79)</channel>
+  <channel site="directv.com" site_id="520ba247-660d-481d-97e5-b231d3256723" lang="en" xmltv_id="S0809">Pop TV</channel>
+  <channel site="tvinsider.com" site_id="pop" lang="en" xmltv_id="S0810">Pop TV</channel>
+  <channel site="directv.com" site_id="1d36c051-d7cd-42a5-8a79-5c9ceac2fca8" lang="en" xmltv_id="S0815">Justice Central HD</channel>
+  <channel site="tvinsider.com" site_id="justice-central" lang="en" xmltv_id="S0816">Justice Central</channel>
+  <channel site="directv.com" site_id="d833c43a-5f3c-45a1-9c4d-2861c71da177" lang="en" xmltv_id="S0818">Start TV</channel>
+  <channel site="tvinsider.com" site_id="start-tv" lang="en" xmltv_id="S0819">Start TV</channel>
+  <channel site="tvinsider.com" site_id="hsn" lang="en" xmltv_id="S0822">HSN</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5f8a02476b72230007e62b7d" lang="en" xmltv_id="S0823">HSN</channel>
+  <channel site="pluto.tv" site_id="5f8a02476b72230007e62b7d" lang="en" xmltv_id="S0824">HSN</channel>
+  <channel site="directv.com" site_id="fc656ac0-652b-42f4-ae42-fade3a74b8f5" lang="en" xmltv_id="S0827">Dog TV</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD70000213" lang="en" xmltv_id="S0831">TMZ</channel>
+  <channel site="plex.tv" site_id="63e2ca44203bafbef831a152" lang="en" xmltv_id="S0832">TMZ</channel>
+  <channel site="directv.com" site_id="d3349098-3608-45d6-8efb-24ebae2be28c" lang="en" xmltv_id="S0834">Cleo TV</channel>
+  <channel site="tvinsider.com" site_id="cleo-tv" lang="en" xmltv_id="S0835">Cleo TV</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-63ec15d6290593c3fc279f4a" lang="en" xmltv_id="S0838">Military Heroes Presented By History</channel>
+  <channel site="plex.tv" site_id="63ec15d6290593c3fc279f4a" lang="en" xmltv_id="S0839">Military Heroes Presented By History</channel>
+  <channel site="directv.com" site_id="35c1d4c8-f63e-4943-83fe-cfcae3f93772" lang="en" xmltv_id="S0841">Alien Nation by DUST</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC100000630" lang="en" xmltv_id="S0843">Alien Nation by DUST</channel>
+  <channel site="plex.tv" site_id="63d6f799a9e88ee909e7ee21" lang="en" xmltv_id="S0844">Alien Nation by DUST</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5f170d61b898490041b49360" lang="en" xmltv_id="S0846">Electric Now</channel>
+  <channel site="plex.tv" site_id="5f170d61b898490041b49360" lang="en" xmltv_id="S0847">Electric Now</channel>
+  <channel site="xumo.tv" site_id="100#99991378" lang="en" xmltv_id="S0848">ElectricNOW</channel>
+  <channel site="directv.com" site_id="bb69566a-8bcb-46a4-badb-1e6705d4041b" lang="en" xmltv_id="S0851">HDNET MOVIES</channel>
+  <channel site="tvinsider.com" site_id="hdnet-movies" lang="en" xmltv_id="S0852">HDNet Movies</channel>
+  <channel site="tvinsider.com" site_id="lifetime-real-women" lang="en" xmltv_id="S0855">Lifetime Real Women</channel>
+  <channel site="directv.com" site_id="c0562e14-c7b8-48a7-8cd8-b587629ccebc" lang="en" xmltv_id="S0858">Comedy Dynamics</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD7000145C" lang="en" xmltv_id="S0860">Comedy Dynamics</channel>
+  <channel site="plex.tv" site_id="5efe1de5e0b3f5003f5d9f76" lang="en" xmltv_id="S0861">Comedy Dynamics</channel>
+  <channel site="directv.com" site_id="45c0b1b4-190f-4b09-beb8-e264ec62980a" lang="en" xmltv_id="S0862">INWONDER</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBA300023G8" lang="en" xmltv_id="S0864">InWonder</channel>
+  <channel site="plex.tv" site_id="6668b2b5e4f56766e556a413" lang="en" xmltv_id="S0865">INWONDER</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#674f735a2fb8a100087bf253" lang="en" xmltv_id="S0867">Revry</channel>
+  <channel site="pluto.tv" site_id="674f735a2fb8a100087bf253" lang="en" xmltv_id="S0868">Revry</channel>
+  <channel site="plex.tv" site_id="5ef11487d33ab9004048a1d9" lang="en" xmltv_id="S0869">Revry</channel>
+  <channel site="directv.com" site_id="4bfae50c-9f91-4613-8847-02181340006f" lang="en" xmltv_id="S0872">BYUtv</channel>
+  <channel site="tvinsider.com" site_id="byutv" lang="en" xmltv_id="S0873">BYUtv</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US410000230" lang="en" xmltv_id="S0874">BYUtv</channel>
+  <channel site="directv.com" site_id="ea82c4aa-5081-46b9-8328-f9a7501f8f7c" lang="en" xmltv_id="S0875">Gusto TV</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAK3508724A" lang="en" xmltv_id="S0877">Gusto TV</channel>
+  <channel site="distro.tv" site_id="83408" lang="en" xmltv_id="S0878">Gusto TV</channel>
+  <channel site="directv.com" site_id="e6dd5b81-803d-4602-b8c9-90bb65a6f0af" lang="en" xmltv_id="S0879">Billiard TV</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD12000183X" lang="en" xmltv_id="S0881">Billiard TV</channel>
+  <channel site="plex.tv" site_id="6334a8e48a7b2a349d903b8c" lang="en" xmltv_id="S0882">Billiard TV</channel>
+  <channel site="directv.com" site_id="3d550255-c27b-4d12-b681-343bcbaa7fe5" lang="en" xmltv_id="S0883">PokerGo</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5fc54366b04b2300072e31af" lang="en" xmltv_id="S0885">PokerGO</channel>
+  <channel site="pluto.tv" site_id="5fc54366b04b2300072e31af" lang="en" xmltv_id="S0886">PokerGO</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC1500009LD" lang="en" xmltv_id="S0889">WeatherNation</channel>
+  <channel site="pluto.tv" site_id="5bdce04659ee03633e758130" lang="en" xmltv_id="S0890">WeatherNation</channel>
+  <channel site="tvinsider.com" site_id="bounce-tv" lang="en" xmltv_id="S0896">Bounce TV</channel>
+  <channel site="directv.com" site_id="82539a74-53de-49ba-bcb4-1a43775803f9" lang="en" xmltv_id="S0898">BounceTV</channel>
+  <channel site="tvinsider.com" site_id="dabl" lang="en" xmltv_id="S0900">Dabl</channel>
+  <channel site="directv.com" site_id="6e4cfd3d-56dd-4463-8f48-9620c2e6ab5d" lang="en" xmltv_id="S0902">FOX Soul</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBA300032J7" lang="en" xmltv_id="S0904">FOX SOUL</channel>
+  <channel site="directv.com" site_id="f0651d6c-09c5-46a9-a168-cfc86e01cdc7" lang="en" xmltv_id="S0910">BBC America HD</channel>
+  <channel site="tvguide.com" site_id="9200014701" lang="en" xmltv_id="S0911">BBC America</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#6176fd25e83a5f0007a464c9" lang="en" xmltv_id="S0920">Bounce XL</channel>
+  <channel site="pluto.tv" site_id="6176fd25e83a5f0007a464c9" lang="en" xmltv_id="S0921">Bounce XL</channel>
+  <channel site="plex.tv" site_id="623d9b0370560b72147a994a" lang="en" xmltv_id="S0922">Bounce XL</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" lang="en" xmltv_id="S0924">AMC Thrillers</channel>
+  <channel site="plex.tv" site_id="5fc705e2a2236e002d69f36d" lang="en" xmltv_id="S0925">AMC Thrillers</channel>
+  <channel site="xumo.tv" site_id="50#99951377" lang="en" xmltv_id="S0926">AMC Thrillers</channel>
+  <channel site="tvinsider.com" site_id="catchy-comedy" lang="en" xmltv_id="S0934">Catchy Comedy</channel>
+  <channel site="tvinsider.com" site_id="fetv" lang="en" xmltv_id="S0937">FETV</channel>
+  <channel site="tvinsider.com" site_id="ride-tv" lang="en" xmltv_id="S0939">Ride TV</channel>
+  <channel site="tvinsider.com" site_id="real-americas-voice" lang="en" xmltv_id="S0940">Real America&#x27;s Voice</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBB1900002KF" lang="en" xmltv_id="S0942">Real America&#x27;s Voice</channel>
+  <channel site="distro.tv" site_id="64501" lang="en" xmltv_id="S0943">Real America&#x27;s Voice</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD1200021JM" lang="en" xmltv_id="S0949">Shout! TV</channel>
+  <channel site="plex.tv" site_id="60d4edd6b2fdec002c141127" lang="en" xmltv_id="S0950">Shout! TV</channel>
+  <channel site="tvinsider.com" site_id="charge" lang="en" xmltv_id="S0952">Charge!</channel>
+  <channel site="directv.com" site_id="f6dbe792-f9fd-4cb7-a8f2-4e9cc342700e" lang="en" xmltv_id="S0953">The Design Network</channel>
+  <channel site="tvinsider.com" site_id="the-design-network" lang="en" xmltv_id="S0954">The Design Network</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD1200022S1" lang="en" xmltv_id="S0956">The Design Network</channel>
+  <channel site="directv.com" site_id="4bd216f2-8d04-416d-92ed-ed9c394a227c" lang="en" xmltv_id="S0959">Recipe TV</channel>
+  <channel site="tvinsider.com" site_id="recipe-tv" lang="en" xmltv_id="S0960">Recipe TV</channel>
+  <channel site="directv.com" site_id="6bc2e297-8940-4561-9071-994328392946" lang="en" xmltv_id="S0963">Comedy TV HD</channel>
+  <channel site="tvinsider.com" site_id="comedy-tv" lang="en" xmltv_id="S0964">Comedy TV</channel>
+  <channel site="directv.com" site_id="173aa1c2-5e38-4ac4-b7b0-fbb749bf9f93" lang="en" xmltv_id="S0968">HSN2</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6995ed8173f56d61dc078f0d" lang="en" xmltv_id="S0970">Circle Country</channel>
+  <channel site="plex.tv" site_id="6995ed8173f56d61dc078f0d" lang="en" xmltv_id="S0971">Circle Country</channel>
+  <channel site="xumo.tv" site_id="200#99991131" lang="en" xmltv_id="S0972">Circle Country</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5e54187aae660e00093561d6" lang="en" xmltv_id="S0974">Game Show Central</channel>
+  <channel site="pluto.tv" site_id="5e54187aae660e00093561d6" lang="en" xmltv_id="S0975">Game Show Central</channel>
+  <channel site="plex.tv" site_id="5eea605574085f0040ddc782" lang="en" xmltv_id="S0976">Game Show Central</channel>
+  <channel site="directv.com" site_id="cdc92164-5416-44a1-a03a-3dc5713c0cd0" lang="en" xmltv_id="S0979">QVC3</channel>
+  <channel site="directv.com" site_id="e3190daa-5f8a-41e8-b8ff-0d9eae7bb347" lang="en" xmltv_id="S0985">MTV West HD</channel>
+  <channel site="directv.com" site_id="80c25768-273c-4298-a307-a6255e60cf7f" lang="en" xmltv_id="S0986">The First</channel>
+  <channel site="tvinsider.com" site_id="the-first" lang="en" xmltv_id="S0987">The First</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5d486acc34ceb37d3c458a64" lang="en" xmltv_id="S0989">The First</channel>
+  <channel site="directv.com" site_id="d1351812-e633-4da7-8fbf-972d52d869b5" lang="en" xmltv_id="S0990">Speedvision</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6349ed0eb1adc4cfa571fd37" lang="en" xmltv_id="S0992">SPEEDVISION</channel>
+  <channel site="xumo.tv" site_id="100#99951268" lang="en" xmltv_id="S0993">SPEEDVISION</channel>
+  <channel site="tvinsider.com" site_id="awe" lang="en" xmltv_id="S0995">AWE</channel>
+  <channel site="directv.com" site_id="385801f7-606a-457d-8116-e1a73cf77484" lang="en" xmltv_id="S0997">TBS West HD</channel>
+  <channel site="tvinsider.com" site_id="science-channel" lang="en" xmltv_id="S1002">Science Channel</channel>
+  <channel site="tvinsider.com" site_id="ion-mystery" lang="en" xmltv_id="S1004">ION Mystery</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC24000223S" lang="en" xmltv_id="S1006">ION Mystery</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC4400006BR" lang="en" xmltv_id="S1007">Haunt TV</channel>
+  <channel site="xumo.tv" site_id="50#99951375" lang="en" xmltv_id="S1008">Haunt TV</channel>
+  <channel site="tvinsider.com" site_id="bet-gospel" lang="en" xmltv_id="S1013">BET Gospel</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#6793ea255225b515b4ba91a7" lang="en" xmltv_id="S1017">ALLBLK Gems</channel>
+  <channel site="pluto.tv" site_id="6793ea255225b515b4ba91a7" lang="en" xmltv_id="S1018">ALLBLK Gems</channel>
+  <channel site="plex.tv" site_id="628bb0eafcb403aa62d2317d" lang="en" xmltv_id="S1019">ALLBLK Gems</channel>
+  <channel site="directv.com" site_id="4ce170e6-9219-42f3-8b02-ad3a5b851e81" lang="en" xmltv_id="S1020">Ebony TV</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0" lang="en" xmltv_id="S1023">HerSphere by Lionsgate</channel>
+  <channel site="plex.tv" site_id="644c4bc17472b186783f35a0" lang="en" xmltv_id="S1024">HerSphere by Lionsgate</channel>
+  <channel site="tvinsider.com" site_id="rewind-tv" lang="en" xmltv_id="S1027">Rewind TV</channel>
+  <channel site="directv.com" site_id="f1e6988c-8273-4356-9d41-23dd1eb7e667" lang="en" xmltv_id="S1029">PowerNation</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#63b48016d9dd51000828fa37" lang="en" xmltv_id="S1030">POWERNATION</channel>
+  <channel site="pluto.tv" site_id="63b48016d9dd51000828fa37" lang="en" xmltv_id="S1031">POWERNATION</channel>
+  <channel site="xumo.tv" site_id="100#99991291" lang="en" xmltv_id="S1032">PowerNation</channel>
+  <channel site="directv.com" site_id="c919b444-d041-4a55-aeff-44e681878ae4" lang="en" xmltv_id="S1034">MeTV Toons</channel>
+  <channel site="tvinsider.com" site_id="metv-toons" lang="en" xmltv_id="S1035">MeTV Toons</channel>
+  <channel site="tvinsider.com" site_id="metv-plus" lang="en" xmltv_id="S1038">MeTV+</channel>
+  <channel site="tvinsider.com" site_id="vice-tv" lang="en" xmltv_id="S1040">Vice TV</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#666b265722acab000885c6aa" lang="en" xmltv_id="S1042">BET x Tyler Perry Comedy</channel>
+  <channel site="pluto.tv" site_id="666b265722acab000885c6aa" lang="en" xmltv_id="S1043">BET x Tyler Perry Comedy</channel>
+  <channel site="plex.tv" site_id="66635c20ca7b22f4c3a2d73f" lang="en" xmltv_id="S1044">BET x Tyler Perry Comedy</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US2600006VY" lang="en" xmltv_id="S1045">One Championship TV</channel>
+  <channel site="plex.tv" site_id="6785867ad3749c9bdd4d2ed1" lang="en" xmltv_id="S1046">ONE Championship TV</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-633239caa6615514fb78ecf3" lang="en" xmltv_id="S1049">Unbeaten</channel>
+  <channel site="plex.tv" site_id="67f45ef989089d917e1b1634" lang="en" xmltv_id="S1050">Unbeaten</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#666b38a5efa2a10008b15b3a" lang="en" xmltv_id="S1052">BET x Tyler Perry Drama</channel>
+  <channel site="pluto.tv" site_id="666b38a5efa2a10008b15b3a" lang="en" xmltv_id="S1053">BET x Tyler Perry Drama</channel>
+  <channel site="plex.tv" site_id="66635b07ca7b22f4c3a2d73d" lang="en" xmltv_id="S1054">BET x Tyler Perry Drama</channel>
+  <channel site="tvguide.com" site_id="9200004533" lang="en" xmltv_id="S1057">Big Ten Network</channel>
+  <channel site="tvinsider.com" site_id="big-ten-network" lang="en" xmltv_id="S1058">Big Ten Network</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9" lang="en" xmltv_id="S1060">Scares by Shudder</channel>
+  <channel site="plex.tv" site_id="650b38f490baad1963ad96f9" lang="en" xmltv_id="S1061">Scares by Shudder</channel>
+  <channel site="xumo.tv" site_id="50#99951349" lang="en" xmltv_id="S1062">Scares by Shudder</channel>
+  <channel site="directv.com" site_id="8a26be7e-df40-4be0-9a0c-50f2013c03a2" lang="en" xmltv_id="S1063">Are We There Yet</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US1900011ZN" lang="en" xmltv_id="S1065">Are We There Yet?</channel>
+  <channel site="plex.tv" site_id="612919784f53e1002c9aa219" lang="en" xmltv_id="S1066">Are We There Yet?</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#68487fb3f212bedacf5a53e3" lang="en" xmltv_id="S1067">50 Cent Action</channel>
+  <channel site="pluto.tv" site_id="68487fb3f212bedacf5a53e3" lang="en" xmltv_id="S1068">50 Cent Action</channel>
+  <channel site="plex.tv" site_id="6827b9579beea89c38b6df55" lang="en" xmltv_id="S1069">50 Cent Action</channel>
+  <channel site="xumo.tv" site_id="100#99951439" lang="en" xmltv_id="S1070">50 Cent Action</channel>
+  <channel site="directv.com" site_id="7e3cd866-061b-410c-86cf-5aa5fc6e6937" lang="en" xmltv_id="S1073">Pureflix TV</channel>
+  <channel site="xumo.tv" site_id="300#99951407" lang="en" xmltv_id="S1075">Pure Flix TV</channel>
+  <channel site="xumo.tv" site_id="300#99951211" lang="en" xmltv_id="S1076">STELLAR</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-62280644c9f485cc7afe8c48" lang="en" xmltv_id="S1078">BlackPix</channel>
+  <channel site="plex.tv" site_id="62280644c9f485cc7afe8c48" lang="en" xmltv_id="S1079">BlackPix</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-641496bf238e21f260e7844a" lang="en" xmltv_id="S1081">OuterSphere by Lionsgate</channel>
+  <channel site="plex.tv" site_id="641496bf238e21f260e7844a" lang="en" xmltv_id="S1082">OuterSphere by Lionsgate</channel>
+  <channel site="xumo.tv" site_id="50#99951250" lang="en" xmltv_id="S1083">OuterSphere by Lionsgate</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#645e7828e1979c00087b75b4" lang="en" xmltv_id="S1084">MovieSphere by Lionsgate</channel>
+  <channel site="pluto.tv" site_id="645e7828e1979c00087b75b4" lang="en" xmltv_id="S1085">MovieSphere by Lionsgate</channel>
+  <channel site="xumo.tv" site_id="0#99951251" lang="en" xmltv_id="S1086">MovieSphere by Lionsgate</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US1800015K5" lang="en" xmltv_id="S1088">National Lampoon</channel>
+  <channel site="plex.tv" site_id="661fcbcf414d94009d1206ee" lang="en" xmltv_id="S1089">National Lampoon</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-66a2c1370b91165254efdb3c" lang="en" xmltv_id="S1091">At the Movies</channel>
+  <channel site="plex.tv" site_id="66a2c1370b91165254efdb3c" lang="en" xmltv_id="S1092">At the Movies</channel>
+  <channel site="directv.com" site_id="1e160544-00bc-4b3c-88df-455fb4af26e2" lang="en" xmltv_id="S1094">El Rey Rebel</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#691d1200c2185a44642f5e7c" lang="en" xmltv_id="S1096">El Rey Rebel</channel>
+  <channel site="pluto.tv" site_id="691d1200c2185a44642f5e7c" lang="en" xmltv_id="S1097">El Rey Rebel</channel>
+  <channel site="directv.com" site_id="9007fc14-113d-4e1e-bf32-abc1a8777d1d" lang="en" xmltv_id="S1098">Sweet Escapes</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-66a1acc577649467da169f0c" lang="en" xmltv_id="S1100">Sweet Escapes</channel>
+  <channel site="plex.tv" site_id="66a1acc577649467da169f0c" lang="en" xmltv_id="S1101">Sweet Escapes</channel>
+  <channel site="directv.com" site_id="171d9bb5-236b-4d9b-9c29-c9e5dc823d9b" lang="en" xmltv_id="S1102">Nosey</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5aec96ec5126c2157123c657" lang="en" xmltv_id="S1104">Nosey</channel>
+  <channel site="pluto.tv" site_id="5aec96ec5126c2157123c657" lang="en" xmltv_id="S1105">Nosey</channel>
+  <channel site="directv.com" site_id="cb6822da-03bc-42b4-bf41-d63b2ba29fa6" lang="en" xmltv_id="S1106">Living With Evil</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#68bb164fb3900870ec368759" lang="en" xmltv_id="S1107">Living With Evil</channel>
+  <channel site="pluto.tv" site_id="68bb164fb3900870ec368759" lang="en" xmltv_id="S1108">Living With Evil</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC1000004G8" lang="en" xmltv_id="S1109">Shades of Black</channel>
+  <channel site="plex.tv" site_id="67a1421f114554261db9e459" lang="en" xmltv_id="S1110">Shades of Black</channel>
+  <channel site="xumo.tv" site_id="0#9995106" lang="en" xmltv_id="S1111">Shades of Black</channel>
+  <channel site="tvinsider.com" site_id="lol-network" lang="en" xmltv_id="S1112">LOL Network</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC1300009VM" lang="en" xmltv_id="S1114">LOL! Network</channel>
+  <channel site="plex.tv" site_id="628ea9fcffe4cec6361f5310" lang="en" xmltv_id="S1115">LOL! Network</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US350000563" lang="en" xmltv_id="S1118">GET Comedy</channel>
+  <channel site="xumo.tv" site_id="150#99951333" lang="en" xmltv_id="S1119">GET Comedy</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#67c62ac2095aea2ec805eb34" lang="en" xmltv_id="S1120">The Martha Stewart Channel</channel>
+  <channel site="pluto.tv" site_id="67c62ac2095aea2ec805eb34" lang="en" xmltv_id="S1121">The Martha Stewart Channel</channel>
+  <channel site="xumo.tv" site_id="250#99951513" lang="en" xmltv_id="S1122">The Martha Stewart Channel</channel>
+  <channel site="pluto.tv" site_id="6400f731d200410008f9b339" lang="en" xmltv_id="S1124">MotorTrend FAST TV</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-68db6a852be6c4ceb7947b9a" lang="en" xmltv_id="S1125">FilmRise Comedy</channel>
+  <channel site="plex.tv" site_id="68db6a852be6c4ceb7947b9a" lang="en" xmltv_id="S1126">FilmRise Comedy</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBB3200001MG" lang="en" xmltv_id="S1128">REELZ Famous &amp; Infamous</channel>
+  <channel site="plex.tv" site_id="64f0d3ddc2bc9b9001d46ea4" lang="en" xmltv_id="S1129">REELZ Famous &amp; Infamous</channel>
+  <channel site="xumo.tv" site_id="100#99991368" lang="en" xmltv_id="S1130">REELZ Famous &amp; Infamous</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-614398a08f30fa61e0da7c97" lang="en" xmltv_id="S1132">True History</channel>
+  <channel site="distro.tv" site_id="66893" lang="en" xmltv_id="S1133">True History</channel>
+  <channel site="xumo.tv" site_id="300#99991650" lang="en" xmltv_id="S1134">True History Channel</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5e9decb953e157000752321c" lang="en" xmltv_id="S1136">Judge Nosey</channel>
+  <channel site="pluto.tv" site_id="5e9decb953e157000752321c" lang="en" xmltv_id="S1137">Judge Nosey</channel>
+  <channel site="directv.com" site_id="15ef47e7-1b5e-4cf2-be5e-dedc55dfdaf8" lang="en" xmltv_id="S1138">Confess by Nosey</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#634ee8f95aa9870007248333" lang="en" xmltv_id="S1140">Confess by Nosey</channel>
+  <channel site="pluto.tv" site_id="634ee8f95aa9870007248333" lang="en" xmltv_id="S1141">Confess by Nosey</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-678819cadb8f0c5dc195cf50" lang="en" xmltv_id="S1142">Pam Grier&#x27;s Soul Flix</channel>
+  <channel site="plex.tv" site_id="678819cadb8f0c5dc195cf50" lang="en" xmltv_id="S1143">Pam Grier&#x27;s Soul Flix</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#656542ae4261ca00082154a8" lang="en" xmltv_id="S1144">Ultimate Builds</channel>
+  <channel site="pluto.tv" site_id="656542ae4261ca00082154a8" lang="en" xmltv_id="S1145">Ultimate Builds</channel>
+  <channel site="directv.com" site_id="5b2cc61c-32c8-42db-8c2e-ec527e55f1fa" lang="en" xmltv_id="S1146">Fail Army</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#554158e864526b29254ff105" lang="en" xmltv_id="S1148">FailArmy</channel>
+  <channel site="pluto.tv" site_id="554158e864526b29254ff105" lang="en" xmltv_id="S1149">FailArmy</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#60f85644a9493e0007a1f035" lang="en" xmltv_id="S1152">BET Classics</channel>
+  <channel site="pluto.tv" site_id="60f85644a9493e0007a1f035" lang="en" xmltv_id="S1153">BET Classics</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#61326275b3c86a00078e4833" lang="en" xmltv_id="S1154">BET Throwbacks</channel>
+  <channel site="pluto.tv" site_id="61326275b3c86a00078e4833" lang="en" xmltv_id="S1155">BET Throwbacks</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#663946c1b18d700008d9c168" lang="en" xmltv_id="S1156">BET Visionaries</channel>
+  <channel site="pluto.tv" site_id="663946c1b18d700008d9c168" lang="en" xmltv_id="S1157">BET Visionaries</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5d40bebc5e3d2750a2239d7e" lang="en" xmltv_id="S1158">TV Land Drama</channel>
+  <channel site="pluto.tv" site_id="5d40bebc5e3d2750a2239d7e" lang="en" xmltv_id="S1159">TV Land Drama</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5c2d64ffbdf11b71587184b8" lang="en" xmltv_id="S1160">TV Land Sitcoms</channel>
+  <channel site="pluto.tv" site_id="61bd0b57872c650008ed2e38" lang="en" xmltv_id="S1161">TV Land Sitcoms</channel>
+  <channel site="directv.com" site_id="21e41317-1a4e-4302-b43e-b916fa1e7534" lang="en" xmltv_id="S1163">RACER Network</channel>
+  <channel site="directv.com" site_id="a159f96b-b98b-4772-af97-dff13b11a0d2" lang="en" xmltv_id="S1166">STARZ Kids &amp; Family HD</channel>
+  <channel site="tvguide.com" site_id="9200006977" lang="en" xmltv_id="S1167">STARZ Kids &amp; Family</channel>
+  <channel site="tvinsider.com" site_id="starz-kids-family" lang="en" xmltv_id="S1168">Starz Kids &amp; Family</channel>
+  <channel site="tvguide.com" site_id="9233015844" lang="en" xmltv_id="S1174">Boomerang</channel>
+  <channel site="directv.com" site_id="efabe7f5-d961-4434-b4a6-339d13b7c4e9" lang="en" xmltv_id="S1175">Boomerang</channel>
+  <channel site="directv.com" site_id="b58935e4-74c0-4d19-aa0c-d0557d716f2b" lang="en" xmltv_id="S1178">Cartoon Network HD</channel>
+  <channel site="tvguide.com" site_id="9200004848" lang="en" xmltv_id="S1179">Cartoon Network</channel>
+  <channel site="directv.com" site_id="2c8f5f1d-ca3e-44a3-80ee-a30bf8060aa2" lang="en" xmltv_id="S1182">Cartoon Network West</channel>
+  <channel site="tvguide.com" site_id="9200018475" lang="en" xmltv_id="S1185">Disney</channel>
+  <channel site="directv.com" site_id="e0811c53-5460-4731-a8dd-1e3e3543a4c1" lang="en" xmltv_id="S1187">Disney Channel (West)</channel>
+  <channel site="directv.com" site_id="b49573ad-cf93-4c89-81dd-c06ce57822f2" lang="en" xmltv_id="S1189">Disney Junior HD</channel>
+  <channel site="tvguide.com" site_id="9233009788" lang="en" xmltv_id="S1190">Disney Junior</channel>
+  <channel site="tvinsider.com" site_id="disney-junior" lang="en" xmltv_id="S1191">Disney Junior</channel>
+  <channel site="directv.com" site_id="b7c1fb6b-0eb7-4fa9-b7e0-1005f699fbb6" lang="en" xmltv_id="S1195">Disney XD HD</channel>
+  <channel site="tvguide.com" site_id="9200004852" lang="en" xmltv_id="S1196">Disney XD</channel>
+  <channel site="directv.com" site_id="0ae8d67d-2284-4e26-a2f9-4ba1b2819ff9" lang="en" xmltv_id="S1202">Nick Jr. HD</channel>
+  <channel site="tvguide.com" site_id="9233007153" lang="en" xmltv_id="S1203">Nick Jr.</channel>
+  <channel site="tvguide.com" site_id="9200006974" lang="en" xmltv_id="S1206">TeenNick</channel>
+  <channel site="directv.com" site_id="d920e05c-e03f-449c-962a-a16bea9fb5a3" lang="en" xmltv_id="S1207">TeenNick</channel>
+  <channel site="tvguide.com" site_id="9200020469" lang="en" xmltv_id="S1209">Nicktoons</channel>
+  <channel site="directv.com" site_id="41a3b6f2-8fbd-416d-9c61-b150d4006711" lang="en" xmltv_id="S1210">Nicktoons</channel>
+  <channel site="tvinsider.com" site_id="nicktoons" lang="en" xmltv_id="S1211">Nicktoons</channel>
+  <channel site="directv.com" site_id="18ee6c13-d93a-4f79-bd02-21bd18b052a3" lang="en" xmltv_id="S1214">Nickelodeon East HD</channel>
+  <channel site="tvguide.com" site_id="9200006939" lang="en" xmltv_id="S1215">Nickelodeon</channel>
+  <channel site="directv.com" site_id="46c15402-92e9-4aee-9b2d-e8512c33696a" lang="en" xmltv_id="S1218">PBS Kids</channel>
+  <channel site="tvinsider.com" site_id="pbs-kids" lang="en" xmltv_id="S1219">PBS Kids</channel>
+  <channel site="directv.com" site_id="63c40d47-aab6-4ba9-b1ad-de7a646e4ce9" lang="en" xmltv_id="S1222">Nickelodeon West</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#60fb040d4795a6000762fe8f" lang="en" xmltv_id="S1224">Kartoon Channel!</channel>
+  <channel site="pluto.tv" site_id="60fb040d4795a6000762fe8f" lang="en" xmltv_id="S1225">Kartoon Channel!</channel>
+  <channel site="tvguide.com" site_id="9233002112" lang="en" xmltv_id="S1226">Smithsonian</channel>
+  <channel site="tvinsider.com" site_id="history-channel" lang="en" xmltv_id="S1228">History Channel</channel>
+  <channel site="tvinsider.com" site_id="curiosity-stream" lang="en" xmltv_id="S1231">Curiosity Stream</channel>
+  <channel site="directv.com" site_id="974e261e-f83c-4f7d-9c13-7fbedd8bd614" lang="en" xmltv_id="S1234">Jewelry Television (72)</channel>
+  <channel site="tvinsider.com" site_id="jewelry-television" lang="en" xmltv_id="S1235">Jewelry Television</channel>
+  <channel site="tvinsider.com" site_id="story-television" lang="en" xmltv_id="S1239">Story Television</channel>
+  <channel site="directv.com" site_id="5be021ad-db5c-4d09-945f-9f6852648dbe" lang="en" xmltv_id="S1240">Curiosity Now</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-64831c8be3541c909e96d240" lang="en" xmltv_id="S1242">Curiosity NOW</channel>
+  <channel site="plex.tv" site_id="64831c8be3541c909e96d240" lang="en" xmltv_id="S1243">Curiosity NOW</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#673bf05ddaad7f0008ac7a5c" lang="en" xmltv_id="S1244">Dinos 24/7</channel>
+  <channel site="pluto.tv" site_id="673bf05ddaad7f0008ac7a5c" lang="en" xmltv_id="S1245">Dinos 24/7</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#6000a5a9e767980007b497ca" lang="en" xmltv_id="S1246">A&amp;E Crime 360</channel>
+  <channel site="pluto.tv" site_id="6000a5a9e767980007b497ca" lang="en" xmltv_id="S1247">A&amp;E Crime 360</channel>
+  <channel site="plex.tv" site_id="5f74cf7effbe690040689f41" lang="en" xmltv_id="S1248">A&amp;E Crime 360</channel>
+  <channel site="xumo.tv" site_id="100#99951471" lang="en" xmltv_id="S1249">A&amp;E Crime 360</channel>
+  <channel site="directv.com" site_id="7b4b945b-8877-4aa3-b194-e352c209f1c7" lang="en" xmltv_id="S1250">Crime Scenes</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-66a2bfe594b6a49cb5054d75" lang="en" xmltv_id="S1252">Crime Scenes</channel>
+  <channel site="plex.tv" site_id="66a2bfe594b6a49cb5054d75" lang="en" xmltv_id="S1253">Crime Scenes</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#65492fc7056b9700088560b5" lang="en" xmltv_id="S1255">American Crimes</channel>
+  <channel site="pluto.tv" site_id="65492fc7056b9700088560b5" lang="en" xmltv_id="S1256">American Crimes</channel>
+  <channel site="plex.tv" site_id="6467891c73e5e029428f0e16" lang="en" xmltv_id="S1257">American Crimes</channel>
+  <channel site="tvinsider.com" site_id="bet-jams" lang="en" xmltv_id="S1260">BET Jams</channel>
+  <channel site="tvinsider.com" site_id="bet-soul" lang="en" xmltv_id="S1264">BET Soul</channel>
+  <channel site="directv.com" site_id="d1557f70-9718-4365-aca6-0fdc7b6c94c6" lang="en" xmltv_id="S1273">MTV Classic</channel>
+  <channel site="tvinsider.com" site_id="mtv-classic" lang="en" xmltv_id="S1274">MTV Classic</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5fc705daa2236e002d69f108" lang="en" xmltv_id="S1277">Stingray Karaoke</channel>
+  <channel site="plex.tv" site_id="62d7f6904d0067dd4d60d0de" lang="en" xmltv_id="S1278">Stingray Karaoke</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5fd7b8bf927e090007685853" lang="en" xmltv_id="S1286">Vevo &#x27;80s</channel>
+  <channel site="pluto.tv" site_id="5fd7b8bf927e090007685853" lang="en" xmltv_id="S1287">Vevo &#x27;80s</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5da0d75e84830900098a1ea0" lang="en" xmltv_id="S1289">Vevo Country</channel>
+  <channel site="pluto.tv" site_id="5da0d75e84830900098a1ea0" lang="en" xmltv_id="S1290">Vevo Country</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5f4d86f519358a00072b978e" lang="en" xmltv_id="S1293">90s Throwback</channel>
+  <channel site="pluto.tv" site_id="5f4d86f519358a00072b978e" lang="en" xmltv_id="S1294">90s Throwback</channel>
+  <channel site="directv.com" site_id="c26f8f09-66fb-452a-ab90-86e90a69d599" lang="en" xmltv_id="S1297">EWTN</channel>
+  <channel site="directv.com" site_id="5972cb2f-63d7-47fb-bec3-e1f956f15ceb" lang="en" xmltv_id="S1302">Daystar HD</channel>
+  <channel site="tvinsider.com" site_id="daystar" lang="en" xmltv_id="S1303">Daystar</channel>
+  <channel site="directv.com" site_id="3c6bb192-dc04-48de-862b-71fb9e12cd1f" lang="en" xmltv_id="S1304">NRB</channel>
+  <channel site="tvinsider.com" site_id="catholic-faith-network" lang="en" xmltv_id="S1317">Catholic Faith Network</channel>
+  <channel site="tvinsider.com" site_id="great-american-faith-and-living" lang="en" xmltv_id="S1322">Great American Faith &amp; Living</channel>
+  <channel site="directv.com" site_id="cfd4b615-c89c-47db-a561-5f582c3e23a2" lang="en" xmltv_id="S1326">The WORD Network</channel>
+  <channel site="xumo.tv" site_id="300#99951344" lang="en" xmltv_id="S1328">Joel Osteen Network</channel>
+  <channel site="directv.com" site_id="54097e9b-de62-4618-be26-12f73cf6c484" lang="en" xmltv_id="S1330">Pursuit UP</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc" lang="en" xmltv_id="S1331">PursuitUP</channel>
+  <channel site="xumo.tv" site_id="50#99991648" lang="en" xmltv_id="S1332">PursuitUp</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5efe1de8e0b3f5003f5d9f91" lang="en" xmltv_id="S1334">Dove</channel>
+  <channel site="plex.tv" site_id="5efe1de8e0b3f5003f5d9f91" lang="en" xmltv_id="S1335">Dove</channel>
+  <channel site="xumo.tv" site_id="300#99991333" lang="en" xmltv_id="S1336">Dove</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBB2900002Z7" lang="en" xmltv_id="S1338">Hell&#x27;s Kitchen</channel>
+  <channel site="xumo.tv" site_id="250#99991681" lang="en" xmltv_id="S1339">Hell&#x27;s Kitchen</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3" lang="en" xmltv_id="S1341">Choppertown</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#55b285cd2665de274553d66f" lang="en" xmltv_id="S1344">Sky News</channel>
+  <channel site="pluto.tv" site_id="55b285cd2665de274553d66f" lang="en" xmltv_id="S1345">Sky News</channel>
+  <channel site="xumo.tv" site_id="0#99951223" lang="en" xmltv_id="S1346">Sky News</channel>
+  <channel site="directv.com" site_id="1354ac42-cf21-4578-82df-9e35c0657718" lang="en" xmltv_id="S1347">SNL Vault</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US1800012MT" lang="en" xmltv_id="S1348">SNL Vault</channel>
+  <channel site="plex.tv" site_id="5fc70600598c41002da3dd34" lang="en" xmltv_id="S1349">SNL Vault</channel>
+  <channel site="xumo.tv" site_id="150#99951236" lang="en" xmltv_id="S1350">SNL Vault</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6478acb5c83f56da796f166f" lang="en" xmltv_id="S1351">Telemundo al Dia</channel>
+  <channel site="plex.tv" site_id="6478acb5c83f56da796f166f" lang="es" xmltv_id="S1352">Telemundo al Dia</channel>
+  <channel site="xumo.tv" site_id="250#99991747" lang="en" xmltv_id="S1353">Telemundo Al Día</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5d51e791b7dba3b2ae990ab2" lang="en" xmltv_id="S1355">This Old House</channel>
+  <channel site="pluto.tv" site_id="5d51e791b7dba3b2ae990ab2" lang="en" xmltv_id="S1356">This Old House</channel>
+  <channel site="plex.tv" site_id="62e3232ca105dea9c400e9fe" lang="en" xmltv_id="S1357">This Old House</channel>
+  <channel site="tvinsider.com" site_id="abc" lang="en" xmltv_id="S1956">ABC</channel>
+  <channel site="tvguide.com" site_id="9233011874" lang="en" xmltv_id="S1957">ABC Network Feed</channel>
+  <channel site="directv.com" site_id="ba49e669-31ec-499c-9ede-3c766016226e" lang="en" xmltv_id="S1982">ABC News Live</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#6508be683a0d700008c534e4" lang="en" xmltv_id="S1984">ABC News Live</channel>
+  <channel site="tvinsider.com" site_id="cbs" lang="en" xmltv_id="S2189">CBS</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6571f43a1d2aae780d597196" lang="en" xmltv_id="S2220">CBS News</channel>
+  <channel site="plex.tv" site_id="6571f43a1d2aae780d597196" lang="en" xmltv_id="S2221">CBS News</channel>
+  <channel site="tvguide.com" site_id="9233002271" lang="en" xmltv_id="S2411">FOX</channel>
+  <channel site="tvinsider.com" site_id="fox" lang="en" xmltv_id="S2412">FOX</channel>
+  <channel site="plex.tv" site_id="6577aa88f8a8e7d24bc86ed1" lang="en" xmltv_id="S2434">KSTU</channel>
+  <channel site="plex.tv" site_id="6577ab54f8a8e7d24bc86ed3" lang="en" xmltv_id="S3057">KNXV</channel>
+  <channel site="directv.com" site_id="13037afa-9397-4f2a-b015-069621319ced" lang="en" xmltv_id="S3331">NBC News Now</channel>
+  <channel site="tvinsider.com" site_id="nbc-news-now" lang="en" xmltv_id="S3332">NBC News Now</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5df97894467dfa00091c873c" lang="en" xmltv_id="S3334">NBC News NOW</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#63d025db4e83e700086eaa96" lang="en" xmltv_id="S3565">LiveNOW from FOX</channel>
+  <channel site="pluto.tv" site_id="63d025db4e83e700086eaa96" lang="en" xmltv_id="S3566">LiveNOW from FOX</channel>
+  <channel site="plex.tv" site_id="6377ea0e13bb6b1757e14695" lang="en" xmltv_id="S3567">LiveNOW from FOX</channel>
+  <channel site="tvinsider.com" site_id="wgn" lang="en" xmltv_id="S3676">WGN America</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US25000063S" lang="en" xmltv_id="S3704">CW Gold</channel>
+  <channel site="plex.tv" site_id="66635e41ca7b22f4c3a2d741" lang="en" xmltv_id="S3705">CW Gold</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US25000075Y" lang="en" xmltv_id="S3707">CW FOREVER</channel>
+  <channel site="plex.tv" site_id="66635fc0ca7b22f4c3a2d743" lang="en" xmltv_id="S3708">CW Forever</channel>
+  <channel site="directv.com" site_id="2945210e-6289-4402-be3a-6704b027ec50" lang="en" xmltv_id="S3731">CBS Sports Network HD</channel>
+  <channel site="tvguide.com" site_id="9233013235" lang="en" xmltv_id="S3732">CBS Sports Network</channel>
+  <channel site="directv.com" site_id="d29f3a3b-29ea-4807-9222-3e29fc8df922" lang="en" xmltv_id="S3735">FOX Soccer Plus HD</channel>
+  <channel site="directv.com" site_id="d1f76753-8507-4df5-bdeb-77ce20690d9d" lang="en" xmltv_id="S3739">ESPN HD</channel>
+  <channel site="tvguide.com" site_id="9200006937" lang="en" xmltv_id="S3740">ESPN</channel>
+  <channel site="directv.com" site_id="f86aec47-ea18-4de2-8f67-38384c91102a" lang="en" xmltv_id="S3743">FOX Sports 1 HD</channel>
+  <channel site="tvguide.com" site_id="9233008440" lang="en" xmltv_id="S3744">FOX Sports 1</channel>
+  <channel site="directv.com" site_id="c710ec79-d8e0-4100-ae61-ab296cbb1fc0" lang="en" xmltv_id="S3747">FOX Sports 2 HD</channel>
+  <channel site="tvguide.com" site_id="9200009884" lang="en" xmltv_id="S3748">FOX Sports 2</channel>
+  <channel site="directv.com" site_id="73507e54-57e2-4ca8-b815-845aebaa8ec7" lang="en" xmltv_id="S3751">Space City Home Network HD</channel>
+  <channel site="directv.com" site_id="4adb6040-f730-4e88-be8c-742a12943915" lang="en" xmltv_id="S3755">ACC Network HD</channel>
+  <channel site="tvguide.com" site_id="9200017734" lang="en" xmltv_id="S3756">ACC Network</channel>
+  <channel site="directv.com" site_id="fa09c7bf-b0bd-4976-9bab-c7e2c5021ade" lang="en" xmltv_id="S3759">ESPN2 HD</channel>
+  <channel site="tvguide.com" site_id="9200012351" lang="en" xmltv_id="S3760">ESPN2</channel>
+  <channel site="tvguide.com" site_id="9200006950" lang="en" xmltv_id="S3763">ESPN News</channel>
+  <channel site="directv.com" site_id="78a8f90a-df4f-4fcf-be56-df27539c5ac4" lang="en" xmltv_id="S3767">ESPNU HD</channel>
+  <channel site="directv.com" site_id="45c68715-9c20-4897-9235-8ec996d2af97" lang="en" xmltv_id="S3770">FOX Deportes HD</channel>
+  <channel site="tvinsider.com" site_id="fox-deportes" lang="en" xmltv_id="S3771">FOX Deportes</channel>
+  <channel site="directv.com" site_id="5d03a7c5-e0e6-4588-b0e9-012e0c3e63b8" lang="en" xmltv_id="S3776">NESN+ HD (Alternate)</channel>
+  <channel site="directv.com" site_id="35c1ba7e-1007-4171-a7a1-a04912e8149f" lang="en" xmltv_id="S3778">Sportsman Channel</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAJ3504705A" lang="en" xmltv_id="S3782">Stadium</channel>
+  <channel site="plex.tv" site_id="5f6142d2fc6ce20041ec3c92" lang="en" xmltv_id="S3783">Stadium</channel>
+  <channel site="tvguide.com" site_id="9200017917" lang="en" xmltv_id="S3786">The Tennis</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#681109b688b9d85d0938c6ba" lang="en" xmltv_id="S3787">TennisChannel 2</channel>
+  <channel site="tvinsider.com" site_id="world-fishing-network" lang="en" xmltv_id="S3789">World Fishing Network</channel>
+  <channel site="directv.com" site_id="268359f2-6a3b-4625-979b-b099bdfcbba7" lang="en" xmltv_id="S3793">Spectrum SportsNet LA HD</channel>
+  <channel site="directv.com" site_id="1f16d48c-530d-446f-a759-2d7c7a8a527a" lang="en" xmltv_id="S3796">NFL RedZone HD</channel>
+  <channel site="directv.com" site_id="8e4f3326-9bf2-46df-a128-92df7f3e8919" lang="en" xmltv_id="S3798">MASN HD</channel>
+  <channel site="directv.com" site_id="a758c1e7-0d3b-4c07-8b9f-e00850387cb9" lang="en" xmltv_id="S3799">NESN HD</channel>
+  <channel site="tvinsider.com" site_id="new-england-sports-network" lang="en" xmltv_id="S3800">NESN</channel>
+  <channel site="directv.com" site_id="4ee999b9-4089-478e-91cc-05440acc38b9" lang="en" xmltv_id="S3803">Marquee Sports Network HD.</channel>
+  <channel site="directv.com" site_id="f7c082b5-833f-4a63-91d7-3276d0bc010c" lang="en" xmltv_id="S3806">Yes Network HD</channel>
+  <channel site="tvinsider.com" site_id="yankee-entertainment-sports" lang="en" xmltv_id="S3807">YES Network</channel>
+  <channel site="directv.com" site_id="b9b1b688-8d78-4580-8913-e98fe3bd9b05" lang="en" xmltv_id="S3811">NFL Network HD</channel>
+  <channel site="tvguide.com" site_id="9200004330" lang="en" xmltv_id="S3812">NFL Network</channel>
+  <channel site="directv.com" site_id="35621fc9-1d39-49c7-bdef-4c182d3d07fa" lang="en" xmltv_id="S3814">Golf Channel HD</channel>
+  <channel site="tvinsider.com" site_id="golf-channel" lang="en" xmltv_id="S3815">Golf Channel</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5616f9c0ada51f8004c4b091" lang="en" xmltv_id="S3818">World Poker Tour</channel>
+  <channel site="pluto.tv" site_id="5616f9c0ada51f8004c4b091" lang="en" xmltv_id="S3819">World Poker Tour</channel>
+  <channel site="xumo.tv" site_id="50#99991317" lang="en" xmltv_id="S3820">World Poker Tour</channel>
+  <channel site="directv.com" site_id="7b4405c7-5cdd-4248-a399-1859e74652ab" lang="en" xmltv_id="S3823">Altitude Sports HD</channel>
+  <channel site="tvinsider.com" site_id="altitude-sports" lang="en" xmltv_id="S3824">Altitude Sports</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USAJ2200023Z0" lang="en" xmltv_id="S3828">fubo Sports Network</channel>
+  <channel site="plex.tv" site_id="5fc705f68aba71002d8b7b37" lang="en" xmltv_id="S3829">Fubo Sports Network</channel>
+  <channel site="directv.com" site_id="28cb5863-af10-473d-9625-fb6fd2206fe6" lang="en" xmltv_id="S3831">SportsGrid</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBA300031OT" lang="en" xmltv_id="S3833">SportsGrid</channel>
+  <channel site="directv.com" site_id="b5452e9c-1d13-42ed-9723-794d26e77530" lang="en" xmltv_id="S3836">SportsNet New York HD</channel>
+  <channel site="directv.com" site_id="ea4a382a-356e-4693-9a4d-36782f1f2713" lang="en" xmltv_id="S3838">Fight Network</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" lang="en" xmltv_id="S3840">Fight Network</channel>
+  <channel site="directv.com" site_id="6fe20dc1-9103-4569-a42c-d887dddf14a3" lang="en" xmltv_id="S3842">Red Bull TV</channel>
+  <channel site="tvinsider.com" site_id="gol-tv" lang="en" xmltv_id="S3844">GOL TV</channel>
+  <channel site="directv.com" site_id="3c8abb32-1002-4118-a3b2-2201be88fe5a" lang="en" xmltv_id="S3848">SEC Network HD</channel>
+  <channel site="tvguide.com" site_id="9233008517" lang="en" xmltv_id="S3849">SEC Network</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC3200019WF" lang="en" xmltv_id="S3851">NHRA TV</channel>
+  <channel site="directv.com" site_id="fd7bb93b-6935-4eb7-bf9f-e7b7546f60b7" lang="en" xmltv_id="S3853">MASN2</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd" lang="en" xmltv_id="S3855">CBS Sports Golazo Network</channel>
+  <channel site="plex.tv" site_id="6571186d9a46917c0a8f2ddd" lang="en" xmltv_id="S3856">CBS Sports Golazo Network</channel>
+  <channel site="pluto.tv" site_id="63a0e33a45264d000850ed7e" lang="en" xmltv_id="S3857">Golazo Network</channel>
+  <channel site="directv.com" site_id="2ec64545-91c5-4f3a-9934-d9633962fe3b" lang="en" xmltv_id="S3860">ESPN Deportes HD</channel>
+  <channel site="tvinsider.com" site_id="espn-deportes" lang="en" xmltv_id="S3861">ESPN Deportes</channel>
+  <channel site="tvinsider.com" site_id="nbc-sports-philadelphia" lang="en" xmltv_id="S3864">NBC Sports Philadelphia</channel>
+  <channel site="tvinsider.com" site_id="msg" lang="en" xmltv_id="S3867">MSG</channel>
+  <channel site="directv.com" site_id="028e8e6c-3ecd-4248-a436-1f3284a3f955" lang="en" xmltv_id="S3871">NHL Network HD</channel>
+  <channel site="tvguide.com" site_id="9233009455" lang="en" xmltv_id="S3872">NHL Network</channel>
+  <channel site="directv.com" site_id="d8e10041-feec-44fa-983f-dd8ae07323fe" lang="en" xmltv_id="S3873">Racing America</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9" lang="en" xmltv_id="S3875">Racing America</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US350000231" lang="en" xmltv_id="S3876">PFL</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD12000255B" lang="en" xmltv_id="S3878">FIFA+</channel>
+  <channel site="plex.tv" site_id="66628d4a8dfc36b8c8a399c4" lang="en" xmltv_id="S3879">FIFA+</channel>
+  <channel site="directv.com" site_id="d351ef21-b01e-434f-acec-712e62b6d093" lang="en" xmltv_id="S3880">Pickleball TV</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBD4200016QR" lang="en" xmltv_id="S3882">PickleballTV</channel>
+  <channel site="plex.tv" site_id="6583507e0938f2993a23375c" lang="en" xmltv_id="S3883">PickleballTV</channel>
+  <channel site="xumo.tv" site_id="50#99951381" lang="en" xmltv_id="S3885">Real Madrid TV</channel>
+  <channel site="directv.com" site_id="29f35d32-a695-40de-9fbb-56d5c0204822" lang="en" xmltv_id="S3888">FanDuel TV HD</channel>
+  <channel site="tvguide.com" site_id="9200012412" lang="en" xmltv_id="S3889">FanDuel TV</channel>
+  <channel site="directv.com" site_id="812f6dbf-9b5a-4f45-9af8-d1723d847dfe" lang="en" xmltv_id="S3896">Women&#x27;s Sports Network</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#686d8dd294a028da3ac59566" lang="en" xmltv_id="S3898">Women&#x27;s Sports Network</channel>
+  <channel site="pluto.tv" site_id="686d8dd294a028da3ac59566" lang="en" xmltv_id="S3899">Women&#x27;s Sports Network</channel>
+  <channel site="directv.com" site_id="1a6be6ca-c05f-4780-b4bc-4a2610291dc6" lang="en" xmltv_id="S3901">Chicago Sports Network HD</channel>
+  <channel site="directv.com" site_id="2ad8b4d0-8c6f-4360-84e5-79f5f1874aee" lang="en" xmltv_id="S3905">Tennis Channel 2</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-65944d40cbc51b25e5070a18" lang="en" xmltv_id="S3906">Tennis Channel 2</channel>
+  <channel site="plex.tv" site_id="65944d40cbc51b25e5070a18" lang="en" xmltv_id="S3907">Tennis Channel 2</channel>
+  <channel site="pluto.tv" site_id="681109b688b9d85d0938c6ba" lang="en" xmltv_id="S3908">TennisChannel 2</channel>
+  <channel site="directv.com" site_id="4428ff9c-a80a-409f-8fa4-f5ed43a11891" lang="en" xmltv_id="S3910">Chicago Sports Network Plus HD</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US700021SM" lang="en" xmltv_id="S3912">NASCAR Channel</channel>
+  <channel site="xumo.tv" site_id="100#99951413" lang="en" xmltv_id="S3913">NASCAR Channel</channel>
+  <channel site="directv.com" site_id="1376d7e8-791b-4e90-a8f9-2719d1933d6d" lang="en" xmltv_id="S3914">ESPN8: The Ocho</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US34000040T" lang="en" xmltv_id="S3915">ESPN8: The Ocho</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#64d160f53c785e0008df525e" lang="en" xmltv_id="S3916">Top Rank Classics</channel>
+  <channel site="pluto.tv" site_id="64d160f53c785e0008df525e" lang="en" xmltv_id="S3917">Top Rank Classics</channel>
+  <channel site="xumo.tv" site_id="100#99951469" lang="en" xmltv_id="S3918">HBO Boxing</channel>
+  <channel site="directv.com" site_id="ccc1eee8-8654-4e42-87a0-a8de1cee9fe3" lang="en" xmltv_id="S3919">DAZN Ringside</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#649b6898f2ec0000081a9460" lang="en" xmltv_id="S3920">DAZN Ringside</channel>
+  <channel site="pluto.tv" site_id="649b6898f2ec0000081a9460" lang="en" xmltv_id="S3921">DAZN Ringside</channel>
+  <channel site="plex.tv" site_id="6954299e3ea890246dc21520" lang="en" xmltv_id="S3922">DAZN Ringside</channel>
+  <channel site="directv.com" site_id="d0e60163-66ce-449c-a34b-a0cd7c39be94" lang="en" xmltv_id="S3923">Ryz Sports</channel>
+  <channel site="directv.com" site_id="f90768ab-a273-4808-9460-30818f1839f9" lang="en" xmltv_id="S3924">Swerve Combat</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-61f04d2bb01a6e8df3f72902" lang="en" xmltv_id="S3926">Swerve Combat</channel>
+  <channel site="plex.tv" site_id="61f04d2bb01a6e8df3f72902" lang="en" xmltv_id="S3927">Swerve Combat</channel>
+  <channel site="directv.com" site_id="bcf92b51-1468-4e05-ba16-cd2b17a6194b" lang="en" xmltv_id="S3930">Next Level Sports HD</channel>
+  <channel site="tvinsider.com" site_id="next-level-sports" lang="en" xmltv_id="S3931">Next Level Sports</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US33000154M" lang="en" xmltv_id="S3933">Overtime</channel>
+  <channel site="plex.tv" site_id="62a388865440744efae8e243" lang="en" xmltv_id="S3934">Overtime</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#5e9f2c05172a0f0007db4786" lang="en" xmltv_id="S3936">CBS Sports HQ</channel>
+  <channel site="pluto.tv" site_id="5e9f2c05172a0f0007db4786" lang="en" xmltv_id="S3937">CBS Sports HQ</channel>
+  <channel site="plex.tv" site_id="657107dc56226238740fcc2d" lang="en" xmltv_id="S3938">CBS Sports HQ</channel>
+  <channel site="directv.com" site_id="90a0ccfd-61b9-4904-999a-c97a9befe3cc" lang="en" xmltv_id="S3939">Willow Sports</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US20000131M" lang="en" xmltv_id="S3941">Willow Sports</channel>
+  <channel site="plex.tv" site_id="66fbf9cf128ab3f65b259bcb" lang="en" xmltv_id="S3942">Willow Sports</channel>
+  <channel site="directv.com" site_id="6a81e0fc-9a39-4d2c-af48-d6f407d58f94" lang="en" xmltv_id="S3945">FanDuel Sports Network Detroit HD</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-6970fdabbde579fb71262401" lang="en" xmltv_id="S3947">Bowling TV</channel>
+  <channel site="xumo.tv" site_id="50#99951510" lang="en" xmltv_id="S3948">Bowling TV</channel>
+  <channel site="tvinsider.com" site_id="fanduel-sports-south" lang="en" xmltv_id="S3949">FanDuel Sports South</channel>
+  <channel site="tvinsider.com" site_id="fanduel-sports-southwest" lang="en" xmltv_id="S3950">FanDuel Sports Southwest</channel>
+  <channel site="tvinsider.com" site_id="fanduel-sports-sun" lang="en" xmltv_id="S3952">FanDuel Sports Sun</channel>
+  <channel site="directv.com" site_id="b0b06816-dd9f-41be-8004-4b2c39065d19" lang="en" xmltv_id="S3955">NBC Sports Bay Area HD</channel>
+  <channel site="tvinsider.com" site_id="nbc-sports-bay-area" lang="en" xmltv_id="S3956">NBC Sports Bay Area</channel>
+  <channel site="directv.com" site_id="022da6da-eb29-4975-b0e5-1ba83b768312" lang="en" xmltv_id="S3959">NBC Sports Boston HD</channel>
+  <channel site="directv.com" site_id="b9a635df-c9a1-459a-b714-a6ca56d137a3" lang="en" xmltv_id="S3961">NBC Sports Now</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#6549306c83595c000815a696" lang="en" xmltv_id="S3962">NBC Sports NOW</channel>
+  <channel site="pluto.tv" site_id="6549306c83595c000815a696" lang="en" xmltv_id="S3963">NBC Sports NOW</channel>
+  <channel site="plex.tv" site_id="5fc70600598c41002da3dd43" lang="en" xmltv_id="S3964">NBC Sports NOW</channel>
+  <channel site="directv.com" site_id="1dc41f1c-7380-4bf8-a4b5-13f688b48fd6" lang="en" xmltv_id="S3965">NBC Sports California Plus</channel>
+  <channel site="directv.com" site_id="335e1127-3daa-4187-9869-ccf1e2d2a606" lang="en" xmltv_id="S3968">Monumental Sports Network HD</channel>
+  <channel site="directv.com" site_id="1d6aba71-5282-4f56-8acf-2a2aff938b0f" lang="en" xmltv_id="S3972">NBC Sports California HD</channel>
+  <channel site="tvinsider.com" site_id="nbc-sports-chicago" lang="en" xmltv_id="S3978">NBC Sports Chicago</channel>
+  <channel site="tvinsider.com" site_id="bein-sports" lang="en" xmltv_id="S3981">beIN Sports</channel>
+  <channel site="directv.com" site_id="be076527-86af-4537-a165-56839e0eea0b" lang="en" xmltv_id="S3988">beIN SPORTS XTRA</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US2700004DX" lang="en" xmltv_id="S3990">beIN Sports XTRA ñ</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#677d9adfa9a51b0008497fa0" lang="en" xmltv_id="S3992">UFC</channel>
+  <channel site="pluto.tv" site_id="677d9adfa9a51b0008497fa0" lang="en" xmltv_id="S3993">UFC</channel>
+  <channel site="plex.tv" site_id="66ccac69fdf9cd3a568ef135" lang="en" xmltv_id="S3994">UFC</channel>
+  <channel site="directv.com" site_id="10627bc1-89a2-4c00-bf92-8851d96e1b98" lang="en" xmltv_id="S3997">NBA TV HD</channel>
+  <channel site="tvguide.com" site_id="9200000070" lang="en" xmltv_id="S3998">NBA TV</channel>
+  <channel site="directv.com" site_id="c8e2cc18-4320-4f21-8a59-68c2f33c0c05" lang="en" xmltv_id="S4002">MLB Network HD</channel>
+  <channel site="tvguide.com" site_id="9200009223" lang="en" xmltv_id="S4003">MLB Network</channel>
+  <channel site="directv.com" site_id="23d4fb04-2b56-4a9e-9066-47022a5e164f" lang="en" xmltv_id="S4004">MLB Strike Zone HD</channel>
+  <channel site="directv.com" site_id="214a502e-c54a-4b61-8904-b4ce37c1e38a" lang="en" xmltv_id="S4008">USA Network HD</channel>
+  <channel site="tvinsider.com" site_id="usa-network" lang="en" xmltv_id="S4009">USA Network</channel>
+  <channel site="directv.com" site_id="d3cb96a7-c699-4ddd-bd3b-e9d654704897" lang="en" xmltv_id="S4012">WAPA America (103A)</channel>
+  <channel site="directv.com" site_id="5b4cf873-77d4-41e0-8641-6bd7c852399b" lang="en" xmltv_id="S4016">Discovery Familia (103A)</channel>
+  <channel site="directv.com" site_id="25cbe8bb-c628-44f0-aa9f-8668cad54fc0" lang="en" xmltv_id="S4018">Antena 3</channel>
+  <channel site="directv.com" site_id="22743767-b7a4-44e8-9090-b5a6329ccde8" lang="en" xmltv_id="S4019">Atreseries</channel>
+  <channel site="directv.com" site_id="b5a2d87e-46e6-4c8a-9d06-953bd102c1b7" lang="en" xmltv_id="S4021">Bandamax (103A)</channel>
+  <channel site="directv.com" site_id="245dfb72-b8f8-42d8-b78e-ed03904821fb" lang="en" xmltv_id="S4024">De Pelicula (103A)</channel>
+  <channel site="directv.com" site_id="113ffc23-cef3-4ad3-85f3-7f741a1d337e" lang="en" xmltv_id="S4028">FOROtv</channel>
+  <channel site="directv.com" site_id="2cdd1068-8a3c-40ee-9d41-48016d5712e4" lang="en" xmltv_id="S4031">NTN 24 (103A)</channel>
+  <channel site="directv.com" site_id="f613d391-2db1-470b-b875-a0ee899dc876" lang="en" xmltv_id="S4034">Telefe</channel>
+  <channel site="directv.com" site_id="e68a9f77-7585-4b8a-a365-efffe5531d25" lang="en" xmltv_id="S4043">BabyTV</channel>
+  <channel site="directv.com" site_id="4d2c2d58-cb18-44fe-8f9b-96637b1aac60" lang="en" xmltv_id="S4045">Discovery HD</channel>
+  <channel site="directv.com" site_id="efeb88ef-f6ff-4688-8604-5dcf3e3d005f" lang="en" xmltv_id="S4046">Nat Geo Mundo</channel>
+  <channel site="directv.com" site_id="6feed8e2-5530-440d-9ce7-314447b54f5f" lang="en" xmltv_id="S4053">HITN (103A)</channel>
+  <channel site="directv.com" site_id="4120dd0a-1c5f-42ba-80c6-3fb269edb45e" lang="en" xmltv_id="S4057">Pasiones</channel>
+  <channel site="directv.com" site_id="f7ef160c-dbba-4d72-b426-a99bf20778ce" lang="en" xmltv_id="S4061">Estrella TV</channel>
+  <channel site="tvinsider.com" site_id="estrella-tv" lang="en" xmltv_id="S4062">Estrella TV</channel>
+  <channel site="directv.com" site_id="83788be3-54b2-4e29-baf1-3b48a3b5f0e2" lang="en" xmltv_id="S4063">Centroamerica TV (103A)</channel>
+  <channel site="directv.com" site_id="888e3a20-6838-46e6-a68d-fb33cafd4f33" lang="en" xmltv_id="S4067">MEGA TV HD</channel>
+  <channel site="tvinsider.com" site_id="telexitos" lang="en" xmltv_id="S4072">TeleXitos</channel>
+  <channel site="directv.com" site_id="68f91c91-2e0b-4eec-817b-fe362a6f9ede" lang="en" xmltv_id="S4075">Cine Mexicano</channel>
+  <channel site="directv.com" site_id="851e06c6-a83a-4d33-a19d-bb726a9a955f" lang="en" xmltv_id="S4079">Galavision HD</channel>
+  <channel site="directv.com" site_id="94f6ccab-c0c4-4011-b060-5f7205dc8528" lang="en" xmltv_id="S4113">TUDN HD</channel>
+  <channel site="tvinsider.com" site_id="tudn" lang="en" xmltv_id="S4114">TUDN</channel>
 </channels>

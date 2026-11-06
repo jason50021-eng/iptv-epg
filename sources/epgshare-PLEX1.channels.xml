@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.News.12.New.York.plex" lang="en" xmltv_id="S0088">News 12 New York</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.FOX.Weather.plex" lang="en" xmltv_id="S0110">FOX Weather</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Yahoo.Finance.plex" lang="en" xmltv_id="S0120">Yahoo Finance</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Newsmax2.plex" lang="en" xmltv_id="S0124">Newsmax2</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Lone.Star.plex" lang="en" xmltv_id="S0327">Lone Star</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.ION.Plus.plex" lang="en" xmltv_id="S0330">ION Plus</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Hi-YAH!.plex" lang="en" xmltv_id="S0335">Hi-YAH!</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.MyTime.Movie.Network.plex" lang="en" xmltv_id="S0342">MyTime Movie Network</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Maverick.Black.Cinema.plex" lang="en" xmltv_id="S0360">Maverick Black Cinema</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.FilmRise.Western.plex" lang="en" xmltv_id="S0378">FilmRise Western</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Movie.Favorites.by.Lifetime.plex" lang="en" xmltv_id="S0395">Movie Favorites by Lifetime</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Miramax.Movie.Channel.plex" lang="en" xmltv_id="S0396">Miramax Movie Channel</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Samuel.Goldwyn.Channel.plex" lang="en" xmltv_id="S0424">Samuel Goldwyn Channel</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Samuel.Goldwyn.Classics.plex" lang="en" xmltv_id="S0427">Samuel Goldwyn Classics</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.FilmRise.Action.plex" lang="en" xmltv_id="S0435">FilmRise Action</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.FilmRise.Horror.plex" lang="en" xmltv_id="S0438">FilmRise Horror</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Horror.by.ALTER.plex" lang="en" xmltv_id="S0442">Horror by ALTER</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.The.Asylum.plex" lang="en" xmltv_id="S0445">The Asylum</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Midnight.Pulp.plex" lang="en" xmltv_id="S0449">Midnight Pulp</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Grit.Xtra.plex" lang="en" xmltv_id="S0452">Grit Xtra</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Crimes.Cults.Killers.plex" lang="en" xmltv_id="S0456">Crimes Cults Killers</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Western.Bound.plex" lang="en" xmltv_id="S0465">Western Bound</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Grjngo.-.Western.Movies.plex" lang="en" xmltv_id="S0471">Grjngo - Western Movies</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.BUZZR.plex" lang="en" xmltv_id="S0524">BUZZR</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Outside.plex" lang="en" xmltv_id="S0755">Outside</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.TMZ.plex" lang="en" xmltv_id="S0830">TMZ</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Military.Heroes.Presented.By.History.plex" lang="en" xmltv_id="S0837">Military Heroes Presented By History</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Alien.Nation.by.DUST.plex" lang="en" xmltv_id="S0842">Alien Nation by DUST</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Electric.Now.plex" lang="en" xmltv_id="S0845">Electric Now</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Comedy.Dynamics.plex" lang="en" xmltv_id="S0859">Comedy Dynamics</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.INWONDER.plex" lang="en" xmltv_id="S0863">INWONDER</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Revry.plex" lang="en" xmltv_id="S0866">Revry</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Billiard.TV.plex" lang="en" xmltv_id="S0880">Billiard TV</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.PokerGO.plex" lang="en" xmltv_id="S0884">PokerGO</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.FOX.SOUL.plex" lang="en" xmltv_id="S0903">FOX SOUL</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Bounce.XL.plex" lang="en" xmltv_id="S0919">Bounce XL</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.AMC.Thrillers.plex" lang="en" xmltv_id="S0923">AMC Thrillers</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.AXS.TV.NOW.plex" lang="en" xmltv_id="S0927">AXS TV NOW</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Shout!.TV.plex" lang="en" xmltv_id="S0948">Shout! TV</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.The.Design.Network.plex" lang="en" xmltv_id="S0955">The Design Network</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Game.Show.Central.plex" lang="en" xmltv_id="S0973">Game Show Central</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.SPEEDVISION.plex" lang="en" xmltv_id="S0991">SPEEDVISION</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.ALLBLK.Gems.plex" lang="en" xmltv_id="S1016">ALLBLK Gems</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.HerSphere.by.Lionsgate.plex" lang="en" xmltv_id="S1022">HerSphere by Lionsgate</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Hello.Inspo.plex" lang="en" xmltv_id="S1033">Hello Inspo</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.BET.x.Tyler.Perry.Comedy.plex" lang="en" xmltv_id="S1041">BET x Tyler Perry Comedy</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Unbeaten.plex" lang="en" xmltv_id="S1048">Unbeaten</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.BET.x.Tyler.Perry.Drama.plex" lang="en" xmltv_id="S1051">BET x Tyler Perry Drama</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Are.We.There.Yet?.plex" lang="en" xmltv_id="S1064">Are We There Yet?</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.BlackPix.plex" lang="en" xmltv_id="S1077">BlackPix</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.OuterSphere.by.Lionsgate.plex" lang="en" xmltv_id="S1080">OuterSphere by Lionsgate</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.National.Lampoon.plex" lang="en" xmltv_id="S1087">National Lampoon</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.At.the.Movies.plex" lang="en" xmltv_id="S1090">At the Movies</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.El.Rey.Rebel.plex" lang="en" xmltv_id="S1095">El Rey Rebel</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Sweet.Escapes.plex" lang="en" xmltv_id="S1099">Sweet Escapes</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Nosey.plex" lang="en" xmltv_id="S1103">Nosey</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.LOL!.Network.plex" lang="en" xmltv_id="S1113">LOL! Network</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.REELZ.Famous.&amp;.Infamous.plex" lang="en" xmltv_id="S1127">REELZ Famous &amp; Infamous</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.True.History.plex" lang="en" xmltv_id="S1131">True History</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Judge.Nosey.plex" lang="en" xmltv_id="S1135">Judge Nosey</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Confess.by.Nosey.plex" lang="en" xmltv_id="S1139">Confess by Nosey</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.FailArmy.plex" lang="en" xmltv_id="S1147">FailArmy</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Curiosity.NOW.plex" lang="en" xmltv_id="S1241">Curiosity NOW</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Crime.Scenes.plex" lang="en" xmltv_id="S1251">Crime Scenes</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Stingray.Karaoke.plex" lang="en" xmltv_id="S1276">Stingray Karaoke</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Vevo.`80s.plex" lang="en" xmltv_id="S1285">Vevo `80s</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Vevo.Country.plex" lang="en" xmltv_id="S1288">Vevo Country</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.PursuitUP.plex" lang="en" xmltv_id="S1329">PursuitUP</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Dove.plex" lang="en" xmltv_id="S1333">Dove</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Choppertown.plex" lang="en" xmltv_id="S1340">Choppertown</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.This.Old.House.plex" lang="en" xmltv_id="S1354">This Old House</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.CBS.News.plex" lang="en" xmltv_id="S2219">CBS News</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.NBC.News.NOW.plex" lang="en" xmltv_id="S3333">NBC News NOW</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.LiveNOW.from.FOX.plex" lang="en" xmltv_id="S3564">LiveNOW from FOX</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.CW.Gold.plex" lang="en" xmltv_id="S3703">CW Gold</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.CW.Forever.plex" lang="en" xmltv_id="S3706">CW Forever</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Stadium.plex" lang="en" xmltv_id="S3781">Stadium</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Fubo.Sports.Network.plex" lang="en" xmltv_id="S3827">Fubo Sports Network</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Fight.Network.plex" lang="en" xmltv_id="S3839">Fight Network</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.MAVTV.Select.plex" lang="en" xmltv_id="S3841">MAVTV Select</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.NHRA.TV.plex" lang="en" xmltv_id="S3850">NHRA TV</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.CBS.Sports.Golazo.Network.plex" lang="en" xmltv_id="S3854">CBS Sports Golazo Network</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Racing.America.plex" lang="en" xmltv_id="S3874">Racing America</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.FIFA+.plex" lang="en" xmltv_id="S3877">FIFA+</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.PickleballTV.plex" lang="en" xmltv_id="S3881">PickleballTV</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Women`s.Sports.Network.plex" lang="en" xmltv_id="S3897">Women`s Sports Network</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Swerve.Combat.plex" lang="en" xmltv_id="S3925">Swerve Combat</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Overtime.plex" lang="en" xmltv_id="S3932">Overtime</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.CBS.Sports.HQ.plex" lang="en" xmltv_id="S3935">CBS Sports HQ</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Willow.Sports.plex" lang="en" xmltv_id="S3940">Willow Sports</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.beIN.SPORTS.XTRA.plex" lang="en" xmltv_id="S3989">beIN SPORTS XTRA</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.UFC.plex" lang="en" xmltv_id="S3991">UFC</channel>
+</channels>
