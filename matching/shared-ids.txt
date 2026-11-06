@@ -1,0 +1,7 @@
+# Provider guide IDs that the provider gives to more than one station.
+# Channels using an ID listed here are matched by their own name instead of the ID.
+# Test set (Nov 5, 2026): KYTV Springfield MO carries WWLP's ID; WPTZ Plattsburgh carries WPXI's and KNOP's.
+# Put the word ALL on its own line to apply this to every shared ID automatically.
+nbc22wwlp.us
+nbcwpxi.us
+nbc2knop.us

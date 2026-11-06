@@ -13,7 +13,67 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  match:
+    # Re-reads the provider's channel list and re-matches every US channel to guide sources, so renamed or
+    # new channels are picked up automatically. If anything looks wrong, the last good matching is kept.
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/checkout@v5
+        with:
+          repository: iptv-org/epg
+          path: epg
+          sparse-checkout: sites
+      - name: Read channel list from provider
+        env:
+          IPTV_SERVER: ${{ secrets.IPTV_SERVER }}
+          IPTV_USER: ${{ secrets.IPTV_USER }}
+          IPTV_PASS: ${{ secrets.IPTV_PASS }}
+        run: python3 channels.py channels.new.json && mv channels.new.json channels.json || echo "kept saved channel list"
+      - name: Match channels
+        id: match
+        env:
+          EPG_SITES: epg/sites
+          IPTV_ORG_DB: work/channels.csv
+          CHANNELS: channels.json
+          MATCH_WORK: work
+          MATCH_OUT: .
+        run: |
+          mkdir -p work
+          cp mapping.json work/previous-mapping.json
+          curl -sSfL -o work/channels.csv https://raw.githubusercontent.com/iptv-org/database/master/data/channels.csv
+          python3 matching/match.py && python3 matching/gen.py
+          python3 - <<'PY'
+          import json, sys
+          old = json.load(open('work/previous-mapping.json'))
+          new = json.load(open('mapping.json'))
+          print(f'guide entries: before {len(old)}, now {len(new)}')
+          if len(new) < 0.9 * len(old):
+              sys.exit('matching lost more than 10% of channels; keeping the previous matching')
+          PY
+      - name: Keep previous matching if this run failed
+        if: failure() && steps.match.outcome == 'failure'
+        run: git checkout -- mapping.json sources manual-fixes.txt no-guide.txt && echo "restored last good matching"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: matched
+          path: |
+            mapping.json
+            sources/
+          retention-days: 3
+      - name: Save matching to main
+        if: success()
+        run: |
+          git add mapping.json sources manual-fixes.txt no-guide.txt channels.json
+          git -c user.name=guide-bot -c user.email=guide-bot@users.noreply.github.com commit -q -m "matching $(date -u +%F)" || exit 0
+          git pull -q --rebase origin main || true
+          git push -q || echo "matching not saved (main changed during the run)"
+
   grab:
+    needs: match
+    if: always()
     runs-on: ubuntu-latest
     timeout-minutes: 300
     continue-on-error: true          # one source failing must not stop the guide
@@ -29,6 +89,11 @@ jobs:
             args: --days=4 --maxConnections=5
     steps:
       - uses: actions/checkout@v5
+      - name: Use tonight's matching
+        uses: actions/download-artifact@v4
+        continue-on-error: true
+        with:
+          name: matched
       - uses: actions/checkout@v5
         with:
           repository: iptv-org/epg
@@ -59,14 +124,20 @@ jobs:
           if-no-files-found: warn
 
   publish:
-    needs: grab
+    needs: [match, grab]
     if: always()
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+      - name: Use tonight's matching
+        uses: actions/download-artifact@v4
+        continue-on-error: true
+        with:
+          name: matched
       - uses: actions/download-artifact@v4
         with:
           path: raw
+          pattern: raw-*
           merge-multiple: true
       - name: Build guide.xml.gz
         run: python3 build.py guide.xml.gz raw/raw-*.xml | tee status.txt

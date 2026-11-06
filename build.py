@@ -24,6 +24,18 @@ def shift_time(value, minutes):
     return t.strftime(FMT) + (' ' + tz if tz else '')
 
 
+def add_artwork(el):
+    """TiviMate shows a show's picture from <icon src>; the sources give it as <image>url</image>."""
+    if el.find('icon') is None:
+        img = (el.findtext('image') or '').strip()
+        if img.startswith('http'):
+            icon = ET.Element('icon', src=img)
+            after = ('url', 'country', 'episode-num', 'video', 'audio', 'previously-shown', 'premiere',
+                     'last-chance', 'new', 'subtitles', 'rating', 'star-rating', 'review', 'image')
+            pos = next((i for i, c in enumerate(el) if c.tag in after), len(el))  # XMLTV element order
+            el.insert(pos, icon)
+
+
 def coverage_end(els):
     return max((e.get('stop') or e.get('start'))[:14] for e in els)
 
@@ -84,6 +96,7 @@ def main(out, raws):
                 if (el.get('stop') or el.get('start'))[:14] < cutoff:
                     continue  # already over
                 el.set('channel', m['id'])
+                add_artwork(el)
                 start, stop = el.get('start'), el.get('stop')
                 if m.get('shift'):
                     el.set('start', shift_time(start, m['shift']))
