@@ -66,7 +66,6 @@ USA ABC Connecticut
 USA ABC Houston WTRK
 USA ABC News International
 USA ABC Washington
-USA AHC
 USA AT&T SportsNet Pittsburgh
 USA AXS TV Now
 USA Altitude Sports 2
@@ -118,12 +117,8 @@ USA Diamondbac Baseball
 USA Discovery Español*
 USA Discovery Science UHD*
 USA Discovery Science*
-USA EPIX
-USA EPIX Hits LHD
-USA EPIX2
 USA ESPORTS TELEVISION (ESTV)
 USA Edgesports
-USA Epix Hits UHD
 USA FE TV
 USA FNTSY SPORTS NETWORK | HD
 USA FOX 53 WGPH PITTSBURGH
@@ -131,7 +126,6 @@ USA FOX Sports Southwest
 USA FOXNET HARRISONBURG VA
 USA FOXNET LUBBOCK TX
 USA FOXNET SAN ANGELO TX
-USA FXM
 USA Faith Channel
 USA Fallon Tonight
 USA Fawesome
@@ -153,7 +147,6 @@ USA History Military
 USA Home Crashers
 USA Horror Machine
 USA Horse and Country
-USA ID East UHD*
 USA InfoWars
 USA Insight TV
 USA KEY TV
@@ -241,7 +234,6 @@ USA NASA+
 USA NBC 10 NECN Boston
 USA NBC 12 WFSA Montgomery
 USA NBC Dateline
-USA NBC GOLF HD
 USA NBC Golf Pass
 USA NBC SPORTS PHILLY HD
 USA NBC Sports Washington LHD
@@ -321,8 +313,6 @@ USA SPECTRUM NEWS 1 - TOLEDO/LIMA
 USA Saigon Broadcasting Television Network (SBTN)
 USA ScreamboxTV
 USA Silver State Sports & Entertainment Network (SSSEN)
-USA Sony Movie Channel
-USA Sony Movie Channel LHD
 USA Spectrum Bay News 9
 USA Spectrum News 1 Albany
 USA Spectrum News 1 Dallas
@@ -372,7 +362,6 @@ USA The Real Houswives
 USA UFC Fight Pass
 USA VSIN HD
 USA Victory Television Network
-USA WGN 9 CHICAGO
 USA WILLOW XTRA HD
 USA Willow Extra
 USA beIN SPORTS enEspanol
