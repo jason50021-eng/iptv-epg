@@ -1511,7 +1511,7 @@
   ]
  },
  {
-  "id": "cbs2wcbs.us",
+  "id": "ny-new-york-cbs-wcbs.jm",
   "name": "NY | New York | CBS WCBS",
   "shift": 0,
   "src": [
@@ -1733,7 +1733,7 @@
   ]
  },
  {
-  "id": "fox12kptv.us",
+  "id": "or-portland-fox-kptv.jm",
   "name": "OR | Portland | FOX KPTV",
   "shift": 0,
   "src": [
@@ -2312,7 +2312,7 @@
   ]
  },
  {
-  "id": "nbc15wpmi.us",
+  "id": "15-wpmi-alabama.jm",
   "name": "USA 15 (WPMI) ALABAMA",
   "shift": 0,
   "src": [
@@ -3103,6 +3103,15 @@
   ]
  },
  {
+  "id": "abc-6-wrtv-indianapolis.jm",
+  "name": "USA ABC 6 WRTV INDIANAPOLIS",
+  "shift": 0,
+  "src": [
+   "S1427",
+   "S1428"
+  ]
+ },
+ {
   "id": "abckmiz.us",
   "name": "USA ABC 6 WSYX COLUMBUS",
   "shift": 0,
@@ -3111,7 +3120,7 @@
   ]
  },
  {
-  "id": "abc3340wbma.us",
+  "id": "abc-68-wbma-birmingham.jm",
   "name": "USA ABC 68 WBMA BIRMINGHAM",
   "shift": 0,
   "src": [
@@ -3223,7 +3232,7 @@
   ]
  },
  {
-  "id": "abckgo.us",
+  "id": "abc-7-san-francisco-kgo.jm",
   "name": "USA ABC 7 San Francisco (KGO)",
   "shift": 0,
   "src": [
@@ -3232,7 +3241,7 @@
   ]
  },
  {
-  "id": "abcwjla.us",
+  "id": "abc-7-wjla-washington-dc.jm",
   "name": "USA ABC 7 WJLA WASHINGTON DC",
   "shift": 0,
   "src": [
@@ -3392,7 +3401,7 @@
   ]
  },
  {
-  "id": "360northanchorage.us",
+  "id": "abc-9-wtvc-chattanooga.jm",
   "name": "USA ABC 9 WTVC Chattanooga",
   "shift": 0,
   "src": [
@@ -3501,7 +3510,7 @@
   ]
  },
  {
-  "id": "abcwrtv.us",
+  "id": "abc-indianapolis-wrtv.jm",
   "name": "USA ABC Indianapolis WRTV",
   "shift": 0,
   "src": [
@@ -4114,7 +4123,7 @@
   ]
  },
  {
-  "id": "afrotv.us",
+  "id": "afro.jm",
   "name": "USA Afro",
   "shift": 0,
   "src": [
@@ -4300,7 +4309,7 @@
   ]
  },
  {
-  "id": "betwest.us",
+  "id": "bet-west.jm",
   "name": "USA BET West",
   "shift": 0,
   "src": [
@@ -4593,7 +4602,7 @@
   ]
  },
  {
-  "id": "cbs10klfy.us",
+  "id": "cbs-10-klfy-lafayette.jm",
   "name": "USA CBS 10 KLFY LAFAYETTE",
   "shift": 0,
   "src": [
@@ -4987,7 +4996,7 @@
   ]
  },
  {
-  "id": "cbs19wltx.us",
+  "id": "cbs-19-wltx-columbia.jm",
   "name": "USA CBS 19 WLTX COLUMBIA",
   "shift": 0,
   "src": [
@@ -5037,6 +5046,15 @@
   "src": [
    "S1562",
    "S1563"
+  ]
+ },
+ {
+  "id": "cbs-2-wcbs-new-york.jm",
+  "name": "USA CBS 2 WCBS NEW YORK",
+  "shift": 0,
+  "src": [
+   "S1272",
+   "S1273"
   ]
  },
  {
@@ -5332,7 +5350,7 @@
   ]
  },
  {
-  "id": "cbs4wcbi.us",
+  "id": "cbs-4-wcbi-columbus.jm",
   "name": "USA CBS 4 WCBI COLUMBUS",
   "shift": 0,
   "src": [
@@ -5922,7 +5940,7 @@
   ]
  },
  {
-  "id": "bigtennetwork.us",
+  "id": "cbs-news-sd.jm",
   "name": "USA CBS NEWS SD",
   "shift": 0,
   "src": [
@@ -5947,6 +5965,15 @@
   "src": [
    "S1593",
    "S1594"
+  ]
+ },
+ {
+  "id": "cbs-new-york-sd.jm",
+  "name": "USA CBS New York SD",
+  "shift": 0,
+  "src": [
+   "S1272",
+   "S1273"
   ]
  },
  {
@@ -6736,7 +6763,7 @@
   ]
  },
  {
-  "id": "cw57wpsg.us",
+  "id": "cw-57-wpsg-philadelphia.jm",
   "name": "USA CW 57 (WPSG) Philadelphia",
   "shift": 0,
   "src": [
@@ -6991,8 +7018,18 @@
   ]
  },
  {
-  "id": "cartoonnetwork.us",
+  "id": "cartoon-network-east.jm",
   "name": "USA Cartoon Network East*",
+  "shift": 0,
+  "src": [
+   "S0904",
+   "S0905",
+   "S0906"
+  ]
+ },
+ {
+  "id": "cartoon-network-uhd.jm",
+  "name": "USA Cartoon Network UHD*",
   "shift": 0,
   "src": [
    "S0904",
@@ -7143,8 +7180,18 @@
   ]
  },
  {
-  "id": "comedycentral.us",
+  "id": "comedy-central-east-uhd.jm",
   "name": "USA Comedy Central East UHD",
+  "shift": 0,
+  "src": [
+   "S0409",
+   "S0410",
+   "S0411"
+  ]
+ },
+ {
+  "id": "comedy-central-fhd.jm",
+  "name": "USA Comedy Central FHD",
   "shift": 0,
   "src": [
    "S0409",
@@ -7406,8 +7453,18 @@
   ]
  },
  {
-  "id": "disneyjunior.us",
+  "id": "disney-junior-east.jm",
   "name": "USA Disney Junior East",
+  "shift": 0,
+  "src": [
+   "S0913",
+   "S0914",
+   "S0915"
+  ]
+ },
+ {
+  "id": "disney-junior-uhd.jm",
+  "name": "USA Disney Junior UHD",
   "shift": 0,
   "src": [
    "S0913",
@@ -7424,8 +7481,18 @@
   ]
  },
  {
-  "id": "disneyxd.us",
+  "id": "disney-xd.jm",
   "name": "USA Disney XD",
+  "shift": 0,
+  "src": [
+   "S0917",
+   "S0918",
+   "S0919"
+  ]
+ },
+ {
+  "id": "disney-xd-east-lhd.jm",
+  "name": "USA Disney XD East LHD",
   "shift": 0,
   "src": [
    "S0917",
@@ -7536,7 +7603,7 @@
   ]
  },
  {
-  "id": "mgmhits.us",
+  "id": "epix2.jm",
   "name": "USA EPIX2",
   "shift": 0,
   "src": [
@@ -7663,7 +7730,7 @@
   ]
  },
  {
-  "id": "mgmmarquee.us",
+  "id": "epix-hits-uhd.jm",
   "name": "USA Epix Hits UHD",
   "shift": 0,
   "src": [
@@ -7747,6 +7814,15 @@
   "shift": 0,
   "src": [
    "S2414"
+  ]
+ },
+ {
+  "id": "fox-12-kptv-portland.jm",
+  "name": "USA FOX 12 KPTV PORTLAND",
+  "shift": 0,
+  "src": [
+   "S1307",
+   "S1308"
   ]
  },
  {
@@ -7897,7 +7973,7 @@
   ]
  },
  {
-  "id": "fox21kqds.us",
+  "id": "fox-21-kqds-duluth-superior.jm",
   "name": "USA FOX 21 KQDS DULUTH/SUPERIOR",
   "shift": 0,
   "src": [
@@ -8008,7 +8084,7 @@
   ]
  },
  {
-  "id": "fox24wtat.us",
+  "id": "fox-24-wtat-charleston.jm",
   "name": "USA FOX 24 WTAT CHARLESTON",
   "shift": 0,
   "src": [
@@ -8236,7 +8312,7 @@
   ]
  },
  {
-  "id": "fox39kfxo.us",
+  "id": "fox-39-kfxo-bend.jm",
   "name": "USA FOX 39 (KFXO) Bend",
   "shift": 0,
   "src": [
@@ -8529,7 +8605,7 @@
   ]
  },
  {
-  "id": "fox55wrsp.us",
+  "id": "fox-55-wrsp-springfield.jm",
   "name": "USA FOX 55 WRSP SPRINGFIELD",
   "shift": 0,
   "src": [
@@ -9005,7 +9081,7 @@
   ]
  },
  {
-  "id": "a3cine.us",
+  "id": "fx-west.jm",
   "name": "USA FX West",
   "shift": 0,
   "src": [
@@ -9023,7 +9099,7 @@
   ]
  },
  {
-  "id": "fxx.us",
+  "id": "fxx-east.jm",
   "name": "USA FXX East",
   "shift": 0,
   "src": [
@@ -9380,7 +9456,7 @@
   ]
  },
  {
-  "id": "foxnews.us",
+  "id": "fox-news-sd.jm",
   "name": "USA Fox News SD",
   "shift": 0,
   "src": [
@@ -9501,7 +9577,7 @@
   ]
  },
  {
-  "id": "fusetv.us",
+  "id": "fuse-tv.jm",
   "name": "USA Fuse TV",
   "shift": 0,
   "src": [
@@ -9765,7 +9841,17 @@
   ]
  },
  {
-  "id": "hgtv.us",
+  "id": "hgtv-east-uhd.jm",
+  "name": "USA HGTV East UHD*",
+  "shift": 0,
+  "src": [
+   "S0551",
+   "S0552",
+   "S0553"
+  ]
+ },
+ {
+  "id": "hgtv-east.jm",
   "name": "USA HGTV East*",
   "shift": 0,
   "src": [
@@ -9899,7 +9985,7 @@
   ]
  },
  {
-  "id": "historychannel.us",
+  "id": "history-east-uhd.jm",
   "name": "USA History East UHD",
   "shift": 0,
   "src": [
@@ -10307,6 +10393,16 @@
   ]
  },
  {
+  "id": "latin-retroplex-tv.jm",
+  "name": "USA Latin RetroPlex TV",
+  "shift": 0,
+  "src": [
+   "S0112",
+   "S0113",
+   "S0114"
+  ]
+ },
+ {
   "id": "latin-tooncast.jm",
   "name": "USA Latin TOONCAST",
   "shift": 0,
@@ -10589,7 +10685,7 @@
   ]
  },
  {
-  "id": "mtv2.us",
+  "id": "mtv-2.jm",
   "name": "USA MTV 2",
   "shift": 0,
   "src": [
@@ -11160,7 +11256,7 @@
   ]
  },
  {
-  "id": "nbc10whec.us",
+  "id": "nbc-10-rochester-whec.jm",
   "name": "USA NBC 10 Rochester  WHEC",
   "shift": 0,
   "src": [
@@ -11183,6 +11279,15 @@
   "shift": 0,
   "src": [
    "S1178"
+  ]
+ },
+ {
+  "id": "nbc-10-whec-rochester.jm",
+  "name": "USA NBC 10 WHEC ROCHESTER",
+  "shift": 0,
+  "src": [
+   "S1777",
+   "S1778"
   ]
  },
  {
@@ -11273,7 +11378,7 @@
   ]
  },
  {
-  "id": "nbc13wnyt.us",
+  "id": "nbc-13-wnyt-albany.jm",
   "name": "USA NBC 13  WNYT Albany",
   "shift": 0,
   "src": [
@@ -11690,7 +11795,7 @@
   ]
  },
  {
-  "id": "nbc3wlbt.us",
+  "id": "nbc-3-wlbt-jackson.jm",
   "name": "USA NBC 3 WLBT JACKSON",
   "shift": 0,
   "src": [
@@ -11796,7 +11901,7 @@
   ]
  },
  {
-  "id": "nbc4ksnb.us",
+  "id": "nbc-4-ksnb-superior.jm",
   "name": "USA NBC 4 KSNB SUPERIOR",
   "shift": 0,
   "src": [
@@ -12092,7 +12197,7 @@
   ]
  },
  {
-  "id": "nbcwcsh.us",
+  "id": "nbc-6-wcsh-portland.jm",
   "name": "USA NBC 6 WCSH PORTLAND",
   "shift": 0,
   "src": [
@@ -12122,6 +12227,15 @@
   "shift": 0,
   "src": [
    "S2044"
+  ]
+ },
+ {
+  "id": "nbc-6-wtvj-miami.jm",
+  "name": "USA NBC 6 WTVJ MIAMI",
+  "shift": 0,
+  "src": [
+   "S1843",
+   "S1844"
   ]
  },
  {
@@ -12158,7 +12272,7 @@
   ]
  },
  {
-  "id": "nbc7witn.us",
+  "id": "nbc-7-witn-washington.jm",
   "name": "USA NBC 7 WITN WASHINGTON",
   "shift": 0,
   "src": [
@@ -12217,7 +12331,16 @@
   ]
  },
  {
-  "id": "360north.us",
+  "id": "nbc-8-wood-grand-rapids-kalamazoo.jm",
+  "name": "USA NBC 8 WOOD GRAND RAPIDS/KALAMAZOO",
+  "shift": 0,
+  "src": [
+   "S1814",
+   "S1815"
+  ]
+ },
+ {
+  "id": "nbc-8-wood-grand-rapids.jm",
   "name": "USA NBC 8 WOOD Grand Rapids",
   "shift": 0,
   "src": [
@@ -12435,7 +12558,7 @@
   ]
  },
  {
-  "id": "nbc6wtvj.us",
+  "id": "nbc-miami-wtvj.jm",
   "name": "USA NBC Miami WTVJ",
   "shift": 0,
   "src": [
@@ -13177,7 +13300,7 @@
   ]
  },
  {
-  "id": "oxygen.us",
+  "id": "oxygen-east.jm",
   "name": "USA Oxygen East",
   "shift": 0,
   "src": [
@@ -13299,7 +13422,7 @@
   ]
  },
  {
-  "id": "pbswfyi.us",
+  "id": "pbs-wfyi-indianapolis.jm",
   "name": "USA PBS (WFYI) INDIANAPOLIS",
   "shift": 0,
   "src": [
@@ -13326,7 +13449,7 @@
   ]
  },
  {
-  "id": "pbswgte.us",
+  "id": "pbs-wgte-toledo.jm",
   "name": "USA PBS (WGTE) Toledo",
   "shift": 0,
   "src": [
@@ -13335,16 +13458,7 @@
   ]
  },
  {
-  "id": "pbsmpt.us",
-  "name": "USA PBS (WHUT) Baltimore",
-  "shift": 0,
-  "src": [
-   "S2024",
-   "S2025"
-  ]
- },
- {
-  "id": "pbswhut.us",
+  "id": "pbs-whut-baltimore.jm",
   "name": "USA PBS (WHUT) Baltimore",
   "shift": 0,
   "src": [
@@ -13405,7 +13519,7 @@
   ]
  },
  {
-  "id": "pbswnjt.us",
+  "id": "pbs-wnjt-nj-new-jersey.jm",
   "name": "USA PBS (WNJT) NJ | New Jersey",
   "shift": 0,
   "src": [
@@ -13581,6 +13695,15 @@
   "src": [
    "S2010",
    "S2011"
+  ]
+ },
+ {
+  "id": "pbs-30-wgte-toledo.jm",
+  "name": "USA PBS 30 WGTE TOLEDO",
+  "shift": 0,
+  "src": [
+   "S2022",
+   "S2023"
   ]
  },
  {
@@ -14173,7 +14296,7 @@
   ]
  },
  {
-  "id": "americasvoice.us",
+  "id": "real-america-s-voice.jm",
   "name": "USA Real America's Voice",
   "shift": 0,
   "src": [
@@ -14220,7 +14343,7 @@
   ]
  },
  {
-  "id": "retroplex.us",
+  "id": "retroplex-east.jm",
   "name": "USA RetroPlex East",
   "shift": 0,
   "src": [
@@ -14938,7 +15061,7 @@
   ]
  },
  {
-  "id": "syfy.us",
+  "id": "syfy-east.jm",
   "name": "USA Syfy East*",
   "shift": 0,
   "src": [
@@ -15010,7 +15133,7 @@
   ]
  },
  {
-  "id": "turnerclassicmovies.us",
+  "id": "tcm.jm",
   "name": "USA TCM*",
   "shift": 0,
   "src": [
@@ -15092,7 +15215,17 @@
   ]
  },
  {
-  "id": "tlc.us",
+  "id": "tlc-east-lhd.jm",
+  "name": "USA TLC East LHD*",
+  "shift": 0,
+  "src": [
+   "S0491",
+   "S0492",
+   "S0493"
+  ]
+ },
+ {
+  "id": "tlc-east.jm",
   "name": "USA TLC East*",
   "shift": 0,
   "src": [
@@ -15139,12 +15272,22 @@
   ]
  },
  {
-  "id": "mtvtr3s.us",
+  "id": "tr3s.jm",
   "name": "USA TR3S",
   "shift": 0,
   "src": [
    "S0620",
    "S0621"
+  ]
+ },
+ {
+  "id": "travel-channel.jm",
+  "name": "USA TRAVEL CHANNEL",
+  "shift": 0,
+  "src": [
+   "S0502",
+   "S0503",
+   "S0504"
   ]
  },
  {
@@ -15469,7 +15612,7 @@
   ]
  },
  {
-  "id": "andtv.us",
+  "id": "travel.jm",
   "name": "USA Travel",
   "shift": 0,
   "src": [
@@ -15478,7 +15621,7 @@
   ]
  },
  {
-  "id": "travel.us",
+  "id": "travel-channel-east-lhd.jm",
   "name": "USA Travel Channel East LHD*",
   "shift": 0,
   "src": [
@@ -15561,7 +15704,16 @@
   ]
  },
  {
-  "id": "usanetwork.us",
+  "id": "usa-network-backup.jm",
+  "name": "USA USA Network (Backup)",
+  "shift": 0,
+  "src": [
+   "S0518",
+   "S0519"
+  ]
+ },
+ {
+  "id": "usa-network-east.jm",
   "name": "USA USA Network East",
   "shift": 0,
   "src": [
@@ -15705,7 +15857,7 @@
   ]
  },
  {
-  "id": "vice.us",
+  "id": "viceland.jm",
   "name": "USA Viceland",
   "shift": 0,
   "src": [
@@ -16170,7 +16322,7 @@
   ]
  },
  {
-  "id": "abcketv.us",
+  "id": "abc7-ketv-omaha.jm",
   "name": "USA abc7 KETV Omaha",
   "shift": 0,
   "src": [
@@ -16275,7 +16427,7 @@
   ]
  },
  {
-  "id": "trutv.us",
+  "id": "trutv-east.jm",
   "name": "USA truTV East*",
   "shift": 0,
   "src": [
