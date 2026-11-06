@@ -61,6 +61,7 @@ jobs:
           name: matched
           path: |
             mapping.json
+            channels.json
             sources/
           retention-days: 3
       - name: Save matching to main
@@ -129,6 +130,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+      - name: Keep last night's guide and channel list for the report
+        run: |
+          cp channels.json prev-channels.json
+          git fetch -q --depth=1 origin guide && git show origin/guide:guide.xml.gz > prev-guide.xml.gz || true
       - name: Use tonight's matching
         uses: actions/download-artifact@v4
         continue-on-error: true
@@ -147,6 +152,8 @@ jobs:
           IPTV_USER: ${{ secrets.IPTV_USER }}
           IPTV_PASS: ${{ secrets.IPTV_PASS }}
         run: python3 events.py guide.xml.gz | tail -n 3
+      - name: Write report (what lost listings since last night)
+        run: python3 report.py prev-guide.xml.gz guide.xml.gz prev-channels.json channels.json report.md || true
       - name: Publish to the "guide" branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -154,7 +161,7 @@ jobs:
       - name: Save run status (also keeps the daily schedule active)
         run: |
           date -u '+Last run: %F %H:%M UTC' | cat - status.txt > status.tmp && mv status.tmp status.txt
-          git add status.txt
+          git add status.txt report.md
           git -c user.name=guide-bot -c user.email=guide-bot@users.noreply.github.com commit -q -m "status $(date -u +%F)" || exit 0
           git pull -q --rebase origin main || true
           git push -q || echo "status not saved (main changed during the run)" 

@@ -93,9 +93,16 @@ def same_feed(a, b):
         return False
     return a[0] == b[0] or M.sim(a[0], b[0]) >= 0.8
 
+_slugs = {}
 def slug(n):
-    n = re.sub(r'^USA\s+', '', html.unescape(n))
-    return re.sub(r'[^a-z0-9]+', '-', n.lower()).strip('-') + '.jm'
+    """Stable per-name guide ID. Names that differ only in case/punctuation get -2, -3..."""
+    name = html.unescape(n).strip()
+    base = re.sub(r'[^a-z0-9]+', '-', re.sub(r'^USA\s+', '', name).lower()).strip('-')
+    key, i = base + '.jm', 2
+    while _slugs.get(key, name) != name:
+        key, i = f'{base}-{i}.jm', i + 1
+    _slugs[key] = name
+    return key
 
 # provider IDs used by more than one station (KYTV carries WWLP's ID, for example)
 conflicted = {x['epg'] for x in matched if x['epg'] and not same_feed(x['feedkey'], owner[x['epg']])}
@@ -118,6 +125,22 @@ for x in matched:
         continue
     mapping[oid] = dict(id=oid, name=html.unescape(x['name']).strip(), shift=x['shift'],
                         src=[skey(s) for s in x['cands']])
+
+# Channels we could not match ourselves but whose shared provider ID used to bring the right listings:
+# give them their own name-matched entry with the listings that ID pointed to.
+owner_cands = {}
+for x in matched:
+    if x['epg'] in drop and x['feedkey'] == owner.get(x['epg']):
+        owner_cands.setdefault(x['epg'], x)
+for x in rows:
+    if x['src'] or x['how'] == 'event' or x['epg'] not in owner_cands:
+        continue
+    o = owner_cands[x['epg']]
+    oid = slug(x['name'])
+    if oid not in mapping:
+        mapping[oid] = dict(id=oid, name=html.unescape(x['name']).strip(), shift=o['shift'],
+                            src=[skey(s) for s in o['cands']])
+        stats['shared-borrowed'] += 1
 
 json.dump(sorted(mapping.values(), key=lambda m: m['name']), open(OUT + '/mapping.json', 'w'), indent=1)
 
