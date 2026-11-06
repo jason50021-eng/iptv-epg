@@ -102,13 +102,15 @@ def calibrate_lineups(mapping, progs, index):
         if not tp or not ot:
             continue
         ref = {(e.findtext('title'), e.get('start')[:12]) for e in progs[tp[0]]}
-        best, best_n = 0, 0
-        for h in range(-5, 6):
-            n = sum((e.findtext('title'), shift_time(e.get('start'), h * 60)[:12]) in ref for e in progs[ot[0]])
-            if n > best_n:
-                best, best_n = h, n
-        if best_n >= 3:
+        counts = {h: sum((e.findtext('title'), shift_time(e.get('start'), h * 60)[:12]) in ref for e in progs[ot[0]])
+                  for h in range(-1, 7)}  # real US offsets from Eastern: Atlantic -1 ... Hawaii +5/+6
+        best = max(counts, key=lambda h: (counts[h], -abs(h)))  # ties go to the smaller shift
+        n0 = counts[0]
+        # only trust a clear winner: shows that repeat every hour match at many shifts
+        if best != 0 and counts[best] >= 3 and counts[best] >= 2 * n0 + 2:
             votes[index[ot[0]][1].split('/')[0]][best] += 1
+        elif n0 >= 3:
+            votes[index[ot[0]][1].split('/')[0]][0] += 1
     shifts = {lu: c.most_common(1)[0][0] for lu, c in votes.items() if c.most_common(1)[0][0] != 0}
     for k, (site, site_id, _) in index.items():
         h = shifts.get(site_id.split('/')[0]) if site == 'ontvtonight.com' else None
