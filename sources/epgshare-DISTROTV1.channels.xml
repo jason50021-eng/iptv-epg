@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="epgshare01.online" site_id="DISTROTV1#Al.Jazeera.distro" lang="en" xmltv_id="S0041">Al Jazeera</channel>
-  <channel site="epgshare01.online" site_id="DISTROTV1#Revry.News.distro" lang="en" xmltv_id="S0064">Revry News</channel>
-  <channel site="epgshare01.online" site_id="DISTROTV1#Gusto.TV.distro" lang="en" xmltv_id="S0876">Gusto TV</channel>
-  <channel site="epgshare01.online" site_id="DISTROTV1#Horror.Machine.distro" lang="en" xmltv_id="S0994">Horror Machine</channel>
-  <channel site="epgshare01.online" site_id="DISTROTV1#Karaoke.distro" lang="en" xmltv_id="S1337">Karaoke</channel>
-  <channel site="epgshare01.online" site_id="DISTROTV1#World.Poker.Tour.distro" lang="en" xmltv_id="S3817">World Poker Tour</channel>
-  <channel site="epgshare01.online" site_id="DISTROTV1#Boxing.TV.distro" lang="en" xmltv_id="S3852">Boxing TV</channel>
+  <channel site="epgshare01.online" site_id="DISTROTV1#CGTN.distro" lang="en" xmltv_id="S0030">CGTN</channel>
+  <channel site="epgshare01.online" site_id="DISTROTV1#Gusto.TV.distro" lang="en" xmltv_id="S0898">Gusto TV</channel>
+  <channel site="epgshare01.online" site_id="DISTROTV1#Karaoke.distro" lang="en" xmltv_id="S1379">Karaoke</channel>
+  <channel site="epgshare01.online" site_id="DISTROTV1#World.Poker.Tour.distro" lang="en" xmltv_id="S3872">World Poker Tour</channel>
 </channels>

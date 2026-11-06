@@ -6,7 +6,6 @@ TUDN / Conmebol slots, public-access stations, some streaming-only and regional 
 AL | Dothan | FOX Net
 FL | City | FOX Net Panama
 IA | Ottumwa | FOX Net
-IA | Sioux City | Telemundo KBWF
 ID | Twin Falls | FOX Net
 IN | Lafayette | NBC WSPB
 LA | Charles | FOX Net Lake
@@ -14,19 +13,20 @@ MC Video | Rap 2K - DIRECT
 MD | Minot | FOX Net
 ME | Presque Isle | FOX Net
 MI | Marquette | FOX Net
-MO | St. Joseph | CBS KCJO-LD
+MLB Seattle Mariners
 NC | Wilmington | FOX Net
 NY | Binghampton | FOX Net
 NY | New York | CW (PIX 11)
 OR | Medford | FOX Net
+PA | Jeannette | CW WPCW
 SD | City | FOX Net Rapid
 TX | Abilene | FOX Net
 TX | Lubbock | FOX Net
 TX | San Angelo | FOX Net
 TX | Sherman | FOX Net
-US CW 4 (KRON) San Francisco
 US MC Radio | Blues
 US MC Video | Country Hits
+USA (Faith) Hillsong
 USA (Latin) ViX Deportes 1
 USA (Latin) ViX Deportes 10
 USA (Latin) ViX Deportes 11
@@ -54,16 +54,13 @@ USA (STIRR) AFV
 USA (STIRR) Quicktake (D)
 USA 3ABN English
 USA 3ABN Praise
-USA 80s Sitcoms
-USA 90s Sitcoms
 USA ABC Connecticut
 USA ABC Houston WTRK
 USA ABC News International
 USA ABC Washington
 USA AT&T SportsNet Pittsburgh
-USA Altitude Sports 2
+USA AXS TV Now
 USA Atlanta Channel
-USA Atlanta News First (WANF)
 USA BBC World News
 USA BEACH TV - FLORIDA - ALABAMA
 USA BEACH TV - KEY WEST - FLORIDA KEYS
@@ -72,19 +69,19 @@ USA BEACH TV - PANAMA CITY
 USA Bally SPORTS YES HD
 USA BeIN Sports LaLiga
 USA Bible Explorations
-USA Binge TV
-USA Black Voices
+USA Boxing TV
 USA BravesVision
 USA CBN News International
 USA CBS POP
 USA CBSN Dallas
 USA CBSN Denver
 USA CINE SONY HD
-USA CNN en Español*
 USA CTN TV  - CONNETICUT
 USA CW 11 AMARILLO
-USA CW 43 (WBNX) Cleveland
-USA CW 43 WBNX Cleveland
+USA CW 19 WPCW JEANETTE
+USA CW 19 WPCW PITTSBURGH
+USA CW East Philadelphia UHD
+USA CW19 (WPCW) Pittsburgh
 USA CW44 (KBCW) Bay Area
 USA Cheddar Business
 USA Cincinnati Reds
@@ -108,7 +105,6 @@ USA FOXNET LUBBOCK TX
 USA FOXNET SAN ANGELO TX
 USA Faith Channel
 USA Fallon Tonight
-USA Fawesome
 USA First Alert 4 St. Louis
 USA Flo Racing
 USA For The Fans
@@ -158,8 +154,6 @@ USA Latin TUDN X8*
 USA Latin TUDN X9*
 USA Latin TVE International
 USA Latin Telemicro Internacional
-USA Latin Wapa Puerto Rico
-USA Latin ZONA Futbol
 USA MC Radio Gospel
 USA MC Radio | Reggae
 USA MC Video | Disney
@@ -170,6 +164,7 @@ USA MC Video | Wonderama
 USA MC Video | Youth Hits
 USA MSG Western New York
 USA MY 38 - BOSTON
+USA MY 50 - CHICAGO
 USA Milwaukee Brewers
 USA Music Choice Classic Country
 USA Music Choice Video Soundscape
@@ -203,7 +198,6 @@ USA Music Choice Video | Y2K
 USA Music Choice | Easy Listening
 USA Music Choice | Metal
 USA My 9 New Jersey
-USA NASA+
 USA NBC 10 NECN Boston
 USA NBC 12 WFSA Montgomery
 USA NBC Dateline
@@ -217,10 +211,8 @@ USA NBCSN NORTHWEST | HD
 USA NBCSN PHILADELPHIA HD
 USA NBCSN WASHINGTON | HD
 USA NFL Red Zone LHD
+USA NHL Carolina Hurricanes
 USA NO TV - NEW ORLEANS TELEVISION
-USA News 12 Brooklyn
-USA News 12 Hudson Valley
-USA News 12 The Bronx
 USA News12+ Bronx (HD)
 USA News12+ Brooklyn (HD)
 USA News12+ Connecticut (HD)
@@ -228,7 +220,6 @@ USA News12+ Hudson Valley (HD)
 USA News12+ Long Island (HD)
 USA News12+ New Jersey (HD)
 USA News12+ Westchester (HD)
-USA Newsy
 USA PAC-12 Mountain
 USA PBS (ATLPBA) Atlanta
 USA PBS (ETPBS) Knoxville
@@ -242,7 +233,6 @@ USA PBS (RMPBS) DENVER
 USA PBS (SCETV) CHARLOTTE
 USA PBS (UNC-TV) Norfolk/Portsmouth/Newport News
 USA PBS (WHRG) Norfolk/Portsmouth/Newport News
-USA PBS 28 (KCET) Los Angeles
 USA PBS 36 Odessa/Midland
 USA PBS 48 CET CINCINNATI
 USA PBS Albuquerque-Santa Fe
@@ -262,14 +252,13 @@ USA Rap Game
 USA Rap Modern 2020
 USA Republic TV
 USA Revelation TV
+USA Revry News
 USA Rock 00-99
 USA Rock 80-90
 USA Rock Modern 2020
 USA SPECTRUM NEWS - ALBANY CAPITAL REGION
+USA SPECTRUM NEWS - CENTRAL NY
 USA SPECTRUM NEWS 1 (CAROLINAS) - COASTAL
-USA SPECTRUM NEWS 1 - (KENTUCKY) - COVINGTON
-USA SPECTRUM NEWS 1 - (KENTUCKY) - EVANSVILLE
-USA SPECTRUM NEWS 1 - (KENTUCKY) LEXINGTON
 USA SPECTRUM NEWS 1 - CINCINNATI
 USA SPECTRUM NEWS 1 - CLEVELAND/AKRON
 USA SPECTRUM NEWS 1 - COLUMBUS
@@ -292,7 +281,6 @@ USA Spectrum News 13
 USA Spectrum News MO St Louis- IP
 USA Spectrum News Maine
 USA Spectrum News NY1
-USA Spectrum News San Antonio
 USA Spectrum Noticias NY1
 USA Spectrum Sports 1
 USA Spectrum Sports 2
@@ -323,10 +311,11 @@ USA The Real Houswives
 USA UFC Fight Pass
 USA VSIN HD
 USA Victory Television Network
+USA WILLOW XTRA HD
 USA Willow Extra
 USA beIN SPORTS enEspanol
 USA beIN Sports 01
+USA hello inspo
 VA | Charlottesville | FOX Net
 VA | Harrisonburg | FOX Net
-VA | Harrisonburg | NBC WSVW
 WV | Clarksburg | FOX Net
