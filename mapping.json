@@ -2763,6 +2763,14 @@
   ]
  },
  {
+  "id": "abc-23-kaef-eureka-2.jm",
+  "name": "USA ABC 23 KAEF EUREKA",
+  "shift": 0,
+  "src": [
+   "S1389"
+  ]
+ },
+ {
   "id": "abckvue.us",
   "name": "USA ABC 24 KVUE AUSTIN",
   "shift": 0,
@@ -2975,6 +2983,14 @@
  {
   "id": "abc-38-wawv-terre-haute.jm",
   "name": "USA ABC 38 (WAWV) Terre Haute",
+  "shift": 0,
+  "src": [
+   "S1392"
+  ]
+ },
+ {
+  "id": "abc-38-wawv-terre-haute-2.jm",
+  "name": "USA ABC 38 WAWV TERRE HAUTE",
   "shift": 0,
   "src": [
    "S1392"
@@ -3705,6 +3721,15 @@
   ]
  },
  {
+  "id": "abc-washington.jm",
+  "name": "USA ABC Washington",
+  "shift": 0,
+  "src": [
+   "S2128",
+   "S2129"
+  ]
+ },
+ {
   "id": "abcktnv.us",
   "name": "USA ABC13 (KTNV) Las Vegas",
   "shift": 0,
@@ -4402,6 +4427,15 @@
   "shift": 0,
   "src": [
    "S2724"
+  ]
+ },
+ {
+  "id": "bein-sports-laliga.jm",
+  "name": "USA BeIN Sports LaLiga",
+  "shift": 0,
+  "src": [
+   "S0500",
+   "S0501"
   ]
  },
  {
@@ -6771,6 +6805,14 @@
   ]
  },
  {
+  "id": "cw-57-wpsg-philadelphia-2.jm",
+  "name": "USA CW 57 WPSG PHILADELPHIA",
+  "shift": 0,
+  "src": [
+   "S1636"
+  ]
+ },
+ {
   "id": "cw-58-wbki-dt-louisville.jm",
   "name": "USA CW 58 (WBKI-DT) Louisville",
   "shift": 0,
@@ -6844,6 +6886,14 @@
   "shift": 0,
   "src": [
    "S1637"
+  ]
+ },
+ {
+  "id": "cw-east-philadelphia-uhd.jm",
+  "name": "USA CW East Philadelphia UHD",
+  "shift": 0,
+  "src": [
+   "S1636"
   ]
  },
  {
@@ -11436,6 +11486,14 @@
   ]
  },
  {
+  "id": "nbc-13-wnyt-albany-2.jm",
+  "name": "USA NBC 13 WNYT ALBANY",
+  "shift": 0,
+  "src": [
+   "S1783"
+  ]
+ },
+ {
   "id": "nbc13wrex.us",
   "name": "USA NBC 13 WREX ROCKFORD",
   "shift": 0,
@@ -12770,6 +12828,15 @@
   ]
  },
  {
+  "id": "nbc-sports-washington-plus.jm",
+  "name": "USA NBC Sports Washington Plus",
+  "shift": 0,
+  "src": [
+   "S0500",
+   "S0501"
+  ]
+ },
+ {
   "id": "nbc5ksdk.us",
   "name": "USA NBC St Louis KSDK",
   "shift": 0,
@@ -12932,6 +12999,14 @@
   "shift": 0,
   "src": [
    "S1898"
+  ]
+ },
+ {
+  "id": "nbcsn-northwest-hd.jm",
+  "name": "USA NBCSN NORTHWEST | HD",
+  "shift": 0,
+  "src": [
+   "S0628"
   ]
  },
  {
