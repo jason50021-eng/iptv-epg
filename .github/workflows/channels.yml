@@ -1,0 +1,32 @@
+name: Save channel list
+
+on:
+  schedule:
+    - cron: '41 7 * * *'   # daily, before the guide build
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: guide
+  cancel-in-progress: false
+
+jobs:
+  channels:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+      - name: Read channel list from provider
+        env:
+          IPTV_SERVER: ${{ secrets.IPTV_SERVER }}
+          IPTV_USER: ${{ secrets.IPTV_USER }}
+          IPTV_PASS: ${{ secrets.IPTV_PASS }}
+        run: python3 channels.py channels.json
+      - name: Save if changed
+        run: |
+          git add channels.json
+          git -c user.name=guide-bot -c user.email=guide-bot@users.noreply.github.com commit -q -m "channel list $(date -u +%F)" || exit 0
+          git pull -q --rebase origin main
+          git push -q
