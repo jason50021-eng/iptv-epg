@@ -83,4 +83,5 @@ jobs:
           date -u '+Last run: %F %H:%M UTC' | cat - status.txt > status.tmp && mv status.tmp status.txt
           git add status.txt
           git -c user.name=guide-bot -c user.email=guide-bot@users.noreply.github.com commit -q -m "status $(date -u +%F)" || exit 0
-          git push -q
+          git pull -q --rebase origin main || true
+          git push -q || echo "status not saved (main changed during the run)" 
