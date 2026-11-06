@@ -1,0 +1,35 @@
+name: Update game listings
+
+on:
+  schedule:
+    - cron: '7 * * * *'              # every hour
+    - cron: '*/20 16-23 * * 0'       # every 20 min, Sunday 10 AM to 6 PM Central (NFL)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: guide
+  cancel-in-progress: false
+
+jobs:
+  games:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Get the current guide
+        run: |
+          git fetch -q --depth=1 origin guide || { echo "No guide yet. Run 'Build TV guide' first."; exit 0; }
+          git show origin/guide:guide.xml.gz > guide.xml.gz
+      - name: Add live game listings
+        env:
+          IPTV_SERVER: ${{ secrets.IPTV_SERVER }}
+          IPTV_USER: ${{ secrets.IPTV_USER }}
+          IPTV_PASS: ${{ secrets.IPTV_PASS }}
+        run: '[ -f guide.xml.gz ] && python3 events.py guide.xml.gz || true'
+      - name: Publish
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: '[ -f guide.xml.gz ] && bash publish.sh || true'

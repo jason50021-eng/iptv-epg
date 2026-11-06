@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="tvtv.us" site_id="10021" lang="en" xmltv_id="S0002">AMC East</channel>
+  <channel site="tvtv.us" site_id="10035" lang="en" xmltv_id="S0004">A&amp;E East</channel>
+  <channel site="tvtv.us" site_id="56193" lang="en" xmltv_id="S0006">AccuWeather</channel>
+  <channel site="tvtv.us" site_id="78808" lang="en" xmltv_id="S0008">American Heroes Channel</channel>
+  <channel site="tvtv.us" site_id="16331" lang="en" xmltv_id="S0010">Animal Planet East</channel>
+  <channel site="tvtv.us" site_id="50001" lang="en" xmltv_id="S0012">Animal Planet West</channel>
+  <channel site="tvtv.us" site_id="92053" lang="en" xmltv_id="S0016">AXS TV</channel>
+  <channel site="tvtv.us" site_id="10051" lang="en" xmltv_id="S0018">BET East</channel>
+  <channel site="tvtv.us" site_id="14897" lang="en" xmltv_id="S0020">BET Her</channel>
+  <channel site="tvtv.us" site_id="24483" lang="en" xmltv_id="S0022">BET West</channel>
+  <channel site="tvtv.us" site_id="10057" lang="en" xmltv_id="S0024">Bravo East</channel>
+  <channel site="tvtv.us" site_id="31555" lang="en" xmltv_id="S0026">Bravo West</channel>
+  <channel site="tvtv.us" site_id="93430" lang="en" xmltv_id="S0027">Buzzr</channel>
+  <channel site="tvtv.us" site_id="10149" lang="en" xmltv_id="S0030">Comedy Central East</channel>
+  <channel site="tvtv.us" site_id="97051" lang="en" xmltv_id="S0032">Comet</channel>
+  <channel site="tvtv.us" site_id="30156" lang="en" xmltv_id="S0034">Cooking Channel</channel>
+  <channel site="tvtv.us" site_id="78851" lang="en" xmltv_id="S0037">Cozi TV</channel>
+  <channel site="tvtv.us" site_id="16617" lang="en" xmltv_id="S0042">Destination America</channel>
+  <channel site="tvtv.us" site_id="56905" lang="en" xmltv_id="S0044">Discovery Channel East</channel>
+  <channel site="tvtv.us" site_id="16618" lang="en" xmltv_id="S0046">Discovery Family</channel>
+  <channel site="tvtv.us" site_id="16125" lang="en" xmltv_id="S0048">Discovery Life</channel>
+  <channel site="tvtv.us" site_id="67375" lang="en" xmltv_id="S0051">Magnolia Network East</channel>
+  <channel site="tvtv.us" site_id="10989" lang="en" xmltv_id="S0054">E! East</channel>
+  <channel site="tvtv.us" site_id="91579" lang="en" xmltv_id="S0056">E! West</channel>
+  <channel site="tvtv.us" site_id="10183" lang="en" xmltv_id="S0058">EWTN</channel>
+  <channel site="tvtv.us" site_id="12574" lang="en" xmltv_id="S0060">Food Network East</channel>
+  <channel site="tvtv.us" site_id="33648" lang="en" xmltv_id="S0062">Food Network West</channel>
+  <channel site="tvtv.us" site_id="10093" lang="en" xmltv_id="S0064">Freeform East</channel>
+  <channel site="tvtv.us" site_id="12499" lang="en" xmltv_id="S0066">Freeform West</channel>
+  <channel site="tvtv.us" site_id="14929" lang="en" xmltv_id="S0068">Fuse East</channel>
+  <channel site="tvtv.us" site_id="16834" lang="en" xmltv_id="S0070">FYI East</channel>
+  <channel site="tvtv.us" site_id="60111" lang="en" xmltv_id="S0072">Pursuit Channel</channel>
+  <channel site="tvtv.us" site_id="11069" lang="en" xmltv_id="S0074">QVC</channel>
+  <channel site="tvtv.us" site_id="52199" lang="en" xmltv_id="S0078">Reelz</channel>
+  <channel site="tvtv.us" site_id="49767" lang="en" xmltv_id="S0080">RetroPlex East</channel>
+  <channel site="tvtv.us" site_id="63179" lang="en" xmltv_id="S0082">RetroPlex West</channel>
+  <channel site="tvtv.us" site_id="83097" lang="en" xmltv_id="S0084">Revolt</channel>
+  <channel site="tvtv.us" site_id="25148" lang="en" xmltv_id="S0086">RFD-TV</channel>
+  <channel site="tvtv.us" site_id="58532" lang="en" xmltv_id="S0087">Smithsonian</channel>
+  <channel site="tvtv.us" site_id="58623" lang="en" xmltv_id="S0090">Syfy East</channel>
+  <channel site="tvtv.us" site_id="65626" lang="en" xmltv_id="S0092">Syfy West</channel>
+  <channel site="tvtv.us" site_id="107076" lang="en" xmltv_id="S0093">Tastemade</channel>
+  <channel site="tvtv.us" site_id="58515" lang="en" xmltv_id="S0096">TBS East</channel>
+  <channel site="tvtv.us" site_id="80597" lang="en" xmltv_id="S0098">The Cowboy Channel</channel>
+  <channel site="tvtv.us" site_id="11187" lang="en" xmltv_id="S0100">The Weather Channel</channel>
+  <channel site="tvtv.us" site_id="11158" lang="en" xmltv_id="S0102">TLC East</channel>
+  <channel site="tvtv.us" site_id="19543" lang="en" xmltv_id="S0104">TLC West</channel>
+  <channel site="tvtv.us" site_id="42642" lang="en" xmltv_id="S0106">TNT East</channel>
+  <channel site="tvtv.us" site_id="61340" lang="en" xmltv_id="S0108">TNT West</channel>
+  <channel site="tvtv.us" site_id="59303" lang="en" xmltv_id="S0110">The Travel Channel</channel>
+  <channel site="tvtv.us" site_id="10153" lang="en" xmltv_id="S0114">TruTV East</channel>
+  <channel site="tvtv.us" site_id="24569" lang="en" xmltv_id="S0116">TruTV West</channel>
+  <channel site="tvtv.us" site_id="35513" lang="en" xmltv_id="S0118">TV One</channel>
+  <channel site="tvtv.us" site_id="16123" lang="en" xmltv_id="S0120">TV Land East</channel>
+  <channel site="tvtv.us" site_id="44940" lang="en" xmltv_id="S0122">UPtv</channel>
+  <channel site="tvtv.us" site_id="11207" lang="en" xmltv_id="S0124">USA Network East</channel>
+  <channel site="tvtv.us" site_id="11208" lang="en" xmltv_id="S0126">USA Network West</channel>
+  <channel site="tvtv.us" site_id="44322" lang="en" xmltv_id="S0129">WAPA America</channel>
+  <channel site="tvtv.us" site_id="16409" lang="en" xmltv_id="S0131">We TV East</channel>
+  <channel site="tvtv.us" site_id="91096" lang="en" xmltv_id="S0133">NewsNation East</channel>
+  <channel site="tvtv.us" site_id="10161" lang="en" xmltv_id="S0135">C-SPAN</channel>
+  <channel site="tvtv.us" site_id="10162" lang="en" xmltv_id="S0136">C-SPAN2</channel>
+  <channel site="tvtv.us" site_id="15192" lang="en" xmltv_id="S0138">CNN International Latin America</channel>
+  <channel site="tvtv.us" site_id="46762" lang="en" xmltv_id="S0140">Logo East</channel>
+  <channel site="tvtv.us" site_id="18433" lang="en" xmltv_id="S0144">ActionMax East</channel>
+  <channel site="tvtv.us" site_id="18434" lang="en" xmltv_id="S0146">ActionMax West</channel>
+  <channel site="tvtv.us" site_id="10120" lang="en" xmltv_id="S0148">Cinemax East</channel>
+  <channel site="tvtv.us" site_id="25622" lang="en" xmltv_id="S0153">OuterMax East</channel>
+  <channel site="tvtv.us" site_id="12508" lang="en" xmltv_id="S0155">Cinemax West</channel>
+  <channel site="tvtv.us" site_id="14321" lang="en" xmltv_id="S0160">FX East</channel>
+  <channel site="tvtv.us" site_id="17927" lang="en" xmltv_id="S0162">FXX East</channel>
+  <channel site="tvtv.us" site_id="82570" lang="en" xmltv_id="S0164">FXX West</channel>
+  <channel site="tvtv.us" site_id="10241" lang="en" xmltv_id="S0166">HBO2 East</channel>
+  <channel site="tvtv.us" site_id="18429" lang="en" xmltv_id="S0168">HBO Comedy East</channel>
+  <channel site="tvtv.us" site_id="10240" lang="en" xmltv_id="S0170">HBO East</channel>
+  <channel site="tvtv.us" site_id="10243" lang="en" xmltv_id="S0172">HBO Signature East</channel>
+  <channel site="tvtv.us" site_id="10244" lang="en" xmltv_id="S0174">HBO West</channel>
+  <channel site="tvtv.us" site_id="18431" lang="en" xmltv_id="S0176">HBO Zone East</channel>
+  <channel site="tvtv.us" site_id="11116" lang="en" xmltv_id="S0178">Showtime 2 East</channel>
+  <channel site="tvtv.us" site_id="11115" lang="en" xmltv_id="S0179">Showtime East</channel>
+  <channel site="tvtv.us" site_id="18086" lang="en" xmltv_id="S0182">Showtime Extreme East</channel>
+  <channel site="tvtv.us" site_id="25274" lang="en" xmltv_id="S0184">Showtime Family Zone East</channel>
+  <channel site="tvtv.us" site_id="25270" lang="en" xmltv_id="S0186">Showtime Next East</channel>
+  <channel site="tvtv.us" site_id="16153" lang="en" xmltv_id="S0188">Showtime Showcase East</channel>
+  <channel site="tvtv.us" site_id="25272" lang="en" xmltv_id="S0192">Showtime Women East</channel>
+  <channel site="tvtv.us" site_id="19634" lang="en" xmltv_id="S0195">Starz Cinema East</channel>
+  <channel site="tvtv.us" site_id="34901" lang="en" xmltv_id="S0197">Starz Comedy East</channel>
+  <channel site="tvtv.us" site_id="12719" lang="en" xmltv_id="S0199">Starz East</channel>
+  <channel site="tvtv.us" site_id="14871" lang="en" xmltv_id="S0201">Starz Encore Action East</channel>
+  <channel site="tvtv.us" site_id="14870" lang="en" xmltv_id="S0203">Starz Encore Black East</channel>
+  <channel site="tvtv.us" site_id="14764" lang="en" xmltv_id="S0205">Starz Encore Classic East</channel>
+  <channel site="tvtv.us" site_id="10178" lang="en" xmltv_id="S0207">Starz Encore East</channel>
+  <channel site="tvtv.us" site_id="16311" lang="en" xmltv_id="S0209">Starz Edge East</channel>
+  <channel site="tvtv.us" site_id="14886" lang="en" xmltv_id="S0211">Starz Encore Family East</channel>
+  <channel site="tvtv.us" site_id="14766" lang="en" xmltv_id="S0213">Starz Encore Suspense East</channel>
+  <channel site="tvtv.us" site_id="17125" lang="en" xmltv_id="S0215">Starz Encore West</channel>
+  <channel site="tvtv.us" site_id="14765" lang="en" xmltv_id="S0217">Starz Encore Westerns East</channel>
+  <channel site="tvtv.us" site_id="16833" lang="en" xmltv_id="S0219">Starz In Black East</channel>
+  <channel site="tvtv.us" site_id="50671" lang="en" xmltv_id="S0221">Starz Kids &amp; Family East</channel>
+  <channel site="tvtv.us" site_id="12741" lang="en" xmltv_id="S0223">Starz West</channel>
+  <channel site="tvtv.us" site_id="71280" lang="en" xmltv_id="S0225">SundanceTV East</channel>
+  <channel site="tvtv.us" site_id="16062" lang="en" xmltv_id="S0227">Great American Family</channel>
+  <channel site="tvtv.us" site_id="11221" lang="en" xmltv_id="S0231">Hallmark Channel East</channel>
+  <channel site="tvtv.us" site_id="61522" lang="en" xmltv_id="S0234">Hallmark Movies &amp; Mysteries East</channel>
+  <channel site="tvtv.us" site_id="14902" lang="en" xmltv_id="S0237">HGTV East</channel>
+  <channel site="tvtv.us" site_id="34215" lang="en" xmltv_id="S0239">HGTV West</channel>
+  <channel site="tvtv.us" site_id="57708" lang="en" xmltv_id="S0240">History East</channel>
+  <channel site="tvtv.us" site_id="14873" lang="en" xmltv_id="S0243">IFC East</channel>
+  <channel site="tvtv.us" site_id="11066" lang="en" xmltv_id="S0245">INSP</channel>
+  <channel site="tvtv.us" site_id="16615" lang="en" xmltv_id="S0247">Investigation Discovery East</channel>
+  <channel site="tvtv.us" site_id="92091" lang="en" xmltv_id="S0249">Laff</channel>
+  <channel site="tvtv.us" site_id="109553" lang="en" xmltv_id="S0251">Law &amp; Crime</channel>
+  <channel site="tvtv.us" site_id="60150" lang="en" xmltv_id="S0253">Lifetime East</channel>
+  <channel site="tvtv.us" site_id="70436" lang="en" xmltv_id="S0256">MeTV</channel>
+  <channel site="tvtv.us" site_id="70387" lang="en" xmltv_id="S0261">Oprah Winfrey Network East</channel>
+  <channel site="tvtv.us" site_id="14776" lang="en" xmltv_id="S0263">Outdoor Channel</channel>
+  <channel site="tvtv.us" site_id="15807" lang="en" xmltv_id="S0267">Ovation</channel>
+  <channel site="tvtv.us" site_id="21484" lang="en" xmltv_id="S0269">Oxygen East</channel>
+  <channel site="tvtv.us" site_id="21744" lang="en" xmltv_id="S0271">Oxygen West</channel>
+  <channel site="tvtv.us" site_id="11163" lang="en" xmltv_id="S0273">Paramount Network East</channel>
+  <channel site="tvtv.us" site_id="102790" lang="en" xmltv_id="S0276">NFL Network</channel>
+  <channel site="tvtv.us" site_id="50338" lang="en" xmltv_id="S0277">BabyFirst TV</channel>
+  <channel site="tvtv.us" site_id="21883" lang="en" xmltv_id="S0280">Boomerang</channel>
+  <channel site="tvtv.us" site_id="60048" lang="en" xmltv_id="S0282">Cartoon Network East</channel>
+  <channel site="tvtv.us" site_id="18151" lang="en" xmltv_id="S0284">Cartoon Network West</channel>
+  <channel site="tvtv.us" site_id="10171" lang="en" xmltv_id="S0286">Disney Channel East</channel>
+  <channel site="tvtv.us" site_id="12510" lang="en" xmltv_id="S0288">Disney Channel West</channel>
+  <channel site="tvtv.us" site_id="74796" lang="en" xmltv_id="S0290">Disney Junior East</channel>
+  <channel site="tvtv.us" site_id="75003" lang="en" xmltv_id="S0292">Disney Junior West</channel>
+  <channel site="tvtv.us" site_id="18279" lang="en" xmltv_id="S0294">Disney XD East</channel>
+  <channel site="tvtv.us" site_id="18793" lang="en" xmltv_id="S0296">Disney XD West</channel>
+  <channel site="tvtv.us" site_id="19211" lang="en" xmltv_id="S0299">Nick Jr East</channel>
+  <channel site="tvtv.us" site_id="59036" lang="en" xmltv_id="S0301">TeenNick</channel>
+  <channel site="tvtv.us" site_id="30420" lang="en" xmltv_id="S0303">Nicktoons East</channel>
+  <channel site="tvtv.us" site_id="11006" lang="en" xmltv_id="S0305">Nickelodeon East</channel>
+  <channel site="tvtv.us" site_id="58631" lang="en" xmltv_id="S0306">CNN en Español</channel>
+  <channel site="tvtv.us" site_id="99630" lang="en" xmltv_id="S0309">Discovery Familia</channel>
+  <channel site="tvtv.us" site_id="15377" lang="en" xmltv_id="S0311">Fox Deportes</channel>
+  <channel site="tvtv.us" site_id="54867" lang="en" xmltv_id="S0316">Bandamax</channel>
+  <channel site="tvtv.us" site_id="35401" lang="en" xmltv_id="S0318">De Pelicula</channel>
+  <channel site="tvtv.us" site_id="32161" lang="en" xmltv_id="S0322">Gol TV</channel>
+  <channel site="tvtv.us" site_id="34394" lang="en" xmltv_id="S0327">TeleHit</channel>
+  <channel site="tvtv.us" site_id="59250" lang="en" xmltv_id="S0332">CBS Sports Network</channel>
+  <channel site="tvtv.us" site_id="58649" lang="en" xmltv_id="S0334">Fox Business</channel>
+  <channel site="tvtv.us" site_id="66879" lang="en" xmltv_id="S0336">Fox Soccer Plus</channel>
+  <channel site="tvtv.us" site_id="30419" lang="en" xmltv_id="S0338">BET Jams</channel>
+  <channel site="tvtv.us" site_id="18718" lang="en" xmltv_id="S0340">BET Soul</channel>
+  <channel site="tvtv.us" site_id="10138" lang="en" xmltv_id="S0342">CMT East</channel>
+  <channel site="tvtv.us" site_id="18715" lang="en" xmltv_id="S0344">MTV Tr3s East</channel>
+  <channel site="tvtv.us" site_id="10986" lang="en" xmltv_id="S0346">MTV East</channel>
+  <channel site="tvtv.us" site_id="44228" lang="en" xmltv_id="S0348">MTV U</channel>
+  <channel site="tvtv.us" site_id="16361" lang="en" xmltv_id="S0350">MTV2 East</channel>
+  <channel site="tvtv.us" site_id="22561" lang="en" xmltv_id="S0352">MTV Classic East</channel>
+  <channel site="tvtv.us" site_id="26566" lang="en" xmltv_id="S0354">My Network TV (WWOR-DT1) NY</channel>
+  <channel site="tvtv.us" site_id="10179" lang="en" xmltv_id="S0356">ESPN</channel>
+  <channel site="tvtv.us" site_id="89351" lang="en" xmltv_id="S0357">NFL Red Zone</channel>
+  <channel site="tvtv.us" site_id="58646" lang="en" xmltv_id="S0359">CNN</channel>
+  <channel site="tvtv.us" site_id="82547" lang="en" xmltv_id="S0361">Fox Sports 1</channel>
+  <channel site="tvtv.us" site_id="59305" lang="en" xmltv_id="S0363">Fox Sports 2</channel>
+  <channel site="tvtv.us" site_id="76374" lang="en" xmltv_id="S0366">Pac-12 Mountain</channel>
+  <channel site="tvtv.us" site_id="111871" lang="en" xmltv_id="S0368">ACC Network</channel>
+  <channel site="tvtv.us" site_id="76942" lang="en" xmltv_id="S0370">BeIn Sports USA</channel>
+  <channel site="tvtv.us" site_id="92443" lang="en" xmltv_id="S0372">beIN SPORTS 4</channel>
+  <channel site="tvtv.us" site_id="92437" lang="en" xmltv_id="S0374">beIN SPORTS 6</channel>
+  <channel site="tvtv.us" site_id="92438" lang="en" xmltv_id="S0376">beIN SPORTS 7</channel>
+  <channel site="tvtv.us" site_id="56783" lang="en" xmltv_id="S0378">Big Ten Network</channel>
+  <channel site="tvtv.us" site_id="45507" lang="en" xmltv_id="S0380">ESPN 2</channel>
+  <channel site="tvtv.us" site_id="59976" lang="en" xmltv_id="S0382">ESPNEWS</channel>
+  <channel site="tvtv.us" site_id="45654" lang="en" xmltv_id="S0384">ESPNU</channel>
+  <channel site="tvtv.us" site_id="11104" lang="en" xmltv_id="S0390">NBC Sports Boston</channel>
+  <channel site="tvtv.us" site_id="17596" lang="en" xmltv_id="S0392">NBC Sports Philadelphia</channel>
+  <channel site="tvtv.us" site_id="63516" lang="en" xmltv_id="S0393">NESN Plus</channel>
+  <channel site="tvtv.us" site_id="33930" lang="en" xmltv_id="S0396">Sportsman Channel</channel>
+  <channel site="tvtv.us" site_id="104950" lang="en" xmltv_id="S0398">Stadium</channel>
+  <channel site="tvtv.us" site_id="33395" lang="en" xmltv_id="S0400">Tennis Channel</channel>
+  <channel site="tvtv.us" site_id="87023" lang="en" xmltv_id="S0404">Spectrum SportsNet LA</channel>
+  <channel site="tvtv.us" site_id="92439" lang="en" xmltv_id="S0406">beIN SPORTS 5</channel>
+  <channel site="tvtv.us" site_id="92436" lang="en" xmltv_id="S0408">beIN SPORTS 8</channel>
+  <channel site="tvtv.us" site_id="11218" lang="en" xmltv_id="S0414">VH1 East</channel>
+  <channel site="tvtv.us" site_id="46817" lang="en" xmltv_id="S0417">MASN</channel>
+  <channel site="tvtv.us" site_id="10996" lang="en" xmltv_id="S0419">NESN</channel>
+  <channel site="tvtv.us" site_id="30460" lang="en" xmltv_id="S0422">Telemundo (KSTS) San Jose, CA</channel>
+  <channel site="tvtv.us" site_id="91588" lang="en" xmltv_id="S0426">NBC Universo East</channel>
+  <channel site="tvtv.us" site_id="113776" lang="en" xmltv_id="S0428">Marquee Sports Network</channel>
+  <channel site="tvtv.us" site_id="10150" lang="en" xmltv_id="S0430">Comedy Central West</channel>
+  <channel site="tvtv.us" site_id="26028" lang="en" xmltv_id="S0436">AT&amp;T SportsNet Pittsburgh</channel>
+  <channel site="tvtv.us" site_id="30017" lang="en" xmltv_id="S0444">YES Network</channel>
+  <channel site="tvtv.us" site_id="10271" lang="en" xmltv_id="S0448">NBC Sports Washington</channel>
+  <channel site="tvtv.us" site_id="117788" lang="en" xmltv_id="S0450">Nat Geo Mundo</channel>
+  <channel site="tvtv.us" site_id="82682" lang="en" xmltv_id="S0453">QVC2</channel>
+  <channel site="tvtv.us" site_id="36130" lang="en" xmltv_id="S0455">FOX (KHON-TV) Honolulu, HI</channel>
+  <channel site="tvtv.us" site_id="21300" lang="en" xmltv_id="S0457">FOX (KTVI-DT1) St Louis, MO</channel>
+  <channel site="tvtv.us" site_id="19600" lang="en" xmltv_id="S0459">FOX (WJBK-DT1) Detroit, MI</channel>
+  <channel site="tvtv.us" site_id="19616" lang="en" xmltv_id="S0461">FOX (KDFW-DT1) Dallas, TX</channel>
+  <channel site="tvtv.us" site_id="20430" lang="en" xmltv_id="S0465">FOX (WAGA-DT1) Atanta, GA</channel>
+  <channel site="tvtv.us" site_id="20360" lang="en" xmltv_id="S0467">FOX (WNYW-DT1) New York, NY</channel>
+  <channel site="tvtv.us" site_id="21220" lang="en" xmltv_id="S0474">FOX (WSVN-DT1) Miami, FL</channel>
+  <channel site="tvtv.us" site_id="21247" lang="en" xmltv_id="S0477">FOX (WJW-DT1) Cleveland, OH</channel>
+  <channel site="tvtv.us" site_id="21209" lang="en" xmltv_id="S0483">FOX (KSAZ-DT1) Arizona, PX</channel>
+  <channel site="tvtv.us" site_id="50855" lang="en" xmltv_id="S0485">FOX (KKFX) Santa Barbara, CA</channel>
+  <channel site="tvtv.us" site_id="20450" lang="en" xmltv_id="S0489">FOX (KTTV) Los Angeles, CA</channel>
+  <channel site="tvtv.us" site_id="21254" lang="en" xmltv_id="S0493">FOX (KCPQ-DT1) Seattle WA</channel>
+  <channel site="tvtv.us" site_id="30751" lang="en" xmltv_id="S0501">FOX (KDSM-TV) Des Moines, IA</channel>
+  <channel site="tvtv.us" site_id="31707" lang="en" xmltv_id="S0503">FOX (WXMI-DT1) Grand Rapids, MI</channel>
+  <channel site="tvtv.us" site_id="20362" lang="en" xmltv_id="S0517">FOX (WFXT-DT1) Boston MI</channel>
+  <channel site="tvtv.us" site_id="32699" lang="en" xmltv_id="S0520">FOX (KMPH) Fresno, CA</channel>
+  <channel site="tvtv.us" site_id="21252" lang="en" xmltv_id="S0522">FOX (KRIV-DT1) Houston TX</channel>
+  <channel site="tvtv.us" site_id="35487" lang="en" xmltv_id="S0524">FOX (WSFX-TV) Wilmington, NC</channel>
+  <channel site="tvtv.us" site_id="19614" lang="en" xmltv_id="S0532">FOX (WTXF-DT1) Philadelphia, PA</channel>
+  <channel site="tvtv.us" site_id="42945" lang="en" xmltv_id="S0534">FOX (WUTV1) Buffalo, NY</channel>
+  <channel site="tvtv.us" site_id="21319" lang="en" xmltv_id="S0538">FOX (KDVR) Denver, CO</channel>
+  <channel site="tvtv.us" site_id="20361" lang="en" xmltv_id="S0541">FOX (WFLD-DT1) Chicago, IL</channel>
+  <channel site="tvtv.us" site_id="42820" lang="en" xmltv_id="S0545">FOX (KCBA) Salinas, CA</channel>
+  <channel site="tvtv.us" site_id="21221" lang="en" xmltv_id="S0547">FOX 35 (WOFL-DT1) Orlando, FL</channel>
+  <channel site="tvtv.us" site_id="34674" lang="en" xmltv_id="S0549">FOX (WRLH-DT) Richmond, KY</channel>
+  <channel site="tvtv.us" site_id="42599" lang="en" xmltv_id="S0552">FOX (WUPW) Toledo, OH</channel>
+  <channel site="tvtv.us" site_id="21211" lang="en" xmltv_id="S0556">FOX (KTXL) Sacramento, CA</channel>
+  <channel site="tvtv.us" site_id="34536" lang="en" xmltv_id="S0562">FOX (WFXB) Myrtle Beach, SC</channel>
+  <channel site="tvtv.us" site_id="11602" lang="en" xmltv_id="S0565">FOX (WTNZ) KNOXVILLE</channel>
+  <channel site="tvtv.us" site_id="21233" lang="en" xmltv_id="S0573">FOX (WBFF-DT1) Baltimore, MD</channel>
+  <channel site="tvtv.us" site_id="21216" lang="en" xmltv_id="S0581">FOX (WTIC-DT1) Hartford, CT</channel>
+  <channel site="tvtv.us" site_id="32777" lang="en" xmltv_id="S0586">FOX (WSYT) Syracuse, NY</channel>
+  <channel site="tvtv.us" site_id="19586" lang="en" xmltv_id="S0588">ABC (WSB-DT1) Atanta, GA</channel>
+  <channel site="tvtv.us" site_id="21230" lang="en" xmltv_id="S0590">ABC (WMAR-DT1) Washington D.C.</channel>
+  <channel site="tvtv.us" site_id="30436" lang="en" xmltv_id="S0592">ABC (WBRZ-DT1) Baton Rouge, LA</channel>
+  <channel site="tvtv.us" site_id="19590" lang="en" xmltv_id="S0597">ABC (KITV) Honolulu, HI</channel>
+  <channel site="tvtv.us" site_id="19629" lang="en" xmltv_id="S0599">ABC (KOMO-DT1) Seattle, WA</channel>
+  <channel site="tvtv.us" site_id="34524" lang="en" xmltv_id="S0603">ABC (WOTV-DT1) Battle Creek, MI</channel>
+  <channel site="tvtv.us" site_id="19615" lang="en" xmltv_id="S0605">ABC (WTAE-DT1) Pittsburgh, PA</channel>
+  <channel site="tvtv.us" site_id="21236" lang="en" xmltv_id="S0608">ABC (KSTP-DT1) St Paul, MN</channel>
+  <channel site="tvtv.us" site_id="19596" lang="en" xmltv_id="S0610">ABC (WCVB-DT1) Boston, MA</channel>
+  <channel site="tvtv.us" site_id="21101" lang="en" xmltv_id="S0612">ABC (WEWS-DT1) Cleveland, OH</channel>
+  <channel site="tvtv.us" site_id="19612" lang="en" xmltv_id="S0614">ABC (WPVI-DT1) Philadelphia, PA</channel>
+  <channel site="tvtv.us" site_id="21102" lang="en" xmltv_id="S0616">ABC (WRTV-DT1) Indianapolis, IN</channel>
+  <channel site="tvtv.us" site_id="32635" lang="en" xmltv_id="S0618">ABC (WSYX-DT1) Columbus, OH</channel>
+  <channel site="tvtv.us" site_id="19570" lang="en" xmltv_id="S0620">ABC (KABC) Los Angeles, CA</channel>
+  <channel site="tvtv.us" site_id="20293" lang="en" xmltv_id="S0622">ABC (KMGH-DT1) Denver, CO</channel>
+  <channel site="tvtv.us" site_id="20453" lang="en" xmltv_id="S0625">ABC (WABC-DT1) New York, NY</channel>
+  <channel site="tvtv.us" site_id="19579" lang="en" xmltv_id="S0627">ABC (WJLA-DT1) Washington, DC</channel>
+  <channel site="tvtv.us" site_id="24052" lang="en" xmltv_id="S0629">ABC (WKBW1) Buffalo, NY</channel>
+  <channel site="tvtv.us" site_id="20456" lang="en" xmltv_id="S0631">ABC (WLS-DT1) Chicago, IL</channel>
+  <channel site="tvtv.us" site_id="19601" lang="en" xmltv_id="S0633">ABC (WXYZ-DT1) Detroit, MI</channel>
+  <channel site="tvtv.us" site_id="19626" lang="en" xmltv_id="S0637">ABC (WFAA-DT1) Dallas, TX</channel>
+  <channel site="tvtv.us" site_id="20458" lang="en" xmltv_id="S0639">ABC (WRIC-DT) Richmond, VA</channel>
+  <channel site="tvtv.us" site_id="32514" lang="en" xmltv_id="S0641">ABC (KCRG-DT1) Cedar Rapids, IA</channel>
+  <channel site="tvtv.us" site_id="20491" lang="en" xmltv_id="S0645">ABC 9 (WFTV-DT1) Orlando, FL</channel>
+  <channel site="tvtv.us" site_id="35712" lang="en" xmltv_id="S0648">ABC (WSYR-TV) Syracuse, NY</channel>
+  <channel site="tvtv.us" site_id="20377" lang="en" xmltv_id="S0650">ABC (KGTV) San Diego, CA</channel>
+  <channel site="tvtv.us" site_id="34583" lang="en" xmltv_id="S0652">ABC (WDIO-DT1) Duluth, MN</channel>
+  <channel site="tvtv.us" site_id="20493" lang="en" xmltv_id="S0654">ABC (WPLG-DT1) Miami, FL</channel>
+  <channel site="tvtv.us" site_id="32470" lang="en" xmltv_id="S0656">ABC (WTEN-DT1) Albany NY</channel>
+  <channel site="tvtv.us" site_id="21103" lang="en" xmltv_id="S0658">ABC (WTVD-DT1) Durham, NC</channel>
+  <channel site="tvtv.us" site_id="32367" lang="en" xmltv_id="S0661">ABC (WISN-DT1) Milwaukee, WI</channel>
+  <channel site="tvtv.us" site_id="21251" lang="en" xmltv_id="S0663">ABC (KTRK-DT1) Houston TX</channel>
+  <channel site="tvtv.us" site_id="31482" lang="en" xmltv_id="S0666">ABC (WZZM-DT1) Grand Rapids, MI</channel>
+  <channel site="tvtv.us" site_id="21210" lang="en" xmltv_id="S0668">ABC (KNXV-DT1) Arizona, PX</channel>
+  <channel site="tvtv.us" site_id="33585" lang="en" xmltv_id="S0674">ABC (KVUE-DT1) Austin, TX</channel>
+  <channel site="tvtv.us" site_id="21237" lang="en" xmltv_id="S0682">ABC (KDNL-DT1) St Louis, MO</channel>
+  <channel site="tvtv.us" site_id="25120" lang="en" xmltv_id="S0684">ABC (KFSN) Fresno, CA</channel>
+  <channel site="tvtv.us" site_id="28026" lang="en" xmltv_id="S0690">CBS (KBOI-TV) Boise, ID</channel>
+  <channel site="tvtv.us" site_id="21248" lang="en" xmltv_id="S0693">CBS (KDKA-DT1) Pittsburgh, PA</channel>
+  <channel site="tvtv.us" site_id="20454" lang="en" xmltv_id="S0699">CBS (WBBM-DT1) Chicago, IL</channel>
+  <channel site="tvtv.us" site_id="16689" lang="en" xmltv_id="S0701">CBS (WCBS-DT1) New York, NY</channel>
+  <channel site="tvtv.us" site_id="19611" lang="en" xmltv_id="S0705">CBS (KYW-DT1) Philadelphia, PA</channel>
+  <channel site="tvtv.us" site_id="21215" lang="en" xmltv_id="S0709">CBS (WFSB-DT1) Hartford, CT</channel>
+  <channel site="tvtv.us" site_id="43730" lang="en" xmltv_id="S0713">ABC (WWAY) Wilmington, NC</channel>
+  <channel site="tvtv.us" site_id="34884" lang="en" xmltv_id="S0715">CBS (WWMT-DT1) Kalamazoo, MI</channel>
+  <channel site="tvtv.us" site_id="21297" lang="en" xmltv_id="S0717">CBS (KCNC-TV) Denver, CO</channel>
+  <channel site="tvtv.us" site_id="20506" lang="en" xmltv_id="S0720">CBS (KMOV-DT1) St Louis MO</channel>
+  <channel site="tvtv.us" site_id="20431" lang="en" xmltv_id="S0722">CBS (WBZ-DT1) Boston, MA</channel>
+  <channel site="tvtv.us" site_id="21234" lang="en" xmltv_id="S0725">CBS (WCCO-DT1) St Paul, MN</channel>
+  <channel site="tvtv.us" site_id="21218" lang="en" xmltv_id="S0727">CBS (WFOR-DT1) Miami, FL</channel>
+  <channel site="tvtv.us" site_id="24051" lang="en" xmltv_id="S0729">CBS (WIVB1) Buffalo, NY</channel>
+  <channel site="tvtv.us" site_id="34331" lang="en" xmltv_id="S0734">CBS (KGMB) Honolulu, HI</channel>
+  <channel site="tvtv.us" site_id="21293" lang="en" xmltv_id="S0736">CBS (KPHO-DT1) Arizona, PX</channel>
+  <channel site="tvtv.us" site_id="19572" lang="en" xmltv_id="S0738">CBS (KPIX) San Francisco, CA</channel>
+  <channel site="tvtv.us" site_id="28659" lang="en" xmltv_id="S0742">CBS (WTVF-DT1) Nashville, TN</channel>
+  <channel site="tvtv.us" site_id="21299" lang="en" xmltv_id="S0746">CBS 6 (WKMG-DT1) Orlando, FL</channel>
+  <channel site="tvtv.us" site_id="20290" lang="en" xmltv_id="S0749">CBS (KIRO-DT1) Seattle, WA</channel>
+  <channel site="tvtv.us" site_id="21212" lang="en" xmltv_id="S0756">CBS (KFMB) San Diego, CA</channel>
+  <channel site="tvtv.us" site_id="11627" lang="en" xmltv_id="S0761">CBS (WVLT) KNOXVILLE</channel>
+  <channel site="tvtv.us" site_id="19580" lang="en" xmltv_id="S0765">CBS (WUSA-DT1) Washington D.C.</channel>
+  <channel site="tvtv.us" site_id="28679" lang="en" xmltv_id="S0767">CBS (WWTV-DT1) Cadillac, MI</channel>
+  <channel site="tvtv.us" site_id="19628" lang="en" xmltv_id="S0776">CBS (KHOU-DT1) Houston, TX</channel>
+  <channel site="tvtv.us" site_id="30754" lang="en" xmltv_id="S0784">CBS (WTOL) Toledo, OH</channel>
+  <channel site="tvtv.us" site_id="21214" lang="en" xmltv_id="S0793">CBS (KOVR) Sacramento, CA</channel>
+  <channel site="tvtv.us" site_id="21232" lang="en" xmltv_id="S0797">CBS (WJZ-DT1) Baltimore, MD</channel>
+  <channel site="tvtv.us" site_id="21320" lang="en" xmltv_id="S0804">CBS (WOIO-DT1) Cleveland, OH</channel>
+  <channel site="tvtv.us" site_id="36132" lang="en" xmltv_id="S0817">CBS (KGPE) Fresno, CA</channel>
+  <channel site="tvtv.us" site_id="20376" lang="en" xmltv_id="S0821">CBS (WWJ-DT1) Detroit, MI</channel>
+  <channel site="tvtv.us" site_id="64020" lang="en" xmltv_id="S0823">The CW (WPCW-DT1) Pittsburgh, PA</channel>
+  <channel site="tvtv.us" site_id="43352" lang="en" xmltv_id="S0825">CW (KMAX) Sacramento, CA</channel>
+  <channel site="tvtv.us" site_id="25126" lang="en" xmltv_id="S0827">CW (WKBD-TV) Detroit, MI</channel>
+  <channel site="tvtv.us" site_id="34628" lang="en" xmltv_id="S0828">CW (WPSG-DT1) Philadelphia, PA</channel>
+  <channel site="tvtv.us" site_id="19653" lang="en" xmltv_id="S0830">MyNetworkTV (KCOP) Los Angeles, CA</channel>
+  <channel site="tvtv.us" site_id="30977" lang="en" xmltv_id="S0832">MyNetwork (KTXH-DT1) Houston TX</channel>
+  <channel site="tvtv.us" site_id="26191" lang="en" xmltv_id="S0840">My65 / FOX 35 Plus (WRBW-DT1) Orlando, FL</channel>
+  <channel site="tvtv.us" site_id="32057" lang="en" xmltv_id="S0844">PBS (KETC-DT1) St Louis, MO</channel>
+  <channel site="tvtv.us" site_id="34915" lang="en" xmltv_id="S0846">PBS (WNED1) Buffalo, NY</channel>
+  <channel site="tvtv.us" site_id="107246" lang="en" xmltv_id="S0850">Telemundo (KUAN) San Diego, CA</channel>
+  <channel site="tvtv.us" site_id="78613" lang="en" xmltv_id="S0852">Telemundo 31 (WTMO-CD1) Orlando, FL</channel>
+  <channel site="tvtv.us" site_id="73759" lang="en" xmltv_id="S0854">Telemundo (KCSO) Sacramento, CA</channel>
+  <channel site="tvtv.us" site_id="21250" lang="en" xmltv_id="S0860">NBC (KPRC-DT1) Houston TX</channel>
+  <channel site="tvtv.us" site_id="20451" lang="en" xmltv_id="S0863">NBC (KCRA) Sacramento, CA</channel>
+  <channel site="tvtv.us" site_id="34913" lang="en" xmltv_id="S0865">NBC (KIEM) Eureka, CA</channel>
+  <channel site="tvtv.us" site_id="32129" lang="en" xmltv_id="S0867">NBC (WSTM-TV) Syracuse, NY</channel>
+  <channel site="tvtv.us" site_id="19578" lang="en" xmltv_id="S0871">NBC (WRC-DT1) Washington D.C.</channel>
+  <channel site="tvtv.us" site_id="19627" lang="en" xmltv_id="S0877">NBC (KXAS-DT1) Dallas TX</channel>
+  <channel site="tvtv.us" site_id="31073" lang="en" xmltv_id="S0881">NBC (KMIR) Palm Springs, CA</channel>
+  <channel site="tvtv.us" site_id="31623" lang="en" xmltv_id="S0884">NBC (KSBY) Santa Barbara, CA</channel>
+  <channel site="tvtv.us" site_id="42834" lang="en" xmltv_id="S0889">NBC (WECT) Wilmington, NC</channel>
+  <channel site="tvtv.us" site_id="21219" lang="en" xmltv_id="S0893">NBC (WTVJ-DT1) Miami, FL</channel>
+  <channel site="tvtv.us" site_id="43706" lang="en" xmltv_id="S0902">NBC (WPBN-TV) Traverse City, MI</channel>
+  <channel site="tvtv.us" site_id="33383" lang="en" xmltv_id="S0907">NBC (KSBW) Monterey, CA</channel>
+  <channel site="tvtv.us" site_id="20457" lang="en" xmltv_id="S0912">NBC (WOOD-DT1) Grand Rapids, MI</channel>
+  <channel site="tvtv.us" site_id="11305" lang="en" xmltv_id="S0923">NBC (WBIR) KNOXVILLE</channel>
+  <channel site="tvtv.us" site_id="19613" lang="en" xmltv_id="S0925">NBC (WCAU-DT1) Philadelphia, PA</channel>
+  <channel site="tvtv.us" site_id="20505" lang="en" xmltv_id="S0930">NBC (KARE-DT1) St Paul, MN</channel>
+  <channel site="tvtv.us" site_id="21785" lang="en" xmltv_id="S0934">NBC (KNTV) San Francisco, CA</channel>
+  <channel site="tvtv.us" site_id="21231" lang="en" xmltv_id="S0938">NBC (WBAL-DT1) Baltimore, MD</channel>
+  <channel site="tvtv.us" site_id="20369" lang="en" xmltv_id="S0940">NBC (WPXI-DT1) Pittsburgh, PA</channel>
+  <channel site="tvtv.us" site_id="19587" lang="en" xmltv_id="S0942">NBC (WXIA-DT1) Atanta, GA</channel>
+  <channel site="tvtv.us" site_id="20507" lang="en" xmltv_id="S0944">NBC (KPNX-DT1) Arizona, PX</channel>
+  <channel site="tvtv.us" site_id="30305" lang="en" xmltv_id="S0952">NBC (WWBT-DT) Richmond, KY</channel>
+  <channel site="tvtv.us" site_id="35298" lang="en" xmltv_id="S0956">NBC (KECI-TV) Missoula MT</channel>
+  <channel site="tvtv.us" site_id="31530" lang="en" xmltv_id="S0958">NBC (KHNL) Honolulu, HI</channel>
+  <channel site="tvtv.us" site_id="19593" lang="en" xmltv_id="S0966">NBC (WTHR-DT1) Indianapolis, IN</channel>
+  <channel site="tvtv.us" site_id="42840" lang="en" xmltv_id="S0976">NBC (KGET) Bakersfield, CA</channel>
+  <channel site="tvtv.us" site_id="31226" lang="en" xmltv_id="S0993">NBC (WNWO-TV) Toledo, OH</channel>
+  <channel site="tvtv.us" site_id="35655" lang="en" xmltv_id="S0996">NBC (WEYI-TV) Saginaw, MI</channel>
+  <channel site="tvtv.us" site_id="21217" lang="en" xmltv_id="S1003">NBC (WVIT-DT1) Hartford, CT</channel>
+  <channel site="tvtv.us" site_id="25147" lang="en" xmltv_id="S1007">NBC (KXAN-DT1) Austin, TX</channel>
+  <channel site="tvtv.us" site_id="21213" lang="en" xmltv_id="S1011">NBC (KNSD) San Diego, CA</channel>
+  <channel site="tvtv.us" site_id="104846" lang="en" xmltv_id="S1022">CBS News Live</channel>
+  <channel site="tvtv.us" site_id="21647" lang="en" xmltv_id="S1025">NBC 2 (WESH-DT1) Orlando, FL</channel>
+  <channel site="tvtv.us" site_id="20459" lang="en" xmltv_id="S1029">NBC (WNBC-DT1) New York, NY</channel>
+  <channel site="tvtv.us" site_id="20359" lang="en" xmltv_id="S1031">NBC (WDIV-DT1) Detroit, MI</channel>
+  <channel site="tvtv.us" site_id="30978" lang="en" xmltv_id="S1040">ABC (WJRT-TV) Flint MI</channel>
+  <channel site="tvtv.us" site_id="52618" lang="en" xmltv_id="S1042">FOX (WSMH) Flint MI</channel>
+  <channel site="tvtv.us" site_id="20452" lang="en" xmltv_id="S1049">NBC (WMAQ-DT1) Chicago, IL</channel>
+  <channel site="tvtv.us" site_id="30594" lang="en" xmltv_id="S1054">ABC (WMBB-DT1) Panama City, FL</channel>
+  <channel site="tvtv.us" site_id="34557" lang="en" xmltv_id="S1056">ABC (WPDE-TV) Florence, SC</channel>
+  <channel site="tvtv.us" site_id="43832" lang="en" xmltv_id="S1059">ABC (WTXL1) Tallahassee, FL</channel>
+  <channel site="tvtv.us" site_id="10003" lang="en" xmltv_id="S1064">ABC East</channel>
+  <channel site="tvtv.us" site_id="20465" lang="en" xmltv_id="S1067">ABC (WKRN-DT1) Nashville, TN</channel>
+  <channel site="tvtv.us" site_id="113380" lang="en" xmltv_id="S1069">ABC News Live</channel>
+  <channel site="tvtv.us" site_id="20775" lang="en" xmltv_id="S1071">ABC (KXTV) Sacramento, CA</channel>
+  <channel site="tvtv.us" site_id="19574" lang="en" xmltv_id="S1073">ABC (KGO-DT1) San Francisco, CA</channel>
+  <channel site="tvtv.us" site_id="30785" lang="en" xmltv_id="S1075">ABC (KTNV-DT1) Las Vegas, NV</channel>
+  <channel site="tvtv.us" site_id="35066" lang="en" xmltv_id="S1082">ABC (WJBF-DT1) Augusta, GA</channel>
+  <channel site="tvtv.us" site_id="30155" lang="en" xmltv_id="S1084">CBS (WBTW) Florence, SC</channel>
+  <channel site="tvtv.us" site_id="42578" lang="en" xmltv_id="S1090">CBS (WTVH) Syracuse, NY</channel>
+  <channel site="tvtv.us" site_id="36063" lang="en" xmltv_id="S1092">NBC (WCTV1) Tallahassee, FL</channel>
+  <channel site="tvtv.us" site_id="10098" lang="en" xmltv_id="S1094">CBS East</channel>
+  <channel site="tvtv.us" site_id="35595" lang="en" xmltv_id="S1096">CBS (WTTV-DT1) Indianapolis, IN</channel>
+  <channel site="tvtv.us" site_id="51306" lang="en" xmltv_id="S1104">CW East</channel>
+  <channel site="tvtv.us" site_id="34986" lang="en" xmltv_id="S1108">CW (WCWN-DT1) Albany, NY</channel>
+  <channel site="tvtv.us" site_id="19575" lang="en" xmltv_id="S1112">CW (KBCW) San Francisco, CA</channel>
+  <channel site="tvtv.us" site_id="32793" lang="en" xmltv_id="S1114">CW (WUPA-DT1) Atanta, GA</channel>
+  <channel site="tvtv.us" site_id="26079" lang="en" xmltv_id="S1123">Stadium College Sports Pacific</channel>
+  <channel site="tvtv.us" site_id="10212" lang="en" xmltv_id="S1125">Fox East</channel>
+  <channel site="tvtv.us" site_id="60179" lang="en" xmltv_id="S1127">FOX News</channel>
+  <channel site="tvtv.us" site_id="21249" lang="en" xmltv_id="S1129">FOX (WPGH-DT1) Pittsburgh, PA</channel>
+  <channel site="tvtv.us" site_id="19571" lang="en" xmltv_id="S1131">FOX (KTVU) San Francisco, CA</channel>
+  <channel site="tvtv.us" site_id="34662" lang="en" xmltv_id="S1133">My Network TV (WPWR-DT) Chicago, IL</channel>
+  <channel site="tvtv.us" site_id="31507" lang="en" xmltv_id="S1146">NBC (WGRZ1) Buffalo, NY</channel>
+  <channel site="tvtv.us" site_id="20492" lang="en" xmltv_id="S1148">NBC (WKYC-DT1) Cleveland, OH</channel>
+  <channel site="tvtv.us" site_id="10991" lang="en" xmltv_id="S1150">NBC East</channel>
+  <channel site="tvtv.us" site_id="19568" lang="en" xmltv_id="S1152">NBC (KNBC) Los Angeles, CA</channel>
+  <channel site="tvtv.us" site_id="20513" lang="en" xmltv_id="S1154">NBC (KSDK-DT1) St Louis MO</channel>
+  <channel site="tvtv.us" site_id="32723" lang="en" xmltv_id="S1161">My Network TV (WSBK-DT1) Boston, MA</channel>
+  <channel site="tvtv.us" site_id="30304" lang="en" xmltv_id="S1163">CW (WSFL-DT1) Miami, FL</channel>
+  <channel site="tvtv.us" site_id="49568" lang="en" xmltv_id="S1165">ABC (KEYT) Santa Barbara, CA</channel>
+  <channel site="tvtv.us" site_id="43050" lang="en" xmltv_id="S1167">CW (KFRE) Fresno, CA</channel>
+  <channel site="tvtv.us" site_id="101364" lang="en" xmltv_id="S1171">PBS Kids East (National Feed)</channel>
+  <channel site="tvtv.us" site_id="24344" lang="en" xmltv_id="S1175">PBS (KQED) San Francisco, CA</channel>
+  <channel site="tvtv.us" site_id="66291" lang="en" xmltv_id="S1177">PBS (WCMU-TV) Mount Pleasant, MI</channel>
+  <channel site="tvtv.us" site_id="34325" lang="en" xmltv_id="S1179">PBS (WLIW-DT1) New York, NY</channel>
+  <channel site="tvtv.us" site_id="19581" lang="en" xmltv_id="S1182">PBS (WETA-DT1) Washington D.C.</channel>
+  <channel site="tvtv.us" site_id="20372" lang="en" xmltv_id="S1184">PBS (KERA-DT1) Dallas, TX</channel>
+  <channel site="tvtv.us" site_id="25512" lang="en" xmltv_id="S1186">PBS (WTVS-DT1) Detroit, MI</channel>
+  <channel site="tvtv.us" site_id="26193" lang="en" xmltv_id="S1189">PBS (KUHT-DT1) Houston, TX</channel>
+  <channel site="tvtv.us" site_id="43777" lang="en" xmltv_id="S1193">PBS (KLCS) Los Angeles, CA</channel>
+  <channel site="tvtv.us" site_id="24114" lang="en" xmltv_id="S1197">PBS (WHYY-DT1) Philadelphia, PA</channel>
+  <channel site="tvtv.us" site_id="59160" lang="en" xmltv_id="S1201">PBS (WHUT-DT1) Washington, DC</channel>
+  <channel site="tvtv.us" site_id="34544" lang="en" xmltv_id="S1203">PBS SoCal1 (KOCE) Huntington Beach, CA</channel>
+  <channel site="tvtv.us" site_id="34197" lang="en" xmltv_id="S1205">PBS (KVIE) Sacramento, CA</channel>
+  <channel site="tvtv.us" site_id="44366" lang="en" xmltv_id="S1207">PBS (WVIZ-DT1) Cleveland, OH</channel>
+  <channel site="tvtv.us" site_id="32074" lang="en" xmltv_id="S1209">PBS (WCNY-TV) Syracuse, NY</channel>
+  <channel site="tvtv.us" site_id="35058" lang="en" xmltv_id="S1213">PBS (WBGU-TV) Toledo, OH</channel>
+  <channel site="tvtv.us" site_id="36205" lang="en" xmltv_id="S1215">PBS (WGTE-TV) Toledo, OH</channel>
+  <channel site="tvtv.us" site_id="76375" lang="en" xmltv_id="S1216">Pac-12 Los Angeles</channel>
+  <channel site="tvtv.us" site_id="102978" lang="en" xmltv_id="S1217">Cine Sony</channel>
+  <channel site="tvtv.us" site_id="20622" lang="en" xmltv_id="S1222">SHOxBET East</channel>
+  <channel site="tvtv.us" site_id="12852" lang="en" xmltv_id="S1224">TCM</channel>
+  <channel site="tvtv.us" site_id="16220" lang="en" xmltv_id="S1225">Free Speech TV</channel>
+  <channel site="tvtv.us" site_id="61854" lang="en" xmltv_id="S1232">Golf Channel</channel>
+  <channel site="tvtv.us" site_id="11286" lang="en" xmltv_id="S1235">ABC (WATE) KNOXVILLE</channel>
+  <channel site="tvtv.us" site_id="14753" lang="en" xmltv_id="S1237">FX West</channel>
+  <channel site="tvtv.us" site_id="31709" lang="en" xmltv_id="S1239">ABC (WTVG) Toledo, OH</channel>
+  <channel site="tvtv.us" site_id="14767" lang="en" xmltv_id="S1244">TBN East</channel>
+  <channel site="tvtv.us" site_id="10139" lang="en" xmltv_id="S1250">CNBC</channel>
+  <channel site="tvtv.us" site_id="74625" lang="en" xmltv_id="S1259">NBC (KATH-LD1) Juneau, AK</channel>
+  <channel site="tvtv.us" site_id="33819" lang="en" xmltv_id="S1267">NBC (KHQ-DT1) Spokane, WA</channel>
+  <channel site="tvtv.us" site_id="101752" lang="en" xmltv_id="S1292">The Grio</channel>
+  <channel site="tvtv.us" site_id="113372" lang="en" xmltv_id="S1295">World Poker Tour</channel>
+  <channel site="tvtv.us" site_id="31225" lang="en" xmltv_id="S1297">WLNY 10/55 (WLNY-DT1) New York, NY</channel>
+  <channel site="tvtv.us" site_id="11160" lang="en" xmltv_id="S1298">The Movie Channel East</channel>
+  <channel site="tvtv.us" site_id="29025" lang="en" xmltv_id="S1306">ABC (WBAY-DT1) Green Bay, WI</channel>
+  <channel site="tvtv.us" site_id="20494" lang="en" xmltv_id="S1308">ABC (WSOC-DT1) Charlotte, NC</channel>
+  <channel site="tvtv.us" site_id="76363" lang="en" xmltv_id="S1311">Telemundo (WZDC-CD1) Washington, DC</channel>
+  <channel site="tvtv.us" site_id="109454" lang="en" xmltv_id="S1314">Start TV</channel>
+  <channel site="tvtv.us" site_id="10269" lang="en" xmltv_id="S1319">HSN</channel>
+  <channel site="tvtv.us" site_id="44263" lang="en" xmltv_id="S1323">Altitude Sports</channel>
+  <channel site="tvtv.us" site_id="10002" lang="en" xmltv_id="S1326">3ABN English</channel>
+  <channel site="tvtv.us" site_id="30608" lang="en" xmltv_id="S1331">NBC (KTVM-DT1) Butte, MT</channel>
+  <channel site="tvtv.us" site_id="49751" lang="en" xmltv_id="S1339">IndiePlex East</channel>
+  <channel site="tvtv.us" site_id="15295" lang="en" xmltv_id="S1341">MoviePlex East</channel>
+  <channel site="tvtv.us" site_id="75420" lang="en" xmltv_id="S1344">ABC (KESQ) Palm Springs, CA</channel>
+  <channel site="tvtv.us" site_id="77375" lang="en" xmltv_id="S1346">Spectrum SportsNet</channel>
+  <channel site="tvtv.us" site_id="82446" lang="en" xmltv_id="S1349">Dog TV</channel>
+  <channel site="tvtv.us" site_id="32495" lang="en" xmltv_id="S1356">ABC (WATM1) Altoona, PA</channel>
+  <channel site="tvtv.us" site_id="11062" lang="en" xmltv_id="S1364">Root Sports Northwest</channel>
+  <channel site="tvtv.us" site_id="26192" lang="en" xmltv_id="S1367">PBS (WPBT-DT1) Miami, FL</channel>
+  <channel site="tvtv.us" site_id="34429" lang="en" xmltv_id="S1369">NBC (WJAC1) Altoona, PA</channel>
+  <channel site="tvtv.us" site_id="110288" lang="en" xmltv_id="S1372">Cleo TV</channel>
+  <channel site="tvtv.us" site_id="42750" lang="en" xmltv_id="S1383">NewsChannel 12 OEYT (KCOY) Santa Maria, CA</channel>
+  <channel site="tvtv.us" site_id="36184" lang="en" xmltv_id="S1393">ABC (KGUN-DT1) Tucson, AZ</channel>
+  <channel site="tvtv.us" site_id="43430" lang="en" xmltv_id="S1397">CW (WNLO1) Buffalo, NY</channel>
+  <channel site="tvtv.us" site_id="110657" lang="en" xmltv_id="S1409">Stingray Karaoke</channel>
+  <channel site="tvtv.us" site_id="17142" lang="en" xmltv_id="S1412">HITN</channel>
+  <channel site="tvtv.us" site_id="32823" lang="en" xmltv_id="S1416">CBS (WTAJ1) Altoona, PA</channel>
+  <channel site="tvtv.us" site_id="112881" lang="en" xmltv_id="S1418">Dust</channel>
+  <channel site="tvtv.us" site_id="112797" lang="en" xmltv_id="S1420">Electric Now</channel>
+  <channel site="tvtv.us" site_id="33668" lang="en" xmltv_id="S1423">HDNet Movies</channel>
+  <channel site="tvtv.us" site_id="34425" lang="en" xmltv_id="S1426">CW (WUCW-DT1) St Paul, MN</channel>
+  <channel site="tvtv.us" site_id="24345" lang="en" xmltv_id="S1428">My Nework TV (KUTP-DT1) Arizona, PX</channel>
+  <channel site="tvtv.us" site_id="32633" lang="en" xmltv_id="S1431">CW (WLVI-DT1) Boston, MA</channel>
+  <channel site="tvtv.us" site_id="34022" lang="en" xmltv_id="S1440">ABC (KERO) Bakersfield, CA</channel>
+  <channel site="tvtv.us" site_id="28023" lang="en" xmltv_id="S1446">ABC (KIVI-DT1) Boise, ID</channel>
+  <channel site="tvtv.us" site_id="31652" lang="en" xmltv_id="S1448">ABC (KLKN-DT1) Lincoln, NE</channel>
+  <channel site="tvtv.us" site_id="54511" lang="en" xmltv_id="S1456">ABC (KTMF) Missoula, MT</channel>
+  <channel site="tvtv.us" site_id="62998" lang="en" xmltv_id="S1459">ABC (KWYB-DT1) Butte, MT</channel>
+  <channel site="tvtv.us" site_id="29612" lang="en" xmltv_id="S1481">Lifetime Real Women East</channel>
+  <channel site="tvtv.us" site_id="112487" lang="en" xmltv_id="S1482">Pursuit Up</channel>
+  <channel site="tvtv.us" site_id="113143" lang="en" xmltv_id="S1491">beIN Sports Xtra USA</channel>
+  <channel site="tvtv.us" site_id="21650" lang="en" xmltv_id="S1493">KTVU Plus (KICU-TV) San Jose, CA</channel>
+  <channel site="tvtv.us" site_id="42644" lang="en" xmltv_id="S1498">NBC (WLUC-TV) Marquette, MI</channel>
+  <channel site="tvtv.us" site_id="48129" lang="en" xmltv_id="S1505">MTV2 West</channel>
+  <channel site="tvtv.us" site_id="33815" lang="en" xmltv_id="S1509">UNI (KFTV) Fresno, CA</channel>
+  <channel site="tvtv.us" site_id="55241" lang="en" xmltv_id="S1519">ION Plus East</channel>
+  <channel site="tvtv.us" site_id="90209" lang="en" xmltv_id="S1522">NickMusic</channel>
+  <channel site="tvtv.us" site_id="31030" lang="en" xmltv_id="S1523">Music Choice Metal</channel>
+  <channel site="tvtv.us" site_id="72413" lang="en" xmltv_id="S1526">WeatherNation</channel>
+  <channel site="tvtv.us" site_id="20373" lang="en" xmltv_id="S1528">CW (WPIX-DT1) NY</channel>
+  <channel site="tvtv.us" site_id="29328" lang="en" xmltv_id="S1542">Hillsong Channel</channel>
+  <channel site="tvtv.us" site_id="43708" lang="en" xmltv_id="S1549">PBS (WGVU-TV) Grand Rapids, MI</channel>
+  <channel site="tvtv.us" site_id="26182" lang="en" xmltv_id="S1552">PBS (WNET-DT1) New York, NY</channel>
+  <channel site="tvtv.us" site_id="49603" lang="en" xmltv_id="S1553">SportsNet New York</channel>
+  <channel site="tvtv.us" site_id="16376" lang="en" xmltv_id="S1557">VH1 West</channel>
+  <channel site="tvtv.us" site_id="34603" lang="en" xmltv_id="S1562">FOX (WFQX-TV) Cadillac, MI</channel>
+  <channel site="tvtv.us" site_id="12468" lang="en" xmltv_id="S1565">Telemundo (WKAQ-DT1) San Juan, PR</channel>
+  <channel site="tvtv.us" site_id="112157" lang="en" xmltv_id="S1571">Dabl</channel>
+  <channel site="tvtv.us" site_id="31042" lang="en" xmltv_id="S1577">ABC (WCTI-DT1) New Bern, NC</channel>
+  <channel site="tvtv.us" site_id="18633" lang="en" xmltv_id="S1579">ION TV East</channel>
+  <channel site="tvtv.us" site_id="61776" lang="en" xmltv_id="S1582">Pasiones US</channel>
+  <channel site="tvtv.us" site_id="65064" lang="en" xmltv_id="S1584">Estrella TV</channel>
+  <channel site="tvtv.us" site_id="30645" lang="en" xmltv_id="S1589">PBS (WUNC-TV) Chapel Hill, NC</channel>
+  <channel site="tvtv.us" site_id="30415" lang="en" xmltv_id="S1596">PBS (WTTW-DT1) Chicago, IL</channel>
+  <channel site="tvtv.us" site_id="10145" lang="en" xmltv_id="S1603">HLN</channel>
+  <channel site="tvtv.us" site_id="18332" lang="en" xmltv_id="S1607">BBC America East</channel>
+  <channel site="tvtv.us" site_id="26849" lang="en" xmltv_id="S1609">CNBC World</channel>
+  <channel site="tvtv.us" site_id="89690" lang="en" xmltv_id="S1610">BBC World News (North America)</channel>
+  <channel site="tvtv.us" site_id="71798" lang="en" xmltv_id="S1613">Impact Network</channel>
+  <channel site="tvtv.us" site_id="109333" lang="en" xmltv_id="S1616">Cheddar News</channel>
+  <channel site="tvtv.us" site_id="71799" lang="en" xmltv_id="S1619">Bloomberg Television</channel>
+  <channel site="tvtv.us" site_id="96827" lang="en" xmltv_id="S1620">Newsy</channel>
+  <channel site="tvtv.us" site_id="19515" lang="en" xmltv_id="S1623">KTLA 5 (KTLA) Los Angeles, CA</channel>
+  <channel site="tvtv.us" site_id="54437" lang="en" xmltv_id="S1626">Telemundo (WNJU-DT1) New York, NY</channel>
+  <channel site="tvtv.us" site_id="48099" lang="en" xmltv_id="S1628">Fight Network</channel>
+  <channel site="tvtv.us" site_id="26636" lang="en" xmltv_id="S1631">CW (KDAF-DT1) Dallas, TX</channel>
+  <channel site="tvtv.us" site_id="91496" lang="en" xmltv_id="S1635">True Crime Network</channel>
+  <channel site="tvtv.us" site_id="114142" lang="en" xmltv_id="S1637">PBS (KTCA-DT1) St Paul, MN</channel>
+  <channel site="tvtv.us" site_id="89922" lang="en" xmltv_id="S1641">Grit</channel>
+  <channel site="tvtv.us" site_id="59517" lang="en" xmltv_id="S1643">NBC (WMBF-TV) Myrtle Beach, SC</channel>
+  <channel site="tvtv.us" site_id="33787" lang="en" xmltv_id="S1646">PBS (WFYI-DT1) Indianapolis, IN</channel>
+  <channel site="tvtv.us" site_id="26588" lang="en" xmltv_id="S1653">CW 18(WKCF-DT1) Orlando, FL</channel>
+  <channel site="tvtv.us" site_id="43182" lang="en" xmltv_id="S1660">ABC (WTOK-DT1) Meridian, MS</channel>
+  <channel site="tvtv.us" site_id="114174" lang="en" xmltv_id="S1661">NBC News Now</channel>
+  <channel site="tvtv.us" site_id="20625" lang="en" xmltv_id="S1664">SHOxBET West</channel>
+  <channel site="tvtv.us" site_id="10222" lang="en" xmltv_id="S1668">Galavisión Este</channel>
+  <channel site="tvtv.us" site_id="69718" lang="en" xmltv_id="S1670">FOX (KBFX) Bakersfield, CA</channel>
+  <channel site="tvtv.us" site_id="11007" lang="en" xmltv_id="S1672">Nickelodeon West</channel>
+  <channel site="tvtv.us" site_id="80302" lang="en" xmltv_id="S1676">Investigation Discovery West</channel>
+  <channel site="tvtv.us" site_id="114759" lang="en" xmltv_id="S1678">AMC Plus</channel>
+  <channel site="tvtv.us" site_id="25102" lang="en" xmltv_id="S1681">PBS (KAET-DT1) Arizona PX</channel>
+  <channel site="tvtv.us" site_id="88545" lang="en" xmltv_id="S1683">History West</channel>
+  <channel site="tvtv.us" site_id="35911" lang="en" xmltv_id="S1688">WMBC (WMBC-DT1) Newton, NJ</channel>
+  <channel site="tvtv.us" site_id="62900" lang="en" xmltv_id="S1693">Catholic Faith Network</channel>
+  <channel site="tvtv.us" site_id="73413" lang="en" xmltv_id="S1695">FETV</channel>
+  <channel site="tvtv.us" site_id="70113" lang="en" xmltv_id="S1698">PixL TV</channel>
+  <channel site="tvtv.us" site_id="34808" lang="en" xmltv_id="S1702">CW (KPLR-DT1) St Louis MO</channel>
+  <channel site="tvtv.us" site_id="26046" lang="en" xmltv_id="S1705">TV Land West</channel>
+  <channel site="tvtv.us" site_id="18430" lang="en" xmltv_id="S1711">HBO Comedy West</channel>
+  <channel site="tvtv.us" site_id="89535" lang="en" xmltv_id="S1714">SEC Network</channel>
+  <channel site="tvtv.us" site_id="51809" lang="en" xmltv_id="S1720">PBS (WQED-DT1) Pittsburgh, PA</channel>
+  <channel site="tvtv.us" site_id="102148" lang="en" xmltv_id="S1725">Charge!</channel>
+  <channel site="tvtv.us" site_id="76370" lang="en" xmltv_id="S1726">Pac-12 Bay Area</channel>
+  <channel site="tvtv.us" site_id="34150" lang="en" xmltv_id="S1728">UNI (KUVS) Modesto, CA</channel>
+  <channel site="tvtv.us" site_id="119219" lang="en" xmltv_id="S1736">LiveNow From FOX</channel>
+  <channel site="tvtv.us" site_id="73075" lang="en" xmltv_id="S1741">MGM+ Hits East</channel>
+  <channel site="tvtv.us" site_id="74073" lang="en" xmltv_id="S1743">MGM+ Marquee</channel>
+  <channel site="tvtv.us" site_id="65669" lang="en" xmltv_id="S1745">MGM+ East</channel>
+  <channel site="tvtv.us" site_id="66073" lang="en" xmltv_id="S1747">MGM+ West</channel>
+  <channel site="tvtv.us" site_id="80740" lang="en" xmltv_id="S1752">Comedy.TV</channel>
+  <channel site="tvtv.us" site_id="17665" lang="en" xmltv_id="S1753">C-SPAN3</channel>
+  <channel site="tvtv.us" site_id="121307" lang="en" xmltv_id="S1757">FOX Weather</channel>
+  <channel site="tvtv.us" site_id="10270" lang="en" xmltv_id="S1759">HSN2</channel>
+  <channel site="tvtv.us" site_id="21657" lang="en" xmltv_id="S1761">CW (KIAH-DT1) Houston, TX</channel>
+  <channel site="tvtv.us" site_id="19592" lang="en" xmltv_id="S1764">CW (WISH-DT1) Indianapolis, IN</channel>
+  <channel site="tvtv.us" site_id="36075" lang="en" xmltv_id="S1773">CBS (WTVR-DT) Richmond, KY</channel>
+  <channel site="tvtv.us" site_id="34516" lang="en" xmltv_id="S1777">CW (WUAB-DT1) Cleveland, OH</channel>
+  <channel site="tvtv.us" site_id="18717" lang="en" xmltv_id="S1779">CMT Music</channel>
+  <channel site="tvtv.us" site_id="116474" lang="en" xmltv_id="S1780">Game Show Central</channel>
+  <channel site="tvtv.us" site_id="20370" lang="en" xmltv_id="S1783">CW (KWGN-DT1) Denver, CO</channel>
+  <channel site="tvtv.us" site_id="99865" lang="en" xmltv_id="S1785">FOX (KDFX) Palm Springs, CA</channel>
+  <channel site="tvtv.us" site_id="31556" lang="en" xmltv_id="S1788">AMC West</channel>
+  <channel site="tvtv.us" site_id="55433" lang="en" xmltv_id="S1789">MASN2</channel>
+  <channel site="tvtv.us" site_id="28025" lang="en" xmltv_id="S1795">ABC (KOLO-DT1) Reno, NV</channel>
+  <channel site="tvtv.us" site_id="10919" lang="en" xmltv_id="S1797">Lifetime West</channel>
+  <channel site="tvtv.us" site_id="10242" lang="en" xmltv_id="S1799">HBO2 West</channel>
+  <channel site="tvtv.us" site_id="16576" lang="en" xmltv_id="S1801">HBO Signature West</channel>
+  <channel site="tvtv.us" site_id="114934" lang="en" xmltv_id="S1803">The First</channel>
+  <channel site="tvtv.us" site_id="58698" lang="en" xmltv_id="S1807">Mega TV</channel>
+  <channel site="tvtv.us" site_id="20289" lang="en" xmltv_id="S1813">WFMZ69 (WFMZ-DT1) Allentown, PA</channel>
+  <channel site="tvtv.us" site_id="32744" lang="en" xmltv_id="S1818">CW (WDCW-DT1) Washington D.C.</channel>
+  <channel site="tvtv.us" site_id="44895" lang="en" xmltv_id="S1819">AWE</channel>
+  <channel site="tvtv.us" site_id="25595" lang="en" xmltv_id="S1823">ESPN Deportes</channel>
+  <channel site="tvtv.us" site_id="44917" lang="en" xmltv_id="S1825">NBC Sports California</channel>
+  <channel site="tvtv.us" site_id="10979" lang="en" xmltv_id="S1827">MSG</channel>
+  <channel site="tvtv.us" site_id="58570" lang="en" xmltv_id="S1831">NHL Network</channel>
+  <channel site="tvtv.us" site_id="113002" lang="en" xmltv_id="S1833">ScreenPix Westerns</channel>
+  <channel site="tvtv.us" site_id="113001" lang="en" xmltv_id="S1835">ScreenPix</channel>
+  <channel site="tvtv.us" site_id="113003" lang="en" xmltv_id="S1837">ScreenPix Action</channel>
+  <channel site="tvtv.us" site_id="29024" lang="en" xmltv_id="S1839">PBS (KPBS) San Diego, CA</channel>
+  <channel site="tvtv.us" site_id="67890" lang="en" xmltv_id="S1841">TBS West</channel>
+  <channel site="tvtv.us" site_id="11549" lang="en" xmltv_id="S1844">Blaze</channel>
+  <channel site="tvtv.us" site_id="113004" lang="en" xmltv_id="S1855">ScreenPix Voices</channel>
+  <channel site="tvtv.us" site_id="74299" lang="en" xmltv_id="S1861">TeleXitos</channel>
+  <channel site="tvtv.us" site_id="20375" lang="en" xmltv_id="S1865">ABC (KSFY-DT1) Sioux Falls, SD</channel>
+  <channel site="tvtv.us" site_id="24020" lang="en" xmltv_id="S1869">KCET (KCET) Los Angeles, CA</channel>
+  <channel site="tvtv.us" site_id="16484" lang="en" xmltv_id="S1880">BET Gospel</channel>
+  <channel site="tvtv.us" site_id="34474" lang="en" xmltv_id="S1882">ABC (KRCR) Redding, CA</channel>
+  <channel site="tvtv.us" site_id="32516" lang="en" xmltv_id="S1887">CW (WCCT-DT1) Hartford, CT</channel>
+  <channel site="tvtv.us" site_id="32281" lang="en" xmltv_id="S1894">NBA TV</channel>
+  <channel site="tvtv.us" site_id="21345" lang="en" xmltv_id="S1897">FanDuel TV</channel>
+  <channel site="tvtv.us" site_id="32258" lang="en" xmltv_id="S1899">FanDuel Racing</channel>
+  <channel site="tvtv.us" site_id="70248" lang="en" xmltv_id="S1902">Antenna TV</channel>
+  <channel site="tvtv.us" site_id="9581" lang="en" xmltv_id="S1908">Spectrum OC16</channel>
+  <channel site="tvtv.us" site_id="11725" lang="en" xmltv_id="S1923">PBS (WNJT-DT1) Trenton, NJ</channel>
+  <channel site="tvtv.us" site_id="34805" lang="en" xmltv_id="S1948">ABC (WHSV-DT1) Harrisonburg, VA</channel>
+  <channel site="tvtv.us" site_id="25509" lang="en" xmltv_id="S1952">MyNetworkTV (KQCA) Sacramento, CA</channel>
+  <channel site="tvtv.us" site_id="21781" lang="en" xmltv_id="S1969">The Word Network</channel>
+  <channel site="tvtv.us" site_id="107478" lang="en" xmltv_id="S1974">TYT Network</channel>
+  <channel site="tvtv.us" site_id="108970" lang="en" xmltv_id="S1982">VSiN</channel>
+  <channel site="tvtv.us" site_id="44382" lang="en" xmltv_id="S1998">Game Show Network West</channel>
+  <channel site="tvtv.us" site_id="69639" lang="en" xmltv_id="S2000">The Country Network</channel>
+  <channel site="tvtv.us" site_id="16575" lang="en" xmltv_id="S2043">Flix West</channel>
+  <channel site="tvtv.us" site_id="10201" lang="en" xmltv_id="S2045">Flix East</channel>
+  <channel site="tvtv.us" site_id="36099" lang="en" xmltv_id="S2069">CW (WCIU-DT1) Chicago, IL</channel>
+  <channel site="tvtv.us" site_id="55926" lang="en" xmltv_id="S2070">WBNX-TV 55 (WBNX-DT1) Akron, OH</channel>
+  <channel site="tvtv.us" site_id="24405" lang="en" xmltv_id="S2120">Music Choice 80s</channel>
+  <channel site="tvtv.us" site_id="44447" lang="en" xmltv_id="S2124">NBC Sports Chicago</channel>
+  <channel site="tvtv.us" site_id="43377" lang="en" xmltv_id="S2129">Pop West</channel>
+  <channel site="tvtv.us" site_id="62079" lang="en" xmltv_id="S2158">MLB Network</channel>
+  <channel site="tvtv.us" site_id="80404" lang="en" xmltv_id="S2159">MLB Strike Zone</channel>
+  <channel site="tvtv.us" site_id="77033" lang="en" xmltv_id="S2162">TUDN</channel>
+</channels>
