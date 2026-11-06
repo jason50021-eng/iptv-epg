@@ -2,6 +2,28 @@ No free guide source carries these channels (Spectrum News, News 12, Music Choic
 public-access stations, some streaming-only channels, numbered
 Starzplay / ViX / Conmebol slots). They will stay blank.
 
+AL | Dothan | FOX Net
+FL | City | FOX Net Panama
+IA | Ottumwa | FOX Net
+IA | Sioux City | Telemundo KBWF
+ID | Twin Falls | FOX Net
+IN | Lafayette | NBC WSPB
+LA | Charles | FOX Net Lake
+MD | Minot | FOX Net
+ME | Presque Isle | FOX Net
+MI | Marquette | FOX Net
+MO | St. Joseph | CBS KCJO-LD
+NC | Wilmington | FOX Net
+NY | Binghampton | FOX Net
+NY | New York | CW (PIX 11)
+OR | Medford | FOX Net
+PA | Jeannette | CW WPCW
+SD | City | FOX Net Rapid
+TX | Abilene | FOX Net
+TX | Lubbock | FOX Net
+TX | San Angelo | FOX Net
+TX | Sherman | FOX Net
+USA (Faith) Hillsong
 USA (Latin) ViX Deportes 1
 USA (Latin) ViX Deportes 10
 USA (Latin) ViX Deportes 11
@@ -27,6 +49,7 @@ USA (Latin) ViX Deportes 8
 USA (Latin) ViX Deportes 9
 USA (STIRR) AFV
 USA (STIRR) Quicktake (D)
+USA 3ABN English
 USA 3ABN Praise
 USA 80s Sitcoms
 USA 90s Sitcoms
@@ -35,61 +58,67 @@ USA ABC Houston WTRK
 USA ABC News International
 USA ABC Washington
 USA AHC
-USA ARIZONA'S FAMILY 3 KTVK
+USA AT&T SportsNet Pittsburgh
 USA AXS TV Now
 USA Altitude Sports 2
-USA Angels Broadcast Television (ABTV)
+USA Atlanta Channel
 USA Atlanta News First (WANF)
+USA BBC World News
 USA BEACH TV - FLORIDA - ALABAMA
 USA BEACH TV - KEY WEST - FLORIDA KEYS
 USA BEACH TV - MYRTLE BEACH SC - GRAND STAND
+USA BEACH TV - PANAMA CITY
 USA Bally SPORTS YES HD
 USA BeIN Sports LaLiga
 USA Bible Explorations
+USA Binge TV
 USA Black Voices
 USA Bonappetit
 USA Boxing TV
 USA BravesVision
 USA CBN News International
-USA CBS 2 (KPSP) Palm Springs
-USA CBS 9 KCAL LOS ANGELES
-USA CBS KCAL Los Angeles
 USA CBS POP
-USA CBSN Boston
-USA CBSN Chicago
 USA CBSN Dallas
 USA CBSN Denver
-USA CBSN Minnesota
-USA CBSN New York
-USA CBSN Pittsburgh
+USA CINE SONY HD
+USA CNN en Español*
 USA CTN TV  - CONNETICUT
 USA CW 11 AMARILLO
-USA CW 44 WTOG ST. PETERSBURG
-USA CW44 (WTOG) St. Petersburg
+USA CW 19 WPCW JEANETTE
+USA CW 19 WPCW PITTSBURGH
+USA CW 43 (WBNX) Cleveland
+USA CW 43 WBNX Cleveland
+USA CW 50 WKBD DETROIT
+USA CW East Philadelphia UHD
+USA CW19 (WPCW) Pittsburgh
+USA CW44 (KBCW) Bay Area
+USA CW50 (WKBD) Detroit
+USA Cheddar Business
+USA Cincinnati Reds
 USA Clubbing TV
 USA Conmebol 1
 USA Conmebol 2
 USA Conmebol 3
 USA Conmebol 4
-USA Cornerstone
 USA Country Today
 USA Cycling 05
 USA DC COUNCIL CHANNEL
-USA DISTRICT OF COLUMBIA NETWORK
 USA Def Jam
 USA Detroit SportsNet
 USA Diamondbac Baseball
 USA Discovery Español*
 USA Discovery Science UHD*
 USA Discovery Science*
-USA District of Columbia Network
+USA EPIX
+USA EPIX Hits LHD
 USA EPIX2
 USA ESPORTS TELEVISION (ESTV)
 USA Edgesports
+USA Epix Hits UHD
+USA FE TV
 USA FNTSY SPORTS NETWORK | HD
 USA FOX 53 WGPH PITTSBURGH
-USA FOX 54 WZDX HUNTSVILLE
-USA FOX 54 WZDX Huntsville
+USA FOX Sports Southwest
 USA FOXNET HARRISONBURG VA
 USA FOXNET LUBBOCK TX
 USA FOXNET SAN ANGELO TX
@@ -100,6 +129,7 @@ USA Fawesome
 USA First Alert 4 St. Louis
 USA Flo Racing
 USA For The Fans
+USA Fox College Sports Pacific
 USA Fox Network Miami UHD
 USA FoxNET WEST
 USA GBN
@@ -109,26 +139,24 @@ USA Great American Christmas Family
 USA Great American Living
 USA Gulf Coast Sports and Entertainment Network (GCSEN)
 USA HBCU Go
-USA HBO Boxing
 USA Hip Hop Evolution
 USA History Military
 USA Home Crashers
 USA Horror Machine
 USA Horse and Country
 USA ID East UHD*
+USA InfoWars
 USA Insight TV
 USA KEY TV
-USA KJZZ 14 (KJZZDT) Salt Lake City
-USA KTVK 3TV Arizona's Family Phoenix
 USA LATIN Gala TV
 USA LEOMINSTER TV EDUCATIONAL
 USA LEOMINSTER TV GOVERNMENT
 USA LEOMINSTER TV PUBLIC
 USA Latin Benfica FC
 USA Latin DP Clasico
-USA Latin EVTV
 USA Latin El Gourmet
 USA Latin El Trece Internacional
+USA Latin Kanal D Drama
 USA Latin LA 1
 USA Latin La 1 Catalunya
 USA Latin La 2
@@ -136,7 +164,6 @@ USA Latin La Sexta
 USA Latin Mas Chic
 USA Latin NOVA
 USA Latin Neox
-USA Latin Nuestra Tele Noticias 24
 USA Latin RTP Internacional
 USA Latin RTPI
 USA Latin Supercanal Caribe
@@ -151,7 +178,11 @@ USA Latin TUDN X7*
 USA Latin TUDN X8*
 USA Latin TUDN X9*
 USA Latin TVE International
+USA Latin Telemicro Internacional
 USA Latin Wapa Puerto Rico
+USA Latin ZONA Futbol
+USA MASN 2
+USA MAV TV
 USA MC Radio Gospel
 USA MC Radio | Reggae
 USA MC Video | Disney
@@ -160,8 +191,12 @@ USA MC Video | Pride
 USA MC Video | Soft Rock
 USA MC Video | Wonderama
 USA MC Video | Youth Hits
+USA MY 38 - BOSTON
+USA MY 50 - CHICAGO
+USA MY 50 WPWR CHICAGO
 USA MavTV Motorsports Network FHD
 USA Milwaukee Brewers
+USA Music Choice Classic Country
 USA Music Choice Video Soundscape
 USA Music Choice Video | 90's
 USA Music Choice Video | Alternative
@@ -190,26 +225,29 @@ USA Music Choice Video | Today's Country: CMA Awards
 USA Music Choice Video | Toddler Tunes
 USA Music Choice Video | Tropicales
 USA Music Choice Video | Y2K
+USA Music Choice | Easy Listening
+USA Music Choice | Metal
 USA My 9 New Jersey
-USA MyNetworkTV 20 (WMYD) Detroit
 USA NASA+
 USA NBC 10 NECN Boston
 USA NBC 12 WFSA Montgomery
 USA NBC Dateline
 USA NBC GOLF HD
 USA NBC Golf Pass
+USA NBC SPORTS PHILLY HD
+USA NBC Sports Washington LHD
 USA NBC Sports Washington Plus
+USA NBCSN BOSTON | HD
 USA NBCSN Bay Area HD
 USA NBCSN NORTHWEST | HD
+USA NBCSN PHILADELPHIA HD
 USA NBCSN WASHINGTON | HD
+USA NFL Red Zone LHD
 USA NHL Carolina Hurricanes
 USA NO TV - NEW ORLEANS TELEVISION
-USA New England Cable News
 USA News 12 Brooklyn
 USA News 12 Hudson Valley
-USA News 12 New Jersey
 USA News 12 The Bronx
-USA News 12 Westchester
 USA News12+ Bronx (HD)
 USA News12+ Brooklyn (HD)
 USA News12+ Connecticut (HD)
@@ -217,7 +255,8 @@ USA News12+ Hudson Valley (HD)
 USA News12+ Long Island (HD)
 USA News12+ New Jersey (HD)
 USA News12+ Westchester (HD)
-USA News4 WJXT Jacksonville
+USA Newsy
+USA PAC-12 Mountain
 USA PBS (ATLPBA) Atlanta
 USA PBS (ETPBS) Knoxville
 USA PBS (ETPBS) Tri-Cities
@@ -230,8 +269,7 @@ USA PBS (RMPBS) DENVER
 USA PBS (SCETV) CHARLOTTE
 USA PBS (UNC-TV) Norfolk/Portsmouth/Newport News
 USA PBS (WHRG) Norfolk/Portsmouth/Newport News
-USA PBS 13 NEW YORK
-USA PBS 13 New York
+USA PBS 28 (KCET) Los Angeles
 USA PBS 36 Odessa/Midland
 USA PBS 48 CET CINCINNATI
 USA PBS Albuquerque-Santa Fe
@@ -241,6 +279,7 @@ USA PBS Lowa Davenport/Rock Island/Moline
 USA PBS Mobile/Pensacola/Fort Walton Beach
 USA PBS South Florida West Palm Beach/Fort Pierce
 USA PCC TV PINELLAS COUNTY FLORIDA
+USA Pac-12 Network
 USA PokerGo+
 USA Pop Music
 USA QVC 3
@@ -256,38 +295,32 @@ USA Revry News
 USA Rock 00-99
 USA Rock 80-90
 USA Rock Modern 2020
+USA Root Sports Northwest
+USA Root Sports Northwest Plus
 USA SPECTRUM NEWS - ALBANY CAPITAL REGION
 USA SPECTRUM NEWS - CENTRAL NY
-USA SPECTRUM NEWS 1 (CAROLINAS) - CHARLOTTE
 USA SPECTRUM NEWS 1 (CAROLINAS) - COASTAL
 USA SPECTRUM NEWS 1 - (KENTUCKY) - COVINGTON
 USA SPECTRUM NEWS 1 - (KENTUCKY) - EVANSVILLE
 USA SPECTRUM NEWS 1 - (KENTUCKY) LEXINGTON
-USA SPECTRUM NEWS 1 - (KENTUCKY) LOUISVILLE
 USA SPECTRUM NEWS 1 - CINCINNATI
 USA SPECTRUM NEWS 1 - CLEVELAND/AKRON
 USA SPECTRUM NEWS 1 - COLUMBUS
-USA SPECTRUM NEWS 1 - DALLAS -FT WORTH
 USA SPECTRUM NEWS 1 - DAYTON
 USA SPECTRUM NEWS 1 - SO CAL
 USA SPECTRUM NEWS 1 - TOLEDO/LIMA
 USA Saigon Broadcasting Television Network (SBTN)
 USA ScreamboxTV
 USA Silver State Sports & Entertainment Network (SSSEN)
+USA Sony Movie Channel
+USA Sony Movie Channel LHD
 USA Spectrum Bay News 9
 USA Spectrum News 1 Albany
-USA Spectrum News 1 Buffalo
-USA Spectrum News 1 Carolinas Mountain
 USA Spectrum News 1 Dallas
 USA Spectrum News 1 Greensboro HD
-USA Spectrum News 1 Kansas City
-USA Spectrum News 1 Kentucky
 USA Spectrum News 1 Ohio
 USA Spectrum News 1 Pittsfield
 USA Spectrum News 1 ROTX
-USA Spectrum News 1 Raleigh
-USA Spectrum News 1 Rochester
-USA Spectrum News 1 Southern Tier
 USA Spectrum News 1 Springfield
 USA Spectrum News 1 Wisconsin
 USA Spectrum News 13
@@ -296,8 +329,12 @@ USA Spectrum News Maine
 USA Spectrum News NY1
 USA Spectrum News San Antonio
 USA Spectrum Noticias NY1
+USA Spectrum OC16
 USA Spectrum Sports 1
 USA Spectrum Sports 2
+USA Spectrum SportsNet La Dodgers
+USA Spectrum SportsNet La Dodgers HD
+USA Spectrum SportsNet Lakers
 USA Spectrum XCast
 USA Spectrum XCast 2
 USA Spectrum XCast 3
@@ -318,16 +355,21 @@ USA Starzplay 6
 USA Starzplay 7
 USA Starzplay 8
 USA Starzplay 9
-USA Stellar
 USA SurvivorNetTV
 USA T2 Tennis
-USA TXA21 (KTXA) Dallas
+USA TELEMUNDO 47 NEW YORK
+USA The Now Network
 USA The Real Houswives
 USA UFC Fight Pass
+USA VSIN HD
 USA Victory Television Network
-USA WATC-57 Atlanta
 USA WGN 9 CHICAGO
+USA WILLOW XTRA HD
 USA Willow Extra
 USA beIN SPORTS enEspanol
 USA beIN Sports 01
 USA hello inspo
+VA | Charlottesville | FOX Net
+VA | Harrisonburg | FOX Net
+VA | Harrisonburg | NBC WSVW
+WV | Clarksburg | FOX Net

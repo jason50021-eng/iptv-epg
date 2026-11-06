@@ -7,7 +7,7 @@ provider's channel names and guide IDs so TiviMate links them automatically.
 
 - Runs every day at about 2:23 AM Central (Actions tab, "Build TV guide"). Use "Run workflow" to refresh by hand.
 - Listings come from free sources via [iptv-org/epg](https://github.com/iptv-org/epg): tvpassport.com (with
-  descriptions), tvtv.us as a backup, plus Pluto, Samsung TV Plus, Plex and a few others.
+  descriptions), ontvtonight.com as a backup, plus Pluto, Samsung TV Plus, Plex and a few others.
 - **Game listings** (Actions tab, "Update game listings"): every hour, and every 20 minutes on Sunday
   afternoons, `events.py` reads the provider's current channel names (NFL Sunday 7xx, NBA, NHL, ESPN+, soccer,
   PPV...) and turns each one into a guide block at the right time. It needs three repository secrets

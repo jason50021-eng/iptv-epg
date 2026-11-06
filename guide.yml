@@ -1,0 +1,86 @@
+name: Build TV guide
+
+on:
+  schedule:
+    - cron: '23 8 * * *'   # every day, 2:23 AM Central (standard time)
+  workflow_dispatch: {}      # "Run workflow" button for a manual refresh
+
+permissions:
+  contents: write
+
+concurrency:
+  group: guide
+  cancel-in-progress: false
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    continue-on-error: true          # one source failing must not stop the guide
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - group: tvpassport
+            args: --days=3 --maxConnections=5
+          - group: ontvtonight
+            args: --days=3 --maxConnections=2
+          - group: other
+            args: --days=3 --maxConnections=5
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/checkout@v5
+        with:
+          repository: iptv-org/epg
+          path: epg
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Install grabber
+        working-directory: epg
+        run: npm ci --no-audit --no-fund
+      - name: Grab ${{ matrix.group }}
+        working-directory: epg
+        run: |
+          npm run grab -- --channels=../sources/${{ matrix.group }}.channels.xml \
+            --output=../raw-${{ matrix.group }}.xml --timeout=30000 ${{ matrix.args }} \
+            > ../grab-${{ matrix.group }}.log 2>&1 || true
+          tail -n 25 ../grab-${{ matrix.group }}.log
+          grep -c 'ERR:' ../grab-${{ matrix.group }}.log || true
+      - uses: actions/upload-artifact@v4
+        with:
+          name: raw-${{ matrix.group }}
+          path: |
+            raw-${{ matrix.group }}.xml
+            grab-${{ matrix.group }}.log
+          retention-days: 3
+          if-no-files-found: warn
+
+  publish:
+    needs: grab
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/download-artifact@v4
+        with:
+          path: raw
+          merge-multiple: true
+      - name: Build guide.xml.gz
+        run: python3 build.py guide.xml.gz raw/raw-*.xml | tee status.txt
+      - name: Add live game listings
+        env:
+          IPTV_SERVER: ${{ secrets.IPTV_SERVER }}
+          IPTV_USER: ${{ secrets.IPTV_USER }}
+          IPTV_PASS: ${{ secrets.IPTV_PASS }}
+        run: python3 events.py guide.xml.gz | tail -n 3
+      - name: Publish to the "guide" branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: bash publish.sh
+      - name: Save run status (also keeps the daily schedule active)
+        run: |
+          date -u '+Last run: %F %H:%M UTC' | cat - status.txt > status.tmp && mv status.tmp status.txt
+          git add status.txt
+          git -c user.name=guide-bot -c user.email=guide-bot@users.noreply.github.com commit -q -m "status $(date -u +%F)" || exit 0
+          git push -q

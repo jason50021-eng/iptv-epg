@@ -2,6 +2,8 @@ These channels carry a guide ID that the provider also uses for a DIFFERENT stat
 so TiviMate links them to the wrong listings. Fix any you watch once: in TiviMate open the channel's
 options, choose the TV guide / EPG channel, and pick the entry with the same name from this guide.
 
+ID | Idaho Falls | Telemundo KIFI
+NY | Plattsburgh | NBC WPTZ
 USA ABC 12 (KTXS) Abilene
 USA ABC 12 WCTI Greenville
 USA ABC 13 Omaha (KMTV)
@@ -17,6 +19,7 @@ USA CBS 2 KBOI BOISE
 USA CBS 3 (WRBL) Columbus
 USA CBS Columbus WBNS
 USA CBS NEWS SD
+USA CBSN New York
 USA COMEDY CENTRAL WEST
 USA CW PHL17 (WPHL-TV) Philadelphia
 USA Cartoon Network West*
@@ -31,10 +34,9 @@ USA FX West
 USA FXX West
 USA Fox KRQE Albuquerque
 USA Fox News Channel
+USA Fuse
 USA HGTV West*
 USA History Channel
-USA MGM+ Marquee
-USA MGM+ UHD
 USA MTV 2 (West)
 USA NBC (WEAR-TV2) Pensacola
 USA NBC 10 Albany (WALB)
@@ -56,13 +58,17 @@ USA Oxygen West
 USA PBS (WBGU) Toledo
 USA PBS (WTVI) Charlotte
 USA PBS 30 WTIU INDIANAPOLIS
+USA PBS WASHINGTON DC
 USA Real America's Voice
 USA RetroPlex West
 USA Starz Encore Suspense
 USA Syfy West*
 USA TLC West*
+USA TR3S
 USA The Movie Channel Xtra
 USA Travel East UHD
+USA Turner Classic Movies*
 USA USA Network West
 USA Vice TV
 USA truTV West*
+WI | Superior | NBC KBJR
