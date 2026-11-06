@@ -44,7 +44,10 @@ def epgshare_name(cid):
     n = html.unescape(cid)
     n = re.sub(r'\.(us\d*|us_locals\d*|plex|distro|[a-z]{2}\d?)$', '', n, flags=re.I)
     n = re.sub(r'^plex\.tv\.', '', n, flags=re.I)
-    return n.replace('.', ' ').strip()
+    n = n.replace('.', ' ').strip()
+    if ' ' not in n and re.search(r'[a-z][A-Z]', n):  # "MLB-SeattleMariners" -> "MLB - Seattle Mariners"
+        n = re.sub(r'(?<=[a-z])(?=[A-Z])', ' ', n).replace('-', ' - ')
+    return n
 
 for tag, pr in EPGSHARE_TAGS.items():
     path = os.path.join(EPGSHARE_LISTS, tag + '.txt')
