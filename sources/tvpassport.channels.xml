@@ -1190,45 +1190,45 @@
   <channel site="tvpassport.com" site_id="bein-sports-8/37187" lang="en" xmltv_id="S4043">beIN Sports 8</channel>
   <channel site="tvpassport.com" site_id="bein-sports-xtra/34594" lang="en" xmltv_id="S4044">beIN Sports Xtra</channel>
   <channel site="tvpassport.com" site_id="nba-tv-usa-hd/5645" lang="en" xmltv_id="S4052">NBA TV USA HD</channel>
-  <channel site="tvpassport.com" site_id="mlb-network-hd/6218" lang="en" xmltv_id="S4056">MLB Network HD</channel>
-  <channel site="tvpassport.com" site_id="discovery-channel-can-hd/8451" lang="en" xmltv_id="S4061">USA Network (CAN) HD</channel>
-  <channel site="tvpassport.com" site_id="wapa-america-hd/33723" lang="en" xmltv_id="S4065">Wapa America HD</channel>
-  <channel site="tvpassport.com" site_id="discovery-familia-hd/14528" lang="en" xmltv_id="S4069">Discovery Familia HD</channel>
-  <channel site="tvpassport.com" site_id="bandamax/4423" lang="en" xmltv_id="S4075">Bandamax</channel>
-  <channel site="tvpassport.com" site_id="de-pelicula/4419" lang="en" xmltv_id="S4078">De Pelicula</channel>
-  <channel site="tvpassport.com" site_id="forotv-hd/13638" lang="en" xmltv_id="S4081">FOROtv HD</channel>
-  <channel site="tvpassport.com" site_id="ntn24/19223" lang="en" xmltv_id="S4085">NTN24</channel>
-  <channel site="tvpassport.com" site_id="telehit/6143" lang="en" xmltv_id="S4091">Telehit</channel>
-  <channel site="tvpassport.com" site_id="teleritmo-hd/10237" lang="en" xmltv_id="S4092">Teleritmo HD</channel>
-  <channel site="tvpassport.com" site_id="telemundo-ksts-san-jose-ca-hd/6515" lang="en" xmltv_id="S4094">Telemundo (KSTS) San Jose, CA HD</channel>
-  <channel site="tvpassport.com" site_id="baby-tv/4443" lang="en" xmltv_id="S4096">Baby TV</channel>
-  <channel site="tvpassport.com" site_id="discovery-hd-us--eastern/4466" lang="en" xmltv_id="S4100">Discovery HD (US) - Eastern</channel>
-  <channel site="tvpassport.com" site_id="mexicanal--eastern/4563" lang="en" xmltv_id="S4104">Mexicanal - Eastern</channel>
-  <channel site="tvpassport.com" site_id="univision-kutu-tulsa-ok-hd/17252" lang="en" xmltv_id="S4106">Univision (KUTU) Tulsa, OK HD</channel>
-  <channel site="tvpassport.com" site_id="hitn/4543" lang="en" xmltv_id="S4110">HITN</channel>
-  <channel site="tvpassport.com" site_id="tooncast/9955" lang="en" xmltv_id="S4113">Tooncast</channel>
-  <channel site="tvpassport.com" site_id="pasiones-usa-hd/8890" lang="en" xmltv_id="S4114">Pasiones USA HD</channel>
-  <channel site="tvpassport.com" site_id="estrella-tv-hd/19039" lang="en" xmltv_id="S4116">Estrella TV HD</channel>
-  <channel site="tvpassport.com" site_id="esne-el-sembrador-nueva-evangelizacion/13324" lang="en" xmltv_id="S4121">ESNE (El Sembrador Nueva Evangelizacion)</channel>
-  <channel site="tvpassport.com" site_id="mega-tv/5581" lang="en" xmltv_id="S4122">Mega TV</channel>
-  <channel site="tvpassport.com" site_id="antena-3-internacional/14393" lang="en" xmltv_id="S4126">Antena 3 Internacional</channel>
-  <channel site="tvpassport.com" site_id="telexitos/10058" lang="en" xmltv_id="S4128">TeleXitos</channel>
-  <channel site="tvpassport.com" site_id="cine-mexicano/4469" lang="en" xmltv_id="S4131">Cine Mexicano</channel>
-  <channel site="tvpassport.com" site_id="galavision-hd--eastern/17237" lang="en" xmltv_id="S4135">Galavision HD - Eastern</channel>
-  <channel site="tvpassport.com" site_id="telemundo-ktmw-salt-lake-city-ut-hd/9120" lang="en" xmltv_id="S4138">Telemundo (KTMW) Salt Lake City, UT HD</channel>
-  <channel site="tvpassport.com" site_id="telemundo-wtmo-kissimmee-fl-hd/16262" lang="en" xmltv_id="S4140">Telemundo (WTMO) Kissimmee, FL HD</channel>
-  <channel site="tvpassport.com" site_id="telemundo-kcso-sacramento-ca-hd/9308" lang="en" xmltv_id="S4142">Telemundo (KCSO) Sacramento, CA HD</channel>
-  <channel site="tvpassport.com" site_id="telemundo-wwdt-cd-fort-myers-fl-hd/10304" lang="en" xmltv_id="S4144">Telemundo (WWDT-CD) Fort Myers, FL HD</channel>
-  <channel site="tvpassport.com" site_id="telemundo-wrdm-hartford-ct/7720" lang="en" xmltv_id="S4146">Telemundo (WRDM) Hartford, CT</channel>
-  <channel site="tvpassport.com" site_id="telemundo-wzdc-washington-dc-hd/15101" lang="en" xmltv_id="S4148">Telemundo (WZDC) Washington, DC HD</channel>
-  <channel site="tvpassport.com" site_id="telemundo-kgla-new-orleans-la-hd/17256" lang="en" xmltv_id="S4150">Telemundo (KGLA) New Orleans, LA HD</channel>
-  <channel site="tvpassport.com" site_id="telemundo-wkaq-san-juan-pr-hd/9349" lang="en" xmltv_id="S4152">Telemundo (WKAQ) San Juan, PR HD</channel>
-  <channel site="tvpassport.com" site_id="telemundo-kasa-albuquerque-nm-hd/6103" lang="en" xmltv_id="S4154">Telemundo (KASA) Albuquerque, NM HD</channel>
-  <channel site="tvpassport.com" site_id="telemundo-ktdo-el-paso-tx-hd/16309" lang="en" xmltv_id="S4156">Telemundo (KTDO) El Paso, TX HD</channel>
-  <channel site="tvpassport.com" site_id="telemundo-wrmd-tampa-fl-hd/10962" lang="en" xmltv_id="S4158">Telemundo (WRMD) Tampa, FL HD</channel>
-  <channel site="tvpassport.com" site_id="uni-wuvf-fort-myers-fl-hd/19109" lang="en" xmltv_id="S4161">UNI (WUVF) Fort Myers, FL HD</channel>
-  <channel site="tvpassport.com" site_id="uni-kftv-fresno-ca-hd/9358" lang="en" xmltv_id="S4163">UNI (KFTV) Fresno, CA HD</channel>
-  <channel site="tvpassport.com" site_id="uni-kunw-yakima-washington/7762" lang="en" xmltv_id="S4165">UNI (KUNW) Yakima, Washington</channel>
-  <channel site="tvpassport.com" site_id="uni-kuvs-modesto-ca-hd/9032" lang="en" xmltv_id="S4167">UNI (KUVS) Modesto, CA HD</channel>
-  <channel site="tvpassport.com" site_id="tudn-hd/11146" lang="en" xmltv_id="S4169">TUDN HD</channel>
+  <channel site="tvpassport.com" site_id="mlb-network-hd/6218" lang="en" xmltv_id="S4057">MLB Network HD</channel>
+  <channel site="tvpassport.com" site_id="discovery-channel-can-hd/8451" lang="en" xmltv_id="S4063">USA Network (CAN) HD</channel>
+  <channel site="tvpassport.com" site_id="wapa-america-hd/33723" lang="en" xmltv_id="S4067">Wapa America HD</channel>
+  <channel site="tvpassport.com" site_id="discovery-familia-hd/14528" lang="en" xmltv_id="S4071">Discovery Familia HD</channel>
+  <channel site="tvpassport.com" site_id="bandamax/4423" lang="en" xmltv_id="S4077">Bandamax</channel>
+  <channel site="tvpassport.com" site_id="de-pelicula/4419" lang="en" xmltv_id="S4080">De Pelicula</channel>
+  <channel site="tvpassport.com" site_id="forotv-hd/13638" lang="en" xmltv_id="S4083">FOROtv HD</channel>
+  <channel site="tvpassport.com" site_id="ntn24/19223" lang="en" xmltv_id="S4087">NTN24</channel>
+  <channel site="tvpassport.com" site_id="telehit/6143" lang="en" xmltv_id="S4093">Telehit</channel>
+  <channel site="tvpassport.com" site_id="teleritmo-hd/10237" lang="en" xmltv_id="S4094">Teleritmo HD</channel>
+  <channel site="tvpassport.com" site_id="telemundo-ksts-san-jose-ca-hd/6515" lang="en" xmltv_id="S4096">Telemundo (KSTS) San Jose, CA HD</channel>
+  <channel site="tvpassport.com" site_id="baby-tv/4443" lang="en" xmltv_id="S4098">Baby TV</channel>
+  <channel site="tvpassport.com" site_id="discovery-hd-us--eastern/4466" lang="en" xmltv_id="S4102">Discovery HD (US) - Eastern</channel>
+  <channel site="tvpassport.com" site_id="mexicanal--eastern/4563" lang="en" xmltv_id="S4106">Mexicanal - Eastern</channel>
+  <channel site="tvpassport.com" site_id="univision-kutu-tulsa-ok-hd/17252" lang="en" xmltv_id="S4108">Univision (KUTU) Tulsa, OK HD</channel>
+  <channel site="tvpassport.com" site_id="hitn/4543" lang="en" xmltv_id="S4112">HITN</channel>
+  <channel site="tvpassport.com" site_id="tooncast/9955" lang="en" xmltv_id="S4115">Tooncast</channel>
+  <channel site="tvpassport.com" site_id="pasiones-usa-hd/8890" lang="en" xmltv_id="S4116">Pasiones USA HD</channel>
+  <channel site="tvpassport.com" site_id="estrella-tv-hd/19039" lang="en" xmltv_id="S4118">Estrella TV HD</channel>
+  <channel site="tvpassport.com" site_id="esne-el-sembrador-nueva-evangelizacion/13324" lang="en" xmltv_id="S4123">ESNE (El Sembrador Nueva Evangelizacion)</channel>
+  <channel site="tvpassport.com" site_id="mega-tv/5581" lang="en" xmltv_id="S4124">Mega TV</channel>
+  <channel site="tvpassport.com" site_id="antena-3-internacional/14393" lang="en" xmltv_id="S4128">Antena 3 Internacional</channel>
+  <channel site="tvpassport.com" site_id="telexitos/10058" lang="en" xmltv_id="S4130">TeleXitos</channel>
+  <channel site="tvpassport.com" site_id="cine-mexicano/4469" lang="en" xmltv_id="S4133">Cine Mexicano</channel>
+  <channel site="tvpassport.com" site_id="galavision-hd--eastern/17237" lang="en" xmltv_id="S4137">Galavision HD - Eastern</channel>
+  <channel site="tvpassport.com" site_id="telemundo-ktmw-salt-lake-city-ut-hd/9120" lang="en" xmltv_id="S4140">Telemundo (KTMW) Salt Lake City, UT HD</channel>
+  <channel site="tvpassport.com" site_id="telemundo-wtmo-kissimmee-fl-hd/16262" lang="en" xmltv_id="S4142">Telemundo (WTMO) Kissimmee, FL HD</channel>
+  <channel site="tvpassport.com" site_id="telemundo-kcso-sacramento-ca-hd/9308" lang="en" xmltv_id="S4144">Telemundo (KCSO) Sacramento, CA HD</channel>
+  <channel site="tvpassport.com" site_id="telemundo-wwdt-cd-fort-myers-fl-hd/10304" lang="en" xmltv_id="S4146">Telemundo (WWDT-CD) Fort Myers, FL HD</channel>
+  <channel site="tvpassport.com" site_id="telemundo-wrdm-hartford-ct/7720" lang="en" xmltv_id="S4148">Telemundo (WRDM) Hartford, CT</channel>
+  <channel site="tvpassport.com" site_id="telemundo-wzdc-washington-dc-hd/15101" lang="en" xmltv_id="S4150">Telemundo (WZDC) Washington, DC HD</channel>
+  <channel site="tvpassport.com" site_id="telemundo-kgla-new-orleans-la-hd/17256" lang="en" xmltv_id="S4152">Telemundo (KGLA) New Orleans, LA HD</channel>
+  <channel site="tvpassport.com" site_id="telemundo-wkaq-san-juan-pr-hd/9349" lang="en" xmltv_id="S4154">Telemundo (WKAQ) San Juan, PR HD</channel>
+  <channel site="tvpassport.com" site_id="telemundo-kasa-albuquerque-nm-hd/6103" lang="en" xmltv_id="S4156">Telemundo (KASA) Albuquerque, NM HD</channel>
+  <channel site="tvpassport.com" site_id="telemundo-ktdo-el-paso-tx-hd/16309" lang="en" xmltv_id="S4158">Telemundo (KTDO) El Paso, TX HD</channel>
+  <channel site="tvpassport.com" site_id="telemundo-wrmd-tampa-fl-hd/10962" lang="en" xmltv_id="S4160">Telemundo (WRMD) Tampa, FL HD</channel>
+  <channel site="tvpassport.com" site_id="uni-wuvf-fort-myers-fl-hd/19109" lang="en" xmltv_id="S4163">UNI (WUVF) Fort Myers, FL HD</channel>
+  <channel site="tvpassport.com" site_id="uni-kftv-fresno-ca-hd/9358" lang="en" xmltv_id="S4165">UNI (KFTV) Fresno, CA HD</channel>
+  <channel site="tvpassport.com" site_id="uni-kunw-yakima-washington/7762" lang="en" xmltv_id="S4167">UNI (KUNW) Yakima, Washington</channel>
+  <channel site="tvpassport.com" site_id="uni-kuvs-modesto-ca-hd/9032" lang="en" xmltv_id="S4169">UNI (KUVS) Modesto, CA HD</channel>
+  <channel site="tvpassport.com" site_id="tudn-hd/11146" lang="en" xmltv_id="S4171">TUDN HD</channel>
 </channels>

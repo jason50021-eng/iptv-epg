@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="epgshare01.online" site_id="US2#NewsNation.us2" lang="en" xmltv_id="S0003">NewsNation</channel>
   <channel site="epgshare01.online" site_id="US2#CSPAN.us2" lang="en" xmltv_id="S0008">CSPAN</channel>
   <channel site="epgshare01.online" site_id="US2#CSPAN2.us2" lang="en" xmltv_id="S0011">CSPAN2</channel>
   <channel site="epgshare01.online" site_id="US2#Fox.Business.HD.us2" lang="en" xmltv_id="S0015">Fox Business HD</channel>
@@ -74,10 +73,10 @@
   <channel site="epgshare01.online" site_id="US2#MoviePlex.HD.us2" lang="en" xmltv_id="S0335">MoviePlex HD</channel>
   <channel site="epgshare01.online" site_id="US2#CINEVAULT.Westerns.us2" lang="en" xmltv_id="S0349">CINEVAULT Westerns</channel>
   <channel site="epgshare01.online" site_id="US2#AMC+.us2" lang="en" xmltv_id="S0358">AMC+</channel>
-  <channel site="epgshare01.online" site_id="US2#PixL.us2" lang="en" xmltv_id="S0361">PixL</channel>
+  <channel site="epgshare01.online" site_id="US2#PixL.us2" lang="en" xmltv_id="S0361">Pix L</channel>
   <channel site="epgshare01.online" site_id="US2#Turner.Classic.Movies.HD.us2" lang="en" xmltv_id="S0367">Turner Classic Movies HD</channel>
   <channel site="epgshare01.online" site_id="US2#ScreenPix.Westerns.us2" lang="en" xmltv_id="S0380">ScreenPix Westerns</channel>
-  <channel site="epgshare01.online" site_id="US2#ScreenPix.us2" lang="en" xmltv_id="S0382">ScreenPix</channel>
+  <channel site="epgshare01.online" site_id="US2#ScreenPix.us2" lang="en" xmltv_id="S0382">Screen Pix</channel>
   <channel site="epgshare01.online" site_id="US2#ScreenPix.Action.us2" lang="en" xmltv_id="S0385">ScreenPix Action</channel>
   <channel site="epgshare01.online" site_id="US2#ScreenPix.Voices.us2" lang="en" xmltv_id="S0387">ScreenPix Voices</channel>
   <channel site="epgshare01.online" site_id="US2#Family.Movie.Classics.us2" lang="en" xmltv_id="S0392">Family Movie Classics</channel>
@@ -225,7 +224,7 @@
   <channel site="epgshare01.online" site_id="US2#PBS.KIDS.HD.us2" lang="en" xmltv_id="S1262">PBS KIDS HD</channel>
   <channel site="epgshare01.online" site_id="US2#Nickelodeon.(Pacific).us2" lang="en" xmltv_id="S1266">Nickelodeon (Pacific)</channel>
   <channel site="epgshare01.online" site_id="US2#Kartoon.Channel.us2" lang="en" xmltv_id="S1268">Kartoon Channel</channel>
-  <channel site="epgshare01.online" site_id="US2#CuriosityStream.us2" lang="en" xmltv_id="S1276">CuriosityStream</channel>
+  <channel site="epgshare01.online" site_id="US2#CuriosityStream.us2" lang="en" xmltv_id="S1275">Curiosity Stream</channel>
   <channel site="epgshare01.online" site_id="US2#Jewelry.Television.us2" lang="en" xmltv_id="S1279">Jewelry Television</channel>
   <channel site="epgshare01.online" site_id="US2#Curiosity.NOW.us2" lang="en" xmltv_id="S1285">Curiosity NOW</channel>
   <channel site="epgshare01.online" site_id="US2#American.Crimes.us2" lang="en" xmltv_id="S1299">American Crimes</channel>
@@ -262,7 +261,7 @@
   <channel site="epgshare01.online" site_id="US2#Altitude.Sports.us2" lang="en" xmltv_id="S3880">Altitude Sports</channel>
   <channel site="epgshare01.online" site_id="US2#Spectrum.SportsNet.Lakers.HD.us2" lang="en" xmltv_id="S3882">Spectrum SportsNet Lakers HD</channel>
   <channel site="epgshare01.online" site_id="US2#ROOT.Sports.Northwest.HD.us2" lang="en" xmltv_id="S3883">ROOT Sports Northwest HD</channel>
-  <channel site="epgshare01.online" site_id="US2#SportsGrid.us2" lang="en" xmltv_id="S3888">SportsGrid</channel>
+  <channel site="epgshare01.online" site_id="US2#SportsGrid.us2" lang="en" xmltv_id="S3889">Sports Grid</channel>
   <channel site="epgshare01.online" site_id="US2#Root.Sports.Northwest.Plus.us2" lang="en" xmltv_id="S3891">Root Sports Northwest Plus</channel>
   <channel site="epgshare01.online" site_id="US2#Fight.Network.us2" lang="en" xmltv_id="S3895">Fight Network</channel>
   <channel site="epgshare01.online" site_id="US2#GOL.TV.us2" lang="en" xmltv_id="S3900">GOL TV</channel>
@@ -285,22 +284,22 @@
   <channel site="epgshare01.online" site_id="US2#NBC.Sports.Philadelphia.Plus.us2" lang="en" xmltv_id="S4032">NBC Sports Philadelphia Plus</channel>
   <channel site="epgshare01.online" site_id="US2#beIN.Sports.USA.HD.us2" lang="en" xmltv_id="S4037">beIN Sports USA HD</channel>
   <channel site="epgshare01.online" site_id="US2#NBA.TV.HD.us2" lang="en" xmltv_id="S4054">NBA TV HD</channel>
-  <channel site="epgshare01.online" site_id="US2#MLB.Network.HD.us2" lang="en" xmltv_id="S4058">MLB Network HD</channel>
-  <channel site="epgshare01.online" site_id="US2#USA.Network.HD.us2" lang="en" xmltv_id="S4063">USA Network HD</channel>
-  <channel site="epgshare01.online" site_id="US2#WAPA.America.us2" lang="en" xmltv_id="S4066">WAPA America</channel>
-  <channel site="epgshare01.online" site_id="US2#CNN.En.Español.us2" lang="en" xmltv_id="S4068">CNN En Español</channel>
-  <channel site="epgshare01.online" site_id="US2#Atreseries.us2" lang="en" xmltv_id="S4073">Atreseries</channel>
-  <channel site="epgshare01.online" site_id="US2#Bandamax.us2" lang="en" xmltv_id="S4076">Bandamax</channel>
-  <channel site="epgshare01.online" site_id="US2#De.Pelicula.us2" lang="en" xmltv_id="S4079">De Pelicula</channel>
-  <channel site="epgshare01.online" site_id="US2#NTN24.us2" lang="en" xmltv_id="S4086">NTN24</channel>
-  <channel site="epgshare01.online" site_id="US2#Baby.TV.US.us2" lang="en" xmltv_id="S4098">Baby TV US</channel>
-  <channel site="epgshare01.online" site_id="US2#Nat.Geo.Mundo.us2" lang="en" xmltv_id="S4102">Nat Geo Mundo</channel>
-  <channel site="epgshare01.online" site_id="US2#Mexicanal.us2" lang="en" xmltv_id="S4105">Mexicanal</channel>
-  <channel site="epgshare01.online" site_id="US2#Zona.Futbol.us2" lang="en" xmltv_id="S4109">Zona Futbol</channel>
-  <channel site="epgshare01.online" site_id="US2#HITN.us2" lang="en" xmltv_id="S4111">HITN</channel>
-  <channel site="epgshare01.online" site_id="US2#Estrella.TV.us2" lang="en" xmltv_id="S4118">Estrella TV</channel>
-  <channel site="epgshare01.online" site_id="US2#Mega.TV.HD.us2" lang="en" xmltv_id="S4124">Mega TV HD</channel>
-  <channel site="epgshare01.online" site_id="US2#Antena.3.Internacional.us2" lang="en" xmltv_id="S4127">Antena 3 Internacional</channel>
-  <channel site="epgshare01.online" site_id="US2#Cine.Mexicano.US.Feed.us2" lang="en" xmltv_id="S4133">Cine Mexicano US Feed</channel>
-  <channel site="epgshare01.online" site_id="US2#TUDN.us2" lang="en" xmltv_id="S4171">TUDN</channel>
+  <channel site="epgshare01.online" site_id="US2#MLB.Network.HD.us2" lang="en" xmltv_id="S4059">MLB Network HD</channel>
+  <channel site="epgshare01.online" site_id="US2#USA.Network.HD.us2" lang="en" xmltv_id="S4065">USA Network HD</channel>
+  <channel site="epgshare01.online" site_id="US2#WAPA.America.us2" lang="en" xmltv_id="S4068">WAPA America</channel>
+  <channel site="epgshare01.online" site_id="US2#CNN.En.Español.us2" lang="en" xmltv_id="S4070">CNN En Español</channel>
+  <channel site="epgshare01.online" site_id="US2#Atreseries.us2" lang="en" xmltv_id="S4075">Atreseries</channel>
+  <channel site="epgshare01.online" site_id="US2#Bandamax.us2" lang="en" xmltv_id="S4078">Bandamax</channel>
+  <channel site="epgshare01.online" site_id="US2#De.Pelicula.us2" lang="en" xmltv_id="S4081">De Pelicula</channel>
+  <channel site="epgshare01.online" site_id="US2#NTN24.us2" lang="en" xmltv_id="S4088">NTN24</channel>
+  <channel site="epgshare01.online" site_id="US2#Baby.TV.US.us2" lang="en" xmltv_id="S4100">Baby TV US</channel>
+  <channel site="epgshare01.online" site_id="US2#Nat.Geo.Mundo.us2" lang="en" xmltv_id="S4104">Nat Geo Mundo</channel>
+  <channel site="epgshare01.online" site_id="US2#Mexicanal.us2" lang="en" xmltv_id="S4107">Mexicanal</channel>
+  <channel site="epgshare01.online" site_id="US2#Zona.Futbol.us2" lang="en" xmltv_id="S4111">Zona Futbol</channel>
+  <channel site="epgshare01.online" site_id="US2#HITN.us2" lang="en" xmltv_id="S4113">HITN</channel>
+  <channel site="epgshare01.online" site_id="US2#Estrella.TV.us2" lang="en" xmltv_id="S4120">Estrella TV</channel>
+  <channel site="epgshare01.online" site_id="US2#Mega.TV.HD.us2" lang="en" xmltv_id="S4126">Mega TV HD</channel>
+  <channel site="epgshare01.online" site_id="US2#Antena.3.Internacional.us2" lang="en" xmltv_id="S4129">Antena 3 Internacional</channel>
+  <channel site="epgshare01.online" site_id="US2#Cine.Mexicano.US.Feed.us2" lang="en" xmltv_id="S4135">Cine Mexicano US Feed</channel>
+  <channel site="epgshare01.online" site_id="US2#TUDN.us2" lang="en" xmltv_id="S4173">TUDN</channel>
 </channels>

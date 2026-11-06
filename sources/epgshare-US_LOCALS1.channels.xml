@@ -892,23 +892,23 @@
   <channel site="epgshare01.online" site_id="US_LOCALS1#WXPX-DT.us_locals1" lang="en" xmltv_id="S3782">WXPX-DT</channel>
   <channel site="epgshare01.online" site_id="US_LOCALS1#KAZT-CD.us_locals1" lang="en" xmltv_id="S3784">KAZT-CD</channel>
   <channel site="epgshare01.online" site_id="US_LOCALS1#Spectrum.OC16.us_locals1" lang="en" xmltv_id="S3950">Spectrum OC16</channel>
-  <channel site="epgshare01.online" site_id="US_LOCALS1#Foro.TV.us_locals1" lang="en" xmltv_id="S4084">Foro TV</channel>
-  <channel site="epgshare01.online" site_id="US_LOCALS1#KSTS-DT.us_locals1" lang="en" xmltv_id="S4095">KSTS-DT</channel>
-  <channel site="epgshare01.online" site_id="US_LOCALS1#KUTU-CD.us_locals1" lang="en" xmltv_id="S4107">KUTU-CD</channel>
-  <channel site="epgshare01.online" site_id="US_LOCALS1#KTMW-DT.us_locals1" lang="en" xmltv_id="S4139">KTMW-DT</channel>
-  <channel site="epgshare01.online" site_id="US_LOCALS1#WTMO-CD.us_locals1" lang="en" xmltv_id="S4141">WTMO-CD</channel>
-  <channel site="epgshare01.online" site_id="US_LOCALS1#KCSO-LD.us_locals1" lang="en" xmltv_id="S4143">KCSO-LD</channel>
-  <channel site="epgshare01.online" site_id="US_LOCALS1#WWDT-CD.us_locals1" lang="en" xmltv_id="S4145">WWDT-CD</channel>
-  <channel site="epgshare01.online" site_id="US_LOCALS1#WRDM-CD.us_locals1" lang="en" xmltv_id="S4147">WRDM-CD</channel>
-  <channel site="epgshare01.online" site_id="US_LOCALS1#WZDC-CD.us_locals1" lang="en" xmltv_id="S4149">WZDC-CD</channel>
-  <channel site="epgshare01.online" site_id="US_LOCALS1#KGLA-DT.us_locals1" lang="en" xmltv_id="S4151">KGLA-DT</channel>
-  <channel site="epgshare01.online" site_id="US_LOCALS1#WKAQ-DT.us_locals1" lang="en" xmltv_id="S4153">WKAQ-DT</channel>
-  <channel site="epgshare01.online" site_id="US_LOCALS1#KASA-DT.us_locals1" lang="en" xmltv_id="S4155">KASA-DT</channel>
-  <channel site="epgshare01.online" site_id="US_LOCALS1#KTDO-DT.us_locals1" lang="en" xmltv_id="S4157">KTDO-DT</channel>
-  <channel site="epgshare01.online" site_id="US_LOCALS1#WRMD-CD.us_locals1" lang="en" xmltv_id="S4160">WRMD-CD</channel>
-  <channel site="epgshare01.online" site_id="US_LOCALS1#WUVF-LD.us_locals1" lang="en" xmltv_id="S4162">WUVF-LD</channel>
-  <channel site="epgshare01.online" site_id="US_LOCALS1#KFTV-DT.us_locals1" lang="en" xmltv_id="S4164">KFTV-DT</channel>
-  <channel site="epgshare01.online" site_id="US_LOCALS1#KUNW-CD.us_locals1" lang="en" xmltv_id="S4166">KUNW-CD</channel>
-  <channel site="epgshare01.online" site_id="US_LOCALS1#KUVS-DT.us_locals1" lang="en" xmltv_id="S4168">KUVS-DT</channel>
-  <channel site="epgshare01.online" site_id="US_LOCALS1#WAPA-DT.us_locals1" lang="en" xmltv_id="S4173">WAPA-DT</channel>
+  <channel site="epgshare01.online" site_id="US_LOCALS1#Foro.TV.us_locals1" lang="en" xmltv_id="S4086">Foro TV</channel>
+  <channel site="epgshare01.online" site_id="US_LOCALS1#KSTS-DT.us_locals1" lang="en" xmltv_id="S4097">KSTS-DT</channel>
+  <channel site="epgshare01.online" site_id="US_LOCALS1#KUTU-CD.us_locals1" lang="en" xmltv_id="S4109">KUTU-CD</channel>
+  <channel site="epgshare01.online" site_id="US_LOCALS1#KTMW-DT.us_locals1" lang="en" xmltv_id="S4141">KTMW-DT</channel>
+  <channel site="epgshare01.online" site_id="US_LOCALS1#WTMO-CD.us_locals1" lang="en" xmltv_id="S4143">WTMO-CD</channel>
+  <channel site="epgshare01.online" site_id="US_LOCALS1#KCSO-LD.us_locals1" lang="en" xmltv_id="S4145">KCSO-LD</channel>
+  <channel site="epgshare01.online" site_id="US_LOCALS1#WWDT-CD.us_locals1" lang="en" xmltv_id="S4147">WWDT-CD</channel>
+  <channel site="epgshare01.online" site_id="US_LOCALS1#WRDM-CD.us_locals1" lang="en" xmltv_id="S4149">WRDM-CD</channel>
+  <channel site="epgshare01.online" site_id="US_LOCALS1#WZDC-CD.us_locals1" lang="en" xmltv_id="S4151">WZDC-CD</channel>
+  <channel site="epgshare01.online" site_id="US_LOCALS1#KGLA-DT.us_locals1" lang="en" xmltv_id="S4153">KGLA-DT</channel>
+  <channel site="epgshare01.online" site_id="US_LOCALS1#WKAQ-DT.us_locals1" lang="en" xmltv_id="S4155">WKAQ-DT</channel>
+  <channel site="epgshare01.online" site_id="US_LOCALS1#KASA-DT.us_locals1" lang="en" xmltv_id="S4157">KASA-DT</channel>
+  <channel site="epgshare01.online" site_id="US_LOCALS1#KTDO-DT.us_locals1" lang="en" xmltv_id="S4159">KTDO-DT</channel>
+  <channel site="epgshare01.online" site_id="US_LOCALS1#WRMD-CD.us_locals1" lang="en" xmltv_id="S4162">WRMD-CD</channel>
+  <channel site="epgshare01.online" site_id="US_LOCALS1#WUVF-LD.us_locals1" lang="en" xmltv_id="S4164">WUVF-LD</channel>
+  <channel site="epgshare01.online" site_id="US_LOCALS1#KFTV-DT.us_locals1" lang="en" xmltv_id="S4166">KFTV-DT</channel>
+  <channel site="epgshare01.online" site_id="US_LOCALS1#KUNW-CD.us_locals1" lang="en" xmltv_id="S4168">KUNW-CD</channel>
+  <channel site="epgshare01.online" site_id="US_LOCALS1#KUVS-DT.us_locals1" lang="en" xmltv_id="S4170">KUVS-DT</channel>
+  <channel site="epgshare01.online" site_id="US_LOCALS1#WAPA-DT.us_locals1" lang="en" xmltv_id="S4175">WAPA-DT</channel>
 </channels>

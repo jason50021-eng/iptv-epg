@@ -10,13 +10,13 @@
 "NewsNation HD"
 ],
 "S0003": [
-"epgshare01.online",
-"US2#NewsNation.us2",
+"tvguide.com",
+"9233013251",
 "NewsNation"
 ],
 "S0004": [
-"tvguide.com",
-"9233013251",
+"tvinsider.com",
+"newsnation",
 "NewsNation"
 ],
 "S0005": [
@@ -1802,7 +1802,7 @@
 "S0361": [
 "epgshare01.online",
 "US2#PixL.us2",
-"PixL"
+"Pix L"
 ],
 "S0362": [
 "tvpassport.com",
@@ -1907,7 +1907,7 @@
 "S0382": [
 "epgshare01.online",
 "US2#ScreenPix.us2",
-"ScreenPix"
+"Screen Pix"
 ],
 "S0383": [
 "tvpassport.com",
@@ -4525,14 +4525,14 @@
 "Billiard TV"
 ],
 "S0906": [
-"epgshare01.online",
-"PLEX1#plex.tv.PokerGO.plex",
-"PokerGO"
-],
-"S0907": [
 "directv.com",
 "3d550255-c27b-4d12-b681-343bcbaa7fe5",
 "PokerGo"
+],
+"S0907": [
+"epgshare01.online",
+"PLEX1#plex.tv.PokerGO.plex",
+"Poker GO"
 ],
 "S0908": [
 "i.mjh.nz",
@@ -5537,7 +5537,7 @@
 "S1108": [
 "epgshare01.online",
 "PLEX1#plex.tv.BlackPix.plex",
-"BlackPix"
+"Black Pix"
 ],
 "S1109": [
 "i.mjh.nz",
@@ -5930,14 +5930,14 @@
 "90s Sitcoms"
 ],
 "S1187": [
-"directv.com",
-"5b2cc61c-32c8-42db-8c2e-ec527e55f1fa",
+"epgshare01.online",
+"PLEX1#plex.tv.FailArmy.plex",
 "Fail Army"
 ],
 "S1188": [
-"epgshare01.online",
-"PLEX1#plex.tv.FailArmy.plex",
-"FailArmy"
+"directv.com",
+"5b2cc61c-32c8-42db-8c2e-ec527e55f1fa",
+"Fail Army"
 ],
 "S1189": [
 "i.mjh.nz",
@@ -6370,14 +6370,14 @@
 "CuriosityStream"
 ],
 "S1275": [
-"tvinsider.com",
-"curiosity-stream",
+"epgshare01.online",
+"US2#CuriosityStream.us2",
 "Curiosity Stream"
 ],
 "S1276": [
-"epgshare01.online",
-"US2#CuriosityStream.us2",
-"CuriosityStream"
+"tvinsider.com",
+"curiosity-stream",
+"Curiosity Stream"
 ],
 "S1277": [
 "tvpassport.com",
@@ -6852,7 +6852,7 @@
 "S1371": [
 "epgshare01.online",
 "PLEX1#plex.tv.PursuitUP.plex",
-"PursuitUP"
+"Pursuit UP"
 ],
 "S1372": [
 "directv.com",
@@ -19435,14 +19435,14 @@
 "SportsGrid HD"
 ],
 "S3888": [
-"epgshare01.online",
-"US2#SportsGrid.us2",
-"SportsGrid"
-],
-"S3889": [
 "directv.com",
 "28cb5863-af10-473d-9625-fb6fd2206fe6",
 "SportsGrid"
+],
+"S3889": [
+"epgshare01.online",
+"US2#SportsGrid.us2",
+"Sports Grid"
 ],
 "S3890": [
 "i.mjh.nz",
@@ -19670,14 +19670,14 @@
 "FIFA+"
 ],
 "S3935": [
-"directv.com",
-"d351ef21-b01e-434f-acec-712e62b6d093",
+"epgshare01.online",
+"PLEX1#plex.tv.PickleballTV.plex",
 "Pickleball TV"
 ],
 "S3936": [
-"epgshare01.online",
-"PLEX1#plex.tv.PickleballTV.plex",
-"PickleballTV"
+"directv.com",
+"d351ef21-b01e-434f-acec-712e62b6d093",
+"Pickleball TV"
 ],
 "S3937": [
 "i.mjh.nz",
@@ -20275,591 +20275,601 @@
 "NBA TV HD"
 ],
 "S4056": [
+"epgshare01.online",
+"US_SPORTS1#MLB-SeattleMariners.us",
+"MLB - Seattle Mariners"
+],
+"S4057": [
 "tvpassport.com",
 "mlb-network-hd/6218",
 "MLB Network HD"
 ],
-"S4057": [
+"S4058": [
 "ontvtonight.com",
 "us#69032811/mlb-network",
 "MLB Network"
 ],
-"S4058": [
+"S4059": [
 "epgshare01.online",
 "US2#MLB.Network.HD.us2",
 "MLB Network HD"
 ],
-"S4059": [
+"S4060": [
 "directv.com",
 "c8e2cc18-4320-4f21-8a59-68c2f33c0c05",
 "MLB Network HD"
 ],
-"S4060": [
+"S4061": [
 "directv.com",
 "23d4fb04-2b56-4a9e-9066-47022a5e164f",
 "MLB Strike Zone HD"
 ],
-"S4061": [
+"S4062": [
+"epgshare01.online",
+"US_SPORTS1#NHL-CarolinaHurricanes.us",
+"NHL - Carolina Hurricanes"
+],
+"S4063": [
 "tvpassport.com",
 "discovery-channel-can-hd/8451",
 "USA Network (CAN) HD"
 ],
-"S4062": [
+"S4064": [
 "ontvtonight.com",
 "us#69046897/usa-network-hawaii",
 "USA Network (Hawaii)"
 ],
-"S4063": [
+"S4065": [
 "epgshare01.online",
 "US2#USA.Network.HD.us2",
 "USA Network HD"
 ],
-"S4064": [
+"S4066": [
 "directv.com",
 "214a502e-c54a-4b61-8904-b4ce37c1e38a",
 "USA Network HD"
 ],
-"S4065": [
+"S4067": [
 "tvpassport.com",
 "wapa-america-hd/33723",
 "Wapa America HD"
 ],
-"S4066": [
+"S4068": [
 "epgshare01.online",
 "US2#WAPA.America.us2",
 "WAPA America"
 ],
-"S4067": [
+"S4069": [
 "directv.com",
 "d3cb96a7-c699-4ddd-bd3b-e9d654704897",
 "WAPA America (103A)"
 ],
-"S4068": [
+"S4070": [
 "epgshare01.online",
 "US2#CNN.En.Espa\u00f1ol.us2",
 "CNN En Espa\u00f1ol"
 ],
-"S4069": [
+"S4071": [
 "tvpassport.com",
 "discovery-familia-hd/14528",
 "Discovery Familia HD"
 ],
-"S4070": [
+"S4072": [
 "ontvtonight.com",
 "us#69030698/discovery-familia-us-feed",
 "Discovery Familia (U.S. feed)"
 ],
-"S4071": [
+"S4073": [
 "directv.com",
 "5b4cf873-77d4-41e0-8641-6bd7c852399b",
 "Discovery Familia (103A)"
 ],
-"S4072": [
+"S4074": [
 "directv.com",
 "25cbe8bb-c628-44f0-aa9f-8668cad54fc0",
 "Antena 3"
 ],
-"S4073": [
+"S4075": [
 "epgshare01.online",
 "US2#Atreseries.us2",
 "Atreseries"
 ],
-"S4074": [
+"S4076": [
 "directv.com",
 "22743767-b7a4-44e8-9090-b5a6329ccde8",
 "Atreseries"
 ],
-"S4075": [
+"S4077": [
 "tvpassport.com",
 "bandamax/4423",
 "Bandamax"
 ],
-"S4076": [
+"S4078": [
 "epgshare01.online",
 "US2#Bandamax.us2",
 "Bandamax"
 ],
-"S4077": [
+"S4079": [
 "directv.com",
 "b5a2d87e-46e6-4c8a-9d06-953bd102c1b7",
 "Bandamax (103A)"
 ],
-"S4078": [
+"S4080": [
 "tvpassport.com",
 "de-pelicula/4419",
 "De Pelicula"
 ],
-"S4079": [
+"S4081": [
 "epgshare01.online",
 "US2#De.Pelicula.us2",
 "De Pelicula"
 ],
-"S4080": [
+"S4082": [
 "directv.com",
 "245dfb72-b8f8-42d8-b78e-ed03904821fb",
 "De Pelicula (103A)"
 ],
-"S4081": [
+"S4083": [
 "tvpassport.com",
 "forotv-hd/13638",
 "FOROtv HD"
 ],
-"S4082": [
+"S4084": [
 "ontvtonight.com",
 "us#4331308447/foro-tv-us",
 "Foro TV (US)"
 ],
-"S4083": [
+"S4085": [
 "directv.com",
 "113ffc23-cef3-4ad3-85f3-7f741a1d337e",
 "FOROtv"
 ],
-"S4084": [
+"S4086": [
 "epgshare01.online",
 "US_LOCALS1#Foro.TV.us_locals1",
 "Foro TV"
 ],
-"S4085": [
+"S4087": [
 "tvpassport.com",
 "ntn24/19223",
 "NTN24"
 ],
-"S4086": [
+"S4088": [
 "epgshare01.online",
 "US2#NTN24.us2",
 "NTN24"
 ],
-"S4087": [
+"S4089": [
 "directv.com",
 "2cdd1068-8a3c-40ee-9d41-48016d5712e4",
 "NTN 24 (103A)"
 ],
-"S4088": [
+"S4090": [
 "ontvtonight.com",
 "us#69034868/nuestra-tele-noticias-24",
 "Nuestra Tele Noticias 24"
 ],
-"S4089": [
+"S4091": [
 "ontvtonight.com",
 "us#69046945/telefe",
 "Telefe"
 ],
-"S4090": [
+"S4092": [
 "directv.com",
 "f613d391-2db1-470b-b875-a0ee899dc876",
 "Telefe"
 ],
-"S4091": [
+"S4093": [
 "tvpassport.com",
 "telehit/6143",
 "Telehit"
 ],
-"S4092": [
+"S4094": [
 "tvpassport.com",
 "teleritmo-hd/10237",
 "Teleritmo HD"
 ],
-"S4093": [
+"S4095": [
 "ontvtonight.com",
 "us#69021649/teleritmo",
 "TeleRitmo"
 ],
-"S4094": [
+"S4096": [
 "tvpassport.com",
 "telemundo-ksts-san-jose-ca-hd/6515",
 "Telemundo (KSTS) San Jose, CA HD"
 ],
-"S4095": [
+"S4097": [
 "epgshare01.online",
 "US_LOCALS1#KSTS-DT.us_locals1",
 "KSTS-DT"
 ],
-"S4096": [
+"S4098": [
 "tvpassport.com",
 "baby-tv/4443",
 "Baby TV"
 ],
-"S4097": [
+"S4099": [
 "ontvtonight.com",
 "us#69029986/baby-tv",
 "Baby TV"
 ],
-"S4098": [
+"S4100": [
 "epgshare01.online",
 "US2#Baby.TV.US.us2",
 "Baby TV US"
 ],
-"S4099": [
+"S4101": [
 "directv.com",
 "e68a9f77-7585-4b8a-a365-efffe5531d25",
 "BabyTV"
 ],
-"S4100": [
+"S4102": [
 "tvpassport.com",
 "discovery-hd-us--eastern/4466",
 "Discovery HD (US) - Eastern"
 ],
-"S4101": [
+"S4103": [
 "directv.com",
 "4d2c2d58-cb18-44fe-8f9b-96637b1aac60",
 "Discovery HD"
 ],
-"S4102": [
+"S4104": [
 "epgshare01.online",
 "US2#Nat.Geo.Mundo.us2",
 "Nat Geo Mundo"
 ],
-"S4103": [
+"S4105": [
 "directv.com",
 "efeb88ef-f6ff-4688-8604-5dcf3e3d005f",
 "Nat Geo Mundo"
 ],
-"S4104": [
+"S4106": [
 "tvpassport.com",
 "mexicanal--eastern/4563",
 "Mexicanal - Eastern"
 ],
-"S4105": [
+"S4107": [
 "epgshare01.online",
 "US2#Mexicanal.us2",
 "Mexicanal"
 ],
-"S4106": [
+"S4108": [
 "tvpassport.com",
 "univision-kutu-tulsa-ok-hd/17252",
 "Univision (KUTU) Tulsa, OK HD"
 ],
-"S4107": [
+"S4109": [
 "epgshare01.online",
 "US_LOCALS1#KUTU-CD.us_locals1",
 "KUTU-CD"
 ],
-"S4108": [
+"S4110": [
 "ontvtonight.com",
 "us#5668011771/evtv",
 "EVTV"
 ],
-"S4109": [
+"S4111": [
 "epgshare01.online",
 "US2#Zona.Futbol.us2",
 "Zona Futbol"
 ],
-"S4110": [
+"S4112": [
 "tvpassport.com",
 "hitn/4543",
 "HITN"
 ],
-"S4111": [
+"S4113": [
 "epgshare01.online",
 "US2#HITN.us2",
 "HITN"
 ],
-"S4112": [
+"S4114": [
 "directv.com",
 "6feed8e2-5530-440d-9ce7-314447b54f5f",
 "HITN (103A)"
 ],
-"S4113": [
+"S4115": [
 "tvpassport.com",
 "tooncast/9955",
 "Tooncast"
 ],
-"S4114": [
+"S4116": [
 "tvpassport.com",
 "pasiones-usa-hd/8890",
 "Pasiones USA HD"
 ],
-"S4115": [
+"S4117": [
 "directv.com",
 "4120dd0a-1c5f-42ba-80c6-3fb269edb45e",
 "Pasiones"
 ],
-"S4116": [
+"S4118": [
 "tvpassport.com",
 "estrella-tv-hd/19039",
 "Estrella TV HD"
 ],
-"S4117": [
+"S4119": [
 "ontvtonight.com",
 "us#69034390/estrella-tv-east",
 "Estrella TV (East)"
 ],
-"S4118": [
+"S4120": [
 "epgshare01.online",
 "US2#Estrella.TV.us2",
 "Estrella TV"
 ],
-"S4119": [
+"S4121": [
 "directv.com",
 "f7ef160c-dbba-4d72-b426-a99bf20778ce",
 "Estrella TV"
 ],
-"S4120": [
+"S4122": [
 "directv.com",
 "83788be3-54b2-4e29-baf1-3b48a3b5f0e2",
 "Centroamerica TV (103A)"
 ],
-"S4121": [
+"S4123": [
 "tvpassport.com",
 "esne-el-sembrador-nueva-evangelizacion/13324",
 "ESNE (El Sembrador Nueva Evangelizacion)"
 ],
-"S4122": [
+"S4124": [
 "tvpassport.com",
 "mega-tv/5581",
 "Mega TV"
 ],
-"S4123": [
+"S4125": [
 "ontvtonight.com",
 "us#4465255362/mega-tv-national-feed-us-network",
 "Mega TV (National Feed / US Network)"
 ],
-"S4124": [
+"S4126": [
 "epgshare01.online",
 "US2#Mega.TV.HD.us2",
 "Mega TV HD"
 ],
-"S4125": [
+"S4127": [
 "directv.com",
 "888e3a20-6838-46e6-a68d-fb33cafd4f33",
 "MEGA TV HD"
 ],
-"S4126": [
+"S4128": [
 "tvpassport.com",
 "antena-3-internacional/14393",
 "Antena 3 Internacional"
 ],
-"S4127": [
+"S4129": [
 "epgshare01.online",
 "US2#Antena.3.Internacional.us2",
 "Antena 3 Internacional"
 ],
-"S4128": [
+"S4130": [
 "tvpassport.com",
 "telexitos/10058",
 "TeleXitos"
 ],
-"S4129": [
+"S4131": [
 "ontvtonight.com",
 "us#69044943/telexitos",
 "TeleXitos"
 ],
-"S4130": [
+"S4132": [
 "tvinsider.com",
 "telexitos",
 "TeleXitos"
 ],
-"S4131": [
+"S4133": [
 "tvpassport.com",
 "cine-mexicano/4469",
 "Cine Mexicano"
 ],
-"S4132": [
+"S4134": [
 "ontvtonight.com",
 "us#69025984/cine-mexicano",
 "Cine Mexicano"
 ],
-"S4133": [
+"S4135": [
 "epgshare01.online",
 "US2#Cine.Mexicano.US.Feed.us2",
 "Cine Mexicano US Feed"
 ],
-"S4134": [
+"S4136": [
 "directv.com",
 "68f91c91-2e0b-4eec-817b-fe362a6f9ede",
 "Cine Mexicano"
 ],
-"S4135": [
+"S4137": [
 "tvpassport.com",
 "galavision-hd--eastern/17237",
 "Galavision HD - Eastern"
 ],
-"S4136": [
+"S4138": [
 "ontvtonight.com",
 "us#69029166/galavision-east",
 "Galavision (East)"
 ],
-"S4137": [
+"S4139": [
 "directv.com",
 "851e06c6-a83a-4d33-a19d-bb726a9a955f",
 "Galavision HD"
 ],
-"S4138": [
+"S4140": [
 "tvpassport.com",
 "telemundo-ktmw-salt-lake-city-ut-hd/9120",
 "Telemundo (KTMW) Salt Lake City, UT HD"
 ],
-"S4139": [
+"S4141": [
 "epgshare01.online",
 "US_LOCALS1#KTMW-DT.us_locals1",
 "KTMW-DT"
 ],
-"S4140": [
+"S4142": [
 "tvpassport.com",
 "telemundo-wtmo-kissimmee-fl-hd/16262",
 "Telemundo (WTMO) Kissimmee, FL HD"
 ],
-"S4141": [
+"S4143": [
 "epgshare01.online",
 "US_LOCALS1#WTMO-CD.us_locals1",
 "WTMO-CD"
 ],
-"S4142": [
+"S4144": [
 "tvpassport.com",
 "telemundo-kcso-sacramento-ca-hd/9308",
 "Telemundo (KCSO) Sacramento, CA HD"
 ],
-"S4143": [
+"S4145": [
 "epgshare01.online",
 "US_LOCALS1#KCSO-LD.us_locals1",
 "KCSO-LD"
 ],
-"S4144": [
+"S4146": [
 "tvpassport.com",
 "telemundo-wwdt-cd-fort-myers-fl-hd/10304",
 "Telemundo (WWDT-CD) Fort Myers, FL HD"
 ],
-"S4145": [
+"S4147": [
 "epgshare01.online",
 "US_LOCALS1#WWDT-CD.us_locals1",
 "WWDT-CD"
 ],
-"S4146": [
+"S4148": [
 "tvpassport.com",
 "telemundo-wrdm-hartford-ct/7720",
 "Telemundo (WRDM) Hartford, CT"
 ],
-"S4147": [
+"S4149": [
 "epgshare01.online",
 "US_LOCALS1#WRDM-CD.us_locals1",
 "WRDM-CD"
 ],
-"S4148": [
+"S4150": [
 "tvpassport.com",
 "telemundo-wzdc-washington-dc-hd/15101",
 "Telemundo (WZDC) Washington, DC HD"
 ],
-"S4149": [
+"S4151": [
 "epgshare01.online",
 "US_LOCALS1#WZDC-CD.us_locals1",
 "WZDC-CD"
 ],
-"S4150": [
+"S4152": [
 "tvpassport.com",
 "telemundo-kgla-new-orleans-la-hd/17256",
 "Telemundo (KGLA) New Orleans, LA HD"
 ],
-"S4151": [
+"S4153": [
 "epgshare01.online",
 "US_LOCALS1#KGLA-DT.us_locals1",
 "KGLA-DT"
 ],
-"S4152": [
+"S4154": [
 "tvpassport.com",
 "telemundo-wkaq-san-juan-pr-hd/9349",
 "Telemundo (WKAQ) San Juan, PR HD"
 ],
-"S4153": [
+"S4155": [
 "epgshare01.online",
 "US_LOCALS1#WKAQ-DT.us_locals1",
 "WKAQ-DT"
 ],
-"S4154": [
+"S4156": [
 "tvpassport.com",
 "telemundo-kasa-albuquerque-nm-hd/6103",
 "Telemundo (KASA) Albuquerque, NM HD"
 ],
-"S4155": [
+"S4157": [
 "epgshare01.online",
 "US_LOCALS1#KASA-DT.us_locals1",
 "KASA-DT"
 ],
-"S4156": [
+"S4158": [
 "tvpassport.com",
 "telemundo-ktdo-el-paso-tx-hd/16309",
 "Telemundo (KTDO) El Paso, TX HD"
 ],
-"S4157": [
+"S4159": [
 "epgshare01.online",
 "US_LOCALS1#KTDO-DT.us_locals1",
 "KTDO-DT"
 ],
-"S4158": [
+"S4160": [
 "tvpassport.com",
 "telemundo-wrmd-tampa-fl-hd/10962",
 "Telemundo (WRMD) Tampa, FL HD"
 ],
-"S4159": [
+"S4161": [
 "ontvtonight.com",
 "us#69022268/wrmd",
 "WRMD"
 ],
-"S4160": [
+"S4162": [
 "epgshare01.online",
 "US_LOCALS1#WRMD-CD.us_locals1",
 "WRMD-CD"
 ],
-"S4161": [
+"S4163": [
 "tvpassport.com",
 "uni-wuvf-fort-myers-fl-hd/19109",
 "UNI (WUVF) Fort Myers, FL HD"
 ],
-"S4162": [
+"S4164": [
 "epgshare01.online",
 "US_LOCALS1#WUVF-LD.us_locals1",
 "WUVF-LD"
 ],
-"S4163": [
+"S4165": [
 "tvpassport.com",
 "uni-kftv-fresno-ca-hd/9358",
 "UNI (KFTV) Fresno, CA HD"
 ],
-"S4164": [
+"S4166": [
 "epgshare01.online",
 "US_LOCALS1#KFTV-DT.us_locals1",
 "KFTV-DT"
 ],
-"S4165": [
+"S4167": [
 "tvpassport.com",
 "uni-kunw-yakima-washington/7762",
 "UNI (KUNW) Yakima, Washington"
 ],
-"S4166": [
+"S4168": [
 "epgshare01.online",
 "US_LOCALS1#KUNW-CD.us_locals1",
 "KUNW-CD"
 ],
-"S4167": [
+"S4169": [
 "tvpassport.com",
 "uni-kuvs-modesto-ca-hd/9032",
 "UNI (KUVS) Modesto, CA HD"
 ],
-"S4168": [
+"S4170": [
 "epgshare01.online",
 "US_LOCALS1#KUVS-DT.us_locals1",
 "KUVS-DT"
 ],
-"S4169": [
+"S4171": [
 "tvpassport.com",
 "tudn-hd/11146",
 "TUDN HD"
 ],
-"S4170": [
+"S4172": [
 "directv.com",
 "94f6ccab-c0c4-4011-b060-5f7205dc8528",
 "TUDN HD"
 ],
-"S4171": [
+"S4173": [
 "epgshare01.online",
 "US2#TUDN.us2",
 "TUDN"
 ],
-"S4172": [
+"S4174": [
 "tvinsider.com",
 "tudn",
 "TUDN"
 ],
-"S4173": [
+"S4175": [
 "epgshare01.online",
 "US_LOCALS1#WAPA-DT.us_locals1",
 "WAPA-DT"

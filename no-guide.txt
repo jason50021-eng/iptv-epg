@@ -13,7 +13,6 @@ MC Video | Rap 2K - DIRECT
 MD | Minot | FOX Net
 ME | Presque Isle | FOX Net
 MI | Marquette | FOX Net
-MLB Seattle Mariners
 NC | Wilmington | FOX Net
 NY | Binghampton | FOX Net
 NY | New York | CW (PIX 11)
@@ -211,7 +210,6 @@ USA NBCSN NORTHWEST | HD
 USA NBCSN PHILADELPHIA HD
 USA NBCSN WASHINGTON | HD
 USA NFL Red Zone LHD
-USA NHL Carolina Hurricanes
 USA NO TV - NEW ORLEANS TELEVISION
 USA News12+ Bronx (HD)
 USA News12+ Brooklyn (HD)

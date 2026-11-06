@@ -844,19 +844,19 @@
   <channel site="ontvtonight.com" site_id="us#69024027/nbc-sports-philadelphia-plus" lang="en" xmltv_id="S4031">NBC Sports Philadelphia Plus</channel>
   <channel site="ontvtonight.com" site_id="us#317907389/bein-sports-english" lang="en" xmltv_id="S4036">beIN Sports (English)</channel>
   <channel site="ontvtonight.com" site_id="us#69022526/nba-tv" lang="en" xmltv_id="S4053">NBA TV</channel>
-  <channel site="ontvtonight.com" site_id="us#69032811/mlb-network" lang="en" xmltv_id="S4057">MLB Network</channel>
-  <channel site="ontvtonight.com" site_id="us#69046897/usa-network-hawaii" lang="en" xmltv_id="S4062">USA Network (Hawaii)</channel>
-  <channel site="ontvtonight.com" site_id="us#69030698/discovery-familia-us-feed" lang="en" xmltv_id="S4070">Discovery Familia (U.S. feed)</channel>
-  <channel site="ontvtonight.com" site_id="us#4331308447/foro-tv-us" lang="en" xmltv_id="S4082">Foro TV (US)</channel>
-  <channel site="ontvtonight.com" site_id="us#69034868/nuestra-tele-noticias-24" lang="en" xmltv_id="S4088">Nuestra Tele Noticias 24</channel>
-  <channel site="ontvtonight.com" site_id="us#69046945/telefe" lang="en" xmltv_id="S4089">Telefe</channel>
-  <channel site="ontvtonight.com" site_id="us#69021649/teleritmo" lang="en" xmltv_id="S4093">TeleRitmo</channel>
-  <channel site="ontvtonight.com" site_id="us#69029986/baby-tv" lang="en" xmltv_id="S4097">Baby TV</channel>
-  <channel site="ontvtonight.com" site_id="us#5668011771/evtv" lang="en" xmltv_id="S4108">EVTV</channel>
-  <channel site="ontvtonight.com" site_id="us#69034390/estrella-tv-east" lang="en" xmltv_id="S4117">Estrella TV (East)</channel>
-  <channel site="ontvtonight.com" site_id="us#4465255362/mega-tv-national-feed-us-network" lang="en" xmltv_id="S4123">Mega TV (National Feed / US Network)</channel>
-  <channel site="ontvtonight.com" site_id="us#69044943/telexitos" lang="en" xmltv_id="S4129">TeleXitos</channel>
-  <channel site="ontvtonight.com" site_id="us#69025984/cine-mexicano" lang="en" xmltv_id="S4132">Cine Mexicano</channel>
-  <channel site="ontvtonight.com" site_id="us#69029166/galavision-east" lang="en" xmltv_id="S4136">Galavision (East)</channel>
-  <channel site="ontvtonight.com" site_id="us#69022268/wrmd" lang="en" xmltv_id="S4159">WRMD</channel>
+  <channel site="ontvtonight.com" site_id="us#69032811/mlb-network" lang="en" xmltv_id="S4058">MLB Network</channel>
+  <channel site="ontvtonight.com" site_id="us#69046897/usa-network-hawaii" lang="en" xmltv_id="S4064">USA Network (Hawaii)</channel>
+  <channel site="ontvtonight.com" site_id="us#69030698/discovery-familia-us-feed" lang="en" xmltv_id="S4072">Discovery Familia (U.S. feed)</channel>
+  <channel site="ontvtonight.com" site_id="us#4331308447/foro-tv-us" lang="en" xmltv_id="S4084">Foro TV (US)</channel>
+  <channel site="ontvtonight.com" site_id="us#69034868/nuestra-tele-noticias-24" lang="en" xmltv_id="S4090">Nuestra Tele Noticias 24</channel>
+  <channel site="ontvtonight.com" site_id="us#69046945/telefe" lang="en" xmltv_id="S4091">Telefe</channel>
+  <channel site="ontvtonight.com" site_id="us#69021649/teleritmo" lang="en" xmltv_id="S4095">TeleRitmo</channel>
+  <channel site="ontvtonight.com" site_id="us#69029986/baby-tv" lang="en" xmltv_id="S4099">Baby TV</channel>
+  <channel site="ontvtonight.com" site_id="us#5668011771/evtv" lang="en" xmltv_id="S4110">EVTV</channel>
+  <channel site="ontvtonight.com" site_id="us#69034390/estrella-tv-east" lang="en" xmltv_id="S4119">Estrella TV (East)</channel>
+  <channel site="ontvtonight.com" site_id="us#4465255362/mega-tv-national-feed-us-network" lang="en" xmltv_id="S4125">Mega TV (National Feed / US Network)</channel>
+  <channel site="ontvtonight.com" site_id="us#69044943/telexitos" lang="en" xmltv_id="S4131">TeleXitos</channel>
+  <channel site="ontvtonight.com" site_id="us#69025984/cine-mexicano" lang="en" xmltv_id="S4134">Cine Mexicano</channel>
+  <channel site="ontvtonight.com" site_id="us#69029166/galavision-east" lang="en" xmltv_id="S4138">Galavision (East)</channel>
+  <channel site="ontvtonight.com" site_id="us#69022268/wrmd" lang="en" xmltv_id="S4161">WRMD</channel>
 </channels>

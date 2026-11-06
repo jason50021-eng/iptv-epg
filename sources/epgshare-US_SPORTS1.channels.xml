@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="epgshare01.online" site_id="US_SPORTS1#MLB-SeattleMariners.us" lang="en" xmltv_id="S4056">MLB - Seattle Mariners</channel>
+  <channel site="epgshare01.online" site_id="US_SPORTS1#NHL-CarolinaHurricanes.us" lang="en" xmltv_id="S4062">NHL - Carolina Hurricanes</channel>
+</channels>
