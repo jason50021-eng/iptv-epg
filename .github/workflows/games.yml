@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: guide
+  group: games            # separate from the nightly build so it never bumps it from the queue
   cancel-in-progress: false
 
 jobs:
@@ -23,6 +23,7 @@ jobs:
         run: |
           git fetch -q --depth=1 origin guide || { echo "No guide yet. Run 'Build TV guide' first."; exit 0; }
           git show origin/guide:guide.xml.gz > guide.xml.gz
+          echo "LEASE=$(git rev-parse origin/guide)" >> "$GITHUB_ENV"
       - name: Add live game listings
         env:
           IPTV_SERVER: ${{ secrets.IPTV_SERVER }}
