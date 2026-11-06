@@ -42,7 +42,8 @@ jobs:
       - name: Grab ${{ matrix.group }}
         working-directory: epg
         run: |
-          npm run grab -- --channels=../sources/${{ matrix.group }}.channels.xml \
+          # start from today's date in Central time (GitHub runs on UTC, which is already tomorrow after 6 PM)
+          CURR_DATE=$(TZ=America/Chicago date +%F) npm run grab -- --channels=../sources/${{ matrix.group }}.channels.xml \
             --output=../raw-${{ matrix.group }}.xml --timeout=30000 ${{ matrix.args }} \
             > ../grab-${{ matrix.group }}.log 2>&1 || true
           tail -n 25 ../grab-${{ matrix.group }}.log
