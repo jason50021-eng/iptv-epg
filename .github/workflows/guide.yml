@@ -69,7 +69,7 @@ jobs:
         run: |
           git add mapping.json sources manual-fixes.txt no-guide.txt channels.json
           git -c user.name=guide-bot -c user.email=guide-bot@users.noreply.github.com commit -q -m "matching $(date -u +%F)" || exit 0
-          git pull -q --rebase origin main || true
+          git pull -q --rebase --autostash origin main || true
           git push -q || echo "matching not saved (main changed during the run)"
 
   grab:
@@ -163,5 +163,5 @@ jobs:
           date -u '+Last run: %F %H:%M UTC' | cat - status.txt > status.tmp && mv status.tmp status.txt
           git add status.txt report.md
           git -c user.name=guide-bot -c user.email=guide-bot@users.noreply.github.com commit -q -m "status $(date -u +%F)" || exit 0
-          git pull -q --rebase origin main || true
+          git pull -q --rebase --autostash origin main || true
           git push -q || echo "status not saved (main changed during the run)" 
