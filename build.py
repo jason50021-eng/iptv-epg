@@ -91,9 +91,43 @@ def load_programmes(paths):
     return progs
 
 
+def calibrate_lineups(mapping, progs, index):
+    """ontvtonight lists each market in its local time but the grabber reads every time as Eastern, so a Pacific
+    station comes out 3 hours early. For each ontvtonight market lineup, compare its stations against tvpassport
+    (which is right) and find the hour offset where the shows line up; then shift that lineup's programmes."""
+    votes = collections.defaultdict(collections.Counter)
+    for m in mapping:
+        tp = [k for k in m['src'] if index.get(k, [''])[0] == 'tvpassport.com' and progs.get(k)]
+        ot = [k for k in m['src'] if index.get(k, [''])[0] == 'ontvtonight.com' and progs.get(k)]
+        if not tp or not ot:
+            continue
+        ref = {(e.findtext('title'), e.get('start')[:12]) for e in progs[tp[0]]}
+        best, best_n = 0, 0
+        for h in range(-5, 6):
+            n = sum((e.findtext('title'), shift_time(e.get('start'), h * 60)[:12]) in ref for e in progs[ot[0]])
+            if n > best_n:
+                best, best_n = h, n
+        if best_n >= 3:
+            votes[index[ot[0]][1].split('/')[0]][best] += 1
+    shifts = {lu: c.most_common(1)[0][0] for lu, c in votes.items() if c.most_common(1)[0][0] != 0}
+    for k, (site, site_id, _) in index.items():
+        h = shifts.get(site_id.split('/')[0]) if site == 'ontvtonight.com' else None
+        if h and progs.get(k):
+            for e in progs[k]:
+                e.set('start', shift_time(e.get('start'), h * 60))
+                if e.get('stop'):
+                    e.set('stop', shift_time(e.get('stop'), h * 60))
+    return shifts
+
+
 def main(out, raws):
     mapping = json.load(open(os.path.join(HERE, 'mapping.json'), encoding='utf-8'))
     progs = load_programmes(raws)
+    idx_path = os.path.join(HERE, 'sources', 'index.json')
+    index = json.load(open(idx_path, encoding='utf-8')) if os.path.exists(idx_path) else {}
+    shifts = calibrate_lineups(mapping, progs, index)
+    print(f'ontvtonight market time fixes (hours): {len(shifts)} markets, '
+          + ', '.join(f'{h:+d}h x{list(shifts.values()).count(h)}' for h in sorted(set(shifts.values()))))
     used, empty, n_prog = 0, [], 0
     cutoff = (datetime.datetime.now(datetime.timezone.utc).replace(tzinfo=None) - datetime.timedelta(hours=3)).strftime(FMT)
     tmp = out + '.tmp'

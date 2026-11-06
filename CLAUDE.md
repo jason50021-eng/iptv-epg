@@ -45,6 +45,9 @@ TiviMate guide URL: https://raw.githubusercontent.com/jason50021-eng/iptv-epg/gu
   its grabber caches a single file), directv.com, tvinsider.com, tvguide.com, i.mjh.nz (Pluto/Samsung/Roku/Plex/PBS),
   plex.tv, pluto.tv, xumo.tv, distro.tv.
 - Do NOT use from GitHub: tvtv.us and streamingtvguides.com return nothing.
+- ontvtonight lists each market in local time but its grabber reads times as Eastern (Pacific stations 3h early).
+  build.py calibrate_lineups() compares ontvtonight against tvpassport per market lineup and shifts it; it needs
+  sources/index.json (written by gen.py). The shift per market is printed in status.txt.
 - Samsung TV Plus (i.mjh.nz) only publishes a few hours ahead, and some sources skip a day. build.py picks, per
   channel, the source covering the most hours from 3h ago to 3 days ahead (earlier sources win when within 15%).
 

@@ -144,6 +144,10 @@ for x in rows:
 
 json.dump(sorted(mapping.values(), key=lambda m: m['name']), open(OUT + '/mapping.json', 'w'), indent=1)
 
+# key -> [site, site_id, name], so build.py can tell sources (and ontvtonight market lineups) apart
+json.dump({v['key']: [v['site'], v['site_id'], v['name']] for v in src_keys.values()},
+          open(OUT + '/sources/index.json', 'w'), indent=0)
+
 # epgshare01's grabber caches one country file at a time, so it gets one sources file per file tag
 import glob as _glob
 for old in _glob.glob(OUT + '/sources/epgshare*.channels.xml'):
