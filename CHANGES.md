@@ -3,6 +3,13 @@
 Each change lists what it does, what we expected, and how to undo it.
 Restore points are git branches; see "Safety and rollback" in CLAUDE.md.
 
+## 2026-11-07: "May have ended" label
+Why: providers give only a start time, so end times are estimates. SEC Nation showed "Ended" while still on air.
+What changed (events.py): for 2 hours after a game's estimated end the guide shows "May have ended: X",
+then "Ended: X". Nothing else changes.
+Expected: fewer wrong "Ended" labels on shows and games that run long.
+To undo: `git revert` this commit on main, then run "Update game listings".
+
 ## 2026-11-07: Game Channels Update
 Restore point before this change: `restore-code-2026-11-07-0944` / `restore-guide-2026-11-07-0944`.
 

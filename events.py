@@ -4,7 +4,7 @@
 Game Channels Update (Nov 7 2026): every US game slot always has a listing.
   - event with a time:    "Up next: X" until the start, then X, then "Ended: X"
   - event with no time:   X all day
-  - finished, not renamed:"Ended: X"
+  - finished, not renamed:"May have ended: X" for 2 hours after the estimated end, then "Ended: X"
   - empty slot:           "No event scheduled"
   - old-name protection:  each slot is also listed under its last 2 names (ids <slot>-prev1.ev, -prev2.ev),
     so a TiviMate channel list that is a few hours old still matches. History comes from the guide being
@@ -181,13 +181,16 @@ def build_events(streams, now, groups=None):
             end = start + datetime.timedelta(minutes=length_for(slot))
             local = start.astimezone(CT).strftime('%a %-I:%M %p CT')
             ended = (f'Ended: {title}', f'Played {local}. Waiting for the provider to post the next event on this channel.')
-            if end <= now:
-                blocks.append((max(end, hour - datetime.timedelta(hours=1)), day_end) + ended)
-            else:
-                if start > now:
-                    blocks.append((hour - datetime.timedelta(hours=1), start, f'Up next: {title}', f'Starts {local}.'))
+            maybe = (f'May have ended: {title}', f'Started {local}. The end time is an estimate, so it may still be on.')
+            sure = end + datetime.timedelta(hours=2)  # first 2 hours after the estimated end: "May have ended"
+            first = hour - datetime.timedelta(hours=1)
+            if start > now:
+                blocks.append((first, start, f'Up next: {title}', f'Starts {local}.'))
+            if end > now:
                 blocks.append((start, end, title, f'Live. Scheduled start {local}. End time is estimated.'))
-                blocks.append((end, max(end + datetime.timedelta(hours=12), day_end)) + ended)
+            if sure > now:
+                blocks.append((max(end, first), sure) + maybe)
+            blocks.append((max(sure, first), max(sure + datetime.timedelta(hours=12), day_end)) + ended)
         out.append((cid, name, blocks))
     return out
 
