@@ -71,6 +71,11 @@ TiviMate guide URL: https://raw.githubusercontent.com/jason50021-eng/iptv-epg/gu
 ## Safety and rollback
 - Backup branches: `backup-before-improvements` (code as of Nov 5 evening, known good) and `backup-guide`
   (a known-good guide.xml.gz). To restore the guide instantly: push backup-guide's commit to `guide`.
+- Newest restore point (Jason approved as known good, Nov 7 2026 9:44 AM CT): `restore-code-2026-11-07-0944`
+  and `restore-guide-2026-11-07-0944`. To roll back fully: reset main's code to restore-code (keep newer status
+  commits out of it), push restore-guide's commit to `guide`, then rerun the build.
+- Jason's rule: talk through planned guide changes and expected outcomes with him before making them in a
+  live session. The Sunday weekly check still fixes automatically (he wants that) and reports after.
 - To undo a bad code change: `git revert` the commit on main and rerun the build.
 - Never weaken the publish guard in build.py or the 10% guard in the match job.
 - Things that are expected to have no guide: Starzplay/ViX/TUDN/Conmebol numbered slots, Music Choice video,
