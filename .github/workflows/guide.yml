@@ -167,7 +167,7 @@ jobs:
           IPTV_SERVER: ${{ secrets.IPTV_SERVER }}
           IPTV_USER: ${{ secrets.IPTV_USER }}
           IPTV_PASS: ${{ secrets.IPTV_PASS }}
-        run: python3 events.py guide.xml.gz | tail -n 3
+        run: python3 events.py guide.xml.gz --history prev-guide.xml.gz | tail -n 3
       - name: Write report (what lost listings since last night)
         run: python3 report.py prev-guide.xml.gz guide.xml.gz prev-channels.json channels.json report.md || true
       - name: Publish to the "guide" branch

@@ -21,8 +21,11 @@ TiviMate guide URL: https://raw.githubusercontent.com/jason50021-eng/iptv-epg/gu
 - `build.py` turns the raw grabs into guide.xml.gz using mapping.json: picks the source that covers the
   furthest ahead, shifts West feeds +3h when only East listings exist, copies `<image>` to `<icon>` for
   artwork, drops shows that already ended, refuses to publish if under half the channels have data.
-- `events.py` adds listings for game slot channels (NFL Sunday 705-717, NBA 01, ESPN+ 016, NHL, soccer,
-  PPV...) from the provider's current channel names. Runs hourly (games.yml) and in the nightly build.
+- `events.py` adds listings for game slot channels (NFL Sunday 705-717, NBA 01, ESPN+ 016, NHL, NCAAF/NCAAB,
+  FloSports, DAZN, soccer, PPV...; groups in GAME_GROUPS) from the provider's current channel names. Every slot
+  gets a listing (Up next / game / Ended / No event scheduled) and is also listed under its last 2 names
+  (ids <slot>-prev1.ev). Runs hourly (games.yml) and in the nightly build (with --history prev-guide.xml.gz).
+- `CHANGES.md` is the change log. Add an entry (what, expected result, how to undo) for every guide change.
 - `report.py` writes `report.md`: channels that lost listings since last night, new channels with none.
 - `publish.sh` force-pushes guide.xml.gz as the only file on the `guide` branch.
 
