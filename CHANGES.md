@@ -3,6 +3,13 @@
 Each change lists what it does, what we expected, and how to undo it.
 Restore points are git branches; see "Safety and rollback" in CLAUDE.md.
 
+## 2026-11-08: WGN 9 Chicago (weekly check)
+Why: "USA WGN 9 CHICAGO" was matched to the old WGN America listing, which no longer has shows, so it was blank.
+What changed (matching/match.py MANUAL): it now matches tvpassport's "WGN Chicago (LOCAL)". Nothing else changes
+(local test: same 1916 entries with and without the change, only this channel's source differs).
+Expected: WGN 9 Chicago gets listings after the next build.
+To undo: `git revert` this commit on main, then run "Build TV guide".
+
 ## 2026-11-07: "May have ended" label
 Why: providers give only a start time, so end times are estimates. SEC Nation showed "Ended" while still on air.
 What changed (events.py): for 2 hours after a game's estimated end the guide shows "May have ended: X",

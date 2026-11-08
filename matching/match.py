@@ -276,6 +276,7 @@ MANUAL = [
     (r'edgesport', r'^edgesport$'),
     (r'gulf coast sports', r'^wala gulf coast sports & entertainment network$'),
     (r'\bnhra\b', r'^nhra tv$'),
+    (r'^wgn 9 chicago$', r'^wgn chicago \(local\)$|^wgn local chicago$'),  # not "WGN America" (defunct)
 ]
 def _srcname(s):
     n = html.unescape(html.unescape(s['name'])).lower().strip()
