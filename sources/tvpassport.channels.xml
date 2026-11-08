@@ -1119,6 +1119,7 @@
   <channel site="tvpassport.com" site_id="pt-check-cw-ktla-los-angeles/2036" lang="en" xmltv_id="S3716">PT CHECK: CW (KTLA) Los Angeles</channel>
   <channel site="tvpassport.com" site_id="cw-kdaf-dallas-tx-hd/7467" lang="en" xmltv_id="S3719">CW (KDAF) Dallas, TX HD</channel>
   <channel site="tvpassport.com" site_id="cw-wbdt-dayton-oh-hd/7403" lang="en" xmltv_id="S3722">CW (WBDT) Dayton, OH HD</channel>
+  <channel site="tvpassport.com" site_id="wgn-chicago-local-hd/5881" lang="en" xmltv_id="S3725">WGN Chicago (LOCAL) HD</channel>
   <channel site="tvpassport.com" site_id="pbs-wkle-lexington-richmond-ky-hd/8287" lang="en" xmltv_id="S3726">PBS (WKLE) Lexington-Richmond, KY HD</channel>
   <channel site="tvpassport.com" site_id="cw-wish-indianapolis-in-hd/7678" lang="en" xmltv_id="S3728">CW (WISH) Indianapolis, IN HD</channel>
   <channel site="tvpassport.com" site_id="cw-wuab-cleveland-oh-hd/4736" lang="en" xmltv_id="S3731">CW (WUAB) Cleveland, OH HD</channel>
