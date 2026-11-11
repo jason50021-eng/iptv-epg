@@ -12061,6 +12061,15 @@
   ]
  },
  {
+  "id": "msgsn-zone3.jm",
+  "name": "USA MSGSN (Zone3)",
+  "shift": 0,
+  "src": [
+   "S3921",
+   "S3922"
+  ]
+ },
+ {
   "id": "msgsnplus.us",
   "name": "USA MSGSN HD",
   "shift": 0,
