@@ -1,6 +1,6 @@
-# Guide report, 2026-11-10 09:28 UTC
+# Guide report, 2026-11-12 09:33 UTC
 
-US channels (not counting game channels): 2576. With listings tonight: 2278.
+US channels (not counting game channels): 2577. With listings tonight: 2279.
 Since last night: 0 lost their listings, 0 gained listings.
 
 ## Lost listings since last night (0)
