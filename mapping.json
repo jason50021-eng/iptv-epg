@@ -477,8 +477,8 @@
   "name": "DC | Washington | Telemundo WZDC",
   "shift": 0,
   "src": [
-   "S4150",
-   "S4151"
+   "S4155",
+   "S4156"
   ]
  },
  {
@@ -1300,7 +1300,7 @@
   "name": "MLB Seattle Mariners",
   "shift": 0,
   "src": [
-   "S4056"
+   "S4061"
   ]
  },
  {
@@ -4945,7 +4945,7 @@
   "name": "USA BeIN SPORTS 5 HD",
   "shift": 0,
   "src": [
-   "S4042"
+   "S4046"
   ]
  },
  {
@@ -4953,7 +4953,7 @@
   "name": "USA BeIN SPORTS 6 HD",
   "shift": 0,
   "src": [
-   "S4040"
+   "S4044"
   ]
  },
  {
@@ -4961,7 +4961,15 @@
   "name": "USA BeIN SPORTS 8 HD",
   "shift": 0,
   "src": [
-   "S4043"
+   "S4047"
+  ]
+ },
+ {
+  "id": "bein-sports-3.jm",
+  "name": "USA BeIN Sports 3",
+  "shift": 0,
+  "src": [
+   "S4052"
   ]
  },
  {
@@ -4969,7 +4977,7 @@
   "name": "USA BeIN Sports 4",
   "shift": 0,
   "src": [
-   "S4039"
+   "S4043"
   ]
  },
  {
@@ -4977,7 +4985,7 @@
   "name": "USA BeIN Sports 6",
   "shift": 0,
   "src": [
-   "S4040"
+   "S4044"
   ]
  },
  {
@@ -4985,7 +4993,7 @@
   "name": "USA BeIN Sports 7",
   "shift": 0,
   "src": [
-   "S4041"
+   "S4045"
   ]
  },
  {
@@ -5002,10 +5010,10 @@
   "name": "USA Bein Sports Xtra",
   "shift": 0,
   "src": [
-   "S4044",
-   "S4045",
-   "S4046",
-   "S4047"
+   "S4048",
+   "S4049",
+   "S4050",
+   "S4051"
   ]
  },
  {
@@ -7245,7 +7253,7 @@
   "name": "USA CNN en Espa\u00f1ol*",
   "shift": 0,
   "src": [
-   "S4070"
+   "S4075"
   ]
  },
  {
@@ -8057,10 +8065,10 @@
   "name": "USA Cine Mexicano",
   "shift": 0,
   "src": [
-   "S4133",
-   "S4134",
-   "S4135",
-   "S4136"
+   "S4138",
+   "S4139",
+   "S4140",
+   "S4141"
   ]
  },
  {
@@ -8395,9 +8403,9 @@
   "name": "USA Discovery Familia*",
   "shift": 0,
   "src": [
-   "S4071",
-   "S4072",
-   "S4073"
+   "S4076",
+   "S4077",
+   "S4078"
   ]
  },
  {
@@ -10866,9 +10874,9 @@
   "name": "USA Galavision",
   "shift": 0,
   "src": [
-   "S4137",
-   "S4138",
-   "S4139"
+   "S4142",
+   "S4143",
+   "S4144"
   ]
  },
  {
@@ -11497,8 +11505,8 @@
   "name": "USA LATIN Teleritmo",
   "shift": 0,
   "src": [
-   "S4094",
-   "S4095"
+   "S4099",
+   "S4100"
   ]
  },
  {
@@ -11545,7 +11553,7 @@
   "name": "USA Latin Antena 3",
   "shift": 0,
   "src": [
-   "S4074"
+   "S4079"
   ]
  },
  {
@@ -11553,8 +11561,8 @@
   "name": "USA Latin Antena 3 Internacional",
   "shift": 0,
   "src": [
-   "S4128",
-   "S4129"
+   "S4133",
+   "S4134"
   ]
  },
  {
@@ -11562,8 +11570,8 @@
   "name": "USA Latin Atreseries",
   "shift": 0,
   "src": [
-   "S4075",
-   "S4076"
+   "S4080",
+   "S4081"
   ]
  },
  {
@@ -11571,10 +11579,10 @@
   "name": "USA Latin Baby TV",
   "shift": 0,
   "src": [
-   "S4098",
-   "S4099",
-   "S4100",
-   "S4101"
+   "S4103",
+   "S4104",
+   "S4105",
+   "S4106"
   ]
  },
  {
@@ -11582,9 +11590,9 @@
   "name": "USA Latin Bandamax",
   "shift": 0,
   "src": [
-   "S4077",
-   "S4078",
-   "S4079"
+   "S4082",
+   "S4083",
+   "S4084"
   ]
  },
  {
@@ -11592,7 +11600,7 @@
   "name": "USA Latin Centroamerica TV",
   "shift": 0,
   "src": [
-   "S4122"
+   "S4127"
   ]
  },
  {
@@ -11600,9 +11608,9 @@
   "name": "USA Latin De Pelicula",
   "shift": 0,
   "src": [
-   "S4080",
-   "S4081",
-   "S4082"
+   "S4085",
+   "S4086",
+   "S4087"
   ]
  },
  {
@@ -11610,8 +11618,8 @@
   "name": "USA Latin Discovery",
   "shift": 0,
   "src": [
-   "S4102",
-   "S4103",
+   "S4107",
+   "S4108",
    "S0574"
   ]
  },
@@ -11620,7 +11628,7 @@
   "name": "USA Latin ESNE",
   "shift": 0,
   "src": [
-   "S4123"
+   "S4128"
   ]
  },
  {
@@ -11628,7 +11636,7 @@
   "name": "USA Latin EVTV",
   "shift": 0,
   "src": [
-   "S4110"
+   "S4115"
   ]
  },
  {
@@ -11636,10 +11644,10 @@
   "name": "USA Latin Estrella TV",
   "shift": 0,
   "src": [
-   "S4118",
-   "S4119",
-   "S4120",
-   "S4121"
+   "S4123",
+   "S4124",
+   "S4125",
+   "S4126"
   ]
  },
  {
@@ -11647,10 +11655,10 @@
   "name": "USA Latin FOROTV",
   "shift": 0,
   "src": [
-   "S4083",
-   "S4084",
-   "S4085",
-   "S4086"
+   "S4088",
+   "S4089",
+   "S4090",
+   "S4091"
   ]
  },
  {
@@ -11658,9 +11666,9 @@
   "name": "USA Latin HITN",
   "shift": 0,
   "src": [
-   "S4112",
-   "S4113",
-   "S4114"
+   "S4117",
+   "S4118",
+   "S4119"
   ]
  },
  {
@@ -11676,10 +11684,10 @@
   "name": "USA Latin Mega",
   "shift": 0,
   "src": [
-   "S4124",
-   "S4125",
-   "S4126",
-   "S4127"
+   "S4129",
+   "S4130",
+   "S4131",
+   "S4132"
   ]
  },
  {
@@ -11687,8 +11695,8 @@
   "name": "USA Latin Mexicanal",
   "shift": 0,
   "src": [
-   "S4106",
-   "S4107"
+   "S4111",
+   "S4112"
   ]
  },
  {
@@ -11696,9 +11704,9 @@
   "name": "USA Latin NTN24",
   "shift": 0,
   "src": [
-   "S4087",
-   "S4088",
-   "S4089"
+   "S4092",
+   "S4093",
+   "S4094"
   ]
  },
  {
@@ -11706,8 +11714,8 @@
   "name": "USA Latin Nat Geo Mundo",
   "shift": 0,
   "src": [
-   "S4104",
-   "S4105"
+   "S4109",
+   "S4110"
   ]
  },
  {
@@ -11715,7 +11723,7 @@
   "name": "USA Latin Nuestra Tele Noticias 24",
   "shift": 0,
   "src": [
-   "S4090"
+   "S4095"
   ]
  },
  {
@@ -11723,8 +11731,8 @@
   "name": "USA Latin Pasiones",
   "shift": 0,
   "src": [
-   "S4116",
-   "S4117"
+   "S4121",
+   "S4122"
   ]
  },
  {
@@ -11743,7 +11751,7 @@
   "name": "USA Latin TOONCAST",
   "shift": 0,
   "src": [
-   "S4115"
+   "S4120"
   ]
  },
  {
@@ -11751,10 +11759,10 @@
   "name": "USA Latin TUDN",
   "shift": 0,
   "src": [
-   "S4171",
-   "S4172",
-   "S4173",
-   "S4174"
+   "S4176",
+   "S4177",
+   "S4178",
+   "S4179"
   ]
  },
  {
@@ -11762,9 +11770,9 @@
   "name": "USA Latin TeleXitos",
   "shift": 0,
   "src": [
-   "S4130",
-   "S4131",
-   "S4132"
+   "S4135",
+   "S4136",
+   "S4137"
   ]
  },
  {
@@ -11772,8 +11780,8 @@
   "name": "USA Latin Telefe",
   "shift": 0,
   "src": [
-   "S4091",
-   "S4092"
+   "S4096",
+   "S4097"
   ]
  },
  {
@@ -11781,7 +11789,7 @@
   "name": "USA Latin Telehit",
   "shift": 0,
   "src": [
-   "S4093"
+   "S4098"
   ]
  },
  {
@@ -11789,8 +11797,8 @@
   "name": "USA Latin Telemundo 2 WKAQ Puerto Rico",
   "shift": 0,
   "src": [
-   "S4154",
-   "S4155"
+   "S4159",
+   "S4160"
   ]
  },
  {
@@ -11798,8 +11806,8 @@
   "name": "USA Latin UNIVISION (WUVF) Ft. Myers-Naples",
   "shift": 0,
   "src": [
-   "S4163",
-   "S4164"
+   "S4168",
+   "S4169"
   ]
  },
  {
@@ -11807,7 +11815,7 @@
   "name": "USA Latin Wapa Puerto Rico",
   "shift": 0,
   "src": [
-   "S4175"
+   "S4180"
   ]
  },
  {
@@ -11815,7 +11823,7 @@
   "name": "USA Latin ZONA Futbol",
   "shift": 0,
   "src": [
-   "S4111"
+   "S4116"
   ]
  },
  {
@@ -11998,10 +12006,10 @@
   "name": "USA MLB Network",
   "shift": 0,
   "src": [
-   "S4057",
-   "S4058",
-   "S4059",
-   "S4060"
+   "S4062",
+   "S4063",
+   "S4064",
+   "S4065"
   ]
  },
  {
@@ -12009,7 +12017,7 @@
   "name": "USA MLB Strike Zone",
   "shift": 0,
   "src": [
-   "S4061"
+   "S4066"
   ]
  },
  {
@@ -12449,10 +12457,10 @@
   "name": "USA Monumental Sports Network (NBC Sports Washington)",
   "shift": 0,
   "src": [
-   "S4023",
-   "S4024",
-   "S4025",
-   "S4026"
+   "S4027",
+   "S4028",
+   "S4029",
+   "S4030"
   ]
  },
  {
@@ -12650,10 +12658,10 @@
   "name": "USA NBA TV UHD",
   "shift": 0,
   "src": [
-   "S4052",
-   "S4053",
-   "S4054",
-   "S4055"
+   "S4057",
+   "S4058",
+   "S4059",
+   "S4060"
   ]
  },
  {
@@ -14288,10 +14296,10 @@
   "name": "USA NBC SPORTS BAY AREA HD",
   "shift": 0,
   "src": [
-   "S4009",
-   "S4010",
-   "S4011",
-   "S4012"
+   "S4013",
+   "S4014",
+   "S4015",
+   "S4016"
   ]
  },
  {
@@ -14337,10 +14345,10 @@
   "name": "USA NBC Sport Network",
   "shift": 0,
   "src": [
-   "S4017",
-   "S4018",
-   "S4019",
-   "S4020"
+   "S4021",
+   "S4022",
+   "S4023",
+   "S4024"
   ]
  },
  {
@@ -14356,10 +14364,10 @@
   "name": "USA NBC Sports Boston LHD",
   "shift": 0,
   "src": [
-   "S4013",
-   "S4014",
-   "S4015",
-   "S4016"
+   "S4017",
+   "S4018",
+   "S4019",
+   "S4020"
   ]
  },
  {
@@ -14367,9 +14375,9 @@
   "name": "USA NBC Sports California",
   "shift": 0,
   "src": [
-   "S4027",
-   "S4028",
-   "S4029"
+   "S4031",
+   "S4032",
+   "S4033"
   ]
  },
  {
@@ -14377,8 +14385,8 @@
   "name": "USA NBC Sports California Plus",
   "shift": 0,
   "src": [
-   "S4021",
-   "S4022"
+   "S4025",
+   "S4026"
   ]
  },
  {
@@ -14386,8 +14394,8 @@
   "name": "USA NBC Sports Chicago",
   "shift": 0,
   "src": [
-   "S4033",
-   "S4034"
+   "S4037",
+   "S4038"
   ]
  },
  {
@@ -14406,9 +14414,9 @@
   "name": "USA NBC Sports Philadelphia Plus",
   "shift": 0,
   "src": [
-   "S4030",
-   "S4031",
-   "S4032"
+   "S4034",
+   "S4035",
+   "S4036"
   ]
  },
  {
@@ -14665,7 +14673,7 @@
   "name": "USA NHL Carolina Hurricanes",
   "shift": 0,
   "src": [
-   "S4062"
+   "S4067"
   ]
  },
  {
@@ -14769,10 +14777,10 @@
   "name": "USA Network",
   "shift": 0,
   "src": [
-   "S4063",
-   "S4064",
-   "S4065",
-   "S4066"
+   "S4068",
+   "S4069",
+   "S4070",
+   "S4071"
   ]
  },
  {
@@ -16540,6 +16548,17 @@
   ]
  },
  {
+  "id": "scripps-sports-network.jm",
+  "name": "USA Scripps Sports Network",
+  "shift": 0,
+  "src": [
+   "S4009",
+   "S4010",
+   "S4011",
+   "S4012"
+  ]
+ },
+ {
   "id": "shades-of-black.jm",
   "name": "USA Shades of Black",
   "shift": 0,
@@ -17167,8 +17186,8 @@
   "name": "USA TELEMUNDO 19 WRDM HARTFORD CT",
   "shift": 0,
   "src": [
-   "S4148",
-   "S4149"
+   "S4153",
+   "S4154"
   ]
  },
  {
@@ -17176,8 +17195,8 @@
   "name": "USA TELEMUNDO 20 KTMW SALT LAKE CITY",
   "shift": 0,
   "src": [
-   "S4140",
-   "S4141"
+   "S4145",
+   "S4146"
   ]
  },
  {
@@ -17194,8 +17213,8 @@
   "name": "USA TELEMUNDO 31 WTMO ORLANDO",
   "shift": 0,
   "src": [
-   "S4142",
-   "S4143"
+   "S4147",
+   "S4148"
   ]
  },
  {
@@ -17203,8 +17222,8 @@
   "name": "USA TELEMUNDO 33 KCSO SACRAMENTO",
   "shift": 0,
   "src": [
-   "S4144",
-   "S4145"
+   "S4149",
+   "S4150"
   ]
  },
  {
@@ -17212,8 +17231,8 @@
   "name": "USA TELEMUNDO 43 WWDT FORT MYERS/NAPLES",
   "shift": 0,
   "src": [
-   "S4146",
-   "S4147"
+   "S4151",
+   "S4152"
   ]
  },
  {
@@ -17221,8 +17240,8 @@
   "name": "USA TELEMUNDO 44 DC WZDC",
   "shift": 0,
   "src": [
-   "S4150",
-   "S4151"
+   "S4155",
+   "S4156"
   ]
  },
  {
@@ -17230,8 +17249,8 @@
   "name": "USA TELEMUNDO 48 KTDO EL PASO TX",
   "shift": 0,
   "src": [
-   "S4158",
-   "S4159"
+   "S4163",
+   "S4164"
   ]
  },
  {
@@ -17423,9 +17442,9 @@
   "name": "USA Telemundo (WRMD) Tampa",
   "shift": 0,
   "src": [
-   "S4160",
-   "S4161",
-   "S4162"
+   "S4165",
+   "S4166",
+   "S4167"
   ]
  },
  {
@@ -17433,8 +17452,8 @@
   "name": "USA Telemundo 2 (WKAQ) Puerto Rico",
   "shift": 0,
   "src": [
-   "S4154",
-   "S4155"
+   "S4159",
+   "S4160"
   ]
  },
  {
@@ -17442,8 +17461,8 @@
   "name": "USA Telemundo 2 KASA Albuquerque",
   "shift": 0,
   "src": [
-   "S4156",
-   "S4157"
+   "S4161",
+   "S4162"
   ]
  },
  {
@@ -17451,8 +17470,8 @@
   "name": "USA Telemundo 42 (KGLA) New Orleans",
   "shift": 0,
   "src": [
-   "S4152",
-   "S4153"
+   "S4157",
+   "S4158"
   ]
  },
  {
@@ -17460,8 +17479,8 @@
   "name": "USA Telemundo 44 DC WZDC",
   "shift": 0,
   "src": [
-   "S4150",
-   "S4151"
+   "S4155",
+   "S4156"
   ]
  },
  {
@@ -17480,8 +17499,8 @@
   "name": "USA Telemundo KUTU Tulsa",
   "shift": 0,
   "src": [
-   "S4108",
-   "S4109"
+   "S4113",
+   "S4114"
   ]
  },
  {
@@ -17489,8 +17508,8 @@
   "name": "USA Telemundo San Francisco KSTS",
   "shift": 0,
   "src": [
-   "S4096",
-   "S4097"
+   "S4101",
+   "S4102"
   ]
  },
  {
@@ -17746,10 +17765,10 @@
   "name": "USA UFC Channel",
   "shift": 0,
   "src": [
-   "S4048",
-   "S4049",
-   "S4050",
-   "S4051"
+   "S4053",
+   "S4054",
+   "S4055",
+   "S4056"
   ]
  },
  {
@@ -17856,8 +17875,8 @@
   "name": "USA Univision (KUNW)",
   "shift": 0,
   "src": [
-   "S4167",
-   "S4168"
+   "S4172",
+   "S4173"
   ]
  },
  {
@@ -17865,8 +17884,8 @@
   "name": "USA Univision 19 (KUVS) Sacramento",
   "shift": 0,
   "src": [
-   "S4169",
-   "S4170"
+   "S4174",
+   "S4175"
   ]
  },
  {
@@ -17874,8 +17893,8 @@
   "name": "USA Univision 21 (KFTV) Fresno",
   "shift": 0,
   "src": [
-   "S4165",
-   "S4166"
+   "S4170",
+   "S4171"
   ]
  },
  {
@@ -18017,9 +18036,9 @@
   "name": "USA Wapa America",
   "shift": 0,
   "src": [
-   "S4067",
-   "S4068",
-   "S4069"
+   "S4072",
+   "S4073",
+   "S4074"
   ]
  },
  {
@@ -18531,10 +18550,10 @@
   "name": "USA beIN Sports LHD",
   "shift": 0,
   "src": [
-   "S4035",
-   "S4036",
-   "S4037",
-   "S4038"
+   "S4039",
+   "S4040",
+   "S4041",
+   "S4042"
   ]
  },
  {

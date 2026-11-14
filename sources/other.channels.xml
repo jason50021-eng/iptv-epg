@@ -725,45 +725,48 @@
   <channel site="tvinsider.com" site_id="fanduel-sports-south" lang="en" xmltv_id="S4005">FanDuel Sports South</channel>
   <channel site="tvinsider.com" site_id="fanduel-sports-southwest" lang="en" xmltv_id="S4006">FanDuel Sports Southwest</channel>
   <channel site="tvinsider.com" site_id="fanduel-sports-sun" lang="en" xmltv_id="S4008">FanDuel Sports Sun</channel>
-  <channel site="directv.com" site_id="b0b06816-dd9f-41be-8004-4b2c39065d19" lang="en" xmltv_id="S4012">NBC Sports Bay Area HD</channel>
-  <channel site="directv.com" site_id="022da6da-eb29-4975-b0e5-1ba83b768312" lang="en" xmltv_id="S4016">NBC Sports Boston HD</channel>
-  <channel site="directv.com" site_id="b9a635df-c9a1-459a-b714-a6ca56d137a3" lang="en" xmltv_id="S4018">NBC Sports Now</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#6549306c83595c000815a696" lang="en" xmltv_id="S4019">NBC Sports NOW</channel>
-  <channel site="pluto.tv" site_id="6549306c83595c000815a696" lang="en" xmltv_id="S4020">NBC Sports NOW</channel>
-  <channel site="directv.com" site_id="1dc41f1c-7380-4bf8-a4b5-13f688b48fd6" lang="en" xmltv_id="S4022">NBC Sports California Plus</channel>
-  <channel site="directv.com" site_id="335e1127-3daa-4187-9869-ccf1e2d2a606" lang="en" xmltv_id="S4026">Monumental Sports Network HD</channel>
-  <channel site="directv.com" site_id="1d6aba71-5282-4f56-8acf-2a2aff938b0f" lang="en" xmltv_id="S4029">NBC Sports California HD</channel>
-  <channel site="tvinsider.com" site_id="nbc-sports-chicago" lang="en" xmltv_id="S4034">NBC Sports Chicago</channel>
-  <channel site="tvinsider.com" site_id="bein-sports" lang="en" xmltv_id="S4038">beIN Sports</channel>
-  <channel site="directv.com" site_id="be076527-86af-4537-a165-56839e0eea0b" lang="en" xmltv_id="S4046">beIN SPORTS XTRA</channel>
-  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US2700004DX" lang="en" xmltv_id="S4047">beIN Sports XTRA ñ</channel>
-  <channel site="i.mjh.nz" site_id="PlutoTV/us#677d9adfa9a51b0008497fa0" lang="en" xmltv_id="S4049">UFC</channel>
-  <channel site="pluto.tv" site_id="677d9adfa9a51b0008497fa0" lang="en" xmltv_id="S4050">UFC</channel>
-  <channel site="plex.tv" site_id="66ccac69fdf9cd3a568ef135" lang="en" xmltv_id="S4051">UFC</channel>
-  <channel site="directv.com" site_id="10627bc1-89a2-4c00-bf92-8851d96e1b98" lang="en" xmltv_id="S4055">NBA TV HD</channel>
-  <channel site="directv.com" site_id="c8e2cc18-4320-4f21-8a59-68c2f33c0c05" lang="en" xmltv_id="S4060">MLB Network HD</channel>
-  <channel site="directv.com" site_id="23d4fb04-2b56-4a9e-9066-47022a5e164f" lang="en" xmltv_id="S4061">MLB Strike Zone HD</channel>
-  <channel site="directv.com" site_id="214a502e-c54a-4b61-8904-b4ce37c1e38a" lang="en" xmltv_id="S4066">USA Network HD</channel>
-  <channel site="directv.com" site_id="d3cb96a7-c699-4ddd-bd3b-e9d654704897" lang="en" xmltv_id="S4069">WAPA America (103A)</channel>
-  <channel site="directv.com" site_id="5b4cf873-77d4-41e0-8641-6bd7c852399b" lang="en" xmltv_id="S4073">Discovery Familia (103A)</channel>
-  <channel site="directv.com" site_id="25cbe8bb-c628-44f0-aa9f-8668cad54fc0" lang="en" xmltv_id="S4074">Antena 3</channel>
-  <channel site="directv.com" site_id="22743767-b7a4-44e8-9090-b5a6329ccde8" lang="en" xmltv_id="S4076">Atreseries</channel>
-  <channel site="directv.com" site_id="b5a2d87e-46e6-4c8a-9d06-953bd102c1b7" lang="en" xmltv_id="S4079">Bandamax (103A)</channel>
-  <channel site="directv.com" site_id="245dfb72-b8f8-42d8-b78e-ed03904821fb" lang="en" xmltv_id="S4082">De Pelicula (103A)</channel>
-  <channel site="directv.com" site_id="113ffc23-cef3-4ad3-85f3-7f741a1d337e" lang="en" xmltv_id="S4085">FOROtv</channel>
-  <channel site="directv.com" site_id="2cdd1068-8a3c-40ee-9d41-48016d5712e4" lang="en" xmltv_id="S4089">NTN 24 (103A)</channel>
-  <channel site="directv.com" site_id="f613d391-2db1-470b-b875-a0ee899dc876" lang="en" xmltv_id="S4092">Telefe</channel>
-  <channel site="directv.com" site_id="e68a9f77-7585-4b8a-a365-efffe5531d25" lang="en" xmltv_id="S4101">BabyTV</channel>
-  <channel site="directv.com" site_id="4d2c2d58-cb18-44fe-8f9b-96637b1aac60" lang="en" xmltv_id="S4103">Discovery HD</channel>
-  <channel site="directv.com" site_id="efeb88ef-f6ff-4688-8604-5dcf3e3d005f" lang="en" xmltv_id="S4105">Nat Geo Mundo</channel>
-  <channel site="directv.com" site_id="6feed8e2-5530-440d-9ce7-314447b54f5f" lang="en" xmltv_id="S4114">HITN (103A)</channel>
-  <channel site="directv.com" site_id="4120dd0a-1c5f-42ba-80c6-3fb269edb45e" lang="en" xmltv_id="S4117">Pasiones</channel>
-  <channel site="directv.com" site_id="f7ef160c-dbba-4d72-b426-a99bf20778ce" lang="en" xmltv_id="S4121">Estrella TV</channel>
-  <channel site="directv.com" site_id="83788be3-54b2-4e29-baf1-3b48a3b5f0e2" lang="en" xmltv_id="S4122">Centroamerica TV (103A)</channel>
-  <channel site="directv.com" site_id="888e3a20-6838-46e6-a68d-fb33cafd4f33" lang="en" xmltv_id="S4127">MEGA TV HD</channel>
-  <channel site="tvinsider.com" site_id="telexitos" lang="en" xmltv_id="S4132">TeleXitos</channel>
-  <channel site="directv.com" site_id="68f91c91-2e0b-4eec-817b-fe362a6f9ede" lang="en" xmltv_id="S4136">Cine Mexicano</channel>
-  <channel site="directv.com" site_id="851e06c6-a83a-4d33-a19d-bb726a9a955f" lang="en" xmltv_id="S4139">Galavision HD</channel>
-  <channel site="directv.com" site_id="94f6ccab-c0c4-4011-b060-5f7205dc8528" lang="en" xmltv_id="S4172">TUDN HD</channel>
-  <channel site="tvinsider.com" site_id="tudn" lang="en" xmltv_id="S4174">TUDN</channel>
+  <channel site="i.mjh.nz" site_id="Plex/us#5e20b730f2f8d5003d739db7-69b047eed42e70e462105dbb" lang="en" xmltv_id="S4010">Scripps Sports Network</channel>
+  <channel site="plex.tv" site_id="69b047eed42e70e462105dbb" lang="en" xmltv_id="S4011">Scripps Sports Network</channel>
+  <channel site="xumo.tv" site_id="50#99951538" lang="en" xmltv_id="S4012">Scripps Sports Network</channel>
+  <channel site="directv.com" site_id="b0b06816-dd9f-41be-8004-4b2c39065d19" lang="en" xmltv_id="S4016">NBC Sports Bay Area HD</channel>
+  <channel site="directv.com" site_id="022da6da-eb29-4975-b0e5-1ba83b768312" lang="en" xmltv_id="S4020">NBC Sports Boston HD</channel>
+  <channel site="directv.com" site_id="b9a635df-c9a1-459a-b714-a6ca56d137a3" lang="en" xmltv_id="S4022">NBC Sports Now</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#6549306c83595c000815a696" lang="en" xmltv_id="S4023">NBC Sports NOW</channel>
+  <channel site="pluto.tv" site_id="6549306c83595c000815a696" lang="en" xmltv_id="S4024">NBC Sports NOW</channel>
+  <channel site="directv.com" site_id="1dc41f1c-7380-4bf8-a4b5-13f688b48fd6" lang="en" xmltv_id="S4026">NBC Sports California Plus</channel>
+  <channel site="directv.com" site_id="335e1127-3daa-4187-9869-ccf1e2d2a606" lang="en" xmltv_id="S4030">Monumental Sports Network HD</channel>
+  <channel site="directv.com" site_id="1d6aba71-5282-4f56-8acf-2a2aff938b0f" lang="en" xmltv_id="S4033">NBC Sports California HD</channel>
+  <channel site="tvinsider.com" site_id="nbc-sports-chicago" lang="en" xmltv_id="S4038">NBC Sports Chicago</channel>
+  <channel site="tvinsider.com" site_id="bein-sports" lang="en" xmltv_id="S4042">beIN Sports</channel>
+  <channel site="directv.com" site_id="be076527-86af-4537-a165-56839e0eea0b" lang="en" xmltv_id="S4050">beIN SPORTS XTRA</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#US2700004DX" lang="en" xmltv_id="S4051">beIN Sports XTRA ñ</channel>
+  <channel site="i.mjh.nz" site_id="PlutoTV/us#677d9adfa9a51b0008497fa0" lang="en" xmltv_id="S4054">UFC</channel>
+  <channel site="pluto.tv" site_id="677d9adfa9a51b0008497fa0" lang="en" xmltv_id="S4055">UFC</channel>
+  <channel site="plex.tv" site_id="66ccac69fdf9cd3a568ef135" lang="en" xmltv_id="S4056">UFC</channel>
+  <channel site="directv.com" site_id="10627bc1-89a2-4c00-bf92-8851d96e1b98" lang="en" xmltv_id="S4060">NBA TV HD</channel>
+  <channel site="directv.com" site_id="c8e2cc18-4320-4f21-8a59-68c2f33c0c05" lang="en" xmltv_id="S4065">MLB Network HD</channel>
+  <channel site="directv.com" site_id="23d4fb04-2b56-4a9e-9066-47022a5e164f" lang="en" xmltv_id="S4066">MLB Strike Zone HD</channel>
+  <channel site="directv.com" site_id="214a502e-c54a-4b61-8904-b4ce37c1e38a" lang="en" xmltv_id="S4071">USA Network HD</channel>
+  <channel site="directv.com" site_id="d3cb96a7-c699-4ddd-bd3b-e9d654704897" lang="en" xmltv_id="S4074">WAPA America (103A)</channel>
+  <channel site="directv.com" site_id="5b4cf873-77d4-41e0-8641-6bd7c852399b" lang="en" xmltv_id="S4078">Discovery Familia (103A)</channel>
+  <channel site="directv.com" site_id="25cbe8bb-c628-44f0-aa9f-8668cad54fc0" lang="en" xmltv_id="S4079">Antena 3</channel>
+  <channel site="directv.com" site_id="22743767-b7a4-44e8-9090-b5a6329ccde8" lang="en" xmltv_id="S4081">Atreseries</channel>
+  <channel site="directv.com" site_id="b5a2d87e-46e6-4c8a-9d06-953bd102c1b7" lang="en" xmltv_id="S4084">Bandamax (103A)</channel>
+  <channel site="directv.com" site_id="245dfb72-b8f8-42d8-b78e-ed03904821fb" lang="en" xmltv_id="S4087">De Pelicula (103A)</channel>
+  <channel site="directv.com" site_id="113ffc23-cef3-4ad3-85f3-7f741a1d337e" lang="en" xmltv_id="S4090">FOROtv</channel>
+  <channel site="directv.com" site_id="2cdd1068-8a3c-40ee-9d41-48016d5712e4" lang="en" xmltv_id="S4094">NTN 24 (103A)</channel>
+  <channel site="directv.com" site_id="f613d391-2db1-470b-b875-a0ee899dc876" lang="en" xmltv_id="S4097">Telefe</channel>
+  <channel site="directv.com" site_id="e68a9f77-7585-4b8a-a365-efffe5531d25" lang="en" xmltv_id="S4106">BabyTV</channel>
+  <channel site="directv.com" site_id="4d2c2d58-cb18-44fe-8f9b-96637b1aac60" lang="en" xmltv_id="S4108">Discovery HD</channel>
+  <channel site="directv.com" site_id="efeb88ef-f6ff-4688-8604-5dcf3e3d005f" lang="en" xmltv_id="S4110">Nat Geo Mundo</channel>
+  <channel site="directv.com" site_id="6feed8e2-5530-440d-9ce7-314447b54f5f" lang="en" xmltv_id="S4119">HITN (103A)</channel>
+  <channel site="directv.com" site_id="4120dd0a-1c5f-42ba-80c6-3fb269edb45e" lang="en" xmltv_id="S4122">Pasiones</channel>
+  <channel site="directv.com" site_id="f7ef160c-dbba-4d72-b426-a99bf20778ce" lang="en" xmltv_id="S4126">Estrella TV</channel>
+  <channel site="directv.com" site_id="83788be3-54b2-4e29-baf1-3b48a3b5f0e2" lang="en" xmltv_id="S4127">Centroamerica TV (103A)</channel>
+  <channel site="directv.com" site_id="888e3a20-6838-46e6-a68d-fb33cafd4f33" lang="en" xmltv_id="S4132">MEGA TV HD</channel>
+  <channel site="tvinsider.com" site_id="telexitos" lang="en" xmltv_id="S4137">TeleXitos</channel>
+  <channel site="directv.com" site_id="68f91c91-2e0b-4eec-817b-fe362a6f9ede" lang="en" xmltv_id="S4141">Cine Mexicano</channel>
+  <channel site="directv.com" site_id="851e06c6-a83a-4d33-a19d-bb726a9a955f" lang="en" xmltv_id="S4144">Galavision HD</channel>
+  <channel site="directv.com" site_id="94f6ccab-c0c4-4011-b060-5f7205dc8528" lang="en" xmltv_id="S4177">TUDN HD</channel>
+  <channel site="tvinsider.com" site_id="tudn" lang="en" xmltv_id="S4179">TUDN</channel>
 </channels>

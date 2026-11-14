@@ -93,6 +93,7 @@
   <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Swerve.Combat.plex" lang="en" xmltv_id="S3979">Swerve Combat</channel>
   <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Overtime.plex" lang="en" xmltv_id="S3987">Overtime</channel>
   <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Willow.Sports.plex" lang="en" xmltv_id="S3994">Willow Sports</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.beIN.SPORTS.XTRA.plex" lang="en" xmltv_id="S4045">beIN SPORTS XTRA</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.UFC.plex" lang="en" xmltv_id="S4048">UFC</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Scripps.Sports.Network.plex" lang="en" xmltv_id="S4009">Scripps Sports Network</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.beIN.SPORTS.XTRA.plex" lang="en" xmltv_id="S4049">beIN SPORTS XTRA</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.UFC.plex" lang="en" xmltv_id="S4053">UFC</channel>
 </channels>
