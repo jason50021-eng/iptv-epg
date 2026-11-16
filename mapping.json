@@ -477,8 +477,8 @@
   "name": "DC | Washington | Telemundo WZDC",
   "shift": 0,
   "src": [
-   "S4155",
-   "S4156"
+   "S4153",
+   "S4154"
   ]
  },
  {
@@ -1300,7 +1300,7 @@
   "name": "MLB Seattle Mariners",
   "shift": 0,
   "src": [
-   "S4061"
+   "S4059"
   ]
  },
  {
@@ -2502,9 +2502,9 @@
   "name": "US CW 25 (WCWW) South Bend/Elkhart Area",
   "shift": 0,
   "src": [
-   "S3747",
-   "S3748",
-   "S3749"
+   "S3745",
+   "S3746",
+   "S3747"
   ]
  },
  {
@@ -2512,7 +2512,7 @@
   "name": "US CW 4 (KRON) San Francisco",
   "shift": 0,
   "src": [
-   "S3769"
+   "S3767"
   ]
  },
  {
@@ -2556,7 +2556,7 @@
   "name": "US Root Sports Northwest",
   "shift": 0,
   "src": [
-   "S3883"
+   "S3881"
   ]
  },
  {
@@ -2624,8 +2624,8 @@
   "name": "USA 15 (WPMI) ALABAMA",
   "shift": 0,
   "src": [
-   "S3653",
-   "S3654"
+   "S3651",
+   "S3652"
   ]
  },
  {
@@ -2671,8 +2671,8 @@
   "name": "USA 69 News (WFMZ) Philadelphia",
   "shift": 0,
   "src": [
-   "S3734",
-   "S3735"
+   "S3732",
+   "S3733"
   ]
  },
  {
@@ -4556,10 +4556,10 @@
   "name": "USA ACC Network",
   "shift": 0,
   "src": [
+   "S3807",
+   "S3808",
    "S3809",
-   "S3810",
-   "S3811",
-   "S3812"
+   "S3810"
   ]
  },
  {
@@ -4586,9 +4586,9 @@
   "name": "USA ALTITUDE SPORTS",
   "shift": 0,
   "src": [
-   "S3879",
-   "S3880",
-   "S3881"
+   "S3877",
+   "S3878",
+   "S3879"
   ]
  },
  {
@@ -4638,8 +4638,8 @@
   "name": "USA ARIZONA'S FAMILY 3 KTVK",
   "shift": 0,
   "src": [
-   "S3741",
-   "S3742"
+   "S3739",
+   "S3740"
   ]
  },
  {
@@ -4685,7 +4685,7 @@
   "name": "USA Altitude Sports 2",
   "shift": 0,
   "src": [
-   "S3927"
+   "S3925"
   ]
  },
  {
@@ -4715,7 +4715,7 @@
   "name": "USA Angels Broadcast Television (ABTV)",
   "shift": 0,
   "src": [
-   "S3920"
+   "S3918"
   ]
  },
  {
@@ -4752,7 +4752,7 @@
   "name": "USA Arizona Diamondbacks",
   "shift": 0,
   "src": [
-   "S3957"
+   "S3955"
   ]
  },
  {
@@ -4780,7 +4780,7 @@
   "name": "USA Atlanta News First (WANF)",
   "shift": 0,
   "src": [
-   "S3764"
+   "S3762"
   ]
  },
  {
@@ -4945,7 +4945,7 @@
   "name": "USA BeIN SPORTS 5 HD",
   "shift": 0,
   "src": [
-   "S4046"
+   "S4044"
   ]
  },
  {
@@ -4953,7 +4953,7 @@
   "name": "USA BeIN SPORTS 6 HD",
   "shift": 0,
   "src": [
-   "S4044"
+   "S4042"
   ]
  },
  {
@@ -4961,7 +4961,7 @@
   "name": "USA BeIN SPORTS 8 HD",
   "shift": 0,
   "src": [
-   "S4047"
+   "S4045"
   ]
  },
  {
@@ -4969,7 +4969,7 @@
   "name": "USA BeIN Sports 3",
   "shift": 0,
   "src": [
-   "S4052"
+   "S4050"
   ]
  },
  {
@@ -4977,7 +4977,7 @@
   "name": "USA BeIN Sports 4",
   "shift": 0,
   "src": [
-   "S4043"
+   "S4041"
   ]
  },
  {
@@ -4985,7 +4985,7 @@
   "name": "USA BeIN Sports 6",
   "shift": 0,
   "src": [
-   "S4044"
+   "S4042"
   ]
  },
  {
@@ -4993,7 +4993,7 @@
   "name": "USA BeIN Sports 7",
   "shift": 0,
   "src": [
-   "S4045"
+   "S4043"
   ]
  },
  {
@@ -5010,10 +5010,10 @@
   "name": "USA Bein Sports Xtra",
   "shift": 0,
   "src": [
+   "S4046",
+   "S4047",
    "S4048",
-   "S4049",
-   "S4050",
-   "S4051"
+   "S4049"
   ]
  },
  {
@@ -5130,9 +5130,9 @@
   "name": "USA Bowling TV",
   "shift": 0,
   "src": [
-   "S4002",
-   "S4003",
-   "S4004"
+   "S4000",
+   "S4001",
+   "S4002"
   ]
  },
  {
@@ -6830,10 +6830,10 @@
   "name": "USA CBS SPORTS HQ",
   "shift": 0,
   "src": [
+   "S3988",
+   "S3989",
    "S3990",
-   "S3991",
-   "S3992",
-   "S3993"
+   "S3991"
   ]
  },
  {
@@ -6891,9 +6891,9 @@
   "name": "USA CBS Sports Golazo Network",
   "shift": 0,
   "src": [
-   "S3909",
-   "S3910",
-   "S3911"
+   "S3907",
+   "S3908",
+   "S3909"
   ]
  },
  {
@@ -6901,10 +6901,10 @@
   "name": "USA CBS Sports Network",
   "shift": 0,
   "src": [
+   "S3783",
+   "S3784",
    "S3785",
-   "S3786",
-   "S3787",
-   "S3788"
+   "S3786"
   ]
  },
  {
@@ -7253,7 +7253,7 @@
   "name": "USA CNN en Espa\u00f1ol*",
   "shift": 0,
   "src": [
-   "S4075"
+   "S4073"
   ]
  },
  {
@@ -7318,9 +7318,9 @@
   "name": "USA CW 17 WCWJ JACKSONVILLE",
   "shift": 0,
   "src": [
-   "S3663",
-   "S3664",
-   "S3665"
+   "S3661",
+   "S3662",
+   "S3663"
   ]
  },
  {
@@ -7328,9 +7328,9 @@
   "name": "USA CW 18 WCCB Charlotte",
   "shift": 0,
   "src": [
-   "S3704",
-   "S3705",
-   "S3706"
+   "S3702",
+   "S3703",
+   "S3704"
   ]
  },
  {
@@ -7378,9 +7378,9 @@
   "name": "USA CW 20 (WCCT) Waterbury",
   "shift": 0,
   "src": [
-   "S3750",
-   "S3751",
-   "S3752"
+   "S3748",
+   "S3749",
+   "S3750"
   ]
  },
  {
@@ -7388,9 +7388,9 @@
   "name": "USA CW 20 WBXX Crossville",
   "shift": 0,
   "src": [
-   "S3775",
-   "S3776",
-   "S3777"
+   "S3773",
+   "S3774",
+   "S3775"
   ]
  },
  {
@@ -7398,9 +7398,9 @@
   "name": "USA CW 20 WCWG GREENSBORO",
   "shift": 0,
   "src": [
-   "S3660",
-   "S3661",
-   "S3662"
+   "S3658",
+   "S3659",
+   "S3660"
   ]
  },
  {
@@ -7408,8 +7408,8 @@
   "name": "USA CW 21 KPXJ SHREVPORT",
   "shift": 0,
   "src": [
-   "S3658",
-   "S3659"
+   "S3656",
+   "S3657"
   ]
  },
  {
@@ -7446,9 +7446,9 @@
   "name": "USA CW 23 (WFLI) Chattanooga",
   "shift": 0,
   "src": [
-   "S3778",
-   "S3779",
-   "S3780"
+   "S3776",
+   "S3777",
+   "S3778"
   ]
  },
  {
@@ -7456,9 +7456,9 @@
   "name": "USA CW 23 (WNLO) BUFFALO",
   "shift": 0,
   "src": [
-   "S3684",
-   "S3685",
-   "S3686"
+   "S3682",
+   "S3683",
+   "S3684"
   ]
  },
  {
@@ -7466,9 +7466,9 @@
   "name": "USA CW 23 WBUI Champaign",
   "shift": 0,
   "src": [
-   "S3770",
-   "S3771",
-   "S3772"
+   "S3768",
+   "S3769",
+   "S3770"
   ]
  },
  {
@@ -7486,9 +7486,9 @@
   "name": "USA CW 30 (WLMT) Memphis",
   "shift": 0,
   "src": [
-   "S3753",
-   "S3754",
-   "S3755"
+   "S3751",
+   "S3752",
+   "S3753"
   ]
  },
  {
@@ -7514,9 +7514,9 @@
   "name": "USA CW 33 (KDAF)",
   "shift": 0,
   "src": [
-   "S3719",
-   "S3720",
-   "S3721"
+   "S3717",
+   "S3718",
+   "S3719"
   ]
  },
  {
@@ -7534,9 +7534,9 @@
   "name": "USA CW 34 KOCB OKLAHOMA CITY",
   "shift": 0,
   "src": [
-   "S3713",
-   "S3714",
-   "S3715"
+   "S3711",
+   "S3712",
+   "S3713"
   ]
  },
  {
@@ -7617,9 +7617,9 @@
   "name": "USA CW 46 WXCW FORT MYERS",
   "shift": 0,
   "src": [
-   "S3677",
-   "S3678",
-   "S3679"
+   "S3675",
+   "S3676",
+   "S3677"
   ]
  },
  {
@@ -7627,9 +7627,9 @@
   "name": "USA CW 5 KTLA",
   "shift": 0,
   "src": [
-   "S3716",
-   "S3717",
-   "S3718"
+   "S3714",
+   "S3715",
+   "S3716"
   ]
  },
  {
@@ -7647,8 +7647,8 @@
   "name": "USA CW 53 WWHO COLUMBUS",
   "shift": 0,
   "src": [
-   "S3640",
-   "S3641"
+   "S3638",
+   "S3639"
   ]
  },
  {
@@ -7656,9 +7656,9 @@
   "name": "USA CW 56 WLVI Boston",
   "shift": 0,
   "src": [
-   "S3689",
-   "S3690",
-   "S3691"
+   "S3687",
+   "S3688",
+   "S3689"
   ]
  },
  {
@@ -7684,8 +7684,8 @@
   "name": "USA CW 58 (WBKI-DT) Louisville",
   "shift": 0,
   "src": [
-   "S3694",
-   "S3695"
+   "S3692",
+   "S3693"
   ]
  },
  {
@@ -7722,8 +7722,8 @@
   "name": "USA CW 7 (KAZT) Arizona",
   "shift": 0,
   "src": [
-   "S3783",
-   "S3784"
+   "S3781",
+   "S3782"
   ]
  },
  {
@@ -7731,7 +7731,7 @@
   "name": "USA CW 8 (KNOE-DT2) Monroe El Dorado",
   "shift": 0,
   "src": [
-   "S3680"
+   "S3678"
   ]
  },
  {
@@ -7739,9 +7739,9 @@
   "name": "USA CW 8 (WISH) Indianapolis",
   "shift": 0,
   "src": [
-   "S3728",
-   "S3729",
-   "S3730"
+   "S3726",
+   "S3727",
+   "S3728"
   ]
  },
  {
@@ -7749,9 +7749,9 @@
   "name": "USA CW Dayton (WBDT)",
   "shift": 0,
   "src": [
-   "S3722",
-   "S3723",
-   "S3724"
+   "S3720",
+   "S3721",
+   "S3722"
   ]
  },
  {
@@ -7786,9 +7786,9 @@
   "name": "USA CW Forever",
   "shift": 0,
   "src": [
-   "S3759",
-   "S3760",
-   "S3761"
+   "S3757",
+   "S3758",
+   "S3759"
   ]
  },
  {
@@ -7796,9 +7796,9 @@
   "name": "USA CW Gold",
   "shift": 0,
   "src": [
-   "S3756",
-   "S3757",
-   "S3758"
+   "S3754",
+   "S3755",
+   "S3756"
   ]
  },
  {
@@ -7815,8 +7815,8 @@
   "name": "USA CW PHL17 (WPHL-TV) Philadelphia",
   "shift": 0,
   "src": [
-   "S3773",
-   "S3774"
+   "S3771",
+   "S3772"
   ]
  },
  {
@@ -8048,8 +8048,8 @@
   "name": "USA Chicago Sports Network",
   "shift": 0,
   "src": [
-   "S3955",
-   "S3956"
+   "S3953",
+   "S3954"
   ]
  },
  {
@@ -8057,7 +8057,7 @@
   "name": "USA Chicago Sports Network Plus (CHSN)",
   "shift": 0,
   "src": [
-   "S3963"
+   "S3961"
   ]
  },
  {
@@ -8065,10 +8065,10 @@
   "name": "USA Cine Mexicano",
   "shift": 0,
   "src": [
+   "S4136",
+   "S4137",
    "S4138",
-   "S4139",
-   "S4140",
-   "S4141"
+   "S4139"
   ]
  },
  {
@@ -8314,10 +8314,10 @@
   "name": "USA DAZN Ringside",
   "shift": 0,
   "src": [
+   "S3972",
+   "S3973",
    "S3974",
-   "S3975",
-   "S3976",
-   "S3977"
+   "S3975"
   ]
  },
  {
@@ -8364,10 +8364,10 @@
   "name": "USA Detroit SportsNet",
   "shift": 0,
   "src": [
+   "S3996",
+   "S3997",
    "S3998",
-   "S3999",
-   "S4000",
-   "S4001"
+   "S3999"
   ]
  },
  {
@@ -8375,7 +8375,7 @@
   "name": "USA Diamondbac Baseball",
   "shift": 0,
   "src": [
-   "S3957"
+   "S3955"
   ]
  },
  {
@@ -8403,9 +8403,9 @@
   "name": "USA Discovery Familia*",
   "shift": 0,
   "src": [
-   "S4076",
-   "S4077",
-   "S4078"
+   "S4074",
+   "S4075",
+   "S4076"
   ]
  },
  {
@@ -8646,10 +8646,10 @@
   "name": "USA ESPN 2",
   "shift": 0,
   "src": [
+   "S3811",
+   "S3812",
    "S3813",
-   "S3814",
-   "S3815",
-   "S3816"
+   "S3814"
   ]
  },
  {
@@ -8657,10 +8657,10 @@
   "name": "USA ESPN 2 (Backup)",
   "shift": 0,
   "src": [
+   "S3811",
+   "S3812",
    "S3813",
-   "S3814",
-   "S3815",
-   "S3816"
+   "S3814"
   ]
  },
  {
@@ -8668,10 +8668,10 @@
   "name": "USA ESPN Deportes",
   "shift": 0,
   "src": [
+   "S3910",
+   "S3911",
    "S3912",
-   "S3913",
-   "S3914",
-   "S3915"
+   "S3913"
   ]
  },
  {
@@ -8679,9 +8679,9 @@
   "name": "USA ESPN NEWS HD",
   "shift": 0,
   "src": [
-   "S3817",
-   "S3818",
-   "S3819"
+   "S3815",
+   "S3816",
+   "S3817"
   ]
  },
  {
@@ -8689,10 +8689,10 @@
   "name": "USA ESPN SD",
   "shift": 0,
   "src": [
+   "S3791",
+   "S3792",
    "S3793",
-   "S3794",
-   "S3795",
-   "S3796"
+   "S3794"
   ]
  },
  {
@@ -8700,10 +8700,10 @@
   "name": "USA ESPN SEC Network",
   "shift": 0,
   "src": [
+   "S3900",
+   "S3901",
    "S3902",
-   "S3903",
-   "S3904",
-   "S3905"
+   "S3903"
   ]
  },
  {
@@ -8711,10 +8711,10 @@
   "name": "USA ESPN U HD",
   "shift": 0,
   "src": [
+   "S3818",
+   "S3819",
    "S3820",
-   "S3821",
-   "S3822",
-   "S3823"
+   "S3821"
   ]
  },
  {
@@ -8722,9 +8722,9 @@
   "name": "USA ESPN8: The Ocho",
   "shift": 0,
   "src": [
-   "S3967",
-   "S3968",
-   "S3969"
+   "S3965",
+   "S3966",
+   "S3967"
   ]
  },
  {
@@ -8792,9 +8792,9 @@
   "name": "USA FIFA+",
   "shift": 0,
   "src": [
-   "S3932",
-   "S3933",
-   "S3934"
+   "S3930",
+   "S3931",
+   "S3932"
   ]
  },
  {
@@ -8821,8 +8821,8 @@
   "name": "USA FOX 10 KIDY SAN ANGELO",
   "shift": 0,
   "src": [
-   "S3578",
-   "S3579"
+   "S3576",
+   "S3577"
   ]
  },
  {
@@ -8840,7 +8840,7 @@
   "name": "USA FOX 10 WTHI-DT2 Terre Haute",
   "shift": 0,
   "src": [
-   "S3610"
+   "S3608"
   ]
  },
  {
@@ -8861,15 +8861,6 @@
    "S3536",
    "S3537",
    "S3538"
-  ]
- },
- {
-  "id": "fox-11-wvah-charleston.jm",
-  "name": "USA FOX 11 WVAH CHARLESTON",
-  "shift": 0,
-  "src": [
-   "S3573",
-   "S3574"
   ]
  },
  {
@@ -8907,8 +8898,8 @@
   "name": "USA FOX 14 (KARD) West Monroe El Dorado",
   "shift": 0,
   "src": [
-   "S3583",
-   "S3584"
+   "S3581",
+   "S3582"
   ]
  },
  {
@@ -8916,9 +8907,9 @@
   "name": "USA FOX 14 KCIT Amarillo",
   "shift": 0,
   "src": [
-   "S3590",
-   "S3591",
-   "S3592"
+   "S3588",
+   "S3589",
+   "S3590"
   ]
  },
  {
@@ -8926,8 +8917,8 @@
   "name": "USA FOX 14 KFJX Joplin",
   "shift": 0,
   "src": [
-   "S3608",
-   "S3609"
+   "S3606",
+   "S3607"
   ]
  },
  {
@@ -8945,8 +8936,8 @@
   "name": "USA FOX 14 WYDO Greenville",
   "shift": 0,
   "src": [
-   "S3606",
-   "S3607"
+   "S3604",
+   "S3605"
   ]
  },
  {
@@ -8963,8 +8954,8 @@
   "name": "USA FOX 16 WJKT Jackson",
   "shift": 0,
   "src": [
-   "S3634",
-   "S3635"
+   "S3632",
+   "S3633"
   ]
  },
  {
@@ -9137,8 +9128,8 @@
   "name": "USA FOX 24 KPEJ Midland",
   "shift": 0,
   "src": [
-   "S3626",
-   "S3627"
+   "S3624",
+   "S3625"
   ]
  },
  {
@@ -9166,12 +9157,12 @@
   "name": "USA FOX 24 WGXA MACON",
   "shift": 0,
   "src": [
-   "S3601",
-   "S3602"
+   "S3599",
+   "S3600"
   ]
  },
  {
-  "id": "fox-24-wtat-charleston.jm",
+  "id": "fox24wtat.us",
   "name": "USA FOX 24 WTAT CHARLESTON",
   "shift": 0,
   "src": [
@@ -9243,9 +9234,9 @@
   "name": "USA FOX 28 WNYF Watertown",
   "shift": 0,
   "src": [
-   "S3631",
-   "S3632",
-   "S3633"
+   "S3629",
+   "S3630",
+   "S3631"
   ]
  },
  {
@@ -9292,9 +9283,9 @@
   "name": "USA FOX 31 (WFXL)  Albany",
   "shift": 0,
   "src": [
-   "S3628",
-   "S3629",
-   "S3630"
+   "S3626",
+   "S3627",
+   "S3628"
   ]
  },
  {
@@ -9332,9 +9323,9 @@
   "name": "USA FOX 32 WFQX Cadillac/Traverse City",
   "shift": 0,
   "src": [
-   "S3603",
-   "S3604",
-   "S3605"
+   "S3601",
+   "S3602",
+   "S3603"
   ]
  },
  {
@@ -9342,9 +9333,9 @@
   "name": "USA FOX 33 (KDFX) Palm Springs",
   "shift": 0,
   "src": [
-   "S3617",
-   "S3618",
-   "S3619"
+   "S3615",
+   "S3616",
+   "S3617"
   ]
  },
  {
@@ -9362,8 +9353,8 @@
   "name": "USA FOX 33 WFXV Utica",
   "shift": 0,
   "src": [
-   "S3585",
-   "S3586"
+   "S3583",
+   "S3584"
   ]
  },
  {
@@ -9371,8 +9362,8 @@
   "name": "USA FOX 33 WZAW Wausau",
   "shift": 0,
   "src": [
-   "S3611",
-   "S3612"
+   "S3609",
+   "S3610"
   ]
  },
  {
@@ -9429,9 +9420,9 @@
   "name": "USA FOX 39 (KFXO) Bend",
   "shift": 0,
   "src": [
-   "S3620",
-   "S3621",
-   "S3622"
+   "S3618",
+   "S3619",
+   "S3620"
   ]
  },
  {
@@ -9448,9 +9439,9 @@
   "name": "USA FOX 39 (WQRF) Rockford",
   "shift": 0,
   "src": [
-   "S3596",
-   "S3597",
-   "S3598"
+   "S3594",
+   "S3595",
+   "S3596"
   ]
  },
  {
@@ -9487,9 +9478,9 @@
   "name": "USA FOX 4 KTBY ANCHORAGE",
   "shift": 0,
   "src": [
-   "S3593",
-   "S3594",
-   "S3595"
+   "S3591",
+   "S3592",
+   "S3593"
   ]
  },
  {
@@ -9506,8 +9497,8 @@
   "name": "USA FOX 40 WICZ Binghamton",
   "shift": 0,
   "src": [
-   "S3599",
-   "S3600"
+   "S3597",
+   "S3598"
   ]
  },
  {
@@ -9621,9 +9612,9 @@
   "name": "USA FOX 47 WMSN MADISON",
   "shift": 0,
   "src": [
-   "S3575",
-   "S3576",
-   "S3577"
+   "S3573",
+   "S3574",
+   "S3575"
   ]
  },
  {
@@ -9766,9 +9757,9 @@
   "name": "USA FOX 56 WDKY DANVILLE",
   "shift": 0,
   "src": [
-   "S3587",
-   "S3588",
-   "S3589"
+   "S3585",
+   "S3586",
+   "S3587"
   ]
  },
  {
@@ -9835,9 +9826,9 @@
   "name": "USA FOX 66 WFXP Erie",
   "shift": 0,
   "src": [
-   "S3623",
-   "S3624",
-   "S3625"
+   "S3621",
+   "S3622",
+   "S3623"
   ]
  },
  {
@@ -10014,10 +10005,10 @@
   "name": "USA FOX DEPORTES HD",
   "shift": 0,
   "src": [
+   "S3822",
+   "S3823",
    "S3824",
-   "S3825",
-   "S3826",
-   "S3827"
+   "S3825"
   ]
  },
  {
@@ -10095,10 +10086,10 @@
   "name": "USA FOX SPORTS 1 HD",
   "shift": 0,
   "src": [
+   "S3795",
+   "S3796",
    "S3797",
-   "S3798",
-   "S3799",
-   "S3800"
+   "S3798"
   ]
  },
  {
@@ -10106,10 +10097,10 @@
   "name": "USA FOX SPORTS 2 HD",
   "shift": 0,
   "src": [
+   "S3799",
+   "S3800",
    "S3801",
-   "S3802",
-   "S3803",
-   "S3804"
+   "S3802"
   ]
  },
  {
@@ -10137,10 +10128,10 @@
   "name": "USA FOX Soccer Plus LHD",
   "shift": 0,
   "src": [
+   "S3787",
+   "S3788",
    "S3789",
-   "S3790",
-   "S3791",
-   "S3792"
+   "S3790"
   ]
  },
  {
@@ -10369,9 +10360,9 @@
   "name": "USA FanDuel Racing",
   "shift": 0,
   "src": [
-   "S3945",
-   "S3946",
-   "S3947"
+   "S3943",
+   "S3944",
+   "S3945"
   ]
  },
  {
@@ -10379,7 +10370,7 @@
   "name": "USA FanDuel Sports SOUTH HD",
   "shift": 0,
   "src": [
-   "S4005"
+   "S4003"
   ]
  },
  {
@@ -10387,7 +10378,7 @@
   "name": "USA FanDuel Sports SOUTHWEST HD",
   "shift": 0,
   "src": [
-   "S4006"
+   "S4004"
   ]
  },
  {
@@ -10395,8 +10386,8 @@
   "name": "USA FanDuel Sports Sun",
   "shift": 0,
   "src": [
-   "S4007",
-   "S4008"
+   "S4005",
+   "S4006"
   ]
  },
  {
@@ -10404,10 +10395,10 @@
   "name": "USA FanDuel TV",
   "shift": 0,
   "src": [
+   "S3939",
+   "S3940",
    "S3941",
-   "S3942",
-   "S3943",
-   "S3944"
+   "S3942"
   ]
  },
  {
@@ -10423,10 +10414,10 @@
   "name": "USA Fight Network",
   "shift": 0,
   "src": [
+   "S3892",
+   "S3893",
    "S3894",
-   "S3895",
-   "S3896",
-   "S3897"
+   "S3895"
   ]
  },
  {
@@ -10816,9 +10807,9 @@
   "name": "USA Fubo Sports Network",
   "shift": 0,
   "src": [
-   "S3884",
-   "S3885",
-   "S3886"
+   "S3882",
+   "S3883",
+   "S3884"
   ]
  },
  {
@@ -10874,9 +10865,9 @@
   "name": "USA Galavision",
   "shift": 0,
   "src": [
-   "S4142",
-   "S4143",
-   "S4144"
+   "S4140",
+   "S4141",
+   "S4142"
   ]
  },
  {
@@ -10913,9 +10904,9 @@
   "name": "USA Gol TV",
   "shift": 0,
   "src": [
-   "S3899",
-   "S3900",
-   "S3901"
+   "S3897",
+   "S3898",
+   "S3899"
   ]
  },
  {
@@ -10923,10 +10914,10 @@
   "name": "USA Golf LHD",
   "shift": 0,
   "src": [
+   "S3866",
+   "S3867",
    "S3868",
-   "S3869",
-   "S3870",
-   "S3871"
+   "S3869"
   ]
  },
  {
@@ -10986,7 +10977,7 @@
   "name": "USA Gulf Coast Sports and Entertainment Network (GCSEN)",
   "shift": 0,
   "src": [
-   "S3962"
+   "S3960"
   ]
  },
  {
@@ -11005,8 +10996,8 @@
   "name": "USA HBO Boxing",
   "shift": 0,
   "src": [
-   "S3972",
-   "S3973"
+   "S3970",
+   "S3971"
   ]
  },
  {
@@ -11476,8 +11467,8 @@
   "name": "USA KTVK 3TV Arizona's Family Phoenix",
   "shift": 0,
   "src": [
-   "S3741",
-   "S3742"
+   "S3739",
+   "S3740"
   ]
  },
  {
@@ -11505,8 +11496,8 @@
   "name": "USA LATIN Teleritmo",
   "shift": 0,
   "src": [
-   "S4099",
-   "S4100"
+   "S4097",
+   "S4098"
   ]
  },
  {
@@ -11553,7 +11544,7 @@
   "name": "USA Latin Antena 3",
   "shift": 0,
   "src": [
-   "S4079"
+   "S4077"
   ]
  },
  {
@@ -11561,8 +11552,8 @@
   "name": "USA Latin Antena 3 Internacional",
   "shift": 0,
   "src": [
-   "S4133",
-   "S4134"
+   "S4131",
+   "S4132"
   ]
  },
  {
@@ -11570,8 +11561,8 @@
   "name": "USA Latin Atreseries",
   "shift": 0,
   "src": [
-   "S4080",
-   "S4081"
+   "S4078",
+   "S4079"
   ]
  },
  {
@@ -11579,10 +11570,10 @@
   "name": "USA Latin Baby TV",
   "shift": 0,
   "src": [
+   "S4101",
+   "S4102",
    "S4103",
-   "S4104",
-   "S4105",
-   "S4106"
+   "S4104"
   ]
  },
  {
@@ -11590,9 +11581,9 @@
   "name": "USA Latin Bandamax",
   "shift": 0,
   "src": [
-   "S4082",
-   "S4083",
-   "S4084"
+   "S4080",
+   "S4081",
+   "S4082"
   ]
  },
  {
@@ -11600,7 +11591,7 @@
   "name": "USA Latin Centroamerica TV",
   "shift": 0,
   "src": [
-   "S4127"
+   "S4125"
   ]
  },
  {
@@ -11608,9 +11599,9 @@
   "name": "USA Latin De Pelicula",
   "shift": 0,
   "src": [
-   "S4085",
-   "S4086",
-   "S4087"
+   "S4083",
+   "S4084",
+   "S4085"
   ]
  },
  {
@@ -11618,8 +11609,8 @@
   "name": "USA Latin Discovery",
   "shift": 0,
   "src": [
-   "S4107",
-   "S4108",
+   "S4105",
+   "S4106",
    "S0574"
   ]
  },
@@ -11628,7 +11619,7 @@
   "name": "USA Latin ESNE",
   "shift": 0,
   "src": [
-   "S4128"
+   "S4126"
   ]
  },
  {
@@ -11636,7 +11627,7 @@
   "name": "USA Latin EVTV",
   "shift": 0,
   "src": [
-   "S4115"
+   "S4113"
   ]
  },
  {
@@ -11644,10 +11635,10 @@
   "name": "USA Latin Estrella TV",
   "shift": 0,
   "src": [
+   "S4121",
+   "S4122",
    "S4123",
-   "S4124",
-   "S4125",
-   "S4126"
+   "S4124"
   ]
  },
  {
@@ -11655,10 +11646,10 @@
   "name": "USA Latin FOROTV",
   "shift": 0,
   "src": [
+   "S4086",
+   "S4087",
    "S4088",
-   "S4089",
-   "S4090",
-   "S4091"
+   "S4089"
   ]
  },
  {
@@ -11666,9 +11657,9 @@
   "name": "USA Latin HITN",
   "shift": 0,
   "src": [
-   "S4117",
-   "S4118",
-   "S4119"
+   "S4115",
+   "S4116",
+   "S4117"
   ]
  },
  {
@@ -11684,10 +11675,10 @@
   "name": "USA Latin Mega",
   "shift": 0,
   "src": [
+   "S4127",
+   "S4128",
    "S4129",
-   "S4130",
-   "S4131",
-   "S4132"
+   "S4130"
   ]
  },
  {
@@ -11695,8 +11686,8 @@
   "name": "USA Latin Mexicanal",
   "shift": 0,
   "src": [
-   "S4111",
-   "S4112"
+   "S4109",
+   "S4110"
   ]
  },
  {
@@ -11704,9 +11695,9 @@
   "name": "USA Latin NTN24",
   "shift": 0,
   "src": [
-   "S4092",
-   "S4093",
-   "S4094"
+   "S4090",
+   "S4091",
+   "S4092"
   ]
  },
  {
@@ -11714,8 +11705,8 @@
   "name": "USA Latin Nat Geo Mundo",
   "shift": 0,
   "src": [
-   "S4109",
-   "S4110"
+   "S4107",
+   "S4108"
   ]
  },
  {
@@ -11723,7 +11714,7 @@
   "name": "USA Latin Nuestra Tele Noticias 24",
   "shift": 0,
   "src": [
-   "S4095"
+   "S4093"
   ]
  },
  {
@@ -11731,8 +11722,8 @@
   "name": "USA Latin Pasiones",
   "shift": 0,
   "src": [
-   "S4121",
-   "S4122"
+   "S4119",
+   "S4120"
   ]
  },
  {
@@ -11751,7 +11742,7 @@
   "name": "USA Latin TOONCAST",
   "shift": 0,
   "src": [
-   "S4120"
+   "S4118"
   ]
  },
  {
@@ -11759,10 +11750,10 @@
   "name": "USA Latin TUDN",
   "shift": 0,
   "src": [
+   "S4174",
+   "S4175",
    "S4176",
-   "S4177",
-   "S4178",
-   "S4179"
+   "S4177"
   ]
  },
  {
@@ -11770,9 +11761,9 @@
   "name": "USA Latin TeleXitos",
   "shift": 0,
   "src": [
-   "S4135",
-   "S4136",
-   "S4137"
+   "S4133",
+   "S4134",
+   "S4135"
   ]
  },
  {
@@ -11780,8 +11771,8 @@
   "name": "USA Latin Telefe",
   "shift": 0,
   "src": [
-   "S4096",
-   "S4097"
+   "S4094",
+   "S4095"
   ]
  },
  {
@@ -11789,7 +11780,7 @@
   "name": "USA Latin Telehit",
   "shift": 0,
   "src": [
-   "S4098"
+   "S4096"
   ]
  },
  {
@@ -11797,8 +11788,8 @@
   "name": "USA Latin Telemundo 2 WKAQ Puerto Rico",
   "shift": 0,
   "src": [
-   "S4159",
-   "S4160"
+   "S4157",
+   "S4158"
   ]
  },
  {
@@ -11806,8 +11797,8 @@
   "name": "USA Latin UNIVISION (WUVF) Ft. Myers-Naples",
   "shift": 0,
   "src": [
-   "S4168",
-   "S4169"
+   "S4166",
+   "S4167"
   ]
  },
  {
@@ -11815,7 +11806,7 @@
   "name": "USA Latin Wapa Puerto Rico",
   "shift": 0,
   "src": [
-   "S4180"
+   "S4178"
   ]
  },
  {
@@ -11823,7 +11814,7 @@
   "name": "USA Latin ZONA Futbol",
   "shift": 0,
   "src": [
-   "S4116"
+   "S4114"
   ]
  },
  {
@@ -11883,10 +11874,10 @@
   "name": "USA LiveNOW from FOX",
   "shift": 0,
   "src": [
+   "S3611",
+   "S3612",
    "S3613",
-   "S3614",
-   "S3615",
-   "S3616"
+   "S3614"
   ]
  },
  {
@@ -11914,7 +11905,7 @@
   "name": "USA MASN",
   "shift": 0,
   "src": [
-   "S3853"
+   "S3851"
   ]
  },
  {
@@ -11922,7 +11913,7 @@
   "name": "USA MASN 2",
   "shift": 0,
   "src": [
-   "S3908"
+   "S3906"
   ]
  },
  {
@@ -12006,10 +11997,10 @@
   "name": "USA MLB Network",
   "shift": 0,
   "src": [
+   "S4060",
+   "S4061",
    "S4062",
-   "S4063",
-   "S4064",
-   "S4065"
+   "S4063"
   ]
  },
  {
@@ -12017,7 +12008,7 @@
   "name": "USA MLB Strike Zone",
   "shift": 0,
   "src": [
-   "S4066"
+   "S4064"
   ]
  },
  {
@@ -12047,8 +12038,8 @@
   "name": "USA MSG 2 HD",
   "shift": 0,
   "src": [
-   "S3828",
-   "S3829"
+   "S3826",
+   "S3827"
   ]
  },
  {
@@ -12056,7 +12047,7 @@
   "name": "USA MSG 2 PLUS HD",
   "shift": 0,
   "src": [
-   "S3830"
+   "S3828"
   ]
  },
  {
@@ -12064,8 +12055,8 @@
   "name": "USA MSG HD",
   "shift": 0,
   "src": [
-   "S3921",
-   "S3922"
+   "S3919",
+   "S3920"
   ]
  },
  {
@@ -12073,8 +12064,8 @@
   "name": "USA MSGSN (Zone3)",
   "shift": 0,
   "src": [
-   "S3921",
-   "S3922"
+   "S3919",
+   "S3920"
   ]
  },
  {
@@ -12082,8 +12073,8 @@
   "name": "USA MSGSN HD",
   "shift": 0,
   "src": [
-   "S3921",
-   "S3922"
+   "S3919",
+   "S3920"
   ]
  },
  {
@@ -12164,9 +12155,9 @@
   "name": "USA MY 12 WMYT CHARLOTTE",
   "shift": 0,
   "src": [
-   "S3655",
-   "S3656",
-   "S3657"
+   "S3653",
+   "S3654",
+   "S3655"
   ]
  },
  {
@@ -12174,9 +12165,9 @@
   "name": "USA MY 13 KCOP LOS ANGELES",
   "shift": 0,
   "src": [
-   "S3642",
-   "S3643",
-   "S3644"
+   "S3640",
+   "S3641",
+   "S3642"
   ]
  },
  {
@@ -12203,8 +12194,8 @@
   "name": "USA MY 27 KDFI DALLAS",
   "shift": 0,
   "src": [
-   "S3645",
-   "S3646"
+   "S3643",
+   "S3644"
   ]
  },
  {
@@ -12212,9 +12203,9 @@
   "name": "USA MY 28 WRDC DURHAM",
   "shift": 0,
   "src": [
-   "S3710",
-   "S3711",
-   "S3712"
+   "S3708",
+   "S3709",
+   "S3710"
   ]
  },
  {
@@ -12232,8 +12223,8 @@
   "name": "USA MY 38 WSBK BOSTON",
   "shift": 0,
   "src": [
-   "S3692",
-   "S3693"
+   "S3690",
+   "S3691"
   ]
  },
  {
@@ -12241,9 +12232,9 @@
   "name": "USA MY 49 WNYO BUFFALO",
   "shift": 0,
   "src": [
-   "S3647",
-   "S3648",
-   "S3649"
+   "S3645",
+   "S3646",
+   "S3647"
   ]
  },
  {
@@ -12251,7 +12242,7 @@
   "name": "USA MY 50 WPWR CHICAGO",
   "shift": 0,
   "src": [
-   "S3733"
+   "S3731"
   ]
  },
  {
@@ -12377,10 +12368,10 @@
   "name": "USA Marquee Sports Network",
   "shift": 0,
   "src": [
+   "S3854",
+   "S3855",
    "S3856",
-   "S3857",
-   "S3858",
-   "S3859"
+   "S3857"
   ]
  },
  {
@@ -12457,10 +12448,10 @@
   "name": "USA Monumental Sports Network (NBC Sports Washington)",
   "shift": 0,
   "src": [
+   "S4025",
+   "S4026",
    "S4027",
-   "S4028",
-   "S4029",
-   "S4030"
+   "S4028"
   ]
  },
  {
@@ -12557,8 +12548,8 @@
   "name": "USA My 43 (WUAB) Cleveland",
   "shift": 0,
   "src": [
-   "S3731",
-   "S3732"
+   "S3729",
+   "S3730"
   ]
  },
  {
@@ -12566,9 +12557,9 @@
   "name": "USA My 9 New York",
   "shift": 0,
   "src": [
-   "S3637",
-   "S3638",
-   "S3639"
+   "S3635",
+   "S3636",
+   "S3637"
   ]
  },
  {
@@ -12612,8 +12603,8 @@
   "name": "USA MyTV 58 (KQCA) Sacramento",
   "shift": 0,
   "src": [
-   "S3767",
-   "S3768"
+   "S3765",
+   "S3766"
   ]
  },
  {
@@ -12641,8 +12632,8 @@
   "name": "USA Mytv KUTP Phoenix",
   "shift": 0,
   "src": [
-   "S3687",
-   "S3688"
+   "S3685",
+   "S3686"
   ]
  },
  {
@@ -12658,10 +12649,10 @@
   "name": "USA NBA TV UHD",
   "shift": 0,
   "src": [
+   "S4055",
+   "S4056",
    "S4057",
-   "S4058",
-   "S4059",
-   "S4060"
+   "S4058"
   ]
  },
  {
@@ -14296,10 +14287,10 @@
   "name": "USA NBC SPORTS BAY AREA HD",
   "shift": 0,
   "src": [
+   "S4011",
+   "S4012",
    "S4013",
-   "S4014",
-   "S4015",
-   "S4016"
+   "S4014"
   ]
  },
  {
@@ -14345,10 +14336,10 @@
   "name": "USA NBC Sport Network",
   "shift": 0,
   "src": [
+   "S4019",
+   "S4020",
    "S4021",
-   "S4022",
-   "S4023",
-   "S4024"
+   "S4022"
   ]
  },
  {
@@ -14364,10 +14355,10 @@
   "name": "USA NBC Sports Boston LHD",
   "shift": 0,
   "src": [
+   "S4015",
+   "S4016",
    "S4017",
-   "S4018",
-   "S4019",
-   "S4020"
+   "S4018"
   ]
  },
  {
@@ -14375,9 +14366,9 @@
   "name": "USA NBC Sports California",
   "shift": 0,
   "src": [
-   "S4031",
-   "S4032",
-   "S4033"
+   "S4029",
+   "S4030",
+   "S4031"
   ]
  },
  {
@@ -14385,8 +14376,8 @@
   "name": "USA NBC Sports California Plus",
   "shift": 0,
   "src": [
-   "S4025",
-   "S4026"
+   "S4023",
+   "S4024"
   ]
  },
  {
@@ -14394,8 +14385,8 @@
   "name": "USA NBC Sports Chicago",
   "shift": 0,
   "src": [
-   "S4037",
-   "S4038"
+   "S4035",
+   "S4036"
   ]
  },
  {
@@ -14403,10 +14394,10 @@
   "name": "USA NBC Sports Philadelphia (Back Up)",
   "shift": 0,
   "src": [
+   "S3914",
+   "S3915",
    "S3916",
-   "S3917",
-   "S3918",
-   "S3919"
+   "S3917"
   ]
  },
  {
@@ -14414,9 +14405,9 @@
   "name": "USA NBC Sports Philadelphia Plus",
   "shift": 0,
   "src": [
-   "S4034",
-   "S4035",
-   "S4036"
+   "S4032",
+   "S4033",
+   "S4034"
   ]
  },
  {
@@ -14625,8 +14616,8 @@
   "name": "USA NESN",
   "shift": 0,
   "src": [
-   "S3854",
-   "S3855"
+   "S3852",
+   "S3853"
   ]
  },
  {
@@ -14634,7 +14625,7 @@
   "name": "USA NESN Plus",
   "shift": 0,
   "src": [
-   "S3831"
+   "S3829"
   ]
  },
  {
@@ -14651,10 +14642,10 @@
   "name": "USA NFL NETWORK (Backup)",
   "shift": 0,
   "src": [
+   "S3862",
+   "S3863",
    "S3864",
-   "S3865",
-   "S3866",
-   "S3867"
+   "S3865"
   ]
  },
  {
@@ -14662,10 +14653,10 @@
   "name": "USA NFL Redzone",
   "shift": 0,
   "src": [
+   "S3847",
+   "S3848",
    "S3849",
-   "S3850",
-   "S3851",
-   "S3852"
+   "S3850"
   ]
  },
  {
@@ -14673,7 +14664,7 @@
   "name": "USA NHL Carolina Hurricanes",
   "shift": 0,
   "src": [
-   "S4067"
+   "S4065"
   ]
  },
  {
@@ -14681,10 +14672,10 @@
   "name": "USA NHL NETWORK HD",
   "shift": 0,
   "src": [
+   "S3921",
+   "S3922",
    "S3923",
-   "S3924",
-   "S3925",
-   "S3926"
+   "S3924"
   ]
  },
  {
@@ -14692,8 +14683,8 @@
   "name": "USA NHRA TV",
   "shift": 0,
   "src": [
-   "S3906",
-   "S3907"
+   "S3904",
+   "S3905"
   ]
  },
  {
@@ -14731,9 +14722,9 @@
   "name": "USA Nascar Channel",
   "shift": 0,
   "src": [
-   "S3964",
-   "S3965",
-   "S3966"
+   "S3962",
+   "S3963",
+   "S3964"
   ]
  },
  {
@@ -14777,10 +14768,10 @@
   "name": "USA Network",
   "shift": 0,
   "src": [
+   "S4066",
+   "S4067",
    "S4068",
-   "S4069",
-   "S4070",
-   "S4071"
+   "S4069"
   ]
  },
  {
@@ -14867,8 +14858,8 @@
   "name": "USA News4 WJXT Jacksonville",
   "shift": 0,
   "src": [
-   "S3743",
-   "S3744"
+   "S3741",
+   "S3742"
   ]
  },
  {
@@ -14906,10 +14897,10 @@
   "name": "USA Next Level Sports",
   "shift": 0,
   "src": [
+   "S3981",
+   "S3982",
    "S3983",
-   "S3984",
-   "S3985",
-   "S3986"
+   "S3984"
   ]
  },
  {
@@ -14980,7 +14971,7 @@
   "name": "USA Olympic Channel (Team USA TV)",
   "shift": 0,
   "src": [
-   "S3948"
+   "S3946"
   ]
  },
  {
@@ -15051,9 +15042,9 @@
   "name": "USA Overtime",
   "shift": 0,
   "src": [
-   "S3987",
-   "S3988",
-   "S3989"
+   "S3985",
+   "S3986",
+   "S3987"
   ]
  },
  {
@@ -15255,8 +15246,8 @@
   "name": "USA PBS (WITF) Harrisburg",
   "shift": 0,
   "src": [
-   "S3765",
-   "S3766"
+   "S3763",
+   "S3764"
   ]
  },
  {
@@ -15264,8 +15255,8 @@
   "name": "USA PBS (WKLE)",
   "shift": 0,
   "src": [
-   "S3726",
-   "S3727"
+   "S3724",
+   "S3725"
   ]
  },
  {
@@ -15350,8 +15341,8 @@
   "name": "USA PBS (WTVI) Charlotte",
   "shift": 0,
   "src": [
-   "S3762",
-   "S3763"
+   "S3760",
+   "S3761"
   ]
  },
  {
@@ -15379,7 +15370,7 @@
   "name": "USA PBS (WUNC) Chapel Hill",
   "shift": 0,
   "src": [
-   "S3709"
+   "S3707"
   ]
  },
  {
@@ -15426,9 +15417,9 @@
   "name": "USA PBS 11 KTWU KANSAS CITY",
   "shift": 0,
   "src": [
-   "S3669",
-   "S3670",
-   "S3671"
+   "S3667",
+   "S3668",
+   "S3669"
   ]
  },
  {
@@ -15465,8 +15456,8 @@
   "name": "USA PBS 16 WPBS Watertown",
   "shift": 0,
   "src": [
-   "S3745",
-   "S3746"
+   "S3743",
+   "S3744"
   ]
  },
  {
@@ -15520,9 +15511,9 @@
   "name": "USA PBS 30 WTIU INDIANAPOLIS",
   "shift": 0,
   "src": [
-   "S3666",
-   "S3667",
-   "S3668"
+   "S3664",
+   "S3665",
+   "S3666"
   ]
  },
  {
@@ -15549,9 +15540,9 @@
   "name": "USA PBS 35/52 WGVU GRAND RAPIDS/KALAMAZOO",
   "shift": 0,
   "src": [
-   "S3701",
-   "S3702",
-   "S3703"
+   "S3699",
+   "S3700",
+   "S3701"
   ]
  },
  {
@@ -15559,9 +15550,9 @@
   "name": "USA PBS 54 (WQLN) Erie",
   "shift": 0,
   "src": [
-   "S3681",
-   "S3682",
-   "S3683"
+   "S3679",
+   "S3680",
+   "S3681"
   ]
  },
  {
@@ -15569,8 +15560,8 @@
   "name": "USA PBS 57 (WCFE) Mountain Lake",
   "shift": 0,
   "src": [
-   "S3699",
-   "S3700"
+   "S3697",
+   "S3698"
   ]
  },
  {
@@ -15598,8 +15589,8 @@
   "name": "USA PBS 6 KPTW CASPER/RIVERTON",
   "shift": 0,
   "src": [
-   "S3672",
-   "S3673"
+   "S3670",
+   "S3671"
   ]
  },
  {
@@ -15617,9 +15608,9 @@
   "name": "USA PBS 7 KUED SALT LAKE CITY",
   "shift": 0,
   "src": [
-   "S3674",
-   "S3675",
-   "S3676"
+   "S3672",
+   "S3673",
+   "S3674"
   ]
  },
  {
@@ -15723,9 +15714,9 @@
   "name": "USA PBS KPBS SAN DIEGO",
   "shift": 0,
   "src": [
-   "S3738",
-   "S3739",
-   "S3740"
+   "S3736",
+   "S3737",
+   "S3738"
   ]
  },
  {
@@ -15733,9 +15724,9 @@
   "name": "USA PBS KRMA CO Denver",
   "shift": 0,
   "src": [
-   "S3696",
-   "S3697",
-   "S3698"
+   "S3694",
+   "S3695",
+   "S3696"
   ]
  },
  {
@@ -15937,9 +15928,9 @@
   "name": "USA PBS WVPB WEST VIRGINIA",
   "shift": 0,
   "src": [
-   "S3650",
-   "S3651",
-   "S3652"
+   "S3648",
+   "S3649",
+   "S3650"
   ]
  },
  {
@@ -15947,7 +15938,7 @@
   "name": "USA PFL",
   "shift": 0,
   "src": [
-   "S3931"
+   "S3929"
   ]
  },
  {
@@ -16045,10 +16036,10 @@
   "name": "USA Pickleball TV (PBTV)",
   "shift": 0,
   "src": [
+   "S3933",
+   "S3934",
    "S3935",
-   "S3936",
-   "S3937",
-   "S3938"
+   "S3936"
   ]
  },
  {
@@ -16178,9 +16169,9 @@
   "name": "USA Racing America",
   "shift": 0,
   "src": [
-   "S3928",
-   "S3929",
-   "S3930"
+   "S3926",
+   "S3927",
+   "S3928"
   ]
  },
  {
@@ -16199,8 +16190,8 @@
   "name": "USA Real Madrid TV",
   "shift": 0,
   "src": [
-   "S3939",
-   "S3940"
+   "S3937",
+   "S3938"
   ]
  },
  {
@@ -16219,7 +16210,7 @@
   "name": "USA Red Bull TV",
   "shift": 0,
   "src": [
-   "S3898"
+   "S3896"
   ]
  },
  {
@@ -16296,7 +16287,7 @@
   "name": "USA Root Sports Northwest",
   "shift": 0,
   "src": [
-   "S3883"
+   "S3881"
   ]
  },
  {
@@ -16304,7 +16295,7 @@
   "name": "USA Root Sports Northwest Plus",
   "shift": 0,
   "src": [
-   "S3891"
+   "S3889"
   ]
  },
  {
@@ -16312,7 +16303,7 @@
   "name": "USA Ryz Sports",
   "shift": 0,
   "src": [
-   "S3978"
+   "S3976"
   ]
  },
  {
@@ -16424,9 +16415,9 @@
   "name": "USA SPORTSMAN CHANNEL HD",
   "shift": 0,
   "src": [
-   "S3832",
-   "S3833",
-   "S3834"
+   "S3830",
+   "S3831",
+   "S3832"
   ]
  },
  {
@@ -16434,8 +16425,8 @@
   "name": "USA SPORTSNET New York HD",
   "shift": 0,
   "src": [
-   "S3892",
-   "S3893"
+   "S3890",
+   "S3891"
   ]
  },
  {
@@ -16443,10 +16434,10 @@
   "name": "USA STADIUM 1 HD",
   "shift": 0,
   "src": [
+   "S3833",
+   "S3834",
    "S3835",
-   "S3836",
-   "S3837",
-   "S3838"
+   "S3836"
   ]
  },
  {
@@ -16552,10 +16543,10 @@
   "name": "USA Scripps Sports Network",
   "shift": 0,
   "src": [
+   "S4007",
+   "S4008",
    "S4009",
-   "S4010",
-   "S4011",
-   "S4012"
+   "S4010"
   ]
  },
  {
@@ -16694,10 +16685,10 @@
   "name": "USA Space City Home Network",
   "shift": 0,
   "src": [
+   "S3803",
+   "S3804",
    "S3805",
-   "S3806",
-   "S3807",
-   "S3808"
+   "S3806"
   ]
  },
  {
@@ -16705,10 +16696,10 @@
   "name": "USA Space City Home Network (AT&T SPORTSNET SOUTHWEST)",
   "shift": 0,
   "src": [
+   "S3803",
+   "S3804",
    "S3805",
-   "S3806",
-   "S3807",
-   "S3808"
+   "S3806"
   ]
  },
  {
@@ -16806,8 +16797,8 @@
   "name": "USA Spectrum OC16",
   "shift": 0,
   "src": [
-   "S3949",
-   "S3950"
+   "S3947",
+   "S3948"
   ]
  },
  {
@@ -16815,9 +16806,9 @@
   "name": "USA Spectrum SportsNet La Dodgers",
   "shift": 0,
   "src": [
-   "S3846",
-   "S3847",
-   "S3848"
+   "S3844",
+   "S3845",
+   "S3846"
   ]
  },
  {
@@ -16825,7 +16816,7 @@
   "name": "USA Spectrum SportsNet Lakers",
   "shift": 0,
   "src": [
-   "S3882"
+   "S3880"
   ]
  },
  {
@@ -16844,10 +16835,10 @@
   "name": "USA SportsGrid",
   "shift": 0,
   "src": [
+   "S3885",
+   "S3886",
    "S3887",
-   "S3888",
-   "S3889",
-   "S3890"
+   "S3888"
   ]
  },
  {
@@ -17079,10 +17070,10 @@
   "name": "USA Swerve Combat",
   "shift": 0,
   "src": [
+   "S3977",
+   "S3978",
    "S3979",
-   "S3980",
-   "S3981",
-   "S3982"
+   "S3980"
   ]
  },
  {
@@ -17111,10 +17102,10 @@
   "name": "USA T2 Tennis",
   "shift": 0,
   "src": [
+   "S3956",
+   "S3957",
    "S3958",
-   "S3959",
-   "S3960",
-   "S3961"
+   "S3959"
   ]
  },
  {
@@ -17186,8 +17177,8 @@
   "name": "USA TELEMUNDO 19 WRDM HARTFORD CT",
   "shift": 0,
   "src": [
-   "S4153",
-   "S4154"
+   "S4151",
+   "S4152"
   ]
  },
  {
@@ -17195,8 +17186,8 @@
   "name": "USA TELEMUNDO 20 KTMW SALT LAKE CITY",
   "shift": 0,
   "src": [
-   "S4145",
-   "S4146"
+   "S4143",
+   "S4144"
   ]
  },
  {
@@ -17213,8 +17204,8 @@
   "name": "USA TELEMUNDO 31 WTMO ORLANDO",
   "shift": 0,
   "src": [
-   "S4147",
-   "S4148"
+   "S4145",
+   "S4146"
   ]
  },
  {
@@ -17222,8 +17213,8 @@
   "name": "USA TELEMUNDO 33 KCSO SACRAMENTO",
   "shift": 0,
   "src": [
-   "S4149",
-   "S4150"
+   "S4147",
+   "S4148"
   ]
  },
  {
@@ -17231,8 +17222,8 @@
   "name": "USA TELEMUNDO 43 WWDT FORT MYERS/NAPLES",
   "shift": 0,
   "src": [
-   "S4151",
-   "S4152"
+   "S4149",
+   "S4150"
   ]
  },
  {
@@ -17240,8 +17231,8 @@
   "name": "USA TELEMUNDO 44 DC WZDC",
   "shift": 0,
   "src": [
-   "S4155",
-   "S4156"
+   "S4153",
+   "S4154"
   ]
  },
  {
@@ -17249,8 +17240,8 @@
   "name": "USA TELEMUNDO 48 KTDO EL PASO TX",
   "shift": 0,
   "src": [
-   "S4163",
-   "S4164"
+   "S4161",
+   "S4162"
   ]
  },
  {
@@ -17442,9 +17433,9 @@
   "name": "USA Telemundo (WRMD) Tampa",
   "shift": 0,
   "src": [
-   "S4165",
-   "S4166",
-   "S4167"
+   "S4163",
+   "S4164",
+   "S4165"
   ]
  },
  {
@@ -17452,8 +17443,8 @@
   "name": "USA Telemundo 2 (WKAQ) Puerto Rico",
   "shift": 0,
   "src": [
-   "S4159",
-   "S4160"
+   "S4157",
+   "S4158"
   ]
  },
  {
@@ -17461,8 +17452,8 @@
   "name": "USA Telemundo 2 KASA Albuquerque",
   "shift": 0,
   "src": [
-   "S4161",
-   "S4162"
+   "S4159",
+   "S4160"
   ]
  },
  {
@@ -17470,8 +17461,8 @@
   "name": "USA Telemundo 42 (KGLA) New Orleans",
   "shift": 0,
   "src": [
-   "S4157",
-   "S4158"
+   "S4155",
+   "S4156"
   ]
  },
  {
@@ -17479,8 +17470,8 @@
   "name": "USA Telemundo 44 DC WZDC",
   "shift": 0,
   "src": [
-   "S4155",
-   "S4156"
+   "S4153",
+   "S4154"
   ]
  },
  {
@@ -17499,8 +17490,8 @@
   "name": "USA Telemundo KUTU Tulsa",
   "shift": 0,
   "src": [
-   "S4113",
-   "S4114"
+   "S4111",
+   "S4112"
   ]
  },
  {
@@ -17508,8 +17499,8 @@
   "name": "USA Telemundo San Francisco KSTS",
   "shift": 0,
   "src": [
-   "S4101",
-   "S4102"
+   "S4099",
+   "S4100"
   ]
  },
  {
@@ -17517,10 +17508,10 @@
   "name": "USA Tennis Channel*",
   "shift": 0,
   "src": [
+   "S3837",
+   "S3838",
    "S3839",
-   "S3840",
-   "S3841",
-   "S3842"
+   "S3840"
   ]
  },
  {
@@ -17661,8 +17652,8 @@
   "name": "USA Top Rank Classics",
   "shift": 0,
   "src": [
-   "S3970",
-   "S3971"
+   "S3968",
+   "S3969"
   ]
  },
  {
@@ -17690,9 +17681,9 @@
   "name": "USA Topeka FOX 43 (KTMJ)",
   "shift": 0,
   "src": [
-   "S3580",
-   "S3581",
-   "S3582"
+   "S3578",
+   "S3579",
+   "S3580"
   ]
  },
  {
@@ -17765,10 +17756,10 @@
   "name": "USA UFC Channel",
   "shift": 0,
   "src": [
+   "S4051",
+   "S4052",
    "S4053",
-   "S4054",
-   "S4055",
-   "S4056"
+   "S4054"
   ]
  },
  {
@@ -17875,8 +17866,8 @@
   "name": "USA Univision (KUNW)",
   "shift": 0,
   "src": [
-   "S4172",
-   "S4173"
+   "S4170",
+   "S4171"
   ]
  },
  {
@@ -17884,8 +17875,8 @@
   "name": "USA Univision 19 (KUVS) Sacramento",
   "shift": 0,
   "src": [
-   "S4174",
-   "S4175"
+   "S4172",
+   "S4173"
   ]
  },
  {
@@ -17893,8 +17884,8 @@
   "name": "USA Univision 21 (KFTV) Fresno",
   "shift": 0,
   "src": [
-   "S4170",
-   "S4171"
+   "S4168",
+   "S4169"
   ]
  },
  {
@@ -17922,8 +17913,8 @@
   "name": "USA Vegas34 (KMCC) Las Vegas",
   "shift": 0,
   "src": [
-   "S3736",
-   "S3737"
+   "S3734",
+   "S3735"
   ]
  },
  {
@@ -17970,8 +17961,8 @@
   "name": "USA WATC-57 Atlanta",
   "shift": 0,
   "src": [
-   "S3707",
-   "S3708"
+   "S3705",
+   "S3706"
   ]
  },
  {
@@ -17979,7 +17970,7 @@
   "name": "USA WGN 9 CHICAGO",
   "shift": 0,
   "src": [
-   "S3725"
+   "S3723"
   ]
  },
  {
@@ -17987,9 +17978,9 @@
   "name": "USA WILLOW CRICKET HD",
   "shift": 0,
   "src": [
-   "S3876",
-   "S3877",
-   "S3878"
+   "S3874",
+   "S3875",
+   "S3876"
   ]
  },
  {
@@ -18006,9 +17997,9 @@
   "name": "USA WORLD FISHING NETWORK",
   "shift": 0,
   "src": [
-   "S3843",
-   "S3844",
-   "S3845"
+   "S3841",
+   "S3842",
+   "S3843"
   ]
  },
  {
@@ -18016,10 +18007,10 @@
   "name": "USA WORLD POKER TOUR",
   "shift": 0,
   "src": [
+   "S3870",
+   "S3871",
    "S3872",
-   "S3873",
-   "S3874",
-   "S3875"
+   "S3873"
   ]
  },
  {
@@ -18036,9 +18027,9 @@
   "name": "USA Wapa America",
   "shift": 0,
   "src": [
-   "S4072",
-   "S4073",
-   "S4074"
+   "S4070",
+   "S4071",
+   "S4072"
   ]
  },
  {
@@ -18077,9 +18068,9 @@
   "name": "USA Willow Cricket",
   "shift": 0,
   "src": [
-   "S3876",
-   "S3877",
-   "S3878"
+   "S3874",
+   "S3875",
+   "S3876"
   ]
  },
  {
@@ -18087,10 +18078,10 @@
   "name": "USA Willow Sports",
   "shift": 0,
   "src": [
+   "S3992",
+   "S3993",
    "S3994",
-   "S3995",
-   "S3996",
-   "S3997"
+   "S3995"
   ]
  },
  {
@@ -18098,10 +18089,10 @@
   "name": "USA Women's Sports Network",
   "shift": 0,
   "src": [
+   "S3949",
+   "S3950",
    "S3951",
-   "S3952",
-   "S3953",
-   "S3954"
+   "S3952"
   ]
  },
  {
@@ -18129,10 +18120,10 @@
   "name": "USA Yes Network HD",
   "shift": 0,
   "src": [
+   "S3858",
+   "S3859",
    "S3860",
-   "S3861",
-   "S3862",
-   "S3863"
+   "S3861"
   ]
  },
  {
@@ -18140,7 +18131,7 @@
   "name": "USA Zanesville, OH WHIZ-D2 FOX 19",
   "shift": 0,
   "src": [
-   "S3636"
+   "S3634"
   ]
  },
  {
@@ -18550,10 +18541,10 @@
   "name": "USA beIN Sports LHD",
   "shift": 0,
   "src": [
+   "S4037",
+   "S4038",
    "S4039",
-   "S4040",
-   "S4041",
-   "S4042"
+   "S4040"
   ]
  },
  {
@@ -18571,8 +18562,8 @@
   "name": "USA the Spot 66 (WXPX) Tampa",
   "shift": 0,
   "src": [
-   "S3781",
-   "S3782"
+   "S3779",
+   "S3780"
   ]
  },
  {

@@ -77,23 +77,23 @@
   <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Telemundo.al.Dia.plex" lang="en" xmltv_id="S1392">Telemundo al Dia</channel>
   <channel site="epgshare01.online" site_id="PLEX1#plex.tv.This.Old.House.plex" lang="en" xmltv_id="S1396">This Old House</channel>
   <channel site="epgshare01.online" site_id="PLEX1#plex.tv.NBC.News.NOW.plex" lang="en" xmltv_id="S3379">NBC News NOW</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.LiveNOW.from.FOX.plex" lang="en" xmltv_id="S3613">LiveNOW from FOX</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.CW.Gold.plex" lang="en" xmltv_id="S3756">CW Gold</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.CW.Forever.plex" lang="en" xmltv_id="S3759">CW Forever</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Stadium.plex" lang="en" xmltv_id="S3836">Stadium</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Fubo.Sports.Network.plex" lang="en" xmltv_id="S3884">Fubo Sports Network</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.NHRA.TV.plex" lang="en" xmltv_id="S3906">NHRA TV</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Racing.America.plex" lang="en" xmltv_id="S3928">Racing America</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.FIFA+.plex" lang="en" xmltv_id="S3932">FIFA+</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.PickleballTV.plex" lang="en" xmltv_id="S3935">Pickleball TV</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Women`s.Sports.Network.plex" lang="en" xmltv_id="S3952">Women`s Sports Network</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Tennis.Channel.2.plex" lang="en" xmltv_id="S3958">Tennis Channel 2</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.HBO.Boxing.plex" lang="en" xmltv_id="S3972">HBO Boxing</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.DAZN.Ringside.plex" lang="en" xmltv_id="S3974">DAZN Ringside</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Swerve.Combat.plex" lang="en" xmltv_id="S3979">Swerve Combat</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Overtime.plex" lang="en" xmltv_id="S3987">Overtime</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Willow.Sports.plex" lang="en" xmltv_id="S3994">Willow Sports</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Scripps.Sports.Network.plex" lang="en" xmltv_id="S4009">Scripps Sports Network</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.beIN.SPORTS.XTRA.plex" lang="en" xmltv_id="S4049">beIN SPORTS XTRA</channel>
-  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.UFC.plex" lang="en" xmltv_id="S4053">UFC</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.LiveNOW.from.FOX.plex" lang="en" xmltv_id="S3611">LiveNOW from FOX</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.CW.Gold.plex" lang="en" xmltv_id="S3754">CW Gold</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.CW.Forever.plex" lang="en" xmltv_id="S3757">CW Forever</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Stadium.plex" lang="en" xmltv_id="S3834">Stadium</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Fubo.Sports.Network.plex" lang="en" xmltv_id="S3882">Fubo Sports Network</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.NHRA.TV.plex" lang="en" xmltv_id="S3904">NHRA TV</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Racing.America.plex" lang="en" xmltv_id="S3926">Racing America</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.FIFA+.plex" lang="en" xmltv_id="S3930">FIFA+</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.PickleballTV.plex" lang="en" xmltv_id="S3933">Pickleball TV</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Women`s.Sports.Network.plex" lang="en" xmltv_id="S3950">Women`s Sports Network</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Tennis.Channel.2.plex" lang="en" xmltv_id="S3956">Tennis Channel 2</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.HBO.Boxing.plex" lang="en" xmltv_id="S3970">HBO Boxing</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.DAZN.Ringside.plex" lang="en" xmltv_id="S3972">DAZN Ringside</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Swerve.Combat.plex" lang="en" xmltv_id="S3977">Swerve Combat</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Overtime.plex" lang="en" xmltv_id="S3985">Overtime</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Willow.Sports.plex" lang="en" xmltv_id="S3992">Willow Sports</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.Scripps.Sports.Network.plex" lang="en" xmltv_id="S4007">Scripps Sports Network</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.beIN.SPORTS.XTRA.plex" lang="en" xmltv_id="S4047">beIN SPORTS XTRA</channel>
+  <channel site="epgshare01.online" site_id="PLEX1#plex.tv.UFC.plex" lang="en" xmltv_id="S4051">UFC</channel>
 </channels>

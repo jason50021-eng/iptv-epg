@@ -241,65 +241,65 @@
   <channel site="epgshare01.online" site_id="US2#NBC.Sports.4K.us2" lang="en" xmltv_id="S1383">NBC Sports 4K</channel>
   <channel site="epgshare01.online" site_id="US2#ABC.News.Live.us2" lang="en" xmltv_id="S2027">ABC News Live</channel>
   <channel site="epgshare01.online" site_id="US2#CW.us2" lang="en" xmltv_id="S2328">CW</channel>
-  <channel site="epgshare01.online" site_id="US2#CBS.Sports.Network.HD.us2" lang="en" xmltv_id="S3787">CBS Sports Network HD</channel>
-  <channel site="epgshare01.online" site_id="US2#Fox.Soccer.Plus.HD.us2" lang="en" xmltv_id="S3791">Fox Soccer Plus HD</channel>
-  <channel site="epgshare01.online" site_id="US2#ESPN.HD.us2" lang="en" xmltv_id="S3795">ESPN HD</channel>
-  <channel site="epgshare01.online" site_id="US2#Space.City.Home.Network.HD.us2" lang="en" xmltv_id="S3807">Space City Home Network HD</channel>
-  <channel site="epgshare01.online" site_id="US2#ACC.Network.us2" lang="en" xmltv_id="S3812">ACC Network</channel>
-  <channel site="epgshare01.online" site_id="US2#ESPN2.HD.us2" lang="en" xmltv_id="S3815">ESPN2 HD</channel>
-  <channel site="epgshare01.online" site_id="US2#ESPNU.HD.us2" lang="en" xmltv_id="S3822">ESPNU HD</channel>
-  <channel site="epgshare01.online" site_id="US2#Fox.Deportes.HD.us2" lang="en" xmltv_id="S3825">Fox Deportes HD</channel>
-  <channel site="epgshare01.online" site_id="US2#MSG2.HD.us2" lang="en" xmltv_id="S3829">MSG2 HD</channel>
-  <channel site="epgshare01.online" site_id="US2#Sportsman.Channel.us2" lang="en" xmltv_id="S3833">Sportsman Channel</channel>
-  <channel site="epgshare01.online" site_id="US2#World.Fishing.Network.HD.(US).us2" lang="en" xmltv_id="S3844">World Fishing Network HD (US)</channel>
-  <channel site="epgshare01.online" site_id="US2#NFL.RedZone.HD.us2" lang="en" xmltv_id="S3851">NFL RedZone HD</channel>
-  <channel site="epgshare01.online" site_id="US2#Marquee.Sports.Network.HD.us2" lang="en" xmltv_id="S3858">Marquee Sports Network HD</channel>
-  <channel site="epgshare01.online" site_id="US2#Yes.Network.us2" lang="en" xmltv_id="S3862">Yes Network</channel>
-  <channel site="epgshare01.online" site_id="US2#NFL.Network.HD.us2" lang="en" xmltv_id="S3866">NFL Network HD</channel>
-  <channel site="epgshare01.online" site_id="US2#Golf.Channel.HD.us2" lang="en" xmltv_id="S3869">Golf Channel HD</channel>
-  <channel site="epgshare01.online" site_id="US2#Willow.Cricket.HD.us2" lang="en" xmltv_id="S3878">Willow Cricket HD</channel>
-  <channel site="epgshare01.online" site_id="US2#Altitude.Sports.us2" lang="en" xmltv_id="S3880">Altitude Sports</channel>
-  <channel site="epgshare01.online" site_id="US2#Spectrum.SportsNet.Lakers.HD.us2" lang="en" xmltv_id="S3882">Spectrum SportsNet Lakers HD</channel>
-  <channel site="epgshare01.online" site_id="US2#ROOT.Sports.Northwest.HD.us2" lang="en" xmltv_id="S3883">ROOT Sports Northwest HD</channel>
-  <channel site="epgshare01.online" site_id="US2#SportsGrid.us2" lang="en" xmltv_id="S3889">Sports Grid</channel>
-  <channel site="epgshare01.online" site_id="US2#Root.Sports.Northwest.Plus.us2" lang="en" xmltv_id="S3891">Root Sports Northwest Plus</channel>
-  <channel site="epgshare01.online" site_id="US2#Fight.Network.us2" lang="en" xmltv_id="S3895">Fight Network</channel>
-  <channel site="epgshare01.online" site_id="US2#GOL.TV.us2" lang="en" xmltv_id="S3900">GOL TV</channel>
-  <channel site="epgshare01.online" site_id="US2#SEC.Network.HD.us2" lang="en" xmltv_id="S3904">SEC Network HD</channel>
-  <channel site="epgshare01.online" site_id="US2#CBS.Sports.Golazo.Network.us2" lang="en" xmltv_id="S3909">CBS Sports Golazo Network</channel>
-  <channel site="epgshare01.online" site_id="US2#ESPN.Deportes.HD.us2" lang="en" xmltv_id="S3914">ESPN Deportes HD</channel>
-  <channel site="epgshare01.online" site_id="US2#NBC.Sports.Philadelphia.HD.us2" lang="en" xmltv_id="S3918">NBC Sports Philadelphia HD</channel>
-  <channel site="epgshare01.online" site_id="US2#NHL.Network.HD.us2" lang="en" xmltv_id="S3925">NHL Network HD</channel>
-  <channel site="epgshare01.online" site_id="US2#Altitude.Sports.2.HD.us2" lang="en" xmltv_id="S3927">Altitude Sports 2 HD</channel>
-  <channel site="epgshare01.online" site_id="US2#NASCAR.Channel.us2" lang="en" xmltv_id="S3964">NASCAR Channel</channel>
-  <channel site="epgshare01.online" site_id="US2#ESPN8.The.Ocho.us2" lang="en" xmltv_id="S3967">ESPN8 The Ocho</channel>
-  <channel site="epgshare01.online" site_id="US2#Next.Level.Sports.HD.us2" lang="en" xmltv_id="S3985">Next Level Sports HD</channel>
-  <channel site="epgshare01.online" site_id="US2#CBS.Sports.HQ.us2" lang="en" xmltv_id="S3990">CBS Sports HQ</channel>
-  <channel site="epgshare01.online" site_id="US2#Bowling.TV.us2" lang="en" xmltv_id="S4002">Bowling TV</channel>
-  <channel site="epgshare01.online" site_id="US2#NBC.Sports.Bay.Area.HD.us2" lang="en" xmltv_id="S4015">NBC Sports Bay Area HD</channel>
-  <channel site="epgshare01.online" site_id="US2#NBC.Sports.Boston.HD.us2" lang="en" xmltv_id="S4019">NBC Sports Boston HD</channel>
-  <channel site="epgshare01.online" site_id="US2#NBC.Sports.Now.us2" lang="en" xmltv_id="S4021">NBC Sports Now</channel>
-  <channel site="epgshare01.online" site_id="US2#NBC.Sports.California.Plus.us2" lang="en" xmltv_id="S4025">NBC Sports California Plus</channel>
-  <channel site="epgshare01.online" site_id="US2#Monumental.Sports.Network.HD.us2" lang="en" xmltv_id="S4029">Monumental Sports Network HD</channel>
-  <channel site="epgshare01.online" site_id="US2#NBC.Sports.Philadelphia.Plus.us2" lang="en" xmltv_id="S4036">NBC Sports Philadelphia Plus</channel>
-  <channel site="epgshare01.online" site_id="US2#beIN.Sports.USA.HD.us2" lang="en" xmltv_id="S4041">beIN Sports USA HD</channel>
-  <channel site="epgshare01.online" site_id="US2#NBA.TV.HD.us2" lang="en" xmltv_id="S4059">NBA TV HD</channel>
-  <channel site="epgshare01.online" site_id="US2#MLB.Network.HD.us2" lang="en" xmltv_id="S4064">MLB Network HD</channel>
-  <channel site="epgshare01.online" site_id="US2#USA.Network.HD.us2" lang="en" xmltv_id="S4070">USA Network HD</channel>
-  <channel site="epgshare01.online" site_id="US2#WAPA.America.us2" lang="en" xmltv_id="S4073">WAPA America</channel>
-  <channel site="epgshare01.online" site_id="US2#CNN.En.Español.us2" lang="en" xmltv_id="S4075">CNN En Español</channel>
-  <channel site="epgshare01.online" site_id="US2#Atreseries.us2" lang="en" xmltv_id="S4080">Atreseries</channel>
-  <channel site="epgshare01.online" site_id="US2#Bandamax.us2" lang="en" xmltv_id="S4083">Bandamax</channel>
-  <channel site="epgshare01.online" site_id="US2#De.Pelicula.us2" lang="en" xmltv_id="S4086">De Pelicula</channel>
-  <channel site="epgshare01.online" site_id="US2#NTN24.us2" lang="en" xmltv_id="S4093">NTN24</channel>
-  <channel site="epgshare01.online" site_id="US2#Baby.TV.US.us2" lang="en" xmltv_id="S4105">Baby TV US</channel>
-  <channel site="epgshare01.online" site_id="US2#Nat.Geo.Mundo.us2" lang="en" xmltv_id="S4109">Nat Geo Mundo</channel>
-  <channel site="epgshare01.online" site_id="US2#Mexicanal.us2" lang="en" xmltv_id="S4112">Mexicanal</channel>
-  <channel site="epgshare01.online" site_id="US2#Zona.Futbol.us2" lang="en" xmltv_id="S4116">Zona Futbol</channel>
-  <channel site="epgshare01.online" site_id="US2#HITN.us2" lang="en" xmltv_id="S4118">HITN</channel>
-  <channel site="epgshare01.online" site_id="US2#Estrella.TV.us2" lang="en" xmltv_id="S4125">Estrella TV</channel>
-  <channel site="epgshare01.online" site_id="US2#Mega.TV.HD.us2" lang="en" xmltv_id="S4131">Mega TV HD</channel>
-  <channel site="epgshare01.online" site_id="US2#Antena.3.Internacional.us2" lang="en" xmltv_id="S4134">Antena 3 Internacional</channel>
-  <channel site="epgshare01.online" site_id="US2#Cine.Mexicano.US.Feed.us2" lang="en" xmltv_id="S4140">Cine Mexicano US Feed</channel>
-  <channel site="epgshare01.online" site_id="US2#TUDN.us2" lang="en" xmltv_id="S4178">TUDN</channel>
+  <channel site="epgshare01.online" site_id="US2#CBS.Sports.Network.HD.us2" lang="en" xmltv_id="S3785">CBS Sports Network HD</channel>
+  <channel site="epgshare01.online" site_id="US2#Fox.Soccer.Plus.HD.us2" lang="en" xmltv_id="S3789">Fox Soccer Plus HD</channel>
+  <channel site="epgshare01.online" site_id="US2#ESPN.HD.us2" lang="en" xmltv_id="S3793">ESPN HD</channel>
+  <channel site="epgshare01.online" site_id="US2#Space.City.Home.Network.HD.us2" lang="en" xmltv_id="S3805">Space City Home Network HD</channel>
+  <channel site="epgshare01.online" site_id="US2#ACC.Network.us2" lang="en" xmltv_id="S3810">ACC Network</channel>
+  <channel site="epgshare01.online" site_id="US2#ESPN2.HD.us2" lang="en" xmltv_id="S3813">ESPN2 HD</channel>
+  <channel site="epgshare01.online" site_id="US2#ESPNU.HD.us2" lang="en" xmltv_id="S3820">ESPNU HD</channel>
+  <channel site="epgshare01.online" site_id="US2#Fox.Deportes.HD.us2" lang="en" xmltv_id="S3823">Fox Deportes HD</channel>
+  <channel site="epgshare01.online" site_id="US2#MSG2.HD.us2" lang="en" xmltv_id="S3827">MSG2 HD</channel>
+  <channel site="epgshare01.online" site_id="US2#Sportsman.Channel.us2" lang="en" xmltv_id="S3831">Sportsman Channel</channel>
+  <channel site="epgshare01.online" site_id="US2#World.Fishing.Network.HD.(US).us2" lang="en" xmltv_id="S3842">World Fishing Network HD (US)</channel>
+  <channel site="epgshare01.online" site_id="US2#NFL.RedZone.HD.us2" lang="en" xmltv_id="S3849">NFL RedZone HD</channel>
+  <channel site="epgshare01.online" site_id="US2#Marquee.Sports.Network.HD.us2" lang="en" xmltv_id="S3856">Marquee Sports Network HD</channel>
+  <channel site="epgshare01.online" site_id="US2#Yes.Network.us2" lang="en" xmltv_id="S3860">Yes Network</channel>
+  <channel site="epgshare01.online" site_id="US2#NFL.Network.HD.us2" lang="en" xmltv_id="S3864">NFL Network HD</channel>
+  <channel site="epgshare01.online" site_id="US2#Golf.Channel.HD.us2" lang="en" xmltv_id="S3867">Golf Channel HD</channel>
+  <channel site="epgshare01.online" site_id="US2#Willow.Cricket.HD.us2" lang="en" xmltv_id="S3876">Willow Cricket HD</channel>
+  <channel site="epgshare01.online" site_id="US2#Altitude.Sports.us2" lang="en" xmltv_id="S3878">Altitude Sports</channel>
+  <channel site="epgshare01.online" site_id="US2#Spectrum.SportsNet.Lakers.HD.us2" lang="en" xmltv_id="S3880">Spectrum SportsNet Lakers HD</channel>
+  <channel site="epgshare01.online" site_id="US2#ROOT.Sports.Northwest.HD.us2" lang="en" xmltv_id="S3881">ROOT Sports Northwest HD</channel>
+  <channel site="epgshare01.online" site_id="US2#SportsGrid.us2" lang="en" xmltv_id="S3887">Sports Grid</channel>
+  <channel site="epgshare01.online" site_id="US2#Root.Sports.Northwest.Plus.us2" lang="en" xmltv_id="S3889">Root Sports Northwest Plus</channel>
+  <channel site="epgshare01.online" site_id="US2#Fight.Network.us2" lang="en" xmltv_id="S3893">Fight Network</channel>
+  <channel site="epgshare01.online" site_id="US2#GOL.TV.us2" lang="en" xmltv_id="S3898">GOL TV</channel>
+  <channel site="epgshare01.online" site_id="US2#SEC.Network.HD.us2" lang="en" xmltv_id="S3902">SEC Network HD</channel>
+  <channel site="epgshare01.online" site_id="US2#CBS.Sports.Golazo.Network.us2" lang="en" xmltv_id="S3907">CBS Sports Golazo Network</channel>
+  <channel site="epgshare01.online" site_id="US2#ESPN.Deportes.HD.us2" lang="en" xmltv_id="S3912">ESPN Deportes HD</channel>
+  <channel site="epgshare01.online" site_id="US2#NBC.Sports.Philadelphia.HD.us2" lang="en" xmltv_id="S3916">NBC Sports Philadelphia HD</channel>
+  <channel site="epgshare01.online" site_id="US2#NHL.Network.HD.us2" lang="en" xmltv_id="S3923">NHL Network HD</channel>
+  <channel site="epgshare01.online" site_id="US2#Altitude.Sports.2.HD.us2" lang="en" xmltv_id="S3925">Altitude Sports 2 HD</channel>
+  <channel site="epgshare01.online" site_id="US2#NASCAR.Channel.us2" lang="en" xmltv_id="S3962">NASCAR Channel</channel>
+  <channel site="epgshare01.online" site_id="US2#ESPN8.The.Ocho.us2" lang="en" xmltv_id="S3965">ESPN8 The Ocho</channel>
+  <channel site="epgshare01.online" site_id="US2#Next.Level.Sports.HD.us2" lang="en" xmltv_id="S3983">Next Level Sports HD</channel>
+  <channel site="epgshare01.online" site_id="US2#CBS.Sports.HQ.us2" lang="en" xmltv_id="S3988">CBS Sports HQ</channel>
+  <channel site="epgshare01.online" site_id="US2#Bowling.TV.us2" lang="en" xmltv_id="S4000">Bowling TV</channel>
+  <channel site="epgshare01.online" site_id="US2#NBC.Sports.Bay.Area.HD.us2" lang="en" xmltv_id="S4013">NBC Sports Bay Area HD</channel>
+  <channel site="epgshare01.online" site_id="US2#NBC.Sports.Boston.HD.us2" lang="en" xmltv_id="S4017">NBC Sports Boston HD</channel>
+  <channel site="epgshare01.online" site_id="US2#NBC.Sports.Now.us2" lang="en" xmltv_id="S4019">NBC Sports Now</channel>
+  <channel site="epgshare01.online" site_id="US2#NBC.Sports.California.Plus.us2" lang="en" xmltv_id="S4023">NBC Sports California Plus</channel>
+  <channel site="epgshare01.online" site_id="US2#Monumental.Sports.Network.HD.us2" lang="en" xmltv_id="S4027">Monumental Sports Network HD</channel>
+  <channel site="epgshare01.online" site_id="US2#NBC.Sports.Philadelphia.Plus.us2" lang="en" xmltv_id="S4034">NBC Sports Philadelphia Plus</channel>
+  <channel site="epgshare01.online" site_id="US2#beIN.Sports.USA.HD.us2" lang="en" xmltv_id="S4039">beIN Sports USA HD</channel>
+  <channel site="epgshare01.online" site_id="US2#NBA.TV.HD.us2" lang="en" xmltv_id="S4057">NBA TV HD</channel>
+  <channel site="epgshare01.online" site_id="US2#MLB.Network.HD.us2" lang="en" xmltv_id="S4062">MLB Network HD</channel>
+  <channel site="epgshare01.online" site_id="US2#USA.Network.HD.us2" lang="en" xmltv_id="S4068">USA Network HD</channel>
+  <channel site="epgshare01.online" site_id="US2#WAPA.America.us2" lang="en" xmltv_id="S4071">WAPA America</channel>
+  <channel site="epgshare01.online" site_id="US2#CNN.En.Español.us2" lang="en" xmltv_id="S4073">CNN En Español</channel>
+  <channel site="epgshare01.online" site_id="US2#Atreseries.us2" lang="en" xmltv_id="S4078">Atreseries</channel>
+  <channel site="epgshare01.online" site_id="US2#Bandamax.us2" lang="en" xmltv_id="S4081">Bandamax</channel>
+  <channel site="epgshare01.online" site_id="US2#De.Pelicula.us2" lang="en" xmltv_id="S4084">De Pelicula</channel>
+  <channel site="epgshare01.online" site_id="US2#NTN24.us2" lang="en" xmltv_id="S4091">NTN24</channel>
+  <channel site="epgshare01.online" site_id="US2#Baby.TV.US.us2" lang="en" xmltv_id="S4103">Baby TV US</channel>
+  <channel site="epgshare01.online" site_id="US2#Nat.Geo.Mundo.us2" lang="en" xmltv_id="S4107">Nat Geo Mundo</channel>
+  <channel site="epgshare01.online" site_id="US2#Mexicanal.us2" lang="en" xmltv_id="S4110">Mexicanal</channel>
+  <channel site="epgshare01.online" site_id="US2#Zona.Futbol.us2" lang="en" xmltv_id="S4114">Zona Futbol</channel>
+  <channel site="epgshare01.online" site_id="US2#HITN.us2" lang="en" xmltv_id="S4116">HITN</channel>
+  <channel site="epgshare01.online" site_id="US2#Estrella.TV.us2" lang="en" xmltv_id="S4123">Estrella TV</channel>
+  <channel site="epgshare01.online" site_id="US2#Mega.TV.HD.us2" lang="en" xmltv_id="S4129">Mega TV HD</channel>
+  <channel site="epgshare01.online" site_id="US2#Antena.3.Internacional.us2" lang="en" xmltv_id="S4132">Antena 3 Internacional</channel>
+  <channel site="epgshare01.online" site_id="US2#Cine.Mexicano.US.Feed.us2" lang="en" xmltv_id="S4138">Cine Mexicano US Feed</channel>
+  <channel site="epgshare01.online" site_id="US2#TUDN.us2" lang="en" xmltv_id="S4176">TUDN</channel>
 </channels>

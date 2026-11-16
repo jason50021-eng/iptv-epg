@@ -1062,175 +1062,174 @@
   <channel site="tvpassport.com" site_id="fox-kfnb-casper-wy-hd/9917" lang="en" xmltv_id="S3565">FOX (KFNB) Casper, WY HD</channel>
   <channel site="tvpassport.com" site_id="fox-kqds-duluth-mn-hd/6744" lang="en" xmltv_id="S3567">FOX (KQDS) Duluth, MN HD</channel>
   <channel site="tvpassport.com" site_id="fox-kfox-el-paso-tx-hd/13535" lang="en" xmltv_id="S3570">FOX (KFOX) El Paso, TX HD</channel>
-  <channel site="tvpassport.com" site_id="catchy-comedy-wvah-huricane-wv-hd/6118" lang="en" xmltv_id="S3573">Catchy Comedy (WVAH) Huricane, WV HD</channel>
-  <channel site="tvpassport.com" site_id="fox-wmsn-madison-wi-hd/9099" lang="en" xmltv_id="S3575">FOX (WMSN) Madison, WI HD</channel>
-  <channel site="tvpassport.com" site_id="fox-kidy-san-angelo-tx-hd/17157" lang="en" xmltv_id="S3578">FOX (KIDY) San Angelo, TX HD</channel>
-  <channel site="tvpassport.com" site_id="fox-ktmj-topeka-ks-hd/8147" lang="en" xmltv_id="S3580">FOX (KTMJ) Topeka, KS HD</channel>
-  <channel site="tvpassport.com" site_id="fox-kard-monroe-la-hd/7899" lang="en" xmltv_id="S3583">FOX (KARD) Monroe, LA HD</channel>
-  <channel site="tvpassport.com" site_id="fox-wfxv-utica-ny-hd/6374" lang="en" xmltv_id="S3585">FOX (WFXV) Utica, NY HD</channel>
-  <channel site="tvpassport.com" site_id="fox-wdky-lexington-ky-hd/6576" lang="en" xmltv_id="S3587">FOX (WDKY) Lexington, KY HD</channel>
-  <channel site="tvpassport.com" site_id="fox-kcit-amarillo-tx-hd/17133" lang="en" xmltv_id="S3590">FOX (KCIT) Amarillo, TX HD</channel>
-  <channel site="tvpassport.com" site_id="fox-ktby-anchorage-ak-hd/9446" lang="en" xmltv_id="S3593">FOX (KTBY) Anchorage, AK HD</channel>
-  <channel site="tvpassport.com" site_id="fox-wqrf-rockford-il-hd/19137" lang="en" xmltv_id="S3596">FOX (WQRF) Rockford, IL HD</channel>
-  <channel site="tvpassport.com" site_id="fox-wicz-binghamton-ny-hd/4744" lang="en" xmltv_id="S3599">FOX (WICZ) Binghamton, NY HD</channel>
-  <channel site="tvpassport.com" site_id="fox-wgxa-macon-ga-hd/8124" lang="en" xmltv_id="S3601">FOX (WGXA) Macon, GA HD</channel>
-  <channel site="tvpassport.com" site_id="fox-wfqx-traverse-citycadillac-mi-hd/7060" lang="en" xmltv_id="S3603">FOX (WFQX) Traverse City/Cadillac, MI HD</channel>
-  <channel site="tvpassport.com" site_id="fox-wydo-greenville-nc-hd/7151" lang="en" xmltv_id="S3606">FOX (WYDO) Greenville, NC HD</channel>
-  <channel site="tvpassport.com" site_id="fox-kfjx-pittsburg-ks-hd/8138" lang="en" xmltv_id="S3608">FOX (KFJX) Pittsburg, KS HD</channel>
-  <channel site="tvpassport.com" site_id="fox-wthi-dt2-terre-haute-in-hd/9713" lang="en" xmltv_id="S3610">FOX (WTHI-DT2) Terre Haute, IN HD</channel>
-  <channel site="tvpassport.com" site_id="fox-wzaw-wausau-wi-hd/6373" lang="en" xmltv_id="S3611">FOX (WZAW) Wausau, WI HD</channel>
-  <channel site="tvpassport.com" site_id="fox-kdfx-palm-springs-ca-hd/4935" lang="en" xmltv_id="S3617">FOX (KDFX) Palm Springs, CA HD</channel>
-  <channel site="tvpassport.com" site_id="fox-kfxo-bend-or-hd/7274" lang="en" xmltv_id="S3620">FOX (KFXO) Bend, OR HD</channel>
-  <channel site="tvpassport.com" site_id="fox-wfxp-erie-pa-hd/6372" lang="en" xmltv_id="S3623">FOX (WFXP) Erie, PA HD</channel>
-  <channel site="tvpassport.com" site_id="fox-kpej-midland-tx-hd/6159" lang="en" xmltv_id="S3626">FOX (KPEJ) Midland, TX HD</channel>
-  <channel site="tvpassport.com" site_id="fox-wfxl-albany-ga-hd/6371" lang="en" xmltv_id="S3628">FOX (WFXL) Albany, GA HD</channel>
-  <channel site="tvpassport.com" site_id="fox-wnyf-massena-ny-hd/5326" lang="en" xmltv_id="S3631">FOX (WNYF) Massena, NY HD</channel>
-  <channel site="tvpassport.com" site_id="fox-wjkt-jackson-tn-hd/18828" lang="en" xmltv_id="S3634">FOX (WJKT) Jackson, TN HD</channel>
-  <channel site="tvpassport.com" site_id="fox-5-whiz-tv2-zanesville-oh/37403" lang="en" xmltv_id="S3636">Fox 5 (WHIZ-TV2) Zanesville, OH</channel>
-  <channel site="tvpassport.com" site_id="mnt-wwor-new-york-ny-hd/11336" lang="en" xmltv_id="S3637">MNT (WWOR) New York, NY HD</channel>
-  <channel site="tvpassport.com" site_id="cw-wwho-columbus-oh-hd/4734" lang="en" xmltv_id="S3640">CW (WWHO) Columbus, OH HD</channel>
-  <channel site="tvpassport.com" site_id="mnt-kcop-los-angeles-ca-hd/6546" lang="en" xmltv_id="S3642">MNT (KCOP) Los Angeles, CA HD</channel>
-  <channel site="tvpassport.com" site_id="mnt-kdfi-dallas-tx-hd/6547" lang="en" xmltv_id="S3645">MNT (KDFI) Dallas, TX HD</channel>
-  <channel site="tvpassport.com" site_id="mnt-wnyo-buffalo-ny-hd/7167" lang="en" xmltv_id="S3647">MNT (WNYO) Buffalo, NY HD</channel>
-  <channel site="tvpassport.com" site_id="pbs-wvpb-huntington-wv-hd/17103" lang="en" xmltv_id="S3650">PBS (WVPB) Huntington, WV HD</channel>
-  <channel site="tvpassport.com" site_id="nbc-wpmi-mobile-al-hd/7602" lang="en" xmltv_id="S3653">NBC (WPMI) Mobile, AL HD</channel>
-  <channel site="tvpassport.com" site_id="mnt-wmyt-charlotte-nc-hd/5258" lang="en" xmltv_id="S3655">MNT (WMYT) Charlotte, NC HD</channel>
-  <channel site="tvpassport.com" site_id="cw-kpxj-shreveport-la-hd/6290" lang="en" xmltv_id="S3658">CW (KPXJ) Shreveport, LA HD</channel>
-  <channel site="tvpassport.com" site_id="cw-wcwg-lexington-nc-hd/4801" lang="en" xmltv_id="S3660">CW (WCWG) Lexington, NC HD</channel>
-  <channel site="tvpassport.com" site_id="cw-wcwj-jacksonville-fl-hd/9257" lang="en" xmltv_id="S3663">CW (WCWJ) Jacksonville, FL HD</channel>
-  <channel site="tvpassport.com" site_id="pbs-wtiu-hd-bloomington-in/11363" lang="en" xmltv_id="S3666">PBS (WTIU) HD Bloomington, IN</channel>
-  <channel site="tvpassport.com" site_id="pbs-ktwu-topeka-ks-hd/8146" lang="en" xmltv_id="S3669">PBS (KTWU) Topeka, KS HD</channel>
-  <channel site="tvpassport.com" site_id="pbs-kptw-casper-wy/13094" lang="en" xmltv_id="S3672">PBS (KPTW) Casper, WY</channel>
-  <channel site="tvpassport.com" site_id="pbs-kued-salt-lake-city-ut-hd/4463" lang="en" xmltv_id="S3674">PBS (KUED) Salt Lake City, UT HD</channel>
-  <channel site="tvpassport.com" site_id="cw-wxcw-fort-myers-fl-hd/4811" lang="en" xmltv_id="S3677">CW (WXCW) Fort Myers, FL HD</channel>
-  <channel site="tvpassport.com" site_id="abc-knoe-dt2-monroe-la-hd/6640" lang="en" xmltv_id="S3680">ABC (KNOE-DT2) Monroe, LA HD</channel>
-  <channel site="tvpassport.com" site_id="pbs-wqln-erie-pa-hd/7069" lang="en" xmltv_id="S3681">PBS (WQLN) Erie, PA HD</channel>
-  <channel site="tvpassport.com" site_id="cw-wnlo-buffalo-ny-hd/7172" lang="en" xmltv_id="S3684">CW (WNLO) Buffalo, NY HD</channel>
-  <channel site="tvpassport.com" site_id="fox-10-extra-kutp-phoenix-az-hd/6281" lang="en" xmltv_id="S3687">Fox 10 Extra (KUTP) Phoenix, AZ HD</channel>
-  <channel site="tvpassport.com" site_id="cw-wlvi-boston-ma-hd/7114" lang="en" xmltv_id="S3689">CW (WLVI) Boston, MA HD</channel>
-  <channel site="tvpassport.com" site_id="cw-wbki-salem-in-hd/8270" lang="en" xmltv_id="S3694">CW (WBKI) Salem, IN HD</channel>
-  <channel site="tvpassport.com" site_id="pbs-krma-denver-co-hd/6881" lang="en" xmltv_id="S3696">PBS (KRMA) Denver, CO HD</channel>
-  <channel site="tvpassport.com" site_id="pbs-wcfe-plattsburgh-ny-hd/9971" lang="en" xmltv_id="S3699">PBS (WCFE) Plattsburgh, NY HD</channel>
-  <channel site="tvpassport.com" site_id="pbs-wgvu-grand-rapids-mi-hd/9337" lang="en" xmltv_id="S3701">PBS (WGVU) Grand Rapids, MI HD</channel>
-  <channel site="tvpassport.com" site_id="cw-wccb-charlotte-nc-hd/3650" lang="en" xmltv_id="S3704">CW (WCCB) Charlotte, NC HD</channel>
-  <channel site="tvpassport.com" site_id="pbs-wunc-chapel-hill-hd/7186" lang="en" xmltv_id="S3709">PBS (WUNC) Chapel Hill HD</channel>
-  <channel site="tvpassport.com" site_id="mnt-wrdc-raleigh-nc-hd/7776" lang="en" xmltv_id="S3710">MNT (WRDC) Raleigh, NC HD</channel>
-  <channel site="tvpassport.com" site_id="cw-kocb-oklahoma-city-ok-hd/6288" lang="en" xmltv_id="S3713">CW (KOCB) Oklahoma City, OK HD</channel>
-  <channel site="tvpassport.com" site_id="pt-check-cw-ktla-los-angeles/2036" lang="en" xmltv_id="S3716">PT CHECK: CW (KTLA) Los Angeles</channel>
-  <channel site="tvpassport.com" site_id="cw-kdaf-dallas-tx-hd/7467" lang="en" xmltv_id="S3719">CW (KDAF) Dallas, TX HD</channel>
-  <channel site="tvpassport.com" site_id="cw-wbdt-dayton-oh-hd/7403" lang="en" xmltv_id="S3722">CW (WBDT) Dayton, OH HD</channel>
-  <channel site="tvpassport.com" site_id="wgn-chicago-local-hd/5881" lang="en" xmltv_id="S3725">WGN Chicago (LOCAL) HD</channel>
-  <channel site="tvpassport.com" site_id="pbs-wkle-lexington-richmond-ky-hd/8287" lang="en" xmltv_id="S3726">PBS (WKLE) Lexington-Richmond, KY HD</channel>
-  <channel site="tvpassport.com" site_id="cw-wish-indianapolis-in-hd/7678" lang="en" xmltv_id="S3728">CW (WISH) Indianapolis, IN HD</channel>
-  <channel site="tvpassport.com" site_id="cw-wuab-cleveland-oh-hd/4736" lang="en" xmltv_id="S3731">CW (WUAB) Cleveland, OH HD</channel>
-  <channel site="tvpassport.com" site_id="vegas-34-kmcc-laughlin-nv/7876" lang="en" xmltv_id="S3736">Vegas 34 (KMCC) Laughlin, NV</channel>
-  <channel site="tvpassport.com" site_id="pbs-kpbs-san-diego-ca-hd/6935" lang="en" xmltv_id="S3738">PBS (KPBS) San Diego, CA HD</channel>
-  <channel site="tvpassport.com" site_id="pbs-wpbs-watertown-ny-hd/5324" lang="en" xmltv_id="S3745">PBS (WPBS) Watertown, NY HD</channel>
-  <channel site="tvpassport.com" site_id="cw-wcww-south-bend-in-hd/9256" lang="en" xmltv_id="S3747">CW (WCWW) South Bend, IN HD</channel>
-  <channel site="tvpassport.com" site_id="cw-wcct-hartford-ct-hd/9651" lang="en" xmltv_id="S3750">CW (WCCT) Hartford, CT HD</channel>
-  <channel site="tvpassport.com" site_id="cw-wlmt-memphis-tn-hd/7121" lang="en" xmltv_id="S3753">CW (WLMT) Memphis, TN HD</channel>
-  <channel site="tvpassport.com" site_id="pbs-cltwtvi-charlotte-nc-hd/4703" lang="en" xmltv_id="S3762">PBS CLT(WTVI) Charlotte, NC HD</channel>
-  <channel site="tvpassport.com" site_id="pbs-witf-harrisburg-pa-hd/8743" lang="en" xmltv_id="S3765">PBS (WITF) Harrisburg, PA HD</channel>
-  <channel site="tvpassport.com" site_id="mnt-kqca-sacramento-ca-hd/6277" lang="en" xmltv_id="S3767">MNT (KQCA) Sacramento, CA HD</channel>
-  <channel site="tvpassport.com" site_id="cw-wbui-decatur-il-hd/4589" lang="en" xmltv_id="S3770">CW (WBUI) Decatur, IL HD</channel>
-  <channel site="tvpassport.com" site_id="mnt-wphl-philadelphia-pa-hd/7168" lang="en" xmltv_id="S3773">MNT (WPHL) Philadelphia, PA HD</channel>
-  <channel site="tvpassport.com" site_id="cw-wbxx-knoxville-tn-hd/8466" lang="en" xmltv_id="S3775">CW (WBXX) Knoxville, TN HD</channel>
-  <channel site="tvpassport.com" site_id="cw-wfli-chattanooga-tn-hd/6751" lang="en" xmltv_id="S3778">CW (WFLI) Chattanooga, TN HD</channel>
-  <channel site="tvpassport.com" site_id="ion-wxpx-tampa-fl-hd/7625" lang="en" xmltv_id="S3781">ION (WXPX) Tampa, FL HD</channel>
-  <channel site="tvpassport.com" site_id="independent-kazt-cd-phoenix-az-hd/32337" lang="en" xmltv_id="S3783">Independent (KAZT-CD) Phoenix, AZ HD</channel>
-  <channel site="tvpassport.com" site_id="cbs-sports-network-usa-hd/6985" lang="en" xmltv_id="S3785">CBS Sports Network USA HD</channel>
-  <channel site="tvpassport.com" site_id="fox-soccer-plus-hd/11551" lang="en" xmltv_id="S3789">FOX Soccer Plus HD</channel>
-  <channel site="tvpassport.com" site_id="espn-hd/3036" lang="en" xmltv_id="S3793">ESPN HD</channel>
-  <channel site="tvpassport.com" site_id="fox-sports-1-hd/11137" lang="en" xmltv_id="S3797">Fox Sports 1 HD</channel>
-  <channel site="tvpassport.com" site_id="fox-sports-2-hd/10263" lang="en" xmltv_id="S3801">Fox Sports 2 HD</channel>
-  <channel site="tvpassport.com" site_id="space-city-home-network-hd/8800" lang="en" xmltv_id="S3805">Space City Home Network HD</channel>
-  <channel site="tvpassport.com" site_id="acc-network-hd/33965" lang="en" xmltv_id="S3809">ACC Network HD</channel>
-  <channel site="tvpassport.com" site_id="espn2-hd/3379" lang="en" xmltv_id="S3813">ESPN2 HD</channel>
-  <channel site="tvpassport.com" site_id="espn-news-hd/6246" lang="en" xmltv_id="S3817">ESPN News HD</channel>
-  <channel site="tvpassport.com" site_id="espn-u-hd/6245" lang="en" xmltv_id="S3820">ESPN U HD</channel>
-  <channel site="tvpassport.com" site_id="fox-deportes-hd/10502" lang="en" xmltv_id="S3824">Fox Deportes HD</channel>
-  <channel site="tvpassport.com" site_id="msg-2-hd/31491" lang="en" xmltv_id="S3828">MSG 2 HD</channel>
-  <channel site="tvpassport.com" site_id="msg-plus-2-hd/31031" lang="en" xmltv_id="S3830">MSG Plus 2 HD</channel>
-  <channel site="tvpassport.com" site_id="sportsman-channel-hd/7571" lang="en" xmltv_id="S3832">Sportsman Channel HD</channel>
-  <channel site="tvpassport.com" site_id="stadium-hd/31947" lang="en" xmltv_id="S3835">Stadium HD</channel>
-  <channel site="tvpassport.com" site_id="the-tennis-channel-hd/7051" lang="en" xmltv_id="S3839">The Tennis Channel HD</channel>
-  <channel site="tvpassport.com" site_id="spectrum-sportsnet-la-hd/13097" lang="en" xmltv_id="S3846">Spectrum SportsNet LA HD</channel>
-  <channel site="tvpassport.com" site_id="nfl-redzone-hd/7536" lang="en" xmltv_id="S3849">NFL RedZone HD</channel>
-  <channel site="tvpassport.com" site_id="marquee-sports-network-hd/34881" lang="en" xmltv_id="S3856">Marquee Sports Network HD</channel>
-  <channel site="tvpassport.com" site_id="yes-network-hd/4696" lang="en" xmltv_id="S3860">YES Network HD</channel>
-  <channel site="tvpassport.com" site_id="nfl-network-hd/3601" lang="en" xmltv_id="S3864">NFL Network HD</channel>
-  <channel site="tvpassport.com" site_id="golf-channel-latin-america-hd/31008" lang="en" xmltv_id="S3868">Golf Channel (Latin America) HD</channel>
-  <channel site="tvpassport.com" site_id="willow-cricket-hd/6444" lang="en" xmltv_id="S3876">Willow Cricket HD</channel>
-  <channel site="tvpassport.com" site_id="sportsgrid-hd/35210" lang="en" xmltv_id="S3887">SportsGrid HD</channel>
-  <channel site="tvpassport.com" site_id="fight-network-usa-hd/16160" lang="en" xmltv_id="S3894">Fight Network USA HD</channel>
-  <channel site="tvpassport.com" site_id="gol-tv-usa-hd/12608" lang="en" xmltv_id="S3899">Gol TV USA HD</channel>
-  <channel site="tvpassport.com" site_id="sec-network-hd/13712" lang="en" xmltv_id="S3902">SEC Network HD</channel>
-  <channel site="tvpassport.com" site_id="espn-deportes-hd/10347" lang="en" xmltv_id="S3912">ESPN Deportes HD</channel>
-  <channel site="tvpassport.com" site_id="nbc-sports-philadelphia-hd/6413" lang="en" xmltv_id="S3916">NBC Sports Philadelphia HD</channel>
-  <channel site="tvpassport.com" site_id="msg-madison-square-gardens-hd/4695" lang="en" xmltv_id="S3921">MSG (Madison Square Gardens) HD</channel>
-  <channel site="tvpassport.com" site_id="nhl-network-usa-hd/14157" lang="en" xmltv_id="S3923">NHL Network USA HD</channel>
-  <channel site="tvpassport.com" site_id="real-madrid-tv/37455" lang="en" xmltv_id="S3939">Real Madrid TV</channel>
-  <channel site="tvpassport.com" site_id="tvg--television-games-network-hd/16422" lang="en" xmltv_id="S3941">FanDuel TV HD</channel>
-  <channel site="tvpassport.com" site_id="fanduel-racing/535" lang="en" xmltv_id="S3945">FanDuel Racing</channel>
-  <channel site="tvpassport.com" site_id="olympic-channel-hd/31948" lang="en" xmltv_id="S3948">Olympic Channel HD</channel>
-  <channel site="tvpassport.com" site_id="spectrum-oc-16-hd/7657" lang="en" xmltv_id="S3949">Spectrum OC 16 HD</channel>
-  <channel site="tvpassport.com" site_id="arizona-diamondbacks-tv/37612" lang="en" xmltv_id="S3957">Arizona Diamondbacks TV</channel>
-  <channel site="tvpassport.com" site_id="next-level-sports-hd/13469" lang="en" xmltv_id="S3983">Next Level Sports HD</channel>
-  <channel site="tvpassport.com" site_id="bally-sports-detroit-hd/4514" lang="en" xmltv_id="S3998">FanDuel Sports Network Detroit HD</channel>
-  <channel site="tvpassport.com" site_id="nbc-sports-bay-area-hd/6305" lang="en" xmltv_id="S4013">NBC Sports Bay Area HD</channel>
-  <channel site="tvpassport.com" site_id="nbc-sports-boston-hd/4534" lang="en" xmltv_id="S4017">NBC Sports Boston HD</channel>
-  <channel site="tvpassport.com" site_id="monumental-sports-network-hd/6411" lang="en" xmltv_id="S4027">Monumental Sports Network HD</channel>
-  <channel site="tvpassport.com" site_id="nbc-sports-california-hd/6410" lang="en" xmltv_id="S4031">NBC Sports California HD</channel>
-  <channel site="tvpassport.com" site_id="nbc-sports-philadelphia-hd/10978" lang="en" xmltv_id="S4034">NBC Sports Philadelphia+ HD</channel>
-  <channel site="tvpassport.com" site_id="nbc-sports-chicago-hd/6409" lang="en" xmltv_id="S4037">NBC Sports Chicago HD</channel>
-  <channel site="tvpassport.com" site_id="bein-sport-usa-hd/10854" lang="en" xmltv_id="S4039">beIN Sport USA HD</channel>
-  <channel site="tvpassport.com" site_id="bein-sports-4/37183" lang="en" xmltv_id="S4043">beIN Sports 4</channel>
-  <channel site="tvpassport.com" site_id="bein-sports-6/37185" lang="en" xmltv_id="S4044">beIN Sports 6</channel>
-  <channel site="tvpassport.com" site_id="bein-sports-7/37186" lang="en" xmltv_id="S4045">beIN Sports 7</channel>
-  <channel site="tvpassport.com" site_id="bein-sports-5/37184" lang="en" xmltv_id="S4046">beIN Sports 5</channel>
-  <channel site="tvpassport.com" site_id="bein-sports-8/37187" lang="en" xmltv_id="S4047">beIN Sports 8</channel>
-  <channel site="tvpassport.com" site_id="bein-sports-xtra/34594" lang="en" xmltv_id="S4048">beIN Sports Xtra</channel>
-  <channel site="tvpassport.com" site_id="bein-sports-3/37182" lang="en" xmltv_id="S4052">beIN Sports 3</channel>
-  <channel site="tvpassport.com" site_id="nba-tv-usa-hd/5645" lang="en" xmltv_id="S4057">NBA TV USA HD</channel>
-  <channel site="tvpassport.com" site_id="mlb-network-hd/6218" lang="en" xmltv_id="S4062">MLB Network HD</channel>
-  <channel site="tvpassport.com" site_id="discovery-channel-can-hd/8451" lang="en" xmltv_id="S4068">USA Network (CAN) HD</channel>
-  <channel site="tvpassport.com" site_id="wapa-america-hd/33723" lang="en" xmltv_id="S4072">Wapa America HD</channel>
-  <channel site="tvpassport.com" site_id="discovery-familia-hd/14528" lang="en" xmltv_id="S4076">Discovery Familia HD</channel>
-  <channel site="tvpassport.com" site_id="bandamax/4423" lang="en" xmltv_id="S4082">Bandamax</channel>
-  <channel site="tvpassport.com" site_id="de-pelicula/4419" lang="en" xmltv_id="S4085">De Pelicula</channel>
-  <channel site="tvpassport.com" site_id="forotv-hd/13638" lang="en" xmltv_id="S4088">FOROtv HD</channel>
-  <channel site="tvpassport.com" site_id="ntn24/19223" lang="en" xmltv_id="S4092">NTN24</channel>
-  <channel site="tvpassport.com" site_id="telehit/6143" lang="en" xmltv_id="S4098">Telehit</channel>
-  <channel site="tvpassport.com" site_id="teleritmo-hd/10237" lang="en" xmltv_id="S4099">Teleritmo HD</channel>
-  <channel site="tvpassport.com" site_id="telemundo-ksts-san-jose-ca-hd/6515" lang="en" xmltv_id="S4101">Telemundo (KSTS) San Jose, CA HD</channel>
-  <channel site="tvpassport.com" site_id="baby-tv/4443" lang="en" xmltv_id="S4103">Baby TV</channel>
-  <channel site="tvpassport.com" site_id="discovery-hd-us--eastern/4466" lang="en" xmltv_id="S4107">Discovery HD (US) - Eastern</channel>
-  <channel site="tvpassport.com" site_id="mexicanal--eastern/4563" lang="en" xmltv_id="S4111">Mexicanal - Eastern</channel>
-  <channel site="tvpassport.com" site_id="univision-kutu-tulsa-ok-hd/17252" lang="en" xmltv_id="S4113">Univision (KUTU) Tulsa, OK HD</channel>
-  <channel site="tvpassport.com" site_id="hitn/4543" lang="en" xmltv_id="S4117">HITN</channel>
-  <channel site="tvpassport.com" site_id="tooncast/9955" lang="en" xmltv_id="S4120">Tooncast</channel>
-  <channel site="tvpassport.com" site_id="pasiones-usa-hd/8890" lang="en" xmltv_id="S4121">Pasiones USA HD</channel>
-  <channel site="tvpassport.com" site_id="estrella-tv-hd/19039" lang="en" xmltv_id="S4123">Estrella TV HD</channel>
-  <channel site="tvpassport.com" site_id="esne-el-sembrador-nueva-evangelizacion/13324" lang="en" xmltv_id="S4128">ESNE (El Sembrador Nueva Evangelizacion)</channel>
-  <channel site="tvpassport.com" site_id="mega-tv/5581" lang="en" xmltv_id="S4129">Mega TV</channel>
-  <channel site="tvpassport.com" site_id="antena-3-internacional/14393" lang="en" xmltv_id="S4133">Antena 3 Internacional</channel>
-  <channel site="tvpassport.com" site_id="telexitos/10058" lang="en" xmltv_id="S4135">TeleXitos</channel>
-  <channel site="tvpassport.com" site_id="cine-mexicano/4469" lang="en" xmltv_id="S4138">Cine Mexicano</channel>
-  <channel site="tvpassport.com" site_id="galavision-hd--eastern/17237" lang="en" xmltv_id="S4142">Galavision HD - Eastern</channel>
-  <channel site="tvpassport.com" site_id="telemundo-ktmw-salt-lake-city-ut-hd/9120" lang="en" xmltv_id="S4145">Telemundo (KTMW) Salt Lake City, UT HD</channel>
-  <channel site="tvpassport.com" site_id="telemundo-wtmo-kissimmee-fl-hd/16262" lang="en" xmltv_id="S4147">Telemundo (WTMO) Kissimmee, FL HD</channel>
-  <channel site="tvpassport.com" site_id="telemundo-kcso-sacramento-ca-hd/9308" lang="en" xmltv_id="S4149">Telemundo (KCSO) Sacramento, CA HD</channel>
-  <channel site="tvpassport.com" site_id="telemundo-wwdt-cd-fort-myers-fl-hd/10304" lang="en" xmltv_id="S4151">Telemundo (WWDT-CD) Fort Myers, FL HD</channel>
-  <channel site="tvpassport.com" site_id="telemundo-wrdm-hartford-ct/7720" lang="en" xmltv_id="S4153">Telemundo (WRDM) Hartford, CT</channel>
-  <channel site="tvpassport.com" site_id="telemundo-wzdc-washington-dc-hd/15101" lang="en" xmltv_id="S4155">Telemundo (WZDC) Washington, DC HD</channel>
-  <channel site="tvpassport.com" site_id="telemundo-kgla-new-orleans-la-hd/17256" lang="en" xmltv_id="S4157">Telemundo (KGLA) New Orleans, LA HD</channel>
-  <channel site="tvpassport.com" site_id="telemundo-wkaq-san-juan-pr-hd/9349" lang="en" xmltv_id="S4159">Telemundo (WKAQ) San Juan, PR HD</channel>
-  <channel site="tvpassport.com" site_id="telemundo-kasa-albuquerque-nm-hd/6103" lang="en" xmltv_id="S4161">Telemundo (KASA) Albuquerque, NM HD</channel>
-  <channel site="tvpassport.com" site_id="telemundo-ktdo-el-paso-tx-hd/16309" lang="en" xmltv_id="S4163">Telemundo (KTDO) El Paso, TX HD</channel>
-  <channel site="tvpassport.com" site_id="telemundo-wrmd-tampa-fl-hd/10962" lang="en" xmltv_id="S4165">Telemundo (WRMD) Tampa, FL HD</channel>
-  <channel site="tvpassport.com" site_id="uni-wuvf-fort-myers-fl-hd/19109" lang="en" xmltv_id="S4168">UNI (WUVF) Fort Myers, FL HD</channel>
-  <channel site="tvpassport.com" site_id="uni-kftv-fresno-ca-hd/9358" lang="en" xmltv_id="S4170">UNI (KFTV) Fresno, CA HD</channel>
-  <channel site="tvpassport.com" site_id="uni-kunw-yakima-washington/7762" lang="en" xmltv_id="S4172">UNI (KUNW) Yakima, Washington</channel>
-  <channel site="tvpassport.com" site_id="uni-kuvs-modesto-ca-hd/9032" lang="en" xmltv_id="S4174">UNI (KUVS) Modesto, CA HD</channel>
-  <channel site="tvpassport.com" site_id="tudn-hd/11146" lang="en" xmltv_id="S4176">TUDN HD</channel>
+  <channel site="tvpassport.com" site_id="fox-wmsn-madison-wi-hd/9099" lang="en" xmltv_id="S3573">FOX (WMSN) Madison, WI HD</channel>
+  <channel site="tvpassport.com" site_id="fox-kidy-san-angelo-tx-hd/17157" lang="en" xmltv_id="S3576">FOX (KIDY) San Angelo, TX HD</channel>
+  <channel site="tvpassport.com" site_id="fox-ktmj-topeka-ks-hd/8147" lang="en" xmltv_id="S3578">FOX (KTMJ) Topeka, KS HD</channel>
+  <channel site="tvpassport.com" site_id="fox-kard-monroe-la-hd/7899" lang="en" xmltv_id="S3581">FOX (KARD) Monroe, LA HD</channel>
+  <channel site="tvpassport.com" site_id="fox-wfxv-utica-ny-hd/6374" lang="en" xmltv_id="S3583">FOX (WFXV) Utica, NY HD</channel>
+  <channel site="tvpassport.com" site_id="fox-wdky-lexington-ky-hd/6576" lang="en" xmltv_id="S3585">FOX (WDKY) Lexington, KY HD</channel>
+  <channel site="tvpassport.com" site_id="fox-kcit-amarillo-tx-hd/17133" lang="en" xmltv_id="S3588">FOX (KCIT) Amarillo, TX HD</channel>
+  <channel site="tvpassport.com" site_id="fox-ktby-anchorage-ak-hd/9446" lang="en" xmltv_id="S3591">FOX (KTBY) Anchorage, AK HD</channel>
+  <channel site="tvpassport.com" site_id="fox-wqrf-rockford-il-hd/19137" lang="en" xmltv_id="S3594">FOX (WQRF) Rockford, IL HD</channel>
+  <channel site="tvpassport.com" site_id="fox-wicz-binghamton-ny-hd/4744" lang="en" xmltv_id="S3597">FOX (WICZ) Binghamton, NY HD</channel>
+  <channel site="tvpassport.com" site_id="fox-wgxa-macon-ga-hd/8124" lang="en" xmltv_id="S3599">FOX (WGXA) Macon, GA HD</channel>
+  <channel site="tvpassport.com" site_id="fox-wfqx-traverse-citycadillac-mi-hd/7060" lang="en" xmltv_id="S3601">FOX (WFQX) Traverse City/Cadillac, MI HD</channel>
+  <channel site="tvpassport.com" site_id="fox-wydo-greenville-nc-hd/7151" lang="en" xmltv_id="S3604">FOX (WYDO) Greenville, NC HD</channel>
+  <channel site="tvpassport.com" site_id="fox-kfjx-pittsburg-ks-hd/8138" lang="en" xmltv_id="S3606">FOX (KFJX) Pittsburg, KS HD</channel>
+  <channel site="tvpassport.com" site_id="fox-wthi-dt2-terre-haute-in-hd/9713" lang="en" xmltv_id="S3608">FOX (WTHI-DT2) Terre Haute, IN HD</channel>
+  <channel site="tvpassport.com" site_id="fox-wzaw-wausau-wi-hd/6373" lang="en" xmltv_id="S3609">FOX (WZAW) Wausau, WI HD</channel>
+  <channel site="tvpassport.com" site_id="fox-kdfx-palm-springs-ca-hd/4935" lang="en" xmltv_id="S3615">FOX (KDFX) Palm Springs, CA HD</channel>
+  <channel site="tvpassport.com" site_id="fox-kfxo-bend-or-hd/7274" lang="en" xmltv_id="S3618">FOX (KFXO) Bend, OR HD</channel>
+  <channel site="tvpassport.com" site_id="fox-wfxp-erie-pa-hd/6372" lang="en" xmltv_id="S3621">FOX (WFXP) Erie, PA HD</channel>
+  <channel site="tvpassport.com" site_id="fox-kpej-midland-tx-hd/6159" lang="en" xmltv_id="S3624">FOX (KPEJ) Midland, TX HD</channel>
+  <channel site="tvpassport.com" site_id="fox-wfxl-albany-ga-hd/6371" lang="en" xmltv_id="S3626">FOX (WFXL) Albany, GA HD</channel>
+  <channel site="tvpassport.com" site_id="fox-wnyf-massena-ny-hd/5326" lang="en" xmltv_id="S3629">FOX (WNYF) Massena, NY HD</channel>
+  <channel site="tvpassport.com" site_id="fox-wjkt-jackson-tn-hd/18828" lang="en" xmltv_id="S3632">FOX (WJKT) Jackson, TN HD</channel>
+  <channel site="tvpassport.com" site_id="fox-5-whiz-tv2-zanesville-oh/37403" lang="en" xmltv_id="S3634">Fox 5 (WHIZ-TV2) Zanesville, OH</channel>
+  <channel site="tvpassport.com" site_id="mnt-wwor-new-york-ny-hd/11336" lang="en" xmltv_id="S3635">MNT (WWOR) New York, NY HD</channel>
+  <channel site="tvpassport.com" site_id="cw-wwho-columbus-oh-hd/4734" lang="en" xmltv_id="S3638">CW (WWHO) Columbus, OH HD</channel>
+  <channel site="tvpassport.com" site_id="mnt-kcop-los-angeles-ca-hd/6546" lang="en" xmltv_id="S3640">MNT (KCOP) Los Angeles, CA HD</channel>
+  <channel site="tvpassport.com" site_id="mnt-kdfi-dallas-tx-hd/6547" lang="en" xmltv_id="S3643">MNT (KDFI) Dallas, TX HD</channel>
+  <channel site="tvpassport.com" site_id="mnt-wnyo-buffalo-ny-hd/7167" lang="en" xmltv_id="S3645">MNT (WNYO) Buffalo, NY HD</channel>
+  <channel site="tvpassport.com" site_id="pbs-wvpb-huntington-wv-hd/17103" lang="en" xmltv_id="S3648">PBS (WVPB) Huntington, WV HD</channel>
+  <channel site="tvpassport.com" site_id="nbc-wpmi-mobile-al-hd/7602" lang="en" xmltv_id="S3651">NBC (WPMI) Mobile, AL HD</channel>
+  <channel site="tvpassport.com" site_id="mnt-wmyt-charlotte-nc-hd/5258" lang="en" xmltv_id="S3653">MNT (WMYT) Charlotte, NC HD</channel>
+  <channel site="tvpassport.com" site_id="cw-kpxj-shreveport-la-hd/6290" lang="en" xmltv_id="S3656">CW (KPXJ) Shreveport, LA HD</channel>
+  <channel site="tvpassport.com" site_id="cw-wcwg-lexington-nc-hd/4801" lang="en" xmltv_id="S3658">CW (WCWG) Lexington, NC HD</channel>
+  <channel site="tvpassport.com" site_id="cw-wcwj-jacksonville-fl-hd/9257" lang="en" xmltv_id="S3661">CW (WCWJ) Jacksonville, FL HD</channel>
+  <channel site="tvpassport.com" site_id="pbs-wtiu-hd-bloomington-in/11363" lang="en" xmltv_id="S3664">PBS (WTIU) HD Bloomington, IN</channel>
+  <channel site="tvpassport.com" site_id="pbs-ktwu-topeka-ks-hd/8146" lang="en" xmltv_id="S3667">PBS (KTWU) Topeka, KS HD</channel>
+  <channel site="tvpassport.com" site_id="pbs-kptw-casper-wy/13094" lang="en" xmltv_id="S3670">PBS (KPTW) Casper, WY</channel>
+  <channel site="tvpassport.com" site_id="pbs-kued-salt-lake-city-ut-hd/4463" lang="en" xmltv_id="S3672">PBS (KUED) Salt Lake City, UT HD</channel>
+  <channel site="tvpassport.com" site_id="cw-wxcw-fort-myers-fl-hd/4811" lang="en" xmltv_id="S3675">CW (WXCW) Fort Myers, FL HD</channel>
+  <channel site="tvpassport.com" site_id="abc-knoe-dt2-monroe-la-hd/6640" lang="en" xmltv_id="S3678">ABC (KNOE-DT2) Monroe, LA HD</channel>
+  <channel site="tvpassport.com" site_id="pbs-wqln-erie-pa-hd/7069" lang="en" xmltv_id="S3679">PBS (WQLN) Erie, PA HD</channel>
+  <channel site="tvpassport.com" site_id="cw-wnlo-buffalo-ny-hd/7172" lang="en" xmltv_id="S3682">CW (WNLO) Buffalo, NY HD</channel>
+  <channel site="tvpassport.com" site_id="fox-10-extra-kutp-phoenix-az-hd/6281" lang="en" xmltv_id="S3685">Fox 10 Extra (KUTP) Phoenix, AZ HD</channel>
+  <channel site="tvpassport.com" site_id="cw-wlvi-boston-ma-hd/7114" lang="en" xmltv_id="S3687">CW (WLVI) Boston, MA HD</channel>
+  <channel site="tvpassport.com" site_id="cw-wbki-salem-in-hd/8270" lang="en" xmltv_id="S3692">CW (WBKI) Salem, IN HD</channel>
+  <channel site="tvpassport.com" site_id="pbs-krma-denver-co-hd/6881" lang="en" xmltv_id="S3694">PBS (KRMA) Denver, CO HD</channel>
+  <channel site="tvpassport.com" site_id="pbs-wcfe-plattsburgh-ny-hd/9971" lang="en" xmltv_id="S3697">PBS (WCFE) Plattsburgh, NY HD</channel>
+  <channel site="tvpassport.com" site_id="pbs-wgvu-grand-rapids-mi-hd/9337" lang="en" xmltv_id="S3699">PBS (WGVU) Grand Rapids, MI HD</channel>
+  <channel site="tvpassport.com" site_id="cw-wccb-charlotte-nc-hd/3650" lang="en" xmltv_id="S3702">CW (WCCB) Charlotte, NC HD</channel>
+  <channel site="tvpassport.com" site_id="pbs-wunc-chapel-hill-hd/7186" lang="en" xmltv_id="S3707">PBS (WUNC) Chapel Hill HD</channel>
+  <channel site="tvpassport.com" site_id="mnt-wrdc-raleigh-nc-hd/7776" lang="en" xmltv_id="S3708">MNT (WRDC) Raleigh, NC HD</channel>
+  <channel site="tvpassport.com" site_id="cw-kocb-oklahoma-city-ok-hd/6288" lang="en" xmltv_id="S3711">CW (KOCB) Oklahoma City, OK HD</channel>
+  <channel site="tvpassport.com" site_id="pt-check-cw-ktla-los-angeles/2036" lang="en" xmltv_id="S3714">PT CHECK: CW (KTLA) Los Angeles</channel>
+  <channel site="tvpassport.com" site_id="cw-kdaf-dallas-tx-hd/7467" lang="en" xmltv_id="S3717">CW (KDAF) Dallas, TX HD</channel>
+  <channel site="tvpassport.com" site_id="cw-wbdt-dayton-oh-hd/7403" lang="en" xmltv_id="S3720">CW (WBDT) Dayton, OH HD</channel>
+  <channel site="tvpassport.com" site_id="wgn-chicago-local-hd/5881" lang="en" xmltv_id="S3723">WGN Chicago (LOCAL) HD</channel>
+  <channel site="tvpassport.com" site_id="pbs-wkle-lexington-richmond-ky-hd/8287" lang="en" xmltv_id="S3724">PBS (WKLE) Lexington-Richmond, KY HD</channel>
+  <channel site="tvpassport.com" site_id="cw-wish-indianapolis-in-hd/7678" lang="en" xmltv_id="S3726">CW (WISH) Indianapolis, IN HD</channel>
+  <channel site="tvpassport.com" site_id="cw-wuab-cleveland-oh-hd/4736" lang="en" xmltv_id="S3729">CW (WUAB) Cleveland, OH HD</channel>
+  <channel site="tvpassport.com" site_id="vegas-34-kmcc-laughlin-nv/7876" lang="en" xmltv_id="S3734">Vegas 34 (KMCC) Laughlin, NV</channel>
+  <channel site="tvpassport.com" site_id="pbs-kpbs-san-diego-ca-hd/6935" lang="en" xmltv_id="S3736">PBS (KPBS) San Diego, CA HD</channel>
+  <channel site="tvpassport.com" site_id="pbs-wpbs-watertown-ny-hd/5324" lang="en" xmltv_id="S3743">PBS (WPBS) Watertown, NY HD</channel>
+  <channel site="tvpassport.com" site_id="cw-wcww-south-bend-in-hd/9256" lang="en" xmltv_id="S3745">CW (WCWW) South Bend, IN HD</channel>
+  <channel site="tvpassport.com" site_id="cw-wcct-hartford-ct-hd/9651" lang="en" xmltv_id="S3748">CW (WCCT) Hartford, CT HD</channel>
+  <channel site="tvpassport.com" site_id="cw-wlmt-memphis-tn-hd/7121" lang="en" xmltv_id="S3751">CW (WLMT) Memphis, TN HD</channel>
+  <channel site="tvpassport.com" site_id="pbs-cltwtvi-charlotte-nc-hd/4703" lang="en" xmltv_id="S3760">PBS CLT(WTVI) Charlotte, NC HD</channel>
+  <channel site="tvpassport.com" site_id="pbs-witf-harrisburg-pa-hd/8743" lang="en" xmltv_id="S3763">PBS (WITF) Harrisburg, PA HD</channel>
+  <channel site="tvpassport.com" site_id="mnt-kqca-sacramento-ca-hd/6277" lang="en" xmltv_id="S3765">MNT (KQCA) Sacramento, CA HD</channel>
+  <channel site="tvpassport.com" site_id="cw-wbui-decatur-il-hd/4589" lang="en" xmltv_id="S3768">CW (WBUI) Decatur, IL HD</channel>
+  <channel site="tvpassport.com" site_id="mnt-wphl-philadelphia-pa-hd/7168" lang="en" xmltv_id="S3771">MNT (WPHL) Philadelphia, PA HD</channel>
+  <channel site="tvpassport.com" site_id="cw-wbxx-knoxville-tn-hd/8466" lang="en" xmltv_id="S3773">CW (WBXX) Knoxville, TN HD</channel>
+  <channel site="tvpassport.com" site_id="cw-wfli-chattanooga-tn-hd/6751" lang="en" xmltv_id="S3776">CW (WFLI) Chattanooga, TN HD</channel>
+  <channel site="tvpassport.com" site_id="ion-wxpx-tampa-fl-hd/7625" lang="en" xmltv_id="S3779">ION (WXPX) Tampa, FL HD</channel>
+  <channel site="tvpassport.com" site_id="independent-kazt-cd-phoenix-az-hd/32337" lang="en" xmltv_id="S3781">Independent (KAZT-CD) Phoenix, AZ HD</channel>
+  <channel site="tvpassport.com" site_id="cbs-sports-network-usa-hd/6985" lang="en" xmltv_id="S3783">CBS Sports Network USA HD</channel>
+  <channel site="tvpassport.com" site_id="fox-soccer-plus-hd/11551" lang="en" xmltv_id="S3787">FOX Soccer Plus HD</channel>
+  <channel site="tvpassport.com" site_id="espn-hd/3036" lang="en" xmltv_id="S3791">ESPN HD</channel>
+  <channel site="tvpassport.com" site_id="fox-sports-1-hd/11137" lang="en" xmltv_id="S3795">Fox Sports 1 HD</channel>
+  <channel site="tvpassport.com" site_id="fox-sports-2-hd/10263" lang="en" xmltv_id="S3799">Fox Sports 2 HD</channel>
+  <channel site="tvpassport.com" site_id="space-city-home-network-hd/8800" lang="en" xmltv_id="S3803">Space City Home Network HD</channel>
+  <channel site="tvpassport.com" site_id="acc-network-hd/33965" lang="en" xmltv_id="S3807">ACC Network HD</channel>
+  <channel site="tvpassport.com" site_id="espn2-hd/3379" lang="en" xmltv_id="S3811">ESPN2 HD</channel>
+  <channel site="tvpassport.com" site_id="espn-news-hd/6246" lang="en" xmltv_id="S3815">ESPN News HD</channel>
+  <channel site="tvpassport.com" site_id="espn-u-hd/6245" lang="en" xmltv_id="S3818">ESPN U HD</channel>
+  <channel site="tvpassport.com" site_id="fox-deportes-hd/10502" lang="en" xmltv_id="S3822">Fox Deportes HD</channel>
+  <channel site="tvpassport.com" site_id="msg-2-hd/31491" lang="en" xmltv_id="S3826">MSG 2 HD</channel>
+  <channel site="tvpassport.com" site_id="msg-plus-2-hd/31031" lang="en" xmltv_id="S3828">MSG Plus 2 HD</channel>
+  <channel site="tvpassport.com" site_id="sportsman-channel-hd/7571" lang="en" xmltv_id="S3830">Sportsman Channel HD</channel>
+  <channel site="tvpassport.com" site_id="stadium-hd/31947" lang="en" xmltv_id="S3833">Stadium HD</channel>
+  <channel site="tvpassport.com" site_id="the-tennis-channel-hd/7051" lang="en" xmltv_id="S3837">The Tennis Channel HD</channel>
+  <channel site="tvpassport.com" site_id="spectrum-sportsnet-la-hd/13097" lang="en" xmltv_id="S3844">Spectrum SportsNet LA HD</channel>
+  <channel site="tvpassport.com" site_id="nfl-redzone-hd/7536" lang="en" xmltv_id="S3847">NFL RedZone HD</channel>
+  <channel site="tvpassport.com" site_id="marquee-sports-network-hd/34881" lang="en" xmltv_id="S3854">Marquee Sports Network HD</channel>
+  <channel site="tvpassport.com" site_id="yes-network-hd/4696" lang="en" xmltv_id="S3858">YES Network HD</channel>
+  <channel site="tvpassport.com" site_id="nfl-network-hd/3601" lang="en" xmltv_id="S3862">NFL Network HD</channel>
+  <channel site="tvpassport.com" site_id="golf-channel-latin-america-hd/31008" lang="en" xmltv_id="S3866">Golf Channel (Latin America) HD</channel>
+  <channel site="tvpassport.com" site_id="willow-cricket-hd/6444" lang="en" xmltv_id="S3874">Willow Cricket HD</channel>
+  <channel site="tvpassport.com" site_id="sportsgrid-hd/35210" lang="en" xmltv_id="S3885">SportsGrid HD</channel>
+  <channel site="tvpassport.com" site_id="fight-network-usa-hd/16160" lang="en" xmltv_id="S3892">Fight Network USA HD</channel>
+  <channel site="tvpassport.com" site_id="gol-tv-usa-hd/12608" lang="en" xmltv_id="S3897">Gol TV USA HD</channel>
+  <channel site="tvpassport.com" site_id="sec-network-hd/13712" lang="en" xmltv_id="S3900">SEC Network HD</channel>
+  <channel site="tvpassport.com" site_id="espn-deportes-hd/10347" lang="en" xmltv_id="S3910">ESPN Deportes HD</channel>
+  <channel site="tvpassport.com" site_id="nbc-sports-philadelphia-hd/6413" lang="en" xmltv_id="S3914">NBC Sports Philadelphia HD</channel>
+  <channel site="tvpassport.com" site_id="msg-madison-square-gardens-hd/4695" lang="en" xmltv_id="S3919">MSG (Madison Square Gardens) HD</channel>
+  <channel site="tvpassport.com" site_id="nhl-network-usa-hd/14157" lang="en" xmltv_id="S3921">NHL Network USA HD</channel>
+  <channel site="tvpassport.com" site_id="real-madrid-tv/37455" lang="en" xmltv_id="S3937">Real Madrid TV</channel>
+  <channel site="tvpassport.com" site_id="tvg--television-games-network-hd/16422" lang="en" xmltv_id="S3939">FanDuel TV HD</channel>
+  <channel site="tvpassport.com" site_id="fanduel-racing/535" lang="en" xmltv_id="S3943">FanDuel Racing</channel>
+  <channel site="tvpassport.com" site_id="olympic-channel-hd/31948" lang="en" xmltv_id="S3946">Olympic Channel HD</channel>
+  <channel site="tvpassport.com" site_id="spectrum-oc-16-hd/7657" lang="en" xmltv_id="S3947">Spectrum OC 16 HD</channel>
+  <channel site="tvpassport.com" site_id="arizona-diamondbacks-tv/37612" lang="en" xmltv_id="S3955">Arizona Diamondbacks TV</channel>
+  <channel site="tvpassport.com" site_id="next-level-sports-hd/13469" lang="en" xmltv_id="S3981">Next Level Sports HD</channel>
+  <channel site="tvpassport.com" site_id="bally-sports-detroit-hd/4514" lang="en" xmltv_id="S3996">FanDuel Sports Network Detroit HD</channel>
+  <channel site="tvpassport.com" site_id="nbc-sports-bay-area-hd/6305" lang="en" xmltv_id="S4011">NBC Sports Bay Area HD</channel>
+  <channel site="tvpassport.com" site_id="nbc-sports-boston-hd/4534" lang="en" xmltv_id="S4015">NBC Sports Boston HD</channel>
+  <channel site="tvpassport.com" site_id="monumental-sports-network-hd/6411" lang="en" xmltv_id="S4025">Monumental Sports Network HD</channel>
+  <channel site="tvpassport.com" site_id="nbc-sports-california-hd/6410" lang="en" xmltv_id="S4029">NBC Sports California HD</channel>
+  <channel site="tvpassport.com" site_id="nbc-sports-philadelphia-hd/10978" lang="en" xmltv_id="S4032">NBC Sports Philadelphia+ HD</channel>
+  <channel site="tvpassport.com" site_id="nbc-sports-chicago-hd/6409" lang="en" xmltv_id="S4035">NBC Sports Chicago HD</channel>
+  <channel site="tvpassport.com" site_id="bein-sport-usa-hd/10854" lang="en" xmltv_id="S4037">beIN Sport USA HD</channel>
+  <channel site="tvpassport.com" site_id="bein-sports-4/37183" lang="en" xmltv_id="S4041">beIN Sports 4</channel>
+  <channel site="tvpassport.com" site_id="bein-sports-6/37185" lang="en" xmltv_id="S4042">beIN Sports 6</channel>
+  <channel site="tvpassport.com" site_id="bein-sports-7/37186" lang="en" xmltv_id="S4043">beIN Sports 7</channel>
+  <channel site="tvpassport.com" site_id="bein-sports-5/37184" lang="en" xmltv_id="S4044">beIN Sports 5</channel>
+  <channel site="tvpassport.com" site_id="bein-sports-8/37187" lang="en" xmltv_id="S4045">beIN Sports 8</channel>
+  <channel site="tvpassport.com" site_id="bein-sports-xtra/34594" lang="en" xmltv_id="S4046">beIN Sports Xtra</channel>
+  <channel site="tvpassport.com" site_id="bein-sports-3/37182" lang="en" xmltv_id="S4050">beIN Sports 3</channel>
+  <channel site="tvpassport.com" site_id="nba-tv-usa-hd/5645" lang="en" xmltv_id="S4055">NBA TV USA HD</channel>
+  <channel site="tvpassport.com" site_id="mlb-network-hd/6218" lang="en" xmltv_id="S4060">MLB Network HD</channel>
+  <channel site="tvpassport.com" site_id="discovery-channel-can-hd/8451" lang="en" xmltv_id="S4066">USA Network (CAN) HD</channel>
+  <channel site="tvpassport.com" site_id="wapa-america-hd/33723" lang="en" xmltv_id="S4070">Wapa America HD</channel>
+  <channel site="tvpassport.com" site_id="discovery-familia-hd/14528" lang="en" xmltv_id="S4074">Discovery Familia HD</channel>
+  <channel site="tvpassport.com" site_id="bandamax/4423" lang="en" xmltv_id="S4080">Bandamax</channel>
+  <channel site="tvpassport.com" site_id="de-pelicula/4419" lang="en" xmltv_id="S4083">De Pelicula</channel>
+  <channel site="tvpassport.com" site_id="forotv-hd/13638" lang="en" xmltv_id="S4086">FOROtv HD</channel>
+  <channel site="tvpassport.com" site_id="ntn24/19223" lang="en" xmltv_id="S4090">NTN24</channel>
+  <channel site="tvpassport.com" site_id="telehit/6143" lang="en" xmltv_id="S4096">Telehit</channel>
+  <channel site="tvpassport.com" site_id="teleritmo-hd/10237" lang="en" xmltv_id="S4097">Teleritmo HD</channel>
+  <channel site="tvpassport.com" site_id="telemundo-ksts-san-jose-ca-hd/6515" lang="en" xmltv_id="S4099">Telemundo (KSTS) San Jose, CA HD</channel>
+  <channel site="tvpassport.com" site_id="baby-tv/4443" lang="en" xmltv_id="S4101">Baby TV</channel>
+  <channel site="tvpassport.com" site_id="discovery-hd-us--eastern/4466" lang="en" xmltv_id="S4105">Discovery HD (US) - Eastern</channel>
+  <channel site="tvpassport.com" site_id="mexicanal--eastern/4563" lang="en" xmltv_id="S4109">Mexicanal - Eastern</channel>
+  <channel site="tvpassport.com" site_id="univision-kutu-tulsa-ok-hd/17252" lang="en" xmltv_id="S4111">Univision (KUTU) Tulsa, OK HD</channel>
+  <channel site="tvpassport.com" site_id="hitn/4543" lang="en" xmltv_id="S4115">HITN</channel>
+  <channel site="tvpassport.com" site_id="tooncast/9955" lang="en" xmltv_id="S4118">Tooncast</channel>
+  <channel site="tvpassport.com" site_id="pasiones-usa-hd/8890" lang="en" xmltv_id="S4119">Pasiones USA HD</channel>
+  <channel site="tvpassport.com" site_id="estrella-tv-hd/19039" lang="en" xmltv_id="S4121">Estrella TV HD</channel>
+  <channel site="tvpassport.com" site_id="esne-el-sembrador-nueva-evangelizacion/13324" lang="en" xmltv_id="S4126">ESNE (El Sembrador Nueva Evangelizacion)</channel>
+  <channel site="tvpassport.com" site_id="mega-tv/5581" lang="en" xmltv_id="S4127">Mega TV</channel>
+  <channel site="tvpassport.com" site_id="antena-3-internacional/14393" lang="en" xmltv_id="S4131">Antena 3 Internacional</channel>
+  <channel site="tvpassport.com" site_id="telexitos/10058" lang="en" xmltv_id="S4133">TeleXitos</channel>
+  <channel site="tvpassport.com" site_id="cine-mexicano/4469" lang="en" xmltv_id="S4136">Cine Mexicano</channel>
+  <channel site="tvpassport.com" site_id="galavision-hd--eastern/17237" lang="en" xmltv_id="S4140">Galavision HD - Eastern</channel>
+  <channel site="tvpassport.com" site_id="telemundo-ktmw-salt-lake-city-ut-hd/9120" lang="en" xmltv_id="S4143">Telemundo (KTMW) Salt Lake City, UT HD</channel>
+  <channel site="tvpassport.com" site_id="telemundo-wtmo-kissimmee-fl-hd/16262" lang="en" xmltv_id="S4145">Telemundo (WTMO) Kissimmee, FL HD</channel>
+  <channel site="tvpassport.com" site_id="telemundo-kcso-sacramento-ca-hd/9308" lang="en" xmltv_id="S4147">Telemundo (KCSO) Sacramento, CA HD</channel>
+  <channel site="tvpassport.com" site_id="telemundo-wwdt-cd-fort-myers-fl-hd/10304" lang="en" xmltv_id="S4149">Telemundo (WWDT-CD) Fort Myers, FL HD</channel>
+  <channel site="tvpassport.com" site_id="telemundo-wrdm-hartford-ct/7720" lang="en" xmltv_id="S4151">Telemundo (WRDM) Hartford, CT</channel>
+  <channel site="tvpassport.com" site_id="telemundo-wzdc-washington-dc-hd/15101" lang="en" xmltv_id="S4153">Telemundo (WZDC) Washington, DC HD</channel>
+  <channel site="tvpassport.com" site_id="telemundo-kgla-new-orleans-la-hd/17256" lang="en" xmltv_id="S4155">Telemundo (KGLA) New Orleans, LA HD</channel>
+  <channel site="tvpassport.com" site_id="telemundo-wkaq-san-juan-pr-hd/9349" lang="en" xmltv_id="S4157">Telemundo (WKAQ) San Juan, PR HD</channel>
+  <channel site="tvpassport.com" site_id="telemundo-kasa-albuquerque-nm-hd/6103" lang="en" xmltv_id="S4159">Telemundo (KASA) Albuquerque, NM HD</channel>
+  <channel site="tvpassport.com" site_id="telemundo-ktdo-el-paso-tx-hd/16309" lang="en" xmltv_id="S4161">Telemundo (KTDO) El Paso, TX HD</channel>
+  <channel site="tvpassport.com" site_id="telemundo-wrmd-tampa-fl-hd/10962" lang="en" xmltv_id="S4163">Telemundo (WRMD) Tampa, FL HD</channel>
+  <channel site="tvpassport.com" site_id="uni-wuvf-fort-myers-fl-hd/19109" lang="en" xmltv_id="S4166">UNI (WUVF) Fort Myers, FL HD</channel>
+  <channel site="tvpassport.com" site_id="uni-kftv-fresno-ca-hd/9358" lang="en" xmltv_id="S4168">UNI (KFTV) Fresno, CA HD</channel>
+  <channel site="tvpassport.com" site_id="uni-kunw-yakima-washington/7762" lang="en" xmltv_id="S4170">UNI (KUNW) Yakima, Washington</channel>
+  <channel site="tvpassport.com" site_id="uni-kuvs-modesto-ca-hd/9032" lang="en" xmltv_id="S4172">UNI (KUVS) Modesto, CA HD</channel>
+  <channel site="tvpassport.com" site_id="tudn-hd/11146" lang="en" xmltv_id="S4174">TUDN HD</channel>
 </channels>
