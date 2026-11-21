@@ -10,6 +10,15 @@ What changed (matching/match.py MANUAL): it now matches tvpassport's "WGN Chicag
 Expected: WGN 9 Chicago gets listings after the next build.
 To undo: `git revert` this commit on main, then run "Build TV guide".
 
+## 2026-11-20: Paramount West uses Showtime West listings
+Restore point before this change: `restore-code-2026-11-20-2035` / `restore-guide-2026-11-20-2035`.
+Why: the provider's "USA Paramount West" stream actually carries Showtime West. Checked Nov 20 at 8:25 PM CT: it played
+Se7en, the same as "USA Paramount+ with SHOWTIME (West)", while Paramount Network's real schedule had Tommy Boy.
+What changed (matching/match.py MANUAL): "USA Paramount West" now gets Showtime West listings, not Paramount East +3h.
+Expected: only that one channel changes. Real Paramount Network is on "USA Paramount East UHD" (listings correct).
+Watch: if the provider fixes that stream to real Paramount West, remove the MANUAL line. The Sunday check compares it.
+To undo: `git revert` this commit on main, then run "Build TV guide".
+
 ## 2026-11-07: "May have ended" label
 Why: providers give only a start time, so end times are estimates. SEC Nation showed "Ended" while still on air.
 What changed (events.py): for 2 hours after a game's estimated end the guide shows "May have ended: X",

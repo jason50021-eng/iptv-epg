@@ -277,6 +277,8 @@ MANUAL = [
     (r'gulf coast sports', r'^wala gulf coast sports & entertainment network$'),
     (r'\bnhra\b', r'^nhra tv$'),
     (r'^wgn 9 chicago$', r'^wgn chicago \(local\)$|^wgn local chicago$'),  # not "WGN America" (defunct)
+    # Provider's "USA Paramount West" stream actually carries Showtime West (checked Nov 20 2026: Se7en on both)
+    (r'^paramount west$', r'^paramount\+ with showtime'),
 ]
 def _srcname(s):
     n = html.unescape(html.unescape(s['name'])).lower().strip()

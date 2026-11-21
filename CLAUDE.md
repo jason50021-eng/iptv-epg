@@ -81,6 +81,9 @@ TiviMate guide URL: https://raw.githubusercontent.com/jason50021-eng/iptv-epg/gu
   live session. The Sunday weekly check still fixes automatically (he wants that) and reports after.
 - To undo a bad code change: `git revert` the commit on main and rerun the build.
 - Never weaken the publish guard in build.py or the 10% guard in the match job.
+- Known provider oddity (Nov 20 2026): "USA Paramount West" streams Showtime West, so MANUAL in match.py gives it Showtime
+  West listings. Sunday check: compare what that channel plays (via Jason's reports) or whether its provider name/ID changed;
+  if the provider fixes it, remove that MANUAL line and log it in CHANGES.md.
 - Things that are expected to have no guide: Starzplay/ViX/TUDN/Conmebol numbered slots, Music Choice video,
   small public-access channels. Don't spend time on these.
 
