@@ -15992,12 +15992,12 @@
  {
   "id": "paramount-west.jm",
   "name": "USA Paramount West",
-  "shift": 180,
+  "shift": 0,
   "src": [
-   "S0789",
-   "S0790",
-   "S0791",
-   "S0792"
+   "S0249",
+   "S0250",
+   "S0251",
+   "S0252"
   ]
  },
  {
