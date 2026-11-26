@@ -1,11 +1,11 @@
-# Guide report, 2026-11-25 09:48 UTC
+# Guide report, 2026-11-26 09:53 UTC
 
-US channels (not counting game channels): 2579. With listings tonight: 2282.
-Since last night: 0 lost their listings, 0 gained listings.
+US channels (not counting game channels): 2579. With listings tonight: 2281.
+Since last night: 1 lost their listings, 0 gained listings.
 
-## Lost listings since last night (0)
+## Lost listings since last night (1)
 
-- none
+- USA Chicago Sports Network Plus (CHSN)
 
 ## New channels with no listings (0)
 
