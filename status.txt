@@ -1,4 +1,4 @@
-Last run: 2026-11-26 09:53 UTC
-ontvtonight market time fixes (hours): 344 markets, -1h x6, +1h x202, +2h x36, +3h x87, +4h x7, +5h x5, +6h x1
-guide channels with data: 1945/1954, programmes: 169085
+Last run: 2026-11-27 09:40 UTC
+ontvtonight market time fixes (hours): 343 markets, -1h x4, +1h x201, +2h x37, +3h x87, +4h x7, +5h x6, +6h x1
+guide channels with data: 1945/1954, programmes: 170072
 no data today (9): US Karaoke (ST); USA (STIRR) Choppertown (D); USA Bonappetit; USA Joel Osteen Network; USA MLB Strike Zone; USA Ride TV; USA Root Sports Northwest Plus; USA Spectrum News 1 Kentucky; USA Stellar
